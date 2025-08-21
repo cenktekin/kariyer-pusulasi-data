@@ -1,0 +1,856 @@
+{
+  "yks": [
+    {
+      "Program Kodu": "207950087",
+      "Üniversite": "Yüksek İhtisas Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "4+0+1+0+14+0+1+0+14+0+1+0+1--"
+      ],
+      "Yerleşen": [
+        "4+0+0+0+1",
+        "5"
+      ],
+      "Taban Sıralama": [
+        "747,580"
+      ],
+      "Taban Puan": [
+        "311.247"
+      ],
+      "Şehir": "Ankara",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206551876",
+      "Üniversite": "Üsküdar Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "3+0+1+0+13+0+0+0+13+0+0+0+1--"
+      ],
+      "Yerleşen": [
+        "3+0+0+0+0",
+        "3"
+      ],
+      "Taban Sıralama": [
+        "828,049"
+      ],
+      "Taban Puan": [
+        "304.375"
+      ],
+      "Şehir": "İstanbul",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111091323",
+      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "52+0+0+2+0",
+        "Doldu-54"
+      ],
+      "Taban Sıralama": [
+        "860,100",
+        "904,948"
+      ],
+      "Taban Puan": [
+        "301.765",
+        "298.143"
+      ],
+      "Şehir": "İstanbul",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107650893",
+      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Fakülte": "Muğla Sağlık Hizmetleri Meslek Yüksekokulu (Marmaris)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,171",
+        "431,278"
+      ],
+      "Taban Puan": [
+        "279.451",
+        "270.838"
+      ],
+      "Şehir": "Muğla",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105051222",
+      "Üniversite": "Harran Üniversitesi",
+      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+440+1+0+1+1040+1+0+1+10--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+10",
+        "Doldu-52"
+      ],
+      "Taban Sıralama": [
+        "1,255",
+        "881,169"
+      ],
+      "Taban Puan": [
+        "273.982",
+        "78.238"
+      ],
+      "Şehir": "Şanlıurfa",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107150226",
+      "Üniversite": "Mardin Artuklu Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "52+0+0+2+0",
+        "Doldu-54"
+      ],
+      "Taban Sıralama": [
+        "1,290",
+        "131,372"
+      ],
+      "Taban Puan": [
+        "271.735",
+        "264.681"
+      ],
+      "Şehir": "Mardin",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110351026",
+      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
+      "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "62+0+0+2+0",
+        "63"
+      ],
+      "Taban Sıralama": [
+        "1,399"
+      ],
+      "Taban Puan": [
+        "265.006"
+      ],
+      "Şehir": "Zonguldak",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108050463",
+      "Üniversite": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "41"
+      ],
+      "Taban Sıralama": [
+        "1,456"
+      ],
+      "Taban Puan": [
+        "261.541"
+      ],
+      "Şehir": "Nevşehir",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101650257",
+      "Üniversite": "Bartın Üniversitesi",
+      "Fakülte": "Bartın Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "62+0+0+2+0",
+        "62"
+      ],
+      "Taban Sıralama": [
+        "1,519"
+      ],
+      "Taban Puan": [
+        "257.753"
+      ],
+      "Şehir": "Bartın",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106150495",
+      "Üniversite": "Karabük Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "62+0+0+2+0",
+        "62"
+      ],
+      "Taban Sıralama": [
+        "1,659"
+      ],
+      "Taban Puan": [
+        "249.605"
+      ],
+      "Şehir": "Karabük",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106750498",
+      "Üniversite": "Kırklareli Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+2+060+2+0+2+050+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "62+0+0+2+0",
+        "Doldu-54"
+      ],
+      "Taban Sıralama": [
+        "1,726",
+        "821,857"
+      ],
+      "Taban Puan": [
+        "245.776",
+        "236.426"
+      ],
+      "Şehir": "Kırklareli",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105150356",
+      "Üniversite": "Hitit Üniversitesi",
+      "Fakülte": "Sungurlu Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "35+1+0+1+035+1+0+1+035+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "36+0+0+1+0",
+        "36"
+      ],
+      "Taban Sıralama": [
+        "1,790"
+      ],
+      "Taban Puan": [
+        "242.16"
+      ],
+      "Şehir": "Çorum",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105950824",
+      "Üniversite": "Kafkas Üniversitesi",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "62+0+0+2+0",
+        "Doldu-64"
+      ],
+      "Taban Sıralama": [
+        "1,792",
+        "131,967"
+      ],
+      "Taban Puan": [
+        "242.053",
+        "230.571"
+      ],
+      "Şehir": "Kars",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390092",
+      "Üniversite": "Yozgat Bozok Üniversitesi",
+      "Fakülte": "Çekerek Fuat Oktay Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,771",
+        "181,950"
+      ],
+      "Taban Puan": [
+        "243.223",
+        "231.455"
+      ],
+      "Şehir": "Yozgat",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300290384",
+      "Üniversite": "Girne Amerikan ÜniversitesiKKTCSağlık Meslek Yüksekokulu",
+      "Fakülte": "",
+      "Üniversite Türü": "",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "10+0+0+0+08+0+0+0+010+0+0+0+0--"
+      ],
+      "Yerleşen": [
+        "8+0+0+0+0",
+        "Doldu-10"
+      ],
+      "Taban Sıralama": [
+        "1,806",
+        "722,113"
+      ],
+      "Taban Puan": [
+        "241.272",
+        "23.062"
+      ],
+      "Şehir": "Karmi",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103252021",
+      "Üniversite": "Kütahya Dumlupınar Üniversitesi",
+      "Fakülte": "Gediz Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "45+2+0+2+045+2+0+2+045+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "46+1+0+2+0",
+        "Doldu-49"
+      ],
+      "Taban Sıralama": [
+        "1,805",
+        "941,986"
+      ],
+      "Taban Puan": [
+        "241.323",
+        "229.571"
+      ],
+      "Şehir": "Kütahya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106350351",
+      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
+      "Fakülte": "Kazım Karabekir Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,823",
+        "431,929"
+      ],
+      "Taban Puan": [
+        "240.359",
+        "232.588"
+      ],
+      "Şehir": "Karaman",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106450508",
+      "Üniversite": "Kastamonu Üniversitesi",
+      "Fakülte": "Araç Rafet Vergili Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "35+1+0+1+035+1+0+1+035+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "36+0+0+1+0",
+        "Doldu-37"
+      ],
+      "Taban Sıralama": [
+        "1,838",
+        "871,989"
+      ],
+      "Taban Puan": [
+        "239.491",
+        "229.414"
+      ],
+      "Şehir": "Kastamonu",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102690209",
+      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
+      "Fakülte": "Yıldızeli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+8--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-40"
+      ],
+      "Taban Sıralama": [
+        "1,831",
+        "042,046"
+      ],
+      "Taban Puan": [
+        "239.905",
+        "226.486"
+      ],
+      "Şehir": "Sivas",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101950599",
+      "Üniversite": "Bilecik Şeyh Edebali Üniversitesi",
+      "Fakülte": "Pazaryeri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,840",
+        "841,957"
+      ],
+      "Taban Puan": [
+        "239.361",
+        "231.099"
+      ],
+      "Şehir": "Bilecik",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206552518",
+      "Üniversite": "Üsküdar Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "25+0+0+0+015+0+0+0+015+0+0+0+0--"
+      ],
+      "Yerleşen": [
+        "15+0+0+0+0",
+        "Doldu-15"
+      ],
+      "Taban Sıralama": [
+        "1,856",
+        "761,901"
+      ],
+      "Taban Puan": [
+        "238.482",
+        "34.029"
+      ],
+      "Şehir": "İstanbul",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "104351319",
+      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
+      "Fakülte": "Turhal Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,863",
+        "581,970"
+      ],
+      "Taban Puan": [
+        "238.097",
+        "230.39"
+      ],
+      "Şehir": "Tokat",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102150665",
+      "Üniversite": "Bitlis Eren Üniversitesi",
+      "Fakülte": "Hizan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,894",
+        "022,015"
+      ],
+      "Taban Puan": [
+        "236.369",
+        "228.081"
+      ],
+      "Şehir": "Bitlis",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207950088",
+      "Üniversite": "Yüksek İhtisas Üniversitesi",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+0+0+0+030+0+0+0+030+0+0+0+0--"
+      ],
+      "Yerleşen": [
+        "30+0+0+0+0",
+        "Doldu-30"
+      ],
+      "Taban Sıralama": [
+        "2,278",
+        "372,305"
+      ],
+      "Taban Puan": [
+        "215.543",
+        "213.568"
+      ],
+      "Şehir": "Ankara",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209310341",
+      "Üniversite": "İstanbul Atlas Üniversitesi",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "34+0+0+0+0----"
+      ],
+      "Yerleşen": [],
+      "Taban Sıralama": [],
+      "Taban Puan": [],
+      "Şehir": "İstanbul",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300290387",
+      "Üniversite": "Girne Amerikan ÜniversitesiKKTCSağlık Meslek Yüksekokulu",
+      "Fakülte": "",
+      "Üniversite Türü": "",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "10+0+0+0+012+0+0+0+010+0+0+0+0--"
+      ],
+      "Yerleşen": [
+        "2+0+0+0+0",
+        "Doldu-3"
+      ],
+      "Taban Sıralama": [],
+      "Taban Puan": [],
+      "Şehir": "Karmi",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209310334",
+      "Üniversite": "İstanbul Atlas Üniversitesi",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "5+0+1+0+1----"
+      ],
+      "Yerleşen": [],
+      "Taban Sıralama": [],
+      "Taban Puan": [],
+      "Şehir": "İstanbul",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300290385",
+      "Üniversite": "Girne Amerikan ÜniversitesiKKTCSağlık Meslek Yüksekokulu",
+      "Fakülte": "",
+      "Üniversite Türü": "",
+      "Program Adı": "T",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "10+0+0+0+010+0+0+0+010+0+0+0+0--"
+      ],
+      "Yerleşen": [
+        "0+0+0+0",
+        "0"
+      ],
+      "Taban Sıralama": [],
+      "Taban Puan": [],
+      "Şehir": "Karmi",
+      "Ücret": "Ücretli"
+    }
+  ]
+}

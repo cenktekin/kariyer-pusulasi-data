@@ -1,0 +1,804 @@
+{
+  "yks": [
+    {
+      "Program Kodu": "103050566",
+      "Üniversite": "Dicle Üniversitesi",
+      "Fakülte": "Diyarbakır Tarım Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "50+2+0+2+550+2+0+2+1350+2+0+2+13--"
+      ],
+      "Yerleşen": [
+        "52+0+0+2+13",
+        "Doldu-67"
+      ],
+      "Taban Sıralama": [
+        "1,400",
+        "531,291"
+      ],
+      "Taban Puan": [
+        "264.942",
+        "69.974"
+      ],
+      "Şehir": "Diyarbakır",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103451075",
+      "Üniversite": "Ege Üniversitesi",
+      "Fakülte": "Ödemiş Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+0+030+1+0+0+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+0+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,500",
+        "341,656"
+      ],
+      "Taban Puan": [
+        "258.918",
+        "247.544"
+      ],
+      "Şehir": "İzmir",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109751584",
+      "Üniversite": "Bursa Uludağ Üniversitesi",
+      "Fakülte": "Gemlik Asım Kocabıyık Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+0+040+1+0+0+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+0+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,526",
+        "611,652"
+      ],
+      "Taban Puan": [
+        "257.327",
+        "247.785"
+      ],
+      "Şehir": "Bursa",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112350764",
+      "Üniversite": "Kayseri Üniversitesi",
+      "Fakülte": "Safiye Çıkrıkçıoğlu Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,541",
+        "321,728"
+      ],
+      "Taban Puan": [
+        "256.491",
+        "243.462"
+      ],
+      "Şehir": "Kayseri",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100751318",
+      "Üniversite": "Akdeniz Üniversitesi",
+      "Fakülte": "Kumluca Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,513",
+        "901,722"
+      ],
+      "Taban Puan": [
+        "258.135",
+        "243.839"
+      ],
+      "Şehir": "Antalya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101150544",
+      "Üniversite": "Ankara Üniversitesi",
+      "Fakülte": "Kalecik Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "50+2+0+0+050+2+0+0+050+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "52+0+0+0+0",
+        "Doldu-54"
+      ],
+      "Taban Sıralama": [
+        "1,645",
+        "981,709"
+      ],
+      "Taban Puan": [
+        "250.424",
+        "244.565"
+      ],
+      "Şehir": "Ankara",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107451681",
+      "Üniversite": "Mersin Üniversitesi",
+      "Fakülte": "Silifke Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,670",
+        "601,771"
+      ],
+      "Taban Puan": [
+        "248.956",
+        "241.11"
+      ],
+      "Şehir": "Mersin",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100751284",
+      "Üniversite": "Akdeniz Üniversitesi",
+      "Fakülte": "Finike Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "35+1+0+1+035+1+0+1+035+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "36+0+0+1+0",
+        "Doldu-37"
+      ],
+      "Taban Sıralama": [
+        "1,683",
+        "251,728"
+      ],
+      "Taban Puan": [
+        "248.249",
+        "243.491"
+      ],
+      "Şehir": "Antalya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100751212",
+      "Üniversite": "Akdeniz Üniversitesi",
+      "Fakülte": "Korkuteli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,731",
+        "091,821"
+      ],
+      "Taban Puan": [
+        "245.487",
+        "238.353"
+      ],
+      "Şehir": "Antalya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107650715",
+      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Fakülte": "Ortaca Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,739",
+        "091,769"
+      ],
+      "Taban Puan": [
+        "245.073",
+        "241.205"
+      ],
+      "Şehir": "Muğla",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102951107",
+      "Üniversite": "Çukurova Üniversitesi",
+      "Fakülte": "Kozan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+0+440+1+0+0+1040+1+0+1+10--"
+      ],
+      "Yerleşen": [
+        "41+0+0+0+10",
+        "Doldu-52"
+      ],
+      "Taban Sıralama": [
+        "1,762",
+        "301,524"
+      ],
+      "Taban Puan": [
+        "243.769",
+        "255.33"
+      ],
+      "Şehir": "Adana",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100790415",
+      "Üniversite": "Akdeniz Üniversitesi",
+      "Fakülte": "Elmalı Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,773",
+        "321,833"
+      ],
+      "Taban Puan": [
+        "243.132",
+        "37.711"
+      ],
+      "Şehir": "Antalya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107451557",
+      "Üniversite": "Mersin Üniversitesi",
+      "Fakülte": "Anamur Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+      ],
+      "Yerleşen": [
+        "52+0+0+2+0",
+        "Doldu-54"
+      ],
+      "Taban Sıralama": [
+        "1,789",
+        "041,834"
+      ],
+      "Taban Puan": [
+        "242.225",
+        "237.677"
+      ],
+      "Şehir": "Mersin",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370766",
+      "Üniversite": "Kayseri Üniversitesi",
+      "Fakülte": "Develi Hüseyin Şahin Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,810",
+        "412,029"
+      ],
+      "Taban Puan": [
+        "241.082",
+        "27.353"
+      ],
+      "Şehir": "Kayseri",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106850143",
+      "Üniversite": "Kilis 7 Aralık Üniversitesi",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "25+1+0+1+325+1+0+1+625+1+0+1+6--"
+      ],
+      "Yerleşen": [
+        "26+0+0+1+6",
+        "Doldu-33"
+      ],
+      "Taban Sıralama": [
+        "1,816",
+        "401,827"
+      ],
+      "Taban Puan": [
+        "240.696",
+        "238.057"
+      ],
+      "Şehir": "Kilis",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102950887",
+      "Üniversite": "Çukurova Üniversitesi",
+      "Fakülte": "Pozantı Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+0+330+1+0+0+820+1+0+1+5--"
+      ],
+      "Yerleşen": [
+        "31+0+0+0+8",
+        "Doldu-27"
+      ],
+      "Taban Sıralama": [
+        "1,817",
+        "291,784"
+      ],
+      "Taban Puan": [
+        "240.646",
+        "240.366"
+      ],
+      "Şehir": "Adana",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100850382",
+      "Üniversite": "Aksaray Üniversitesi",
+      "Fakülte": "Aksaray Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "20+1+0+1+020+1+0+1+020+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "21+0+0+1+0",
+        "Doldu-22"
+      ],
+      "Taban Sıralama": [
+        "1,831",
+        "411,869"
+      ],
+      "Taban Puan": [
+        "239.865",
+        "235.759"
+      ],
+      "Şehir": "Aksaray",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110251081",
+      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
+      "Fakülte": "Gevaş Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "20+1+0+1+020+1+0+1+020+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "21+0+0+1+0",
+        "Doldu-22"
+      ],
+      "Taban Sıralama": [
+        "1,846",
+        "722,014"
+      ],
+      "Taban Puan": [
+        "239.062",
+        "28.108"
+      ],
+      "Şehir": "Van",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390110",
+      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
+      "Fakülte": "Burdur Gıda Tarım Ve Hayvancılık Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-42"
+      ],
+      "Taban Sıralama": [
+        "1,847",
+        "991,945"
+      ],
+      "Taban Puan": [
+        "238.972",
+        "231.741"
+      ],
+      "Şehir": "Burdur",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107451009",
+      "Üniversite": "Mersin Üniversitesi",
+      "Fakülte": "Mut Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "50+2+0+2+050+2+0+2+030+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "52+0+0+2+0",
+        "Doldu-32"
+      ],
+      "Taban Sıralama": [
+        "1,866",
+        "761,797"
+      ],
+      "Taban Puan": [
+        "237.918",
+        "239.687"
+      ],
+      "Şehir": "Mersin",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102050242",
+      "Üniversite": "Bingöl Üniversitesi",
+      "Fakülte": "Gıda, Tarım Ve Hayvancılık Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "20+1+0+1+020+1+0+1+020+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "21+0+0+1+0",
+        "Doldu-22"
+      ],
+      "Taban Sıralama": [
+        "1,906",
+        "012,033"
+      ],
+      "Taban Puan": [
+        "235.748",
+        "227.146"
+      ],
+      "Şehir": "Bingöl",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108952256",
+      "Üniversite": "Selçuk Üniversitesi",
+      "Fakülte": "Silifke Taşucu Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+040+1+0+1+035+1+0+1+0--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+0",
+        "Doldu-37"
+      ],
+      "Taban Sıralama": [
+        "1,914",
+        "152,036"
+      ],
+      "Taban Puan": [
+        "235.303",
+        "226.962"
+      ],
+      "Şehir": "Konya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100250713",
+      "Üniversite": "Adıyaman Üniversitesi",
+      "Fakülte": "Kahta Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "30+1+0+1+330+1+0+1+830+1+0+1+8--"
+      ],
+      "Yerleşen": [
+        "31+0+0+1+8",
+        "Doldu-40"
+      ],
+      "Taban Sıralama": [
+        "1,915",
+        "281,795"
+      ],
+      "Taban Puan": [
+        "235.229",
+        "239.755"
+      ],
+      "Şehir": "Adıyaman",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111550706",
+      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Fakülte": "Battalgazi Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+1+440+1+0+1+1040+1+0+1+10--"
+      ],
+      "Yerleşen": [
+        "41+0+0+1+10",
+        "Doldu-52"
+      ],
+      "Taban Sıralama": [
+        "1,929",
+        "122,085"
+      ],
+      "Taban Puan": [
+        "234.496",
+        "224.487"
+      ],
+      "Şehir": "Malatya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103951282",
+      "Üniversite": "Fırat Üniversitesi",
+      "Fakülte": "Baskil Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "B",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "35+1+0+0+435+1+0+0+930+1+0+1+8--"
+      ],
+      "Yerleşen": [
+        "36+0+0+0+9",
+        "Doldu-40"
+      ],
+      "Taban Sıralama": [
+        "1,970",
+        "702,011"
+      ],
+      "Taban Puan": [
+        "232.216",
+        "228.276"
+      ],
+      "Şehir": "Elazığ",
+      "Ücret": "Ücretsiz"
+    }
+  ]
+}

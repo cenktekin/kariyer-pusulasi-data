@@ -1,0 +1,683 @@
+{
+  "yks": [
+    {
+      "Program Kodu": "200211517",
+      "Üniversite": "Atılım Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "4+0+1+0+13+0+1+0+13+0+1+0+14+06+0"
+      ],
+      "Yerleşen": [
+        "5",
+        "3+0+1+0+1",
+        "546"
+      ],
+      "Taban Sıralama": [
+        "74,348",
+        "76,667",
+        "124,535",
+        "131,665"
+      ],
+      "Taban Puan": [
+        "372.716",
+        "382.448",
+        "368.441",
+        "307.116"
+      ],
+      "Şehir": "Ankara",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200810073",
+      "Üniversite": "Beykoz Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "4+0+1+0+13+0+1+0+14+0+1+0+14+06+0"
+      ],
+      "Yerleşen": [
+        "4",
+        "3+0+0+0+1",
+        "546"
+      ],
+      "Taban Sıralama": [
+        "182,187",
+        "227,175",
+        "215,114",
+        "226,718"
+      ],
+      "Taban Puan": [
+        "332.513",
+        "32.817",
+        "338.657",
+        "278.692"
+      ],
+      "Şehir": "İstanbul",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107610804",
+      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Fakülte": "Dalaman Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "70+2+0+0+070+2+0+0+070+2+0+0+070+270+2"
+      ],
+      "Yerleşen": [
+        "72",
+        "70+2+0+0+0",
+        "727272"
+      ],
+      "Taban Sıralama": [
+        "219,823",
+        "279,847",
+        "293,584",
+        "293,815"
+      ],
+      "Taban Puan": [
+        "323.385",
+        "321.825",
+        "320.369",
+        "264.548"
+      ],
+      "Şehir": "Muğla",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203851898",
+      "Üniversite": "Kapadokya Üniversitesi",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "10+0+1+0+110+0+1+0+16+0+1+0+110+09+0"
+      ],
+      "Yerleşen": [
+        "11",
+        "10+0+0+0+1",
+        "7109"
+      ],
+      "Taban Sıralama": [
+        "232,545",
+        "284,962",
+        "354,456",
+        "350,271"
+      ],
+      "Taban Puan": [
+        "320.583",
+        "320.833",
+        "308.952",
+        "54.752"
+      ],
+      "Şehir": "Nevşehir",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112711099",
+      "Üniversite": "Samsun Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "70+2+0+0+070+2+0+0+070+2+0+0+070+270+2"
+      ],
+      "Yerleşen": [
+        "72",
+        "70+2+0+0+0",
+        "727272"
+      ],
+      "Taban Sıralama": [
+        "252,283",
+        "355,475",
+        "401,591",
+        "440,421"
+      ],
+      "Taban Puan": [
+        "316.525",
+        "308.527",
+        "301.262",
+        "241.711"
+      ],
+      "Şehir": "Samsun",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101590106",
+      "Üniversite": "Balıkesir Üniversitesi",
+      "Fakülte": "Edremit Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+0+060+2+0+0+060+2+0+0+060+260+2"
+      ],
+      "Yerleşen": [
+        "62",
+        "60+2+0+0+0",
+        "626262"
+      ],
+      "Taban Sıralama": [
+        "252,605",
+        "332,117",
+        "366,499",
+        "381,733"
+      ],
+      "Taban Puan": [
+        "316.461",
+        "312.373",
+        "306.898",
+        "249.905"
+      ],
+      "Şehir": "Balıkesir",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108990296",
+      "Üniversite": "Selçuk Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "75+2+0+0+075+2+0+0+070+2+0+0+070+270+2"
+      ],
+      "Yerleşen": [
+        "77",
+        "75+2+0+0+0",
+        "727272"
+      ],
+      "Taban Sıralama": [
+        "278,593",
+        "372,942",
+        "401,134",
+        "433,613"
+      ],
+      "Taban Puan": [
+        "311.599",
+        "305.823",
+        "301.331",
+        "242.608"
+      ],
+      "Şehir": "Konya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109290322",
+      "Üniversite": "Süleyman Demirel Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu (Keçiborlu)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "45+2+0+0+045+2+0+0+040+1+0+0+040+140+1"
+      ],
+      "Yerleşen": [
+        "47",
+        "45+2+0+0+0",
+        "414141"
+      ],
+      "Taban Sıralama": [
+        "283,414",
+        "391,756",
+        "423,088",
+        "442,752"
+      ],
+      "Taban Puan": [
+        "310.758",
+        "303.006",
+        "298.053",
+        "241.398"
+      ],
+      "Şehir": "Isparta",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106490141",
+      "Üniversite": "Kastamonu Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "65+2+0+0+065+2+0+0+060+2+0+0+060+260+2"
+      ],
+      "Yerleşen": [
+        "67",
+        "65+2+0+0+0",
+        "626262"
+      ],
+      "Taban Sıralama": [
+        "330,996",
+        "486,839",
+        "527,400",
+        "586,851"
+      ],
+      "Taban Puan": [
+        "302.864",
+        "290.083",
+        "284.129",
+        "202.111"
+      ],
+      "Şehir": "Kastamonu",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111570322",
+      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "35+1+0+0+435+1+0+0+930+1+0+0+830+130+1"
+      ],
+      "Yerleşen": [
+        "45",
+        "36+0+0+0+9",
+        "393131"
+      ],
+      "Taban Sıralama": [
+        "332,390",
+        "459,059",
+        "490,000",
+        "558,930"
+      ],
+      "Taban Puan": [
+        "302.643",
+        "293.639",
+        "288.813",
+        "224.693"
+      ],
+      "Şehir": "Malatya",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300212083",
+      "Üniversite": "Girne Amerikan ÜniversitesiKKTCHavacılık Yüksekokulu",
+      "Fakülte": "",
+      "Üniversite Türü": "",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "9+0+0+0+07+0+0+0+010+0+0+0+010+012+0"
+      ],
+      "Yerleşen": [
+        "7",
+        "7+0+0+0+0",
+        "10108"
+      ],
+      "Taban Sıralama": [
+        "345,339",
+        "699,304",
+        "972,681"
+      ],
+      "Taban Puan": [
+        "300.634",
+        "266.752",
+        "242.525"
+      ],
+      "Şehir": "Karmi",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103090110",
+      "Üniversite": "Dicle Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "40+1+0+0+475+2+0+0+1970+2+0+0+1870+270+2"
+      ],
+      "Yerleşen": [
+        "96",
+        "75+2+0+0+19",
+        "907267"
+      ],
+      "Taban Sıralama": [
+        "392,395",
+        "471,133",
+        "550,685"
+      ],
+      "Taban Puan": [
+        "293.947",
+        "292.067",
+        "281.352"
+      ],
+      "Şehir": "Diyarbakır",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610349",
+      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
+      "Fakülte": "Ali Cavit Çelebioğlu Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "60+2+0+0+060+2+0+0+060+2+0+0+060+260+2"
+      ],
+      "Yerleşen": [
+        "62",
+        "61+1+0+0+0",
+        "626231"
+      ],
+      "Taban Sıralama": [
+        "449,187",
+        "655,130",
+        "728,921"
+      ],
+      "Taban Puan": [
+        "286.639",
+        "271.137",
+        "262.87"
+      ],
+      "Şehir": "Erzincan",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104790061",
+      "Üniversite": "Gümüşhane Üniversitesi",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "45+2+0+0+045+2+0+0+040+1+0+0+040+140+1"
+      ],
+      "Yerleşen": [
+        "47",
+        "45+2+0+0+0",
+        "414110"
+      ],
+      "Taban Sıralama": [
+        "469,226",
+        "710,095",
+        "756,235"
+      ],
+      "Taban Puan": [
+        "284.219",
+        "265.712",
+        "260.361"
+      ],
+      "Şehir": "Gümüşhane",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200211526",
+      "Üniversite": "Atılım Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "31+0+0+0+025+0+0+0+024+0+0+0+025+032+0"
+      ],
+      "Yerleşen": [
+        "25",
+        "25+0+0+0+0",
+        "24257"
+      ],
+      "Taban Sıralama": [
+        "787,127",
+        "722,915",
+        "651,225"
+      ],
+      "Taban Puan": [
+        "253.561",
+        "264.473",
+        "270.385"
+      ],
+      "Şehir": "Ankara",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300212108",
+      "Üniversite": "Girne Amerikan ÜniversitesiKKTCHavacılık Yüksekokulu",
+      "Fakülte": "",
+      "Üniversite Türü": "",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "15+0+0+0+014+0+0+0+010+0+0+0+010+05+0"
+      ],
+      "Yerleşen": [
+        "14",
+        "14+0+0+0+0",
+        "107"
+      ],
+      "Taban Sıralama": [
+        "926,492",
+        "1,104"
+      ],
+      "Taban Puan": [
+        "242.749",
+        "232.955"
+      ],
+      "Şehir": "Karmi",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200810082",
+      "Üniversite": "Beykoz Üniversitesi",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "22+0+0+0+023+0+0+0+025+0+0+0+021+034+0"
+      ],
+      "Yerleşen": [
+        "23",
+        "23+0+0+0+0",
+        "25212"
+      ],
+      "Taban Sıralama": [
+        "1,084",
+        "131,375",
+        "950,482"
+      ],
+      "Taban Puan": [
+        "231.383",
+        "213.755",
+        "244.219"
+      ],
+      "Şehir": "İstanbul",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203851899",
+      "Üniversite": "Kapadokya Üniversitesi",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "59+0+0+0+059+0+0+0+043+0+0+0+030+026+0"
+      ],
+      "Yerleşen": [
+        "59",
+        "59+0+0+0+0",
+        "43303"
+      ],
+      "Taban Sıralama": [
+        "1,149",
+        "041,188",
+        "921,440"
+      ],
+      "Taban Puan": [
+        "226.859",
+        "226.868",
+        "209.152"
+      ],
+      "Şehir": "Nevşehir",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300212074",
+      "Üniversite": "Girne Amerikan ÜniversitesiKKTCHavacılık Yüksekokulu",
+      "Fakülte": "",
+      "Üniversite Türü": "",
+      "Program Adı": "H",
+      "Öğretim Türü": "Örgün",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "Kontenjan": [
+        "6+0+0+0+09+0+0+0+010+0+0+0+010+08+0"
+      ],
+      "Yerleşen": [
+        "6",
+        "6+0+0+0+0",
+        "43"
+      ],
+      "Taban Sıralama": [
+        "1,690"
+      ],
+      "Taban Puan": [
+        "174.25"
+      ],
+      "Şehir": "Karmi",
+      "Ücret": "Ücretli"
+    }
+  ]
+}
