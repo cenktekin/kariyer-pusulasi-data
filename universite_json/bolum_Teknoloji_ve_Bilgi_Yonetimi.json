@@ -2,110 +2,123 @@
   "yks": [
     {
       "Program Kodu": "200611646",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "İktisadi Ve İdari Bilimler Fakültesi",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Teknoloji ve Bilgi Yönetimi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+15+05+0"
+        "4",
+        "4",
+        "4",
+        "5"
       ],
       "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "555"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "120,172",
-        "156,479",
-        "195,140",
-        "208,722"
+        "101.570",
+        "120.172",
+        "156.479",
+        "195.140"
       ],
       "Taban Puan": [
+        "359.042",
         "352.258",
         "351.476",
-        "344.264",
-        "283.146"
+        "344.264"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "200611673",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "İktisadi Ve İdari Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "27+0+0+0+028+0+0+0+024+0+0+0+024+024+0"
-      ],
-      "Yerleşen": [
-        "28",
-        "28+0+0+0+0",
-        "24243"
-      ],
-      "Taban Sıralama": [
-        "981,634",
-        "876,927",
-        "862,678"
-      ],
-      "Taban Puan": [
-        "238.702",
-        "250.735",
-        "251.212"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "200611637",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "İktisadi Ve İdari Bilimler Fakültesi",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Teknoloji ve Bilgi Yönetimi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+0+0+02+0+0+0+01+0+0+0+01+01+0"
+        "3",
+        "2",
+        "1",
+        "1"
       ],
       "Yerleşen": [
-        "2",
-        "2+0+0+0+0",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,244",
-        "825,780",
-        "906,459"
+        "",
+        "1.244.752",
+        "825.780",
+        "906.459"
       ],
       "Taban Puan": [
+        "",
         "220.153",
         "255.127",
         "247.682"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200611673",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Teknoloji ve Bilgi Yönetimi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "27",
+        "28",
+        "24",
+        "24"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "981.634",
+        "876.927",
+        "862.678"
+      ],
+      "Taban Puan": [
+        "",
+        "238.702",
+        "250.735",
+        "251.212"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

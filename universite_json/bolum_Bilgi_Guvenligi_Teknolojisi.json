@@ -1,678 +1,964 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190505",
-      "Üniversite": "Yeditepe Üniversitesi",
-      "Fakülte": "Bilgisayar Ve Bilişim Bilimleri Fakültesi",
+      "Program Kodu": "200590320",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "72,574"
+        "69.050",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "409.851"
+        "426.490",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206190505",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "7",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "87.033",
+        "72.574",
+        "63.954",
+        "60.193"
+      ],
+      "Taban Puan": [
+        "410.075",
+        "409.851",
+        "443.739",
+        "445.975"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "112490580",
-      "Üniversite": "Eskişehir Teknik Üniversitesi",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "111,601"
+        "107.137",
+        "111.601",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "374.916"
+        "393.324",
+        "374.916",
+        "",
+        ""
       ],
-      "Şehir": "Eskişehir",
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105761242",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "Fakülte": "Sosyal ve Beşeri Bilimler Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "186.184",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "344.005",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108290509",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
+        "30",
+        "30",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "32",
-        "30+1+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "198,981"
+        "198.101",
+        "198.981",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "324.006"
+        "338.484",
+        "324.006",
+        "",
+        ""
       ],
-      "Şehir": "Samsun",
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202391200",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "263.492",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "313.426",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109490447",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "268.154",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "311.925",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110410307",
-      "Üniversite": "Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi",
-      "Fakülte": "Bilgisayar Ve Bilişim Fakültesi",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Bilgisayar ve Bilişim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+330+1+0+1+8---"
+        "30",
+        "30",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "40",
-        "30+1+0+1+8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "308,908"
+        "299.510",
+        "308.908",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "287.832"
+        "302.564",
+        "287.832",
+        "",
+        ""
       ],
-      "Şehir": "Adana",
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203852139",
-      "Üniversite": "Kapadokya Üniversitesi",
-      "Fakülte": "Bilgisayar Ve Bilişİm Teknolojileri FaküLtesi",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Bilgisayar ve Bilişim Teknolojileri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "340,497"
-      ],
-      "Taban Puan": [
-        "280.395"
-      ],
-      "Şehir": "Nevşehir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206190519",
-      "Üniversite": "Yeditepe Üniversitesi",
-      "Fakülte": "Bilgisayar Ve Bilişim Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "48+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "386,592"
-      ],
-      "Taban Puan": [
-        "271.03"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300490482",
-      "Üniversite": "Uluslararası Kıbrıs ÜniversitesiKKTCUygulamalı Bilimler Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+0+0+05+0+0+0+05+0+0+0+05+05+0"
+        "8",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "5",
-        "5+0+0+0+0",
-        "551"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "416,982",
-        "379,519",
-        "466,785"
+        "310.214",
+        "340.497",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "265.784",
-        "287.454",
-        "258.616"
+        "299.594",
+        "280.395",
+        "",
+        ""
       ],
-      "Şehir": "Nicosia",
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206190512",
-      "Üniversite": "Yeditepe Üniversitesi",
-      "Fakülte": "Bilgisayar Ve Bilişim Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+0+0+011+0+0+0+08+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "11",
-        "11+0+0+0+0",
-        "8"
-      ],
-      "Taban Sıralama": [
-        "682,777",
-        "404,248"
-      ],
-      "Taban Puan": [
-        "235.203",
-        "282.182"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "109490447",
-      "Üniversite": "Trakya Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Edirne",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200590320",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200590334",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "18+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200590327",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "16+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "202391207",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "202391200",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "9+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203852146",
-      "Üniversite": "Kapadokya Üniversitesi",
-      "Fakülte": "Bilgisayar Ve Bilişİm Teknolojileri FaküLtesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "51+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Nevşehir",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300190685",
-      "Üniversite": "Doğu Akdeniz ÜniversitesiKKTCBilgisayar Ve Teknoloji Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Famagusta",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300190678",
-      "Üniversite": "Doğu Akdeniz ÜniversitesiKKTCBilgisayar Ve Teknoloji Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Bilgisayar ve Teknoloji Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Famagusta",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "300490483",
-      "Üniversite": "Uluslararası Kıbrıs ÜniversitesiKKTCUygulamalı Bilimler Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "23+0+0+0+025+0+0+0+020+0+0+0+010+010+0"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "22",
-        "22+0+0+0+0",
-        "209"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,143",
-        "924,511"
+        "339.885",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "197.129",
-        "220.739"
+        "292.026",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Nicosia",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300190692",
-      "Üniversite": "Doğu Akdeniz ÜniversitesiKKTCBilgisayar Ve Teknoloji Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Famagusta",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203852083",
-      "Üniversite": "Kapadokya Üniversitesi",
-      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+15+0+1+0+1---"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1"
-      ],
-      "Taban Sıralama": [
-        "340,497"
-      ],
-      "Taban Puan": [
-        "280.395"
-      ],
-      "Şehir": "Nevşehir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203852090",
-      "Üniversite": "Kapadokya Üniversitesi",
-      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "42+0+0+0+034+0+0+0+0---"
-      ],
-      "Yerleşen": [
-        "7",
-        "7+0+0+0+0"
-      ],
-      "Taban Sıralama": [
-        "1,217"
-      ],
-      "Taban Puan": [
-        "188.875"
-      ],
-      "Şehir": "Nevşehir",
-      "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "202391214",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "105761242",
-      "Üniversite": "İzmir Katip Çelebi Üniversitesi",
-      "Fakülte": "Sosyal Ve Beşeri Bilimler Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300390684",
-      "Üniversite": "Lefke Avrupa ÜniversitesiKKTCUygulamalı Bilimler Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Karavostasi",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300390677",
-      "Üniversite": "Lefke Avrupa ÜniversitesiKKTCUygulamalı Bilimler Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Karavostasi",
+      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108190380",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
       "Fakülte": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Niğde",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "347.166",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "290.288",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200590334",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "18",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "485.839",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "264.338",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300490482",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "533.500",
+        "416.982",
+        "379.519",
+        "466.785"
+      ],
+      "Taban Puan": [
+        "257.630",
+        "265.784",
+        "287.454",
+        "258.616"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300390677",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "573.527",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "252.659",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300190685",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Bilgisayar ve Teknoloji Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "751.433",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "235.060",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300190692",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Bilgisayar ve Teknoloji Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200590327",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300390684",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202391207",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202391214",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203852146",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Bilgisayar ve Bilişim Teknolojileri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206190512",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "8",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "682.777",
+        "404.248",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "235.203",
+        "282.182",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206190519",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Bilgisayar ve Bilişim Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "44",
+        "37",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "386.592",
+        "347.859",
+        "303.832"
+      ],
+      "Taban Puan": [
+        "",
+        "271.030",
+        "294.841",
+        "296.741"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300490483",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Uygulamalı Bilimler Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "25",
+        "20",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "924.511",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "220.739",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

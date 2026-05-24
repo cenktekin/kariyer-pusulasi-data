@@ -1,425 +1,523 @@
 {
   "yks": [
     {
-      "Program Kodu": "202790584",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
+      "Program Kodu": "205750275",
+      "Üniversite": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hava Ulaştırma Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+1+0+16+0+1+0+15+0+1+0+15+08+0"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "8",
-        "6+0+1+0+1",
-        "758"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "125,209",
-        "143,036",
-        "174,650",
-        "199,761"
+        "73.995",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "364.813",
-        "76.283",
-        "350.747",
-        "282.34"
+        "421.854",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "112771092",
-      "Üniversite": "Samsun Üniversitesi",
-      "Fakülte": "Özdemir Bayraktar Havacılık Ve Uzay Bilimleri Fakültesi",
+      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
+      "Fakülte": "Özdemir Bayraktar Havacılık ve Uzay Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "45+2+0+0+045+2+0+0+040+1+0+0+040+1-"
+        "45",
+        "45",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "4141"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "143,745",
-        "164,198",
-        "195,805"
+        "105.193",
+        "143.745",
+        "164.198",
+        "195.805"
       ],
       "Taban Puan": [
+        "394.897",
         "352.684",
         "363.202",
         "339.372"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210402523",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
-      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Program Kodu": "202790584",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Uygulamalı Bilimler Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "11+0+2+0+19+0+1+0+18+0+1+0+17+09+0"
+        "8",
+        "6",
+        "5",
+        "5"
       ],
       "Yerleşen": [
-        "11",
-        "9+0+1+0+1",
-        "1079"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "145,157",
-        "174,228",
-        "196,679",
-        "194,463"
+        "105.295",
+        "125.209",
+        "143.036",
+        "174.650"
       ],
       "Taban Puan": [
+        "394.817",
+        "364.810",
+        "376.283",
+        "350.747"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402523",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Bakım ve Onarım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "9",
+        "8",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "131.896",
+        "145.157",
+        "174.228",
+        "196.679"
+      ],
+      "Taban Puan": [
+        "375.208",
         "351.837",
         "357.495",
-        "338.927",
-        "284.669"
+        "338.927"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "103690123",
-      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
       "Fakülte": "Ali Cavit Çelebioğlu Sivil Havacılık Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+0+020+1+0+0+015+1+0+0+015+1-"
+        "20",
+        "20",
+        "15",
+        "15"
       ],
       "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "1616"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "250,208",
-        "270,921",
-        "317,925"
+        "183.375",
+        "250.208",
+        "270.921",
+        "317.925"
       ],
       "Taban Puan": [
-        "304.673",
-        "16.705",
+        "345.358",
+        "304.670",
+        "316.705",
         "292.479"
       ],
-      "Şehir": "Erzincan",
+      "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110790037",
-      "Üniversite": "İskenderun Teknik Üniversitesi",
-      "Fakülte": "Havacılık Ve Uzay Bilimleri Fakültesi",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "Havacılık ve Uzay Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "45+2+0+0+545+2+0+0+1140+1+0+0+1040+140+1"
+        "45",
+        "45",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "58",
-        "45+2+0+0+11",
-        "514141"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "253,288",
-        "268,909",
-        "267,148",
-        "276,780"
+        "205.441",
+        "253.288",
+        "268.909",
+        "267.148"
       ],
       "Taban Puan": [
+        "335.226",
         "303.671",
         "317.382",
-        "309.003",
-        "254.419"
+        "309.003"
       ],
-      "Şehir": "Hatay",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103990182",
-      "Üniversite": "Fırat Üniversitesi",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
       "Fakülte": "Sivil Havacılık Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "55+2+0+0+655+2+0+0+1450+2+0+0+1350+250+2"
+        "55",
+        "55",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "71",
-        "55+2+0+0+14",
-        "655252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "265,233",
-        "272,603",
-        "298,215",
-        "283,944"
+        "220.553",
+        "265.233",
+        "272.603",
+        "298.215"
       ],
       "Taban Puan": [
+        "328.868",
         "299.924",
         "316.154",
-        "298.499",
-        "252.313"
+        "298.499"
       ],
-      "Şehir": "Elazığ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202790753",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "51+0+0+0+038+0+0+0+034+0+0+0+024+0-"
-      ],
-      "Yerleşen": [
-        "38",
-        "38+0+0+0+0",
-        "3424"
-      ],
-      "Taban Sıralama": [
-        "381,256",
-        "403,510",
-        "392,827"
-      ],
-      "Taban Puan": [
-        "272.021",
-        "282.341",
-        "273.191"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210402537",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
-      "Fakülte": "Sivil Havacılık Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+0+0+0+054+0+0+0+050+0+0+0+042+050+0"
-      ],
-      "Yerleşen": [
-        "54",
-        "54+0+0+0+0",
-        "504226"
-      ],
-      "Taban Sıralama": [
-        "388,458",
-        "402,648",
-        "453,456"
-      ],
-      "Taban Puan": [
-        "270.669",
-        "282.512",
-        "60.976"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210402530",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
-      "Fakülte": "Sivil Havacılık Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+01+0+0+0+01+0+0+0+01+01+0"
-      ],
-      "Yerleşen": [
-        "1",
-        "1+0+0+0+0",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "394,389",
-        "408,137",
-        "467,148"
-      ],
-      "Taban Puan": [
-        "269.642",
-        "281.376",
-        "258.554"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "112771239",
-      "Üniversite": "Samsun Üniversitesi",
-      "Fakülte": "Özdemir Bayraktar Havacılık Ve Uzay Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+0+0+01+0+0+0+0---"
-      ],
-      "Yerleşen": [
-        "1",
-        "1+0+0+0+0"
-      ],
-      "Taban Sıralama": [
-        "463,275"
-      ],
-      "Taban Puan": [
-        "258.643"
-      ],
-      "Şehir": "Samsun",
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "205750282",
-      "Üniversite": "Türk Hava Kurumu Üniversitesi",
+      "Üniversite": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Hava Ulaştırma Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "34",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "260.267",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "314.477",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "205750275",
-      "Üniversite": "Türk Hava Kurumu Üniversitesi",
-      "Fakülte": "Hava Ulaştırma Fakültesi",
+      "Program Kodu": "202790753",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Uygulamalı Bilimler Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "51",
+        "38",
+        "34",
+        "24"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "378.332",
+        "381.256",
+        "403.510",
+        "392.827"
+      ],
+      "Taban Puan": [
+        "283.397",
+        "272.021",
+        "282.341",
+        "273.191"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402537",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Bakım ve Onarım (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "75",
+        "54",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "554.034",
+        "388.458",
+        "402.648",
+        "453.456"
+      ],
+      "Taban Puan": [
+        "255.024",
+        "270.669",
+        "282.510",
+        "260.976"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402530",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sivil Havacılık Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Bakım ve Onarım (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "587.160",
+        "394.389",
+        "408.137",
+        "467.148"
+      ],
+      "Taban Puan": [
+        "251.066",
+        "269.642",
+        "281.376",
+        "258.554"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "112771239",
+      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
+      "Fakülte": "Özdemir Bayraktar Havacılık ve Uzay Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uçak Bakım ve Onarım (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "842.251",
+        "463.275",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "227.453",
+        "258.643",
+        "",
+        ""
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103690165",
-      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
       "Fakülte": "Ali Cavit Çelebioğlu Sivil Havacılık Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Bakım ve Onarım (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+01+0+0+0+0---"
+        "1",
+        "1",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzincan",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
     }
   ]

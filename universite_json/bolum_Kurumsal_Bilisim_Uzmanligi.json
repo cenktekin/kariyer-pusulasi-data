@@ -1,430 +1,804 @@
 {
   "yks": [
     {
+      "Program Kodu": "201290698",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "594.118",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "324.407",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201991350",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "604.834",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "323.240",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202210428",
+      "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "613.138",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "322.353",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202391032",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "671.319",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "316.306",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110410370",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "783.482",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "305.809",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
       "Program Kodu": "102690329",
-      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
       "Fakülte": "Cumhuriyet Sosyal Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
+        "30",
+        "30",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "31+0+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,056"
+        "949.962",
+        "1.056.772",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "287.201"
+        "292.026",
+        "287.201",
+        "",
+        ""
       ],
-      "Şehir": "Sivas",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105090319",
-      "Üniversite": "Harran Üniversitesi",
-      "Fakülte": "Şanlıurfa Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+330+1+0+1+8---"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+8"
-      ],
-      "Taban Sıralama": [
-        "1,325"
-      ],
-      "Taban Puan": [
-        "269.545"
-      ],
-      "Şehir": "Şanlıurfa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390432",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Söke Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101590294",
-      "Üniversite": "Balıkesir Üniversitesi",
-      "Fakülte": "Burhaniye Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Balıkesir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101590301",
-      "Üniversite": "Balıkesir Üniversitesi",
-      "Fakülte": "Burhaniye Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Balıkesir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107790409",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Antakya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+2----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Hatay",
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109970414",
-      "Üniversite": "Yalova Üniversitesi",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
       "Fakülte": "Çınarcık Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Yalova",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.047.404",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "284.614",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110390321",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
-      "Fakülte": "Devrek Meslek Yüksekokulu",
+      "Program Kodu": "101590294",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Burhaniye Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "20",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Zonguldak",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.076.207",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "282.469",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201290698",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "100390432",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Söke Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.147.683",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "277.302",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790409",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Antakya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.298.643",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "266.706",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090319",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Şanlıurfa Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.315.668",
+        "1.325.934",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "265.526",
+        "269.545",
+        "",
+        ""
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203852111",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.340.457",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.820",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201290705",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "110390321",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Devrek Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.599.125",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "246.160",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202391039",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203852118",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "34",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "101590301",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Burhaniye Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202210435",
+      "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201290705",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "201991357",
-      "Üniversite": "Haliç Üniversitesi",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+0+0+0----"
+        "7",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "201991350",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "201991364",
-      "Üniversite": "Haliç Üniversitesi",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "31+0+0+0+0----"
+        "31",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "202210428",
-      "Üniversite": "İstanbul 29 Mayıs Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202210435",
-      "Üniversite": "İstanbul 29 Mayıs Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "42+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "110410370",
-      "Üniversite": "Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+3----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202391032",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202391039",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
     }
   ]
 }

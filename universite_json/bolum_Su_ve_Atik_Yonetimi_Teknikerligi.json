@@ -1,279 +1,483 @@
 {
   "yks": [
     {
-      "Program Kodu": "101490929",
-      "Üniversite": "Atatürk Üniversitesi",
+      "Program Kodu": "111690756",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+0----"
+        "40",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzurum",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "947.052",
+        "",
+        "1.070.222",
+        "1.082.146"
+      ],
+      "Taban Puan": [
+        "292.257",
+        "",
+        "285.342",
+        "277.056"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106490241",
-      "Üniversite": "Kastamonu Üniversitesi",
-      "Fakülte": "Abana Sabahat Mesut Yılmaz Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kastamonu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202391060",
-      "Üniversite": "İstanbul Arel Üniversitesi",
+      "Program Kodu": "210302334",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.239.589",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "270.814",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "107790402",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Altınözü Tarım Bilimleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "202391060",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+1+2----"
+        "4",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.275.421",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "268.318",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105190159",
-      "Üniversite": "Hitit Üniversitesi",
+      "Program Kodu": "101490929",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Çorum",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111690756",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "40+1+0+0+0----"
+      "Taban Sıralama": [
+        "1.358.514",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106390283",
-      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
-      "Fakülte": "Kazım Karabekir Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "262.577",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Karaman",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108190429",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
-      "Fakülte": "Bor Halil-Zöhre Ataman Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Niğde",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107990213",
-      "Üniversite": "Tekirdağ Namık Kemal Üniversitesi",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
       "Fakülte": "Çorlu Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Tekirdağ",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.681.414",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "240.561",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790402",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Altınözü Tarım Bilimleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.812.627",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "231.544",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106390283",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "Kazım Karabekir Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.845.728",
+        "",
+        "2.111.340",
+        "2.327.497"
+      ],
+      "Taban Puan": [
+        "229.245",
+        "",
+        "223.166",
+        "213.260"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190429",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Bor Halil-Zöhre Ataman Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.877.544",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "226.994",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190159",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.884.543",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "226.495",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106490241",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "Abana Sabahat Mesut Yılmaz Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.988.119",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "218.910",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202391067",
-      "Üniversite": "İstanbul Arel Üniversitesi",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+0+0+0+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210302334",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "210302341",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Su ve Atık Yönetimi Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "34",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     }
   ]

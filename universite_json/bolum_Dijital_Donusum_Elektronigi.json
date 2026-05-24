@@ -1,586 +1,1044 @@
 {
   "yks": [
     {
-      "Program Kodu": "112370854",
-      "Üniversite": "Kayseri Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0"
-      ],
-      "Taban Sıralama": [
-        "889,404"
-      ],
-      "Taban Puan": [
-        "299.469"
-      ],
-      "Şehir": "Kayseri",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102590412",
-      "Üniversite": "Manisa Celâl Bayar Üniversitesi",
-      "Fakülte": "Manisa Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0"
-      ],
-      "Taban Sıralama": [
-        "889,697"
-      ],
-      "Taban Puan": [
-        "299.447"
-      ],
-      "Şehir": "Manisa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111890308",
-      "Üniversite": "Sakarya Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Hendek Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+025+1+0+1+0---"
-      ],
-      "Yerleşen": [
-        "26+0+0+1+0"
-      ],
-      "Taban Sıralama": [
-        "1,044"
-      ],
-      "Taban Puan": [
-        "288.095"
-      ],
-      "Şehir": "Sakarya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106290358",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
-      "Fakülte": "Araklı Ali Cevat Özyurt Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+0---"
-      ],
-      "Yerleşen": [
-        "31+0+0+0+0"
-      ],
-      "Taban Sıralama": [
-        "1,133"
-      ],
-      "Taban Puan": [
-        "281.948"
-      ],
-      "Şehir": "Trabzon",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102690315",
-      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
-      "Fakülte": "Sivas Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0"
-      ],
-      "Taban Sıralama": [
-        "1,141"
-      ],
-      "Taban Puan": [
-        "281.465"
-      ],
-      "Şehir": "Sivas",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107490534",
-      "Üniversite": "Mersin Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Mersin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201290649",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201290642",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201991231",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "110090256",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209810213",
-      "Üniversite": "İstanbul Galata Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "209810220",
-      "Üniversite": "İstanbul Galata Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "33+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209810206",
-      "Üniversite": "İstanbul Galata Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202791110",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202791117",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "204790752",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204790759",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "210000535",
-      "Üniversite": "Mudanya Üniversitesi",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+1----"
+        "4",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Bursa",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "574.104",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "326.646",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210000542",
-      "Üniversite": "Mudanya Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Bursa",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201991238",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "31+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%25 İndirimli"
     },
     {
       "Program Kodu": "110090249",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "664.632",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "316.967",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201991224",
-      "Üniversite": "Haliç Üniversitesi",
+      "Program Kodu": "201290642",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "697.876",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "313.698",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "107390448",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "209810206",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "700.339",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "313.463",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201991224",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "708.481",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.700",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112370854",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "741.724",
+        "889.404",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "309.572",
+        "299.469",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202791110",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "779.554",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "306.163",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204790752",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "786.957",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "305.510",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102590412",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "Manisa Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "828.451",
+        "889.697",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "301.926",
+        "299.447",
+        "",
+        ""
+      ],
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107490527",
-      "Üniversite": "Mersin Üniversitesi",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "D",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Mersin",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "855.809",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "299.632",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110090256",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "964.422",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "290.899",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102690315",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Sivas Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.032.921",
+        "1.141.024",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "285.688",
+        "281.465",
+        "",
+        ""
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111890308",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Hendek Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.035.123",
+        "1.044.050",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "285.525",
+        "288.095",
+        "",
+        ""
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106290358",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Araklı Ali Cevat Özyurt Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.127.254",
+        "1.133.883",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "278.772",
+        "281.948",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203852097",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.159.284",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "276.471",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107390448",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.410.351",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "259.037",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210000542",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.822.768",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "230.847",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204790759",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203852104",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "34",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202791117",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "107490534",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209810213",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209810220",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201290649",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201991231",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201991238",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Dönüşüm Elektroniği (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "31",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
     }
   ]
 }

@@ -1,1700 +1,1844 @@
 {
   "yks": [
     {
-      "Program Kodu": "203910018",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "İnsani Bilimler Ve Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+0+0+12+0+0+0+12+0+0+0+13+07+0"
-      ],
-      "Yerleşen": [
-        "3",
-        "2+0+0+0+1",
-        "337"
-      ],
-      "Taban Sıralama": [],
-      "Taban Puan": [
-        "520.081",
-        "512.891",
-        "499.923",
-        "450.823"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "107510047",
-      "Üniversite": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+      "Üniversite": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+080+2+0+2+080+280+2"
+        "30",
+        "30",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "32",
-        "30+1+0+1+0",
-        "848282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "14,732",
-        "28,023",
-        "26,794",
-        "41,294"
+        "11.138",
+        "14.732",
+        "28.023",
+        "26.794"
       ],
       "Taban Puan": [
-        "419.063",
-        "92.966",
-        "395.595",
-        "335.353"
+        "392.768",
+        "419.060",
+        "392.966",
+        "395.595"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105610273",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+060+2+0+2+060+260+2"
+        "30",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "21,632",
-        "41,333",
-        "45,373",
-        "58,795"
+        "16.683",
+        "21.632",
+        "41.333",
+        "45.373"
       ],
       "Taban Puan": [
+        "383.131",
         "410.093",
         "382.118",
-        "380.468",
-        "323.784"
+        "380.468"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104810159",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "60",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "27.967",
+        "35.206",
+        "67.825",
+        "92.079"
+      ],
+      "Taban Puan": [
+        "370.357",
+        "397.290",
+        "366.875",
+        "356.817"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101190431",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Açık Ve Uzaktan Eğitim Fakültesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Açık ve Uzaktan Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Uzaktan",
+      "Program Adı": "Sanat Tarihi (Uzaktan Öğretim)",
+      "Öğretim Türü": "Uzaktan Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+030+1+0+0+0100+3+0+3+0100+3100+3"
+        "50",
+        "30",
+        "100",
+        "100"
       ],
       "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "106103103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "24,530",
-        "87,783",
-        "133,821",
-        "218,472"
+        "28.854",
+        "24.530",
+        "87.783",
+        "133.821"
       ],
       "Taban Puan": [
+        "369.534",
         "406.903",
         "358.126",
-        "342.751",
-        "272.601"
+        "342.751"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretli Uzaktan"
-    },
-    {
-      "Program Kodu": "104810159",
-      "Üniversite": "Hacettepe Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+060+2+0+2+080+280+2"
-      ],
-      "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "648282"
-      ],
-      "Taban Sıralama": [
-        "35,206",
-        "67,825",
-        "92,079",
-        "130,938"
-      ],
-      "Taban Puan": [
-        "397.293",
-        "66.875",
-        "356.817",
-        "294.5"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107210862",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+060+2+0+2+060+260+2"
+        "30",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "42,670",
-        "75,504",
-        "75,574",
-        "88,081"
+        "30.739",
+        "42.670",
+        "75.504",
+        "75.574"
       ],
       "Taban Puan": [
+        "367.839",
         "391.817",
         "363.287",
-        "363.756",
-        "309.691"
+        "363.756"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101110281",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Dil Ve Tarih Coğrafya Fakültesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Dil ve Tarih Coğrafya Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+050+2+0+2+050+250+2"
+        "30",
+        "30",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "545252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "44,608",
-        "77,590",
-        "99,933",
-        "136,130"
+        "36.325",
+        "44.608",
+        "77.590",
+        "99.933"
       ],
       "Taban Puan": [
+        "363.313",
         "390.515",
-        "362.353",
-        "53.884",
-        "292.882"
+        "362.350",
+        "353.884"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203910027",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "İnsani Bilimler Ve Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+0+0+07+0+0+0+09+0+0+0+09+05+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "7+0+0+0+0",
-        "995"
-      ],
-      "Taban Sıralama": [
-        "45,969",
-        "46,766",
-        "27,178",
-        "13,194"
-      ],
-      "Taban Puan": [
-        "389.629",
-        "378.472",
-        "395.227",
-        "367.688"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "105490022",
-      "Üniversite": "İstanbul Medeniyet Üniversitesi",
+      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+050+2+0+2+050+250+2"
+        "30",
+        "30",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "545252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "72,574",
-        "96,362",
-        "102,732",
-        "134,380"
+        "60.036",
+        "72.574",
+        "96.362",
+        "102.732"
       ],
       "Taban Puan": [
+        "348.867",
         "375.008",
         "354.842",
-        "352.833",
-        "293.426"
+        "352.833"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103410103",
-      "Üniversite": "Ege Üniversitesi",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+070+2+0+2+070+270+2"
+        "30",
+        "30",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "747272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "113,323",
-        "153,351",
-        "179,007",
-        "188,429"
+        "74.707",
+        "113.323",
+        "153.351",
+        "179.007"
       ],
       "Taban Puan": [
+        "342.283",
         "358.483",
         "337.103",
-        "330.939",
-        "279.16"
+        "330.939"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111710157",
-      "Üniversite": "Ankara Hacı Bayram Veli Üniversitesi",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "30",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "120,891",
-        "212,752",
-        "255,985",
-        "349,648"
+        "94.336",
+        "120.891",
+        "212.752",
+        "255.985"
       ],
       "Taban Puan": [
+        "334.795",
         "355.966",
         "323.263",
-        "315.372",
-        "249.951"
+        "315.372"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109710172",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "646262"
-      ],
-      "Taban Sıralama": [
-        "140,428",
-        "259,575",
-        "312,534",
-        "319,506"
-      ],
-      "Taban Puan": [
-        "349.856",
-        "314.298",
-        "306.102",
-        "254.51"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100710657",
-      "Üniversite": "Akdeniz Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
-      ],
-      "Taban Sıralama": [
-        "158,732",
-        "237,077",
-        "244,773",
-        "283,669"
-      ],
-      "Taban Puan": [
-        "344.653",
-        "18.442",
-        "317.394",
-        "260.328"
-      ],
-      "Şehir": "Antalya",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101010043",
-      "Üniversite": "Anadolu Üniversitesi",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+070+2+0+2+070+270+2"
+        "30",
+        "30",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "747272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "158,823",
-        "201,196",
-        "208,100",
-        "246,056"
+        "104.612",
+        "158.823",
+        "201.196",
+        "208.100"
       ],
       "Taban Puan": [
+        "331.338",
         "344.626",
         "325.717",
-        "324.549",
-        "267.129"
+        "324.549"
       ],
-      "Şehir": "Eskişehir",
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100710657",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "106.881",
+        "158.732",
+        "237.077",
+        "244.773"
+      ],
+      "Taban Puan": [
+        "330.632",
+        "344.650",
+        "318.442",
+        "317.394"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109710172",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "111.693",
+        "140.428",
+        "259.575",
+        "312.534"
+      ],
+      "Taban Puan": [
+        "329.153",
+        "349.856",
+        "314.298",
+        "306.102"
+      ],
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102710209",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "261,150",
-        "403,922",
-        "407,073",
-        "390,206"
+        "196.428",
+        "261.150",
+        "403.922",
+        "407.073"
       ],
       "Taban Puan": [
+        "308.796",
         "321.668",
         "292.513",
-        "292.782",
-        "244.207"
+        "292.782"
       ],
-      "Şehir": "Çanakkale",
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108810711",
-      "Üniversite": "Sakarya Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "277,943",
-        "441,034",
-        "468,408",
-        "494,931"
+        "213.752",
+        "277.943",
+        "441.034",
+        "468.408"
       ],
       "Taban Puan": [
+        "305.518",
         "318.548",
         "287.851",
-        "285.175",
-        "230.528"
+        "285.175"
       ],
-      "Şehir": "Sakarya",
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107610452",
-      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "288,658",
-        "504,509",
-        "485,518",
-        "461,957"
+        "239.395",
+        "288.658",
+        "504.509",
+        "485.518"
       ],
       "Taban Puan": [
+        "300.960",
         "316.654",
         "280.424",
-        "283.162",
-        "34.924"
+        "283.160"
       ],
-      "Şehir": "Muğla",
+      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108210902",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "340,989",
-        "516,038",
-        "553,745",
-        "516,078"
+        "293.888",
+        "340.989",
+        "516.038",
+        "553.745"
       ],
       "Taban Puan": [
+        "292.301",
         "307.993",
         "279.131",
-        "275.554",
-        "227.245"
+        "275.554"
       ],
-      "Şehir": "Samsun",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108610158",
-      "Üniversite": "Pamukkale Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+070+2+0+2+070+270+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "747259"
-      ],
-      "Taban Sıralama": [
-        "364,782",
-        "614,040",
-        "693,628"
-      ],
-      "Taban Puan": [
-        "304.397",
-        "268.772",
-        "61.432"
-      ],
-      "Şehir": "Denizli",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107410745",
-      "Üniversite": "Mersin Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "387,598",
-        "503,093",
-        "569,119",
-        "495,440"
+        "299.160",
+        "387.598",
+        "503.093",
+        "569.119"
       ],
       "Taban Puan": [
+        "291.510",
         "301.152",
         "280.585",
-        "273.926",
-        "230.453"
+        "273.926"
       ],
-      "Şehir": "Mersin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109410121",
-      "Üniversite": "Trakya Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646253"
-      ],
-      "Taban Sıralama": [
-        "401,696",
-        "676,149",
-        "781,307"
-      ],
-      "Taban Puan": [
-        "299.182",
-        "62.663",
-        "253.341"
-      ],
-      "Şehir": "Edirne",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110670136",
-      "Üniversite": "Bandırma Onyedi Eylül Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+040+1+0+1+040+140+1"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "424141"
-      ],
-      "Taban Sıralama": [
-        "446,239",
-        "587,978",
-        "547,296",
-        "548,987"
-      ],
-      "Taban Puan": [
-        "293.212",
-        "71.414",
-        "276.252",
-        "219.114"
-      ],
-      "Şehir": "Balıkesir",
+      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102590482",
-      "Üniversite": "Manisa Celâl Bayar Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "25",
+        "30",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "451,882"
+        "307.022",
+        "451.882",
+        "588.530",
+        "652.101"
       ],
       "Taban Puan": [
-        "292.484"
+        "290.371",
+        "292.484",
+        "271.359",
+        "265.481"
       ],
-      "Şehir": "Manisa",
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103510208",
-      "Üniversite": "Erciyes Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Program Kodu": "110670136",
+      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+0+030+1+0+0+070+2+0+2+070+270+2"
+        "25",
+        "30",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "747235"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "502,017",
-        "738,669",
-        "781,007"
+        "312.438",
+        "446.239",
+        "587.978",
+        "547.296"
       ],
       "Taban Puan": [
-        "286.347",
-        "256.735",
-        "253.367"
+        "289.581",
+        "293.210",
+        "271.414",
+        "276.252"
       ],
-      "Şehir": "Kayseri",
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610158",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "331.152",
+        "364.782",
+        "614.040",
+        "693.628"
+      ],
+      "Taban Puan": [
+        "286.927",
+        "304.397",
+        "268.770",
+        "261.432"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109410121",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "354.411",
+        "401.696",
+        "676.149",
+        "781.307"
+      ],
+      "Taban Puan": [
+        "283.833",
+        "299.180",
+        "262.663",
+        "253.341"
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108910358",
-      "Üniversite": "Selçuk Üniversitesi",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+070+2+0+2+070+270+2"
+        "30",
+        "30",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "747244"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "515,904",
-        "806,706",
-        "873,136"
+        "399.409",
+        "515.904",
+        "806.706",
+        "873.136"
       ],
       "Taban Puan": [
+        "278.114",
         "284.723",
         "250.552",
         "245.184"
       ],
-      "Şehir": "Konya",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107010697",
-      "Üniversite": "Necmettin Erbakan Üniversitesi",
-      "Fakülte": "Sosyal Ve Beşeri Bilimler Fakültesi",
+      "Program Kodu": "103510208",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646219"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "628,145",
-        "906,018",
-        "1,110"
+        "418.859",
+        "502.017",
+        "738.669",
+        "781.007"
       ],
       "Taban Puan": [
-        "272.475",
-        "241.719",
-        "224.342"
+        "275.791",
+        "286.347",
+        "256.735",
+        "253.367"
       ],
-      "Şehir": "Konya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108310249",
-      "Üniversite": "Ordu Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646222"
-      ],
-      "Taban Sıralama": [
-        "639,031",
-        "890,045",
-        "1,019"
-      ],
-      "Taban Puan": [
-        "271.357",
-        "243.134",
-        "232.391"
-      ],
-      "Şehir": "Ordu",
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109290452",
-      "Üniversite": "Süleyman Demirel Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "25",
+        "30",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "643,060"
+        "446.517",
+        "643.060",
+        "851.126",
+        "972.263"
       ],
       "Taban Puan": [
-        "270.946"
+        "272.555",
+        "270.946",
+        "246.573",
+        "236.581"
       ],
-      "Şehir": "Isparta",
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108010385",
-      "Üniversite": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Program Kodu": "107010697",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sosyal ve Beşeri Bilimler Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646213"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "652,503",
-        "978,225",
-        "1,299"
+        "501.250",
+        "628.145",
+        "906.018",
+        "1.110.262"
       ],
       "Taban Puan": [
-        "269.979",
-        "235.341",
-        "205.541"
+        "266.445",
+        "272.475",
+        "241.719",
+        "224.342"
       ],
-      "Şehir": "Nevşehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110210206",
-      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+080+2+0+2+080+280+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "848226"
-      ],
-      "Taban Sıralama": [
-        "678,997",
-        "903,327",
-        "977,711"
-      ],
-      "Taban Puan": [
-        "267.327",
-        "241.957",
-        "236.103"
-      ],
-      "Şehir": "Van",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410154",
-      "Üniversite": "Atatürk Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+0+030+1+0+0+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "646224"
-      ],
-      "Taban Sıralama": [
-        "712,344",
-        "947,312",
-        "1,000"
-      ],
-      "Taban Puan": [
-        "264.041",
-        "238.063",
-        "234.098"
-      ],
-      "Şehir": "Erzurum",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100490220",
-      "Üniversite": "Afyon Kocatepe Üniversitesi",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+040+1+0+1+040+140+1"
+        "25",
+        "30",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "42412"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "715,154",
-        "911,218",
-        "1,036"
+        "542.913",
+        "715.154",
+        "911.218",
+        "1.036.632"
       ],
       "Taban Puan": [
-        "263.772",
-        "41.254",
+        "261.976",
+        "263.770",
+        "241.254",
         "230.899"
       ],
-      "Şehir": "Afyonkarahisar",
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107110096",
-      "Üniversite": "Mardin Artuklu Üniversitesi",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Program Kodu": "108310249",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+050+2+0+2+050+250+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "545214"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "733,210",
-        "831,509",
-        "1,136"
+        "553.253",
+        "639.031",
+        "890.045",
+        "1.019.799"
       ],
       "Taban Puan": [
-        "262.019",
-        "248.322",
-        "221.937"
+        "260.884",
+        "271.357",
+        "243.134",
+        "232.391"
       ],
-      "Şehir": "Mardin",
+      "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410154",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "638.021",
+        "712.344",
+        "947.312",
+        "1.000.594"
+      ],
+      "Taban Puan": [
+        "252.125",
+        "264.041",
+        "238.063",
+        "234.098"
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109890230",
-      "Üniversite": "Uşak Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "25",
+        "30",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "745,371"
+        "662.277",
+        "745.371",
+        "973.804",
+        "1.277.294"
       ],
       "Taban Puan": [
-        "260.842"
+        "249.649",
+        "260.842",
+        "235.722",
+        "208.011"
       ],
-      "Şehir": "Uşak",
+      "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100210132",
-      "Üniversite": "Adıyaman Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Program Kodu": "110210206",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+330+1+0+1+830+1+0+1+850+250+2"
+        "25",
+        "30",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "40",
-        "31+0+0+1+8",
-        "405212"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "811,103",
-        "677,634",
-        "1,026"
+        "679.586",
+        "678.997",
+        "903.327",
+        "977.711"
       ],
       "Taban Puan": [
-        "254.591",
-        "262.514",
-        "231.823"
+        "247.890",
+        "267.327",
+        "241.957",
+        "236.103"
       ],
-      "Şehir": "Adıyaman",
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108010385",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "698.000",
+        "652.503",
+        "978.225",
+        "1.299.175"
+      ],
+      "Taban Puan": [
+        "246.009",
+        "269.979",
+        "235.341",
+        "205.541"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101690097",
-      "Üniversite": "Bartın Üniversitesi",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+030+1+0+1+030+130+1"
+        "25",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "32319"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "816,234",
-        "885,679",
-        "1,120"
+        "733.084",
+        "816.234",
+        "885.679",
+        "1.120.236"
       ],
       "Taban Puan": [
+        "242.387",
         "254.097",
         "243.511",
         "223.441"
       ],
-      "Şehir": "Bartın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104310385",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "646210"
-      ],
-      "Taban Sıralama": [
-        "850,208",
-        "1,008",
-        "681,112"
-      ],
-      "Taban Puan": [
-        "250.929",
-        "232.652",
-        "224.161"
-      ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107710521",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+330+1+0+1+820+1+0+1+560+260+2"
-      ],
-      "Yerleşen": [
-        "40",
-        "31+0+0+1+8",
-        "276231"
-      ],
-      "Taban Sıralama": [
-        "870,087",
-        "696,390",
-        "922,360"
-      ],
-      "Taban Puan": [
-        "249.062",
-        "60.736",
-        "240.888"
-      ],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101710115",
-      "Üniversite": "Batman Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+050+2+0+2+050+250+2"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "54529"
-      ],
-      "Taban Sıralama": [
-        "873,125",
-        "911,928",
-        "1,031"
-      ],
-      "Taban Puan": [
-        "248.773",
-        "241.187",
-        "231.313"
-      ],
-      "Şehir": "Batman",
+      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102610194",
-      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+1560+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "796212"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "889,824",
-        "1,033",
-        "221,140"
+        "752.646",
+        "889.824",
+        "1.033.822",
+        "1.140.558"
       ],
       "Taban Puan": [
-        "247.223",
-        "0.428",
+        "240.377",
+        "247.200",
+        "230.428",
         "221.602"
       ],
-      "Şehir": "Sivas",
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108190352",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "937,941"
-      ],
-      "Taban Puan": [
-        "242.685"
-      ],
-      "Şehir": "Niğde",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106190467",
-      "Üniversite": "Karabük Üniversitesi",
-      "Fakülte": "İNsan Ve Toplum Bilimleri FaküLtesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "948,487"
-      ],
-      "Taban Puan": [
-        "241.697"
-      ],
-      "Şehir": "Karabük",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102390059",
-      "Üniversite": "Yozgat Bozok Üniversitesi",
+      "Program Kodu": "104310385",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+060+2+0+2+060+260+2"
+        "25",
+        "30",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "64622"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "982,146",
-        "1,085",
-        "501,259"
+        "766.532",
+        "850.208",
+        "1.008.868",
+        "1.112.295"
       ],
       "Taban Puan": [
-        "238.483",
-        "225.797",
-        "209.944"
+        "238.946",
+        "250.929",
+        "232.652",
+        "224.161"
       ],
-      "Şehir": "Yozgat",
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103990385",
-      "Üniversite": "Fırat Üniversitesi",
-      "Fakülte": "İnsan Ve Toplum Bilimleri Fakültesi",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+0+3----"
+        "25",
+        "30",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "995,431"
+        "772.912",
+        "995.431",
+        "782.931",
+        ""
       ],
       "Taban Puan": [
-        "237.219"
+        "238.269",
+        "237.219",
+        "252.689",
+        ""
       ],
-      "Şehir": "Elazığ",
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100210132",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "30",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "780.272",
+        "811.103",
+        "677.634",
+        "1.026.061"
+      ],
+      "Taban Puan": [
+        "237.503",
+        "254.591",
+        "262.514",
+        "231.823"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107710521",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "20",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "787.629",
+        "870.087",
+        "696.390",
+        "922.360"
+      ],
+      "Taban Puan": [
+        "236.717",
+        "249.060",
+        "260.736",
+        "240.888"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101710115",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "791.300",
+        "873.125",
+        "911.928",
+        "1.031.979"
+      ],
+      "Taban Puan": [
+        "236.334",
+        "248.773",
+        "241.187",
+        "231.313"
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107110096",
+      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "Fakülte": "Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "815.622",
+        "733.210",
+        "831.509",
+        "1.136.869"
+      ],
+      "Taban Puan": [
+        "233.719",
+        "262.019",
+        "248.322",
+        "221.937"
+      ],
+      "Şehir": "MARDİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106190467",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "839.028",
+        "948.487",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "231.150",
+        "241.697",
+        "",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190352",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "857.548",
+        "937.941",
+        "1.003.623",
+        "1.456.907"
+      ],
+      "Taban Puan": [
+        "229.090",
+        "242.685",
+        "233.111",
+        "180.945"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390059",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "896.881",
+        "982.146",
+        "1.085.650",
+        "1.259.117"
+      ],
+      "Taban Puan": [
+        "224.599",
+        "238.483",
+        "225.797",
+        "209.944"
+      ],
+      "Şehir": "YOZGAT",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102190162",
-      "Üniversite": "Bitlis Eren Üniversitesi",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+030+1+0+1+0--"
+        "25",
+        "30",
+        "30",
+        ""
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "32"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "998,511",
-        "1,119"
+        "938.503",
+        "998.511",
+        "1.119.181",
+        ""
       ],
       "Taban Puan": [
+        "219.548",
         "236.916",
-        "222.757"
+        "222.757",
+        ""
       ],
-      "Şehir": "Bitlis",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105290046",
-      "Üniversite": "Iğdır Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+030+1+0+1+050+2+0+2+040+140+1"
-      ],
-      "Yerleşen": [
-        "32",
-        "31+0+0+1+0",
-        "54382"
-      ],
-      "Taban Sıralama": [
-        "1,046",
-        "901,155"
-      ],
-      "Taban Puan": [
-        "232.186",
-        "219.423"
-      ],
-      "Şehir": "Iğdır",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101290142",
-      "Üniversite": "Ardahan Üniversitesi",
-      "Fakülte": "İnsani Bilimler Ve Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "1,050"
-      ],
-      "Taban Puan": [
-        "231.804"
-      ],
-      "Şehir": "Ardahan",
+      "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105990291",
-      "Üniversite": "Kafkas Üniversitesi",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "S",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+030+1+0+1+0---"
+        "25",
+        "30",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "32",
-        "31+0+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,057"
+        "943.960",
+        "1.057.322",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "231.16"
+        "218.874",
+        "231.160",
+        "",
+        ""
       ],
-      "Şehir": "Kars",
+      "Şehir": "KARS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "300190706",
-      "Üniversite": "Doğu Akdeniz ÜniversitesiKKTCFen Ve Edebiyat Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "105290046",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+0+0+0+0----"
+        "25",
+        "30",
+        "50",
+        "40"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Famagusta",
-      "Ücret": "Ücretli"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "952.980",
+        "1.046.990",
+        "1.155.367",
+        ""
+      ],
+      "Taban Puan": [
+        "217.734",
+        "232.186",
+        "219.423",
+        ""
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "300190699",
-      "Üniversite": "Doğu Akdeniz ÜniversitesiKKTCFen Ve Edebiyat Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "101290142",
+      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
+      "Fakülte": "İnsani Bilimler ve Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sanat Tarihi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+0+0+0----"
+        "25",
+        "30",
+        "40",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Famagusta",
-      "Ücret": "Burslu"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "956.480",
+        "1.050.831",
+        "1.074.523",
+        "1.446.173"
+      ],
+      "Taban Puan": [
+        "217.285",
+        "231.804",
+        "226.791",
+        "183.632"
+      ],
+      "Şehir": "ARDAHAN",
+      "Ücret": "Ücretsiz"
     }
   ]
 }

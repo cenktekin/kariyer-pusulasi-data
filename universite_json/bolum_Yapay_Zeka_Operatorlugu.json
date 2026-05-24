@@ -1,804 +1,1364 @@
 {
   "yks": [
     {
-      "Program Kodu": "111890301",
-      "Üniversite": "Sakarya Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu (Karasu)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "205750261",
+      "Üniversite": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Ankara Havacılık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "30+1+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "516,098"
+        "230.200",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "335.353"
+        "382.476",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Sakarya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106290365",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
-      "Fakülte": "Araklı Ali Cevat Özyurt Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+0---"
-      ],
-      "Yerleşen": [
-        "30+1+0+0+0"
-      ],
-      "Taban Sıralama": [
-        "578,224"
-      ],
-      "Taban Puan": [
-        "327.988"
-      ],
-      "Şehir": "Trabzon",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106190180",
-      "Üniversite": "Karabük Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0"
-      ],
-      "Taban Sıralama": [
-        "726,959"
-      ],
-      "Taban Puan": [
-        "313.115"
-      ],
-      "Şehir": "Karabük",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110910413",
-      "Üniversite": "Ankara Sosyal Bilimler Üniversitesi",
-      "Fakülte": "Asbü-Kuzey Kıbrıs Yerleşkesi (Kktc-Lefkoşa)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106490297",
-      "Üniversite": "Kastamonu Üniversitesi",
-      "Fakülte": "Tosya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "42+2+0+2+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kastamonu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390467",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Aydın Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390460",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Aydın Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101590287",
-      "Üniversite": "Balıkesir Üniversitesi",
-      "Fakülte": "Balıkesir Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Balıkesir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101690176",
-      "Üniversite": "Bartın Üniversitesi",
-      "Fakülte": "Bartın Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Bartın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390357",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112370931",
-      "Üniversite": "Kayseri Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kayseri",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111490328",
-      "Üniversite": "Kütahya Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Kütahya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kütahya",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107290576",
-      "Üniversite": "Marmara Üniversitesi",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "263.137",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "374.866",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107090508",
-      "Üniversite": "Necmettin Erbakan Üniversitesi",
-      "Fakülte": "Konya Organize Sanayi Bölgesi Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Konya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201290628",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201290635",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201991546",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "201991539",
-      "Üniversite": "Haliç Üniversitesi",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201991553",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "28+0+0+0+0----"
+      "Taban Sıralama": [
+        "329.165",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "201650486",
-      "Üniversite": "Hasan Kalyoncu Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "361.650",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "12+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Gaziantep",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "201650479",
-      "Üniversite": "Hasan Kalyoncu Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Gaziantep",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201650493",
-      "Üniversite": "Hasan Kalyoncu Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "13+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Gaziantep",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201790586",
-      "Üniversite": "İstanbul Gedik Üniversitesi",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210302124",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "381.672",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "352.574",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "210302131",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
+      "Program Kodu": "201290628",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "383.946",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "352.221",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204790885",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "395.716",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "350.325",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201790586",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "446.589",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "342.758",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111890301",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu (Karasu)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "464.241",
+        "516.098",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "340.326",
+        "335.353",
+        "",
+        ""
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201650479",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "493.591",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "336.415",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110410384",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "511.356",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "334.132",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101590287",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Balıkesir Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "514.316",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "333.758",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370931",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "521.159",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "332.906",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100390460",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Aydın Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "535.797",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "331.127",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107090508",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Konya Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "543.017",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "330.266",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106290365",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Araklı Ali Cevat Özyurt Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "573.748",
+        "579.874",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "326.687",
+        "327.805",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106190180",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "660.581",
+        "726.959",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "317.372",
+        "313.115",
+        "",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111490328",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Kütahya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "719.731",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "311.622",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690176",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "Bartın Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "782.888",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "305.862",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390357",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "869.384",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "298.501",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106490297",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "Tosya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.088.621",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "281.557",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110910413",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.211.403",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "272.772",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201650493",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.763.478",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "234.946",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210302131",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "110410391",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201290635",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "201790593",
-      "Üniversite": "İstanbul Gedik Üniversitesi",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
       "Fakülte": "Gedik Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "34",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "204790885",
-      "Üniversite": "İstanbul Okan Üniversitesi",
+      "Program Kodu": "201650486",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "12",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204790892",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "205750268",
-      "Üniversite": "Türk Hava Kurumu Üniversitesi",
-      "Fakülte": "Ankara Havacılık Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "205750261",
-      "Üniversite": "Türk Hava Kurumu Üniversitesi",
-      "Fakülte": "Ankara Havacılık Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110410391",
-      "Üniversite": "Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110410384",
-      "Üniversite": "Adana Alparslan Türkeş Bilim Ve Teknoloji Üniversitesi",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+3----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "110910420",
-      "Üniversite": "Ankara Sosyal Bilimler Üniversitesi",
-      "Fakülte": "Asbü-Kuzey Kıbrıs Yerleşkesi (Kktc-Lefkoşa)",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+0----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "110910427",
-      "Üniversite": "Ankara Sosyal Bilimler Üniversitesi",
-      "Fakülte": "Asbü-Kuzey Kıbrıs Yerleşkesi (Kktc-Lefkoşa)",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+0+0+0+0----"
+        "20",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201991546",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201991553",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "204790892",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "100390467",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Aydın Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yapay Zeka Operatörlüğü (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205750268",
+      "Üniversite": "TÜRK HAVA KURUMU ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Ankara Havacılık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Yapay Zeka Operatörlüğü (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
     }
   ]
 }

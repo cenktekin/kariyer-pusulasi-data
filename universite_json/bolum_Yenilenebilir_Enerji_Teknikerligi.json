@@ -1,371 +1,643 @@
 {
   "yks": [
     {
-      "Program Kodu": "100490347",
-      "Üniversite": "Afyon Kocatepe Üniversitesi",
-      "Fakülte": "Bolvadin Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Afyonkarahisar",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101490964",
-      "Üniversite": "Atatürk Üniversitesi",
-      "Fakülte": "İspir Hamza Polat Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzurum",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "101190787",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Nallıhan Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390474",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Buharkent Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "25+1+0+1+0----"
+      "Taban Sıralama": [
+        "764.946",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390364",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "307.475",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102790539",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Biga Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103390300",
-      "Üniversite": "Düzce Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Düzce",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103690193",
-      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzincan",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112572490",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Keçiborlu Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Isparta",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100690178",
-      "Üniversite": "Kırşehir Ahi Evran Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kırşehir",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111570553",
-      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
       "Fakülte": "Yeşilyurt Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+3----"
+        "25",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Malatya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109590069",
-      "Üniversite": "Munzur Üniversitesi",
-      "Fakülte": "Tunceli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
+      "Taban Sıralama": [
+        "855.513",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Tunceli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107090515",
-      "Üniversite": "Necmettin Erbakan Üniversitesi",
-      "Fakülte": "Seydişehir Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "299.659",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Konya",
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111890392",
-      "Üniversite": "Sakarya Uygulamalı Bilimler Üniversitesi",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Hendek Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "25",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Sakarya",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "913.544",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "294.914",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104390218",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Niksar Meslek Yüksekokulu",
+      "Program Kodu": "102790539",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Biga Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Tokat",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "920.967",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "294.335",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100390474",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Buharkent Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "964.397",
+        "",
+        "1.556.713",
+        "1.407.470"
+      ],
+      "Taban Puan": [
+        "290.901",
+        "",
+        "253.402",
+        "255.953"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103390300",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "989.284",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "288.990",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107090515",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Seydişehir Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.108.061",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "280.150",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100690178",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.130.710",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "278.520",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112572490",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Keçiborlu Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.189.221",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "274.324",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109590069",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "Tunceli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.297.729",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "266.769",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TUNCELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390364",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.332.703",
+        "",
+        "1.830.903",
+        "1.809.057"
+      ],
+      "Taban Puan": [
+        "264.353",
+        "",
+        "237.849",
+        "235.059"
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109490419",
-      "Üniversite": "Trakya Üniversitesi",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "Keşan Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Y",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Edirne",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.332.987",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "264.333",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103690193",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.368.828",
+        "",
+        "1.889.836",
+        "1.953.995"
+      ],
+      "Taban Puan": [
+        "261.875",
+        "",
+        "234.672",
+        "228.567"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100490347",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "Bolvadin Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.385.357",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "260.744",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390218",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Niksar Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.449.872",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "256.324",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490964",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "İspir Hamza Polat Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Yenilenebilir Enerji Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.680.449",
+        "",
+        "1.900.691",
+        "1.821.531"
+      ],
+      "Taban Puan": [
+        "240.625",
+        "",
+        "234.089",
+        "234.490"
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     }
   ]

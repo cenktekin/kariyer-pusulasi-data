@@ -1,956 +1,564 @@
 {
   "yks": [
     {
-      "Program Kodu": "105510195",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "Gemi İnşaatı Ve Deniz Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+040+1+0+0+050+2+0+0+055+260+2"
-      ],
-      "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "525762"
-      ],
-      "Taban Sıralama": [
-        "16,409",
-        "24,266",
-        "33,448",
-        "41,303"
-      ],
-      "Taban Puan": [
-        "486.458",
-        "491.438",
-        "477.816",
-        "402.641"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110110234",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Gemi İnşaatı Ve Denizcilik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "85+3+0+0+085+3+0+0+080+2+0+0+080+280+2"
-      ],
-      "Yerleşen": [
-        "88",
-        "85+3+0+0+0",
-        "828282"
-      ],
-      "Taban Sıralama": [
-        "32,688",
-        "40,128",
-        "50,704",
-        "57,003"
-      ],
-      "Taban Puan": [
-        "458.449",
-        "470.531",
-        "456.773",
-        "384.248"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204910087",
-      "Üniversite": "Piri Reis Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "12+0+2+0+112+0+2+0+111+0+2+0+112+011+0"
-      ],
-      "Yerleşen": [
-        "13",
-        "12+0+0+0+1",
-        "121211"
-      ],
-      "Taban Sıralama": [
-        "42,636",
-        "52,245",
-        "59,610",
-        "64,732"
-      ],
-      "Taban Puan": [
-        "444.582",
-        "456.551",
-        "446.647",
-        "376.009"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105511024",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "İtü-Kktc Eğitim Araştırma Yerleşkesi (Gazimağusa)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+0+0+05+0+0+0+07+0+0+0+010+011+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "5+0+0+0+0",
-        "71011"
-      ],
-      "Taban Sıralama": [
-        "61,202",
-        "60,381",
-        "96,072",
-        "124,639"
-      ],
-      "Taban Puan": [
-        "422.086",
-        "447.658",
-        "409.172",
-        "324.082"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102410198",
-      "Üniversite": "Bursa Teknik Üniversitesi",
-      "Fakülte": "Denizcilik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+045+2+0+0+040+1+0+0+040+140+1"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "414141"
-      ],
-      "Taban Sıralama": [
-        "80,728",
-        "92,330",
-        "122,375",
-        "146,807"
-      ],
-      "Taban Puan": [
-        "401.838",
-        "415.602",
-        "386.254",
-        "309.607"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105761151",
-      "Üniversite": "İzmir Katip Çelebi Üniversitesi",
-      "Fakülte": "Gemi İnşaatı Ve Denizcilik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+025+1+0+0+025+1-"
-      ],
-      "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "2626"
-      ],
-      "Taban Sıralama": [
-        "81,317",
-        "99,563",
-        "132,632"
-      ],
-      "Taban Puan": [
-        "401.254",
-        "409.246",
-        "378.259"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110670135",
-      "Üniversite": "Bandırma Onyedi Eylül Üniversitesi",
-      "Fakülte": "Denizcilik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+0+035+1+0+0+030+1+0+0+030+130+1"
-      ],
-      "Yerleşen": [
-        "36",
-        "35+1+0+0+0",
-        "313131"
-      ],
-      "Taban Sıralama": [
-        "102,731",
-        "120,697",
-        "152,434",
-        "165,631"
-      ],
-      "Taban Puan": [
-        "382.076",
-        "392.175",
-        "364.397",
-        "298.854"
-      ],
-      "Şehir": "Balıkesir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204910218",
-      "Üniversite": "Piri Reis Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "44+0+0+0+045+0+0+0+050+0+0+0+056+056+0"
-      ],
-      "Yerleşen": [
-        "45",
-        "45+0+0+0+0",
-        "505656"
-      ],
-      "Taban Sıralama": [
-        "108,605",
-        "136,175",
-        "165,631",
-        "181,709"
-      ],
-      "Taban Puan": [
-        "377.313",
-        "380.967",
-        "356.022",
-        "290.657"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "105590136",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "Gemi İnşaatı Ve Deniz Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+025+0+0+0+025+0+0+0+025+025+0"
-      ],
-      "Yerleşen": [
-        "25",
-        "25+0+0+0+0",
-        "1461"
-      ],
-      "Taban Sıralama": [
-        "111,022"
-      ],
-      "Taban Puan": [
-        "375.384"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106210495",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
-      "Fakülte": "Sürmene Deniz Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+0+065+2+0+0+060+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "67",
-        "65+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "113,695",
-        "122,978",
-        "144,548",
-        "155,337"
-      ],
-      "Taban Puan": [
-        "373.298",
-        "390.428",
-        "369.709",
-        "304.6"
-      ],
-      "Şehir": "Trabzon",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108390196",
-      "Üniversite": "Ordu Üniversitesi",
-      "Fakülte": "Fatsa Deniz Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+0+025+1+0+0+0---"
-      ],
-      "Yerleşen": [
-        "26",
-        "25+1+0+0+0"
-      ],
-      "Taban Sıralama": [
-        "143,419"
-      ],
-      "Taban Puan": [
-        "352.9"
-      ],
-      "Şehir": "Ordu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105590135",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "Gemi İnşaatı Ve Deniz Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "2+0+0+0+01+0+0+0+02+0+0+0+01+01+0"
-      ],
-      "Yerleşen": [
-        "1",
-        "1+0+0+0+0",
-        "21"
-      ],
-      "Taban Sıralama": [
-        "160,357",
-        "254,416",
-        "129,947"
-      ],
-      "Taban Puan": [
-        "342.916",
-        "322.374",
-        "380.287"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110790067",
-      "Üniversite": "İskenderun Teknik Üniversitesi",
-      "Fakülte": "Barbaros Hayrettin Gemi İnşaatı Ve Denizcilik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+0+435+1+0+0+930+1+0+0+8--"
-      ],
-      "Yerleşen": [
-        "45",
-        "36+0+0+0+9",
-        "39"
-      ],
-      "Taban Sıralama": [
-        "179,919",
-        "207,736"
-      ],
-      "Taban Puan": [
-        "332.721",
-        "340.983"
-      ],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204910078",
-      "Üniversite": "Piri Reis Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "37+0+0+0+036+0+0+0+027+0+0+0+012+08+0"
-      ],
-      "Yerleşen": [
-        "36",
-        "36+0+0+0+0",
-        "27128"
-      ],
-      "Taban Sıralama": [
-        "234,265",
-        "284,193",
-        "250,439",
-        "264,234"
-      ],
-      "Taban Puan": [
-        "310.213",
-        "312.409",
-        "315.238",
-        "258.262"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
       "Program Kodu": "204950086",
-      "Üniversite": "Piri Reis Üniversitesi",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "12+0+2+0+112+0+2+0+111+0+2+0+1--"
+        "12",
+        "12",
+        "11",
+        "12"
       ],
       "Yerleşen": [
-        "12+0+0+0+1",
-        "13"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "294,885"
+        "261.898",
+        "294.885",
+        "311.264",
+        "351.225"
       ],
       "Taban Puan": [
-        "371.96"
+        "375.147",
+        "371.960",
+        "369.973",
+        "358.033"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102790371",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+0----"
+        "50",
+        "50",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "630,707"
+        "592.931",
+        "630.707",
+        "664.584",
+        "633.325"
       ],
       "Taban Puan": [
-        "322.382"
+        "324.533",
+        "322.382",
+        "320.159",
+        "316.929"
       ],
-      "Şehir": "Çanakkale",
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107690229",
-      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
       "Fakülte": "Bodrum Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+025+1+0+1+025+1+0+1+0--"
+        "25",
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
-        "25+1+0+1+0",
-        "26"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "670,588"
+        "600.499",
+        "675.772",
+        "710.774",
+        "702.094"
       ],
       "Taban Puan": [
-        "318.412"
+        "323.707",
+        "317.906",
+        "315.507",
+        "309.543"
       ],
-      "Şehir": "Muğla",
+      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109970302",
-      "Üniversite": "Yalova Üniversitesi",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
       "Fakülte": "Altınova Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "41"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "775,131"
+        "729.432",
+        "775.131",
+        "817.804",
+        "798.210"
       ],
       "Taban Puan": [
-        "308.85"
+        "310.705",
+        "308.850",
+        "305.567",
+        "300.224"
       ],
-      "Şehir": "Yalova",
+      "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106990841",
-      "Üniversite": "Kocaeli Üniversitesi",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
       "Fakülte": "Karamürsel Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+2+0----"
+        "70",
+        "70",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "784,042"
+        "742.839",
+        "784.042",
+        "801.344",
+        "781.913"
       ],
       "Taban Puan": [
-        "308.071"
+        "309.473",
+        "308.071",
+        "307.030",
+        "301.745"
       ],
-      "Şehir": "Kocaeli",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110650034",
-      "Üniversite": "Bandırma Onyedi Eylül Üniversitesi",
+      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "62"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "806,931"
+        "779.341",
+        "806.931",
+        "897.127",
+        "929.890"
       ],
       "Taban Puan": [
-        "306.132"
+        "306.182",
+        "306.132",
+        "298.785",
+        "288.760"
       ],
-      "Şehir": "Balıkesir",
+      "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204950095",
-      "Üniversite": "Piri Reis Üniversitesi",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "43+0+0+0+043+0+0+0+051+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "43+0+0+0+0",
-        "Doldu-51"
-      ],
-      "Taban Sıralama": [
-        "861,402",
-        "934,522"
-      ],
-      "Taban Puan": [
-        "301.662",
-        "295.755"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "111890198",
-      "Üniversite": "Sakarya Uygulamalı Bilimler Üniversitesi",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Denizcilik Meslek Yüksekokulu (Kocaali)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+0+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "894,302",
-        "1,041"
+        "804.931",
+        "894.302",
+        "1.041.653",
+        "1.020.746"
       ],
       "Taban Puan": [
+        "303.937",
         "299.093",
-        "287.457"
+        "287.457",
+        "281.598"
       ],
-      "Şehir": "Sakarya",
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106251217",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "Sürmene Abdullah Kanca Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+2+0--"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+0+0",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "926,276"
+        "862.881",
+        "926.276",
+        "1.077.918",
+        "1.009.777"
       ],
       "Taban Puan": [
-        "296.67"
+        "299.038",
+        "296.670",
+        "284.787",
+        "282.441"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204950095",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gemi İnşaatı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "43",
+        "43",
+        "51",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "911.953",
+        "861.402",
+        "934.522",
+        "1.066.180"
+      ],
+      "Taban Puan": [
+        "295.048",
+        "301.662",
+        "295.755",
+        "278.217"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "108350548",
-      "Üniversite": "Ordu Üniversitesi",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
       "Fakülte": "Fatsa Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,055"
+        "948.075",
+        "1.055.389",
+        "1.172.816",
+        "1.151.475"
       ],
       "Taban Puan": [
-        "287.302"
+        "292.172",
+        "287.301",
+        "278.017",
+        "272.160"
       ],
-      "Şehir": "Ordu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101650169",
-      "Üniversite": "Bartın Üniversitesi",
-      "Fakülte": "Bartın Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "1,091",
-        "961,202"
-      ],
-      "Taban Puan": [
-        "284.782",
-        "75.93"
-      ],
-      "Şehir": "Bartın",
+      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110350452",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
       "Fakülte": "Alaplı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+0---"
+        "30",
+        "30",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "31+0+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,112"
+        "961.663",
+        "1.112.854",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "283.358"
+        "291.111",
+        "283.358",
+        "",
+        ""
       ],
-      "Şehir": "Zonguldak",
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101650169",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "Bartın Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gemi İnşaatı (Kurucaşile)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.009.367",
+        "1.091.896",
+        "1.202.625",
+        "1.188.565"
+      ],
+      "Taban Puan": [
+        "287.460",
+        "284.780",
+        "275.930",
+        "269.639"
+      ],
+      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "204950415",
-      "Üniversite": "Piri Reis Üniversitesi",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "33+0+0+0+033+0+0+0+026+0+0+0+0--"
+        "33",
+        "33",
+        "26",
+        "8"
       ],
       "Yerleşen": [
-        "33+0+0+0+0",
-        "Doldu-26"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,662",
-        "421,685"
+        "1.976.094",
+        "1.662.742",
+        "1.685.178",
+        "1.587.296"
       ],
       "Taban Puan": [
+        "219.816",
         "249.421",
-        "245.928"
+        "245.928",
+        "246.021"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "109970365",
-      "Üniversite": "Yalova Üniversitesi",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
       "Fakülte": "Altınova Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi İnşaatı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+01+0+0+0+0---"
+        "1",
+        "1",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "1+0+0+0+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,782"
+        "",
+        "1.782.499",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "242.62"
+        "",
+        "242.620",
+        "",
+        ""
       ],
-      "Şehir": "Yalova",
+      "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105510953",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "İtü-Kktc Eğitim Araştırma Yerleşkesi (Gazimağusa)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+025+0+0+0+025+0+0+0+010+010+0"
-      ],
-      "Yerleşen": [
-        "3",
-        "3+0+0+0+0",
-        "2510"
-      ],
-      "Taban Sıralama": [
-        "174,162",
-        "157,810",
-        "250,546"
-      ],
-      "Taban Puan": [
-        "335.625",
-        "366.953",
-        "315.186"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
     }
   ]
 }

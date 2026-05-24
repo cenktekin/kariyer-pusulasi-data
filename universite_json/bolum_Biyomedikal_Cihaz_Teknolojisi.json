@@ -2,1532 +2,3283 @@
   "yks": [
     {
       "Program Kodu": "111091384",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Erkek) (Milli Savunma Bakanlığı Adına)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+1+0+0+03+1+0+0+0---"
+        "3",
+        "3",
+        "",
+        "2"
       ],
       "Yerleşen": [
-        "3+1+0+0+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "268,117"
+        "184.456",
+        "268.117",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "378.202"
+        "394.704",
+        "378.202",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200150758",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+13+0+1+0+1--"
+        "4",
+        "4",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "4+0+1+0+0",
-        "4"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "422,836"
+        "426.424",
+        "440.889",
+        "446.542",
+        "378.293"
       ],
       "Taban Puan": [
-        "348.338"
+        "345.677",
+        "345.606",
+        "346.742",
+        "352.936"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "200650162",
-      "Üniversite": "Başkent Üniversitesi",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+15+0+1+0+1--"
+        "4",
+        "4",
+        "5",
+        "6"
       ],
       "Yerleşen": [
-        "4+0+0+0+0",
-        "5"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "583,435"
+        "497.749",
+        "583.435",
+        "696.743",
+        "629.409"
       ],
       "Taban Puan": [
-        "327.41"
+        "335.875",
+        "327.410",
+        "316.880",
+        "317.357"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209210019",
-      "Üniversite": "Ankara Medipol Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+18+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "8+0+0+0+1",
-        "Doldu-9"
-      ],
-      "Taban Sıralama": [
-        "597,089",
-        "693,370"
-      ],
-      "Taban Puan": [
-        "325.923",
-        "317.217"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "203151986",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+0",
+        "7",
+        "7",
+        "7",
         "8"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "609,775"
+        "511.395",
+        "609.775",
+        "636.618",
+        "545.942"
       ],
       "Taban Puan": [
-        "324.551"
+        "334.126",
+        "324.551",
+        "323.115",
+        "327.422"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209110045",
-      "Üniversite": "Ostim Teknik Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "103450129",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Ege Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+17+0+1+0+17+0+1+0+1--"
+        "30",
+        "80",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "638,115"
+        "511.622",
+        "663.740",
+        "690.751",
+        "675.021"
       ],
       "Taban Puan": [
-        "321.629"
+        "334.098",
+        "319.082",
+        "317.490",
+        "312.385"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207650398",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "209210019",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+1--"
+        "8",
+        "8",
+        "8",
+        "7"
       ],
       "Yerleşen": [
-        "5+0+0+0+0",
-        "6"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "652,066"
+        "534.498",
+        "597.089",
+        "693.370",
+        "702.803"
       ],
       "Taban Puan": [
-        "320.24"
+        "331.291",
+        "325.923",
+        "317.217",
+        "309.469"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101150765",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Gama Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+065+2+0+0+065+2+0+2+0--"
+        "40",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "65+2+0+0+0",
-        "Doldu-69"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "658,189",
-        "725,740"
+        "539.799",
+        "661.408",
+        "725.740",
+        "681.948"
       ],
       "Taban Puan": [
-        "319.633",
-        "14.069"
+        "330.647",
+        "319.318",
+        "314.069",
+        "311.651"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103450129",
-      "Üniversite": "Ege Üniversitesi",
-      "Fakülte": "Ege Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+080+2+0+0+080+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "82+0+0+0+0",
-        "82"
-      ],
-      "Taban Sıralama": [
-        "663,740"
-      ],
-      "Taban Puan": [
-        "319.082"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207950094",
-      "Üniversite": "Yüksek İhtisas Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "209110045",
+      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+1",
-        "5"
-      ],
-      "Taban Sıralama": [
-        "686,174"
-      ],
-      "Taban Puan": [
-        "316.902"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103190810",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "733,832"
-      ],
-      "Taban Puan": [
-        "312.484"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206550269",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+17+0+1+0+16+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+0",
+        "10",
+        "7",
+        "7",
         "6"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "737,977"
+        "548.878",
+        "638.115",
+        "661.597",
+        "653.010"
       ],
       "Taban Puan": [
-        "312.101"
+        "329.578",
+        "321.629",
+        "320.472",
+        "314.775"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "100750162",
-      "Üniversite": "Akdeniz Üniversitesi",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+070+2+0+2+070+2+0+2+0--"
+        "35",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "72+0+0+2+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "741,616",
-        "799,032"
+        "579.270",
+        "742.385",
+        "799.032",
+        "781.459"
       ],
       "Taban Puan": [
-        "311.779",
-        "307.238"
+        "326.058",
+        "311.710",
+        "307.238",
+        "301.785"
       ],
-      "Şehir": "Antalya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111650236",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+0+070+2+0+0+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "72+0+0+0+0",
-        "Doldu-74"
-      ],
-      "Taban Sıralama": [
-        "745,607",
-        "807,379"
-      ],
-      "Taban Puan": [
-        "311.424",
-        "306.494"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111050046",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "762,997",
-        "842,012"
+        "585.671",
+        "762.997",
+        "842.012",
+        "749.037"
       ],
       "Taban Puan": [
+        "325.340",
         "309.889",
-        "303.455"
+        "303.455",
+        "304.882"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208450987",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "103190810",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+1---"
+        "30",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "4+0+0+0+1"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "764,328"
+        "586.132",
+        "733.832",
+        "",
+        "724.403"
       ],
       "Taban Puan": [
-        "309.774"
+        "325.291",
+        "312.484",
+        "",
+        "307.279"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207950094",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "588.129",
+        "686.174",
+        "778.942",
+        "748.059"
+      ],
+      "Taban Puan": [
+        "325.065",
+        "316.902",
+        "309.048",
+        "304.975"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202752009",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "111650236",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+15+0+1+0+1--"
+        "35",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "4+0+0+0+1",
-        "5"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "772,629"
+        "599.721",
+        "745.607",
+        "807.379",
+        "719.939"
       ],
       "Taban Puan": [
-        "309.064"
+        "323.793",
+        "311.424",
+        "306.494",
+        "307.733"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207650398",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "623.245",
+        "652.066",
+        "616.529",
+        "514.701"
+      ],
+      "Taban Puan": [
+        "321.271",
+        "320.240",
+        "325.303",
+        "331.593"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208450987",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "645.221",
+        "764.328",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "318.961",
+        "309.774",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108651022",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Denizli Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "646.186",
+        "849.687",
+        "930.103",
+        "893.611"
+      ],
+      "Taban Puan": [
+        "318.857",
+        "302.618",
+        "296.109",
+        "291.775"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206550269",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "7",
+        "6",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "663.786",
+        "737.977",
+        "805.878",
+        "807.054"
+      ],
+      "Taban Puan": [
+        "317.050",
+        "312.101",
+        "306.627",
+        "299.413"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106951079",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Kocaeli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "674.446",
+        "858.605",
+        "929.391",
+        "930.646"
+      ],
+      "Taban Puan": [
+        "315.992",
+        "301.879",
+        "296.161",
+        "288.700"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111110088",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "676.052",
+        "797.920",
+        "885.657",
+        "795.207"
+      ],
+      "Taban Puan": [
+        "315.827",
+        "306.894",
+        "299.748",
+        "300.511"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202454071",
-      "Üniversite": "İstanbul Aydın Üniversitesi",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
       "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "11+0+2+0+110+0+1+0+18+0+1+0+1--"
+        "11",
+        "10",
+        "8",
+        "9"
       ],
       "Yerleşen": [
-        "10+0+0+0+0",
-        "Doldu-9"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "777,417",
-        "807,078"
+        "690.884",
+        "777.417",
+        "807.078",
+        "795.284"
       ],
       "Taban Puan": [
-        "308.653",
-        "06.52"
+        "314.362",
+        "308.650",
+        "306.520",
+        "300.505"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "201750979",
-      "Üniversite": "İstanbul Gedik Üniversitesi",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
       "Fakülte": "Gedik Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+14+0+1+0+13+0+1+0+1--"
+        "5",
+        "4",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "4+0+0+0+1",
-        "4"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "785,486"
+        "692.910",
+        "785.486",
+        "829.789",
+        "681.090"
       ],
       "Taban Puan": [
-        "307.946"
+        "314.171",
+        "307.946",
+        "304.524",
+        "311.744"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "111110088",
-      "Üniversite": "İzmir Demokrasi Üniversitesi",
+      "Program Kodu": "202752009",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+        "4",
+        "4",
+        "5",
+        "10"
       ],
       "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "797,920",
-        "885,657"
+        "712.859",
+        "772.629",
+        "860.098",
+        "838.024"
       ],
       "Taban Puan": [
-        "306.894",
-        "299.748"
+        "312.279",
+        "309.064",
+        "301.888",
+        "296.581"
       ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108651022",
-      "Üniversite": "Pamukkale Üniversitesi",
-      "Fakülte": "Denizli Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+070+2+0+2+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "72+0+0+2+0",
-        "73"
-      ],
-      "Taban Sıralama": [
-        "849,687"
-      ],
-      "Taban Puan": [
-        "302.618"
-      ],
-      "Şehir": "Denizli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106951079",
-      "Üniversite": "Kocaeli Üniversitesi",
-      "Fakülte": "Kocaeli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "62"
-      ],
-      "Taban Sıralama": [
-        "858,605"
-      ],
-      "Taban Puan": [
-        "301.879"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108251362",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
       "Fakülte": "Yeşilyurt Demir Çelik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "910,745",
-        "1,004"
+        "718.389",
+        "910.745",
+        "1.004.203",
+        "911.696"
       ],
       "Taban Puan": [
-        "297.842",
-        "90.307"
+        "311.750",
+        "297.840",
+        "290.307",
+        "290.267"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105090082",
-      "Üniversite": "Harran Üniversitesi",
-      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "201490388",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+340+1+0+1+1040+1+0+1+10--"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "41+0+0+1+10",
-        "Doldu-52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "985,488",
-        "951,303"
+        "727.393",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "292.272",
-        "294.402"
+        "310.896",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Şanlıurfa",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "106250564",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
-      "Fakülte": "Trabzon Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "210302180",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+0+060+2+0+0+060+2+0+2+0--"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "62+0+0+0+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "988,510",
-        "1,114"
+        "728.404",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "292.053",
-        "282.096"
+        "310.803",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202391116",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "731.208",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "310.543",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402978",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "745.844",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "309.204",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112370771",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "764.014",
+        "1.007.691",
+        "1.101.312",
+        "1.040.458"
+      ],
+      "Taban Puan": [
+        "307.562",
+        "290.680",
+        "283.087",
+        "280.122"
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107950987",
-      "Üniversite": "Tekirdağ Namık Kemal Üniversitesi",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "996,572"
+        "791.383",
+        "996.572",
+        "1.149.760",
+        "1.105.188"
       ],
       "Taban Puan": [
-        "291.47"
+        "305.123",
+        "291.470",
+        "279.631",
+        "275.396"
       ],
-      "Şehir": "Tekirdağ",
+      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112370771",
-      "Üniversite": "Kayseri Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Program Kodu": "106250564",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Trabzon Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+055+2+0+2+055+2+0+2+0--"
+        "35",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "56+1+0+2+0",
-        "Doldu-59"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,007",
-        "911,101"
+        "807.191",
+        "988.510",
+        "1.114.945",
+        "1.078.411"
       ],
       "Taban Puan": [
-        "290.682",
-        "83.087"
+        "303.743",
+        "292.053",
+        "282.096",
+        "277.331"
       ],
-      "Şehir": "Kayseri",
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090082",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "817.709",
+        "985.488",
+        "951.303",
+        "946.330"
+      ],
+      "Taban Puan": [
+        "302.841",
+        "292.272",
+        "294.402",
+        "287.418"
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112550476",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+070+2+0+2+070+2+0+2+0--"
+        "35",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "72+0+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,059",
-        "471,152"
+        "843.475",
+        "1.059.647",
+        "1.152.647",
+        "1.091.701"
       ],
       "Taban Puan": [
+        "300.653",
         "287.002",
-        "279.422"
+        "279.422",
+        "276.367"
       ],
-      "Şehir": "Isparta",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102751303",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Çan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+1+0",
-        "62"
-      ],
-      "Taban Sıralama": [
-        "1,063"
-      ],
-      "Taban Puan": [
-        "286.708"
-      ],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102590173",
-      "Üniversite": "Manisa Celâl Bayar Üniversitesi",
-      "Fakülte": "Soma Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "1,077",
-        "601,193"
-      ],
-      "Taban Puan": [
-        "285.763",
-        "276.563"
-      ],
-      "Şehir": "Manisa",
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100450226",
-      "Üniversite": "Afyon Kocatepe Üniversitesi",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
       "Fakülte": "Afyon Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "32+1+0+1+065+2+0+2+065+2+0+2+0--"
+        "32",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "67+0+0+2+0",
-        "68"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,096"
+        "849.900",
+        "1.096.008",
+        "1.198.485",
+        "1.136.940"
       ],
       "Taban Puan": [
-        "284.5"
+        "300.122",
+        "284.500",
+        "276.222",
+        "273.168"
       ],
-      "Şehir": "Afyonkarahisar",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101990053",
-      "Üniversite": "Bilecik Şeyh Edebali Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "1,121"
-      ],
-      "Taban Puan": [
-        "282.774"
-      ],
-      "Şehir": "Bilecik",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108050481",
-      "Üniversite": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+0+0",
-        "52"
-      ],
-      "Taban Sıralama": [
-        "1,136"
-      ],
-      "Taban Puan": [
-        "281.792"
-      ],
-      "Şehir": "Nevşehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103950212",
-      "Üniversite": "Fırat Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+360+2+0+0+1560+2+0+2+15--"
-      ],
-      "Yerleşen": [
-        "62+0+0+0+15",
-        "Doldu-79"
-      ],
-      "Taban Sıralama": [
-        "1,140",
-        "641,132"
-      ],
-      "Taban Puan": [
-        "281.512",
-        "80.829"
-      ],
-      "Şehir": "Elazığ",
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104290311",
-      "Üniversite": "Gaziantep Üniversitesi",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
       "Fakülte": "Naci Topçuoğlu Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+455+2+0+2+1455+2+0+2+14--"
+        "35",
+        "55",
+        "55",
+        "55"
       ],
       "Yerleşen": [
-        "57+0+0+2+14",
-        "Doldu-73"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,149",
-        "901,054"
+        "869.687",
+        "1.149.090",
+        "1.054.350",
+        "1.052.260"
       ],
       "Taban Puan": [
-        "280.922",
-        "86.519"
+        "298.475",
+        "280.920",
+        "286.519",
+        "279.243"
       ],
-      "Şehir": "Gaziantep",
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102751303",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Çan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "59"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "873.567",
+        "1.068.678",
+        "1.174.633",
+        "1.075.365"
+      ],
+      "Taban Puan": [
+        "298.154",
+        "286.376",
+        "277.895",
+        "277.550"
+      ],
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111490293",
-      "Üniversite": "Kütahya Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
       "Fakülte": "Kütahya Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+0---"
+        "30",
+        "40",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "41+0+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,149"
+        "900.610",
+        "1.149.222",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "280.911"
+        "295.957",
+        "280.911",
+        "",
+        ""
       ],
-      "Şehir": "Kütahya",
+      "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103190817",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "103950212",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+0----"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "1,152"
+        "902.337",
+        "1.140.585",
+        "1.132.732",
+        "1.138.102"
       ],
       "Taban Puan": [
-        "280.719"
+        "295.822",
+        "281.496",
+        "280.829",
+        "273.086"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108050481",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "909.634",
+        "1.136.223",
+        "1.206.132",
+        "1.191.154"
+      ],
+      "Taban Puan": [
+        "295.236",
+        "281.792",
+        "275.679",
+        "269.470"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109451772",
-      "Üniversite": "Trakya Üniversitesi",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "Edirne Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+0+0",
-        "63"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,161"
+        "913.302",
+        "1.161.163",
+        "1.246.157",
+        "1.178.734"
       ],
       "Taban Puan": [
-        "280.119"
+        "294.934",
+        "280.119",
+        "272.967",
+        "270.294"
       ],
-      "Şehir": "Edirne",
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100690119",
-      "Üniversite": "Kırşehir Ahi Evran Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Program Kodu": "102590173",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "Soma Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "31+0+0+0+0",
-        "31"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,181"
+        "919.252",
+        "1.091.511",
+        "1.193.677",
+        "1.132.294"
       ],
       "Taban Puan": [
-        "278.759"
+        "294.469",
+        "284.806",
+        "276.563",
+        "273.490"
       ],
-      "Şehir": "Kırşehir",
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106650736",
-      "Üniversite": "Kırıkkale Üniversitesi",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
       "Fakülte": "Hacılar Hüseyin Aytemiz Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,203"
+        "946.124",
+        "1.203.107",
+        "1.305.999",
+        "1.269.223"
       ],
       "Taban Puan": [
-        "277.371"
+        "292.330",
+        "277.371",
+        "268.991",
+        "264.357"
       ],
-      "Şehir": "Kırıkkale",
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101990053",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "953.935",
+        "1.121.451",
+        "1.248.668",
+        "1.186.363"
+      ],
+      "Taban Puan": [
+        "291.718",
+        "282.774",
+        "272.798",
+        "269.790"
+      ],
+      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100890076",
-      "Üniversite": "Aksaray Üniversitesi",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
       "Fakülte": "Aksaray Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,210",
-        "411,330"
+        "987.817",
+        "1.210.741",
+        "1.330.468",
+        "1.308.479"
       ],
       "Taban Puan": [
+        "289.103",
         "276.883",
-        "267.404"
+        "267.404",
+        "261.891"
       ],
-      "Şehir": "Aksaray",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110251327",
-      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
-      "Fakülte": "Erciş Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "1,229",
-        "381,262"
-      ],
-      "Taban Puan": [
-        "275.653",
-        "271.888"
-      ],
-      "Şehir": "Van",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110350276",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
-      "Fakülte": "Zonguldak Meslek Yüksekokulu (Kilimli)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "63"
-      ],
-      "Taban Sıralama": [
-        "1,229"
-      ],
-      "Taban Puan": [
-        "275.685"
-      ],
-      "Şehir": "Zonguldak",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107350896",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+0+0",
-        "53"
-      ],
-      "Taban Sıralama": [
-        "1,263"
-      ],
-      "Taban Puan": [
-        "273.461"
-      ],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103290181",
-      "Üniversite": "Kütahya Dumlupınar Üniversitesi",
-      "Fakülte": "Tavşanlı Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "41"
-      ],
-      "Taban Sıralama": [
-        "1,264"
-      ],
-      "Taban Puan": [
-        "273.412"
-      ],
-      "Şehir": "Kütahya",
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111551088",
-      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
       "Fakülte": "Yeşilyurt Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+350+2+0+2+1350+2+0+2+13--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+13",
-        "Doldu-67"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,296",
-        "171,346"
+        "992.239",
+        "1.296.917",
+        "1.346.152",
+        "1.233.982"
       ],
       "Taban Puan": [
-        "271.352",
-        "66.406"
+        "288.758",
+        "271.350",
+        "266.406",
+        "266.643"
       ],
-      "Şehir": "Malatya",
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110350276",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Zonguldak Meslek Yüksekokulu (Kilimli)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.008.749",
+        "1.238.808",
+        "1.394.050",
+        "1.328.540"
+      ],
+      "Taban Puan": [
+        "287.507",
+        "275.057",
+        "263.328",
+        "260.667"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110251327",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Erciş Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.010.979",
+        "1.229.538",
+        "1.262.259",
+        "1.306.191"
+      ],
+      "Taban Puan": [
+        "287.336",
+        "275.653",
+        "271.888",
+        "262.035"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100690119",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.018.633",
+        "1.188.481",
+        "1.280.965",
+        "1.279.352"
+      ],
+      "Taban Puan": [
+        "286.763",
+        "278.320",
+        "270.651",
+        "263.720"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107350896",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.020.592",
+        "1.267.572",
+        "1.355.114",
+        "1.337.324"
+      ],
+      "Taban Puan": [
+        "286.616",
+        "273.204",
+        "265.826",
+        "260.128"
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107751475",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
       "Fakülte": "Hassa Meslek Yüksekokulu (Kırıkhan)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+1+220+1+0+1+520+1+0+1+5--"
+        "20",
+        "20",
+        "20",
+        "44"
       ],
       "Yerleşen": [
-        "21+0+0+1+5",
-        "Doldu-27"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,306",
-        "201,362"
+        "1.029.403",
+        "1.306.720",
+        "1.362.628",
+        "1.297.484"
       ],
       "Taban Puan": [
+        "285.946",
         "270.738",
-        "265.33"
+        "265.330",
+        "262.578"
       ],
-      "Şehir": "Hatay",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104790071",
-      "Üniversite": "Gümüşhane Üniversitesi",
-      "Fakülte": "Gümüşhane Meslek Yüksekokulu",
+      "Program Kodu": "103290181",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Tavşanlı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "31+0+0+1+0",
-        "31"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,333"
+        "1.085.986",
+        "1.267.899",
+        "1.399.154",
+        "1.340.396"
       ],
       "Taban Puan": [
-        "269.086"
+        "281.754",
+        "273.183",
+        "263.005",
+        "259.940"
       ],
-      "Şehir": "Gümüşhane",
+      "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112553294",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Uluborlu Selahattin Karasoy Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+1+0",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,339"
+        "1.111.130",
+        "1.339.751",
+        "1.445.493",
+        "1.408.078"
       ],
       "Taban Puan": [
-        "268.727"
+        "279.932",
+        "268.688",
+        "260.113",
+        "255.914"
       ],
-      "Şehir": "Isparta",
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104790071",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "Gümüşhane Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.125.585",
+        "1.333.314",
+        "1.436.901",
+        "1.508.964"
+      ],
+      "Taban Puan": [
+        "278.887",
+        "269.086",
+        "260.637",
+        "250.206"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103251959",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Simav Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.125.616",
+        "1.408.136",
+        "1.485.372",
+        "1.456.808"
+      ],
+      "Taban Puan": [
+        "278.885",
+        "264.464",
+        "257.671",
+        "253.112"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104350454",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Turhal Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.146.392",
+        "1.374.278",
+        "1.446.622",
+        "1.341.804"
+      ],
+      "Taban Puan": [
+        "277.393",
+        "266.536",
+        "260.045",
+        "259.855"
+      ],
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106450368",
-      "Üniversite": "Kastamonu Üniversitesi",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
       "Fakülte": "Tosya Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+1+0",
-        "53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,363"
+        "1.163.030",
+        "1.371.926",
+        "1.503.176",
+        "1.451.569"
       ],
       "Taban Puan": [
-        "267.195"
+        "276.212",
+        "266.677",
+        "256.589",
+        "253.411"
       ],
-      "Şehir": "Kastamonu",
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107890060",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.198.116",
+        "1.416.887",
+        "1.560.781",
+        "1.587.071"
+      ],
+      "Taban Puan": [
+        "273.699",
+        "263.921",
+        "253.154",
+        "246.034"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102150789",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.223.223",
+        "1.508.054",
+        "1.568.517",
+        "1.530.970"
+      ],
+      "Taban Puan": [
+        "271.949",
+        "258.443",
+        "252.704",
+        "249.005"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101890051",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.248.768",
+        "1.539.139",
+        "1.584.874",
+        "1.526.601"
+      ],
+      "Taban Puan": [
+        "270.174",
+        "256.615",
+        "251.735",
+        "249.241"
+      ],
+      "Şehir": "BAYBURT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490374",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "İspir Hamza Polat Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.277.335",
+        "1.578.449",
+        "1.653.748",
+        "1.731.788"
+      ],
+      "Taban Puan": [
+        "268.189",
+        "254.322",
+        "247.724",
+        "238.723"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100590079",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "Patnos Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.331.380",
+        "1.678.653",
+        "1.759.405",
+        "1.807.796"
+      ],
+      "Taban Puan": [
+        "264.441",
+        "248.510",
+        "241.755",
+        "235.120"
+      ],
+      "Şehir": "AĞRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300550947",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "11",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.607.002",
+        "1.712.185",
+        "1.905.079",
+        "2.502.878"
+      ],
+      "Taban Puan": [
+        "245.628",
+        "246.598",
+        "233.862",
+        "206.122"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200150767",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "26",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.957.966",
+        "2.291.627",
+        "2.416.328",
+        "2.249.545"
+      ],
+      "Taban Puan": [
+        "221.152",
+        "214.802",
+        "208.114",
+        "216.370"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207950095",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "29",
+        "29",
+        "32"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.967.692",
+        "1.670.554",
+        "1.708.913",
+        "2.029.750"
+      ],
+      "Taban Puan": [
+        "220.441",
+        "248.972",
+        "244.578",
+        "225.357"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200650153",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "2",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.184.983",
+        "1.964.173",
+        "1.931.689",
+        "1.851.614"
+      ],
+      "Taban Puan": [
+        "202.012",
+        "232.577",
+        "232.451",
+        "233.098"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "103190817",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.152.134",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "280.719",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202752018",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "31",
+        "34",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.717.368",
+        "2.731.438",
+        "2.354.545"
+      ],
+      "Taban Puan": [
+        "",
+        "182.354",
+        "190.816",
+        "212.178"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207650405",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "34",
+        "34",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.595.142",
+        "2.841.368",
+        "2.236.713"
+      ],
+      "Taban Puan": [
+        "",
+        "195.967",
+        "180.480",
+        "216.887"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201490395",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210302187",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201750988",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "30",
+        "26",
+        "22"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.340.713",
+        "2.253.236",
+        "1.997.477"
+      ],
+      "Taban Puan": [
+        "",
+        "212.069",
+        "216.129",
+        "226.710"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402985",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210402992",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "31",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208450994",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202391123",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202490638",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "76",
+        "64",
+        "56",
+        "48"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.694.140",
+        "2.754.604",
+        "2.097.467"
+      ],
+      "Taban Puan": [
+        "",
+        "186.164",
+        "189.161",
+        "222.530"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203151995",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "47",
+        "",
+        "42",
+        "39"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.943.290"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "229.027"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209110046",
+      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "56",
+        "47",
+        "42",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.817.525",
+        "1.690.217",
+        "1.674.121"
+      ],
+      "Taban Puan": [
+        "",
+        "240.663",
+        "245.645",
+        "241.560"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209210020",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "",
+        "49",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.344.413"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "259.698"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206552503",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "54",
+        "42",
+        "38",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.615.977",
+        "2.297.770",
+        "2.135.636"
+      ],
+      "Taban Puan": [
+        "",
+        "194.278",
+        "213.947",
+        "220.962"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207950230",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.930.251",
+        "2.054.647",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "234.427",
+        "226.051",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300590412",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "11",
+        "12",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200651372",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Biyomedikal Cihaz Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "29",
+        "29",
+        "32",
+        "32"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.267.683",
+        "1.915.674",
+        "1.717.312"
+      ],
+      "Taban Puan": [
+        "",
+        "216.112",
+        "233.298",
+        "239.427"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

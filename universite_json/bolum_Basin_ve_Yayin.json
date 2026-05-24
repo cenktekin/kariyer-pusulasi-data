@@ -2,66 +2,82 @@
   "yks": [
     {
       "Program Kodu": "300210703",
-      "Üniversite": "Girne Amerikan ÜniversitesiKKTCİletişim Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "İletişim Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Basın ve Yayın (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+08+0+0+0+08+0+0+0+010+010+0"
+        "5",
+        "8",
+        "8",
+        "10"
       ],
       "Yerleşen": [
-        "8",
-        "8+0+0+0+0",
-        "873"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,094",
-        "411,132"
+        "1.137.692",
+        "1.094.141",
+        "1.132.660",
+        ""
       ],
       "Taban Puan": [
+        "185.699",
         "227.426",
-        "221.525"
+        "221.525",
+        ""
       ],
-      "Şehir": "Karmi",
+      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300290553",
-      "Üniversite": "Girne Amerikan ÜniversitesiKKTCİletişim Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "İletişim Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Basın ve Yayın (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+011+0+0+0+011+0+0+0+010+0-"
+        "5",
+        "11",
+        "11",
+        "10"
       ],
       "Yerleşen": [
-        "3",
-        "3+0+0+0+0",
-        "41"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,411"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "175.169"
+        "",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Karmi",
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     }
   ]

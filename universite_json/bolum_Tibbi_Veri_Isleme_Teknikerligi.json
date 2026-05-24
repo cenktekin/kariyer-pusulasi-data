@@ -1,924 +1,1684 @@
 {
   "yks": [
     {
-      "Program Kodu": "112690311",
-      "Üniversite": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Afyonkarahisar",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112690318",
-      "Üniversite": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Bolvadin Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Afyonkarahisar",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390399",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "102990471",
-      "Üniversite": "Çukurova Üniversitesi",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
       "Fakülte": "Abdi Sütcü Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+3----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Adana",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "370.308",
+        "",
+        "413.799",
+        "539.256"
+      ],
+      "Taban Puan": [
+        "354.448",
+        "",
+        "351.674",
+        "328.281"
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103390307",
-      "Üniversite": "Düzce Üniversitesi",
+      "Program Kodu": "200590306",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "4",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Düzce",
-      "Ücret": "Ücretsiz"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "412.261",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "347.793",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "104590533",
-      "Üniversite": "Giresun Üniversitesi",
-      "Fakülte": "Şebinkarahisar Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Giresun",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690545",
-      "Üniversite": "Kırıkkale Üniversitesi",
+      "Program Kodu": "200190151",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "4",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kırıkkale",
-      "Ücret": "Ücretsiz"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "433.201",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "344.671",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "111490321",
-      "Üniversite": "Kütahya Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Gediz Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kütahya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111490356",
-      "Üniversite": "Kütahya Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Tavşanlı Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kütahya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111570546",
-      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Program Kodu": "208810172",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+3----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Malatya",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "436.240",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "344.223",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207950349",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "455.911",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "341.479",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109290592",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Isparta Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "475.357",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "338.828",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108190415",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
       "Fakülte": "Niğde Zübeyde Hanım Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Niğde",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "503.555",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "335.125",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109290592",
-      "Üniversite": "Süleyman Demirel Üniversitesi",
-      "Fakülte": "Isparta Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "111570546",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Isparta",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "506.952",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "334.683",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690545",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "529.064",
+        "",
+        "656.096",
+        "769.337"
+      ],
+      "Taban Puan": [
+        "331.939",
+        "",
+        "321.037",
+        "302.941"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209710241",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "540.093",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "330.610",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107390399",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "554.734",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "328.883",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110390335",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
       "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Zonguldak",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "562.278",
+        "",
+        "738.244",
+        "851.504"
+      ],
+      "Taban Puan": [
+        "328.001",
+        "",
+        "312.870",
+        "295.389"
+      ],
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200190151",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "112690311",
+      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+1----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "572.450",
+        "",
+        "1.392.107",
+        "1.353.044"
+      ],
+      "Taban Puan": [
+        "326.828",
+        "",
+        "263.450",
+        "259.177"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200190158",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+      "Program Kodu": "103390307",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+0+0+0+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200590306",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "4+0+1+0+1----"
+      "Taban Sıralama": [
+        "573.234",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200590313",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "326.743",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "30+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202391074",
-      "Üniversite": "İstanbul Arel Üniversitesi",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+1----"
+        "4",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "573.991",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "326.660",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202391081",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209810297",
-      "Üniversite": "İstanbul Galata Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "209810290",
-      "Üniversite": "İstanbul Galata Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209810304",
-      "Üniversite": "İstanbul Galata Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "33+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210402859",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
+      "Program Kodu": "209010275",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+0----"
+        "5",
+        "57",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "210402852",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
+      "Taban Sıralama": [
+        "591.387",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Taban Puan": [
+        "324.708",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202791082",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "608.582",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "322.841",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202791089",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Program Kodu": "206290282",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "617.903",
+        "",
+        "545.128",
+        "788.260"
+      ],
+      "Taban Puan": [
+        "321.838",
+        "",
+        "333.639",
+        "301.168"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111490356",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Tavşanlı Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "627.435",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "320.826",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111490321",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Gediz Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "629.705",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "320.585",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104590533",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Şebinkarahisar Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "643.316",
+        "",
+        "1.972.903",
+        "2.363.911"
+      ],
+      "Taban Puan": [
+        "319.154",
+        "",
+        "230.278",
+        "211.811"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209810290",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "646.531",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "318.821",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402852",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "657.439",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "317.703",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "208750796",
-      "Üniversite": "İstanbul Kent Üniversitesi",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "659.028",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "317.535",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "208750803",
-      "Üniversite": "İstanbul Kent Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "205090730",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "7",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "660.795",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "317.351",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112690318",
+      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Bolvadin Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "662.228",
+        "",
+        "1.605.118",
+        "1.537.695"
+      ],
+      "Taban Puan": [
+        "317.208",
+        "",
+        "250.547",
+        "248.642"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200190158",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.224.933",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "271.833",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207950363",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "26",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.351.909",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.027",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209810297",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.419.975",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "258.381",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208810179",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.439.407",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "257.041",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206290289",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.609.988",
+        "",
+        "1.079.130",
+        "1.506.279"
+      ],
+      "Taban Puan": [
+        "245.425",
+        "",
+        "284.695",
+        "250.357"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402859",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.079.535",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "211.719",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205090737",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.118.236",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "208.412",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200590313",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "210402866",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "33+0+0+0+0----"
+        "33",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "205090730",
-      "Üniversite": "İstanbul Topkapı Üniversitesi",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Program Kodu": "202391081",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+1----"
+        "25",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205090737",
-      "Üniversite": "İstanbul Topkapı Üniversitesi",
-      "Fakülte": "Plato Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "42+0+0+0+0----"
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206290282",
-      "Üniversite": "İstanbul Yeni Yüzyıl Üniversitesi",
+      "Program Kodu": "202791089",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "34",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206290289",
-      "Üniversite": "İstanbul Yeni Yüzyıl Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209710241",
-      "Üniversite": "Kocaeli Sağlık Ve Teknoloji Üniversitesi",
-      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Program Kodu": "209010282",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "34",
+        "9",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kocaeli",
-      "Ücret": "Burslu"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209810304",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208750803",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "209710248",
-      "Üniversite": "Kocaeli Sağlık Ve Teknoloji Üniversitesi",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
       "Fakülte": "Avrupa Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "34",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kocaeli",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
       "Ücret": "%25 İndirimli"
     },
     {
-      "Program Kodu": "208810172",
-      "Üniversite": "Lokman Hekim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208810179",
-      "Üniversite": "Lokman Hekim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "207950356",
-      "Üniversite": "Yüksek İhtisas Üniversitesi",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+0+0+0----"
+        "8",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "207950363",
-      "Üniversite": "Yüksek İhtisas Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "26+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "207950349",
-      "Üniversite": "Yüksek İhtisas Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "T",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
     }
   ]
 }

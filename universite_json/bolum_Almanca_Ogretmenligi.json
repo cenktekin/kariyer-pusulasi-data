@@ -1,622 +1,683 @@
 {
   "yks": [
     {
-      "Program Kodu": "111610397",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
-      "Fakülte": "Hasan Ali Yücel Eğitim Fakültesi",
+      "Program Kodu": "104110193",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Gazi Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "51+1+0+0+0",
-        "52527"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "23,811",
-        "25,923",
-        "30,505"
+        "20.475",
+        "23.915",
+        "27.047",
+        "29.362"
       ],
       "Taban Puan": [
+        "402.938",
+        "401.572",
+        "403.075",
+        "384.522"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111610397",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "Hasan Ali Yücel Eğitim Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Almanca Öğretmenliği (Almanca)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "21.199",
+        "23.811",
+        "25.923",
+        "30.505"
+      ],
+      "Taban Puan": [
+        "401.089",
         "401.809",
         "405.907",
         "381.381"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104110193",
-      "Üniversite": "Gazi Üniversitesi",
-      "Fakülte": "Gazi Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525252"
-      ],
-      "Taban Sıralama": [
-        "23,915",
-        "27,047",
-        "29,362",
-        "27,013"
-      ],
-      "Taban Puan": [
-        "401.572",
-        "403.075",
-        "384.522",
-        "351.285"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101010088",
-      "Üniversite": "Anadolu Üniversitesi",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+0+050+250+2"
+        "50",
+        "50",
+        "60",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "625252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "24,933",
-        "27,256",
-        "25,104",
-        "24,212"
+        "21.891",
+        "24.933",
+        "27.256",
+        "25.104"
       ],
       "Taban Puan": [
+        "399.298",
         "398.982",
         "402.568",
-        "396.296",
-        "360.032"
+        "396.296"
       ],
-      "Şehir": "Eskişehir",
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109710012",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "27,637",
-        "30,827",
-        "30,692",
-        "27,677"
+        "25.044",
+        "27.637",
+        "30.827",
+        "30.692"
       ],
       "Taban Puan": [
+        "391.480",
         "392.485",
         "394.008",
-        "380.818",
-        "349.199"
+        "380.818"
       ],
-      "Şehir": "Bursa",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107610019",
-      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği (Almanca)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "35,841",
-        "39,155",
-        "38,625",
-        "33,939"
+        "31.388",
+        "35.841",
+        "39.155",
+        "38.625"
       ],
       "Taban Puan": [
-        "373.623",
-        "74.558",
-        "359.521",
-        "329.662"
+        "376.447",
+        "373.620",
+        "374.558",
+        "359.521"
       ],
-      "Şehir": "Muğla",
+      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108210029",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "40,411",
-        "42,675",
-        "39,788",
-        "37,812"
+        "33.433",
+        "40.411",
+        "42.675",
+        "39.788"
       ],
       "Taban Puan": [
+        "371.629",
         "363.697",
         "366.563",
-        "356.564",
-        "317.592"
+        "356.564"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102910022",
-      "Üniversite": "Çukurova Üniversitesi",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+550+2+0+0+1350+2+0+0+1350+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "65",
-        "52+0+0+0+13",
-        "655252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "43,726",
-        "39,920",
-        "43,153",
-        "40,475"
+        "38.717",
+        "43.726",
+        "39.920",
+        "43.153"
       ],
       "Taban Puan": [
+        "359.865",
         "356.724",
         "372.789",
-        "347.718",
-        "309.333"
+        "347.718"
       ],
-      "Şehir": "Adana",
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109410854",
-      "Üniversite": "Trakya Üniversitesi",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği (Almanca)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "44,352",
-        "46,769",
-        "45,383",
-        "42,154"
+        "39.114",
+        "44.352",
+        "46.769",
+        "45.383"
       ],
       "Taban Puan": [
+        "359.002",
         "355.419",
         "357.314",
-        "342.014",
-        "304.04"
+        "342.014"
       ],
-      "Şehir": "Edirne",
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107010016",
-      "Üniversite": "Necmettin Erbakan Üniversitesi",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "Ahmet Keleşoğlu Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "53,143",
-        "52,338",
-        "51,356",
-        "44,145"
+        "46.874",
+        "53.143",
+        "52.338",
+        "51.356"
       ],
       "Taban Puan": [
+        "341.822",
         "337.629",
-        "344.983",
-        "27.112",
-        "297.805"
+        "344.980",
+        "327.112"
       ],
-      "Şehir": "Konya",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108010419",
-      "Üniversite": "Nevşehir Hacı Bektaş Veli Üniversitesi",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "45+2+0+0+045+2+0+0+040+1+0+0+030+130+1"
+        "45",
+        "45",
+        "40",
+        "30"
       ],
       "Yerleşen": [
-        "47",
-        "47+0+0+0+0",
-        "413131"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "55,656",
-        "55,501",
-        "49,893",
-        "44,135"
+        "47.746",
+        "55.656",
+        "55.501",
+        "49.893"
       ],
       "Taban Puan": [
+        "339.979",
         "332.694",
         "338.168",
-        "330.684",
-        "297.843"
+        "330.684"
       ],
-      "Şehir": "Nevşehir",
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101410278",
-      "Üniversite": "Atatürk Üniversitesi",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
       "Fakülte": "Kazım Karabekir Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+0+070+250+2"
+        "50",
+        "50",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "727252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "64,986",
-        "63,029",
-        "61,791",
-        "50,596"
+        "57.840",
+        "64.986",
+        "63.029",
+        "61.791"
       ],
       "Taban Puan": [
+        "318.901",
         "314.654",
         "322.185",
-        "301.826",
-        "278.22"
+        "301.826"
       ],
-      "Şehir": "Erzurum",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103010258",
-      "Üniversite": "Dicle Üniversitesi",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
       "Fakülte": "Ziya Gökalp Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+350+2+0+0+1350+2+0+0+1350+250+2"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "65",
-        "52+0+0+0+13",
-        "655252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "71,462",
-        "53,157",
-        "58,624",
-        "54,041"
+        "59.495",
+        "71.462",
+        "53.157",
+        "58.624"
       ],
       "Taban Puan": [
+        "315.465",
         "302.889",
         "343.235",
-        "309.496",
-        "268.442"
+        "309.496"
       ],
-      "Şehir": "Diyarbakır",
+      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104810202",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği (Almanca)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "51+1+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "75,190",
-        "63,585",
-        "53,076",
-        "69,782"
+        "82.300",
+        "75.190",
+        "63.585",
+        "53.076"
       ],
       "Taban Puan": [
+        "271.540",
         "296.053",
-        "321.132",
-        "2.907",
-        "223.251"
+        "321.100",
+        "322.907"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104910079",
-      "Üniversite": "Hakkari Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+030+1+0+0+030+130+1"
-      ],
-      "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "313131"
-      ],
-      "Taban Sıralama": [
-        "96,006",
-        "86,280",
-        "72,289",
-        "62,829"
-      ],
-      "Taban Puan": [
-        "261.681",
-        "278.336",
-        "277.627",
-        "244.493"
-      ],
-      "Şehir": "Hakkari",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107210014",
-      "Üniversite": "Marmara Üniversitesi",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Atatürk Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği (Almanca)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525234"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "96,121",
-        "84,394",
-        "64,950"
+        "85.383",
+        "96.121",
+        "84.394",
+        "64.950"
       ],
       "Taban Puan": [
+        "266.062",
         "261.504",
         "281.651",
         "294.281"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104910079",
+      "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
+      "Fakülte": "Eğitim Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "86.352",
+        "96.006",
+        "86.280",
+        "72.289"
+      ],
+      "Taban Puan": [
+        "264.400",
+        "261.681",
+        "278.336",
+        "277.627"
+      ],
+      "Şehir": "HAKKARİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103110018",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Buca Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "45+2+0+0+050+2+0+0+050+2+0+0+050+250+2"
+        "45",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "52+0+0+0+0",
-        "525225"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "109,372",
-        "98,412",
-        "65,877"
+        "91.942",
+        "109.372",
+        "98.412",
+        "65.877"
       ],
       "Taban Puan": [
+        "254.712",
         "242.078",
         "258.188",
         "292.209"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109790542",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
       "Fakülte": "Eğitim Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Almanca Öğretmenliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+01+0+0+0+02+0+0+0+03+0-"
+        "1",
+        "1",
+        "2",
+        "3"
       ],
       "Yerleşen": [
-        "1",
-        "1+0+0+0+0",
-        "22"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "120,656",
-        "134,356"
+        "104.446",
+        "120.656",
+        "134.356",
+        ""
       ],
       "Taban Puan": [
+        "234.436",
         "226.669",
-        "203.508"
+        "203.508",
+        ""
       ],
-      "Şehir": "Bursa",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     }
   ]

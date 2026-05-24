@@ -1,94 +1,124 @@
 {
   "yks": [
     {
-      "Program Kodu": "409610479",
-      "Üniversite": "Uluslararası Balkan ÜniversitesiYurtdışıİktisadi Ve İdari Bilimler Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "409610461",
+      "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bankacılık ve Finans (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+05+0+0+0+02+0+0+0+02+02+0"
+        "5",
+        "10",
+        "5",
+        "5"
       ],
       "Yerleşen": [
-        "5",
-        "5+0+0+0+0",
-        "22"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,552",
-        "101,171",
-        "811,702"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "409610479",
+      "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bankacılık ve Finans (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.552.410",
+        "1.171.681",
+        "1.702.809"
+      ],
+      "Taban Puan": [
+        "",
         "196.195",
         "228.094",
         "184.719"
       ],
-      "Şehir": "North Macedonia",
+      "Şehir": "",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "409610488",
-      "Üniversite": "Uluslararası Balkan ÜniversitesiYurtdışıİktisadi Ve İdari Bilimler Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bankacılık ve Finans (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+05+0+0+0+03+0+0+0+03+03+0"
+        "5",
+        "5",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "11"
-      ],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "North Macedonia",
-      "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "409610461",
-      "Üniversite": "Uluslararası Balkan ÜniversitesiYurtdışıİktisadi Ve İdari Bilimler Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+0+0+010+0+0+0+05+0+0+0+05+05+0"
-      ],
-      "Yerleşen": [
-        "1",
-        "1+0+0+0+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,701"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "165.242"
+        "",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "North Macedonia",
-      "Ücret": "Ücretli"
+      "Şehir": "",
+      "Ücret": "%25 İndirimli"
     }
   ]
 }

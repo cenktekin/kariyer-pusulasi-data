@@ -1,1832 +1,2564 @@
 {
   "yks": [
     {
-      "Program Kodu": "203910557",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+13+0+1+0+14+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "3+0+1+0+1",
-        "655"
-      ],
-      "Taban Sıralama": [
-        "1,419",
-        "711,088"
-      ],
-      "Taban Puan": [
-        "535.639",
-        "544.304",
-        "543.866",
-        "504.604"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203910451",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+14+0+1+0+14+0+1+0+18+06+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "686"
-      ],
-      "Taban Sıralama": [
-        "2,140",
-        "1,259",
-        "2,098",
-        "2,088"
-      ],
-      "Taban Puan": [
-        "530.856",
-        "541.335",
-        "34.349",
-        "2.391"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202110126",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "11+0+1+0+111+0+1+0+111+0+1+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "13",
-        "11+0+1+0+1",
-        "131212"
-      ],
-      "Taban Sıralama": [
-        "2,774",
-        "3,105",
-        "2,110",
-        "3,831"
-      ],
-      "Taban Puan": [
-        "527.206",
-        "533.415",
-        "534.259",
-        "479.182"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102270133",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Fen FaküLtesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "12,286"
-      ],
-      "Taban Puan": [
-        "495.498"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108410169",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "546262"
-      ],
-      "Taban Sıralama": [
-        "13,564",
-        "11,378",
-        "15,189",
-        "20,033"
-      ],
-      "Taban Puan": [
-        "492.414",
-        "512.605",
-        "503.642",
-        "433.461"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105510732",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+045+2+0+0+050+2+0+2+050+260+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "535262"
-      ],
-      "Taban Sıralama": [
-        "19,963",
-        "18,320",
-        "20,044",
-        "27,971"
-      ],
-      "Taban Puan": [
-        "479.583",
-        "500.475",
-        "496.138",
-        "420.707"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203910469",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+0+0+06+0+0+0+06+0+0+0+022+030+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "6+0+0+0+0",
-        "62230"
-      ],
-      "Taban Sıralama": [
-        "27,337",
-        "19,555",
-        "36,961",
-        "49,414"
-      ],
-      "Taban Puan": [
-        "466.608",
-        "498.532",
-        "473.383",
-        "92.932"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202110611",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "24+0+0+0+024+0+0+0+024+0+0+0+028+028+0"
-      ],
-      "Yerleşen": [
-        "24",
-        "24+0+0+0+0",
-        "242828"
-      ],
-      "Taban Sıralama": [
-        "35,574",
-        "29,274",
-        "31,207",
-        "33,132"
-      ],
-      "Taban Puan": [
-        "454.202",
-        "484.347",
-        "480.687",
-        "413.248"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "108410106",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+2+060+260+2"
+        "50",
+        "50",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "37,310",
-        "32,207",
-        "35,360",
-        "42,473"
+        "42.319",
+        "37.310",
+        "32.207",
+        "35.360"
       ],
       "Taban Puan": [
+        "454.238",
         "451.744",
-        "480.514",
-        "75.393",
-        "401.254"
+        "480.510",
+        "475.393"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200190123",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+17+0+1+0+17+0+1+0+17+0-"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "97"
-      ],
-      "Taban Sıralama": [
-        "39,647",
-        "23,845",
-        "23,194"
-      ],
-      "Taban Puan": [
-        "448.587",
-        "492.025",
-        "491.557"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105810032",
-      "Üniversite": "İzmir Yüksek Teknoloji Enstitüsü",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+040+1+0+0+040+1+0+1+060+260+2"
-      ],
-      "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "416262"
-      ],
-      "Taban Sıralama": [
-        "42,967",
-        "36,732",
-        "41,870",
-        "46,931"
-      ],
-      "Taban Puan": [
-        "444.117",
-        "474.751",
-        "467.417",
-        "395.976"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200690360",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+16+0+1+0+15+0+1+0+16+05+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "6+0+1+0+1",
-        "665"
-      ],
-      "Taban Sıralama": [
-        "44,262",
-        "32,441",
-        "37,016",
-        "38,521"
-      ],
-      "Taban Puan": [
-        "442.385",
-        "480.205",
-        "473.299",
-        "406.164"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200511498",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+1+0+18+0+1+0+18+0+1+0+19+09+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "1099"
-      ],
-      "Taban Sıralama": [
-        "45,259",
-        "30,005",
-        "27,646",
-        "31,473"
-      ],
-      "Taban Puan": [
-        "441.055",
-        "483.395",
-        "485.399",
-        "415.609"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200612195",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "655"
-      ],
-      "Taban Sıralama": [
-        "55,581",
-        "47,116",
-        "47,960",
-        "54,286"
-      ],
-      "Taban Puan": [
-        "428.468",
-        "462.483",
-        "460.024",
-        "387.241"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110110419",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+0+070+2+0+0+080+2+0+2+080+280+2"
-      ],
-      "Yerleşen": [
-        "72",
-        "70+2+0+0+0",
-        "838282"
-      ],
-      "Taban Sıralama": [
-        "57,160",
-        "56,719",
-        "56,555",
-        "60,177"
-      ],
-      "Taban Puan": [
-        "426.706",
-        "451.557",
-        "450.039",
-        "380.796"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203910566",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "21+0+0+0+010+0+0+0+012+0+0+0+012+020+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "10+0+0+0+0",
-        "121220"
-      ],
-      "Taban Sıralama": [
-        "64,663",
-        "27,959",
-        "37,782",
-        "46,681"
-      ],
-      "Taban Puan": [
-        "418.149",
-        "486.143",
-        "472.291",
-        "396.268"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "104410136",
-      "Üniversite": "Gebze Teknik Üniversitesi",
-      "Fakülte": "Temel Bilimler Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+2+070+270+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "727272"
-      ],
-      "Taban Sıralama": [
-        "66,898",
-        "63,221",
-        "64,346",
-        "69,706"
-      ],
-      "Taban Puan": [
-        "415.737",
-        "444.567",
-        "441.371",
-        "370.917"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203790207",
-      "Üniversite": "Kadir Has Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+17+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "855"
-      ],
-      "Taban Sıralama": [
-        "68,030",
-        "50,246",
-        "49,915",
-        "60,385"
-      ],
-      "Taban Puan": [
-        "414.595",
-        "458.924",
-        "457.723",
-        "80.584"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105610388",
-      "Üniversite": "İstanbul Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+045+2+0+0+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "74,258",
-        "70,755",
-        "66,438",
-        "68,681"
-      ],
-      "Taban Puan": [
-        "408.164",
-        "36.538",
-        "439.056",
-        "372.014"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207610115",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+15+0+1+0+16+06+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "666"
-      ],
-      "Taban Sıralama": [
-        "78,748",
-        "69,585",
-        "42,359",
-        "50,340"
-      ],
-      "Taban Puan": [
-        "403.688",
-        "437.743",
-        "466.755",
-        "391.845"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206510207",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+112+011+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "111211"
-      ],
-      "Taban Sıralama": [
-        "94,358",
-        "80,427",
-        "70,140",
-        "68,410"
-      ],
-      "Taban Puan": [
-        "389.248",
-        "426.861",
-        "434.979",
-        "372.258"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207650964",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+15+0+1+0+16+06+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "666"
-      ],
-      "Taban Sıralama": [
-        "94,755",
-        "85,263",
-        "75,776",
-        "83,082"
-      ],
-      "Taban Puan": [
-        "388.917",
-        "422.257",
-        "429.042",
-        "357.859"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202110117",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "24+0+0+0+024+0+0+0+024+0+0+0+020+020+0"
-      ],
-      "Yerleşen": [
-        "24",
-        "24+0+0+0+0",
-        "242020"
-      ],
-      "Taban Sıralama": [
-        "101,584",
-        "61,942",
-        "50,945",
-        "60,099"
-      ],
-      "Taban Puan": [
-        "382.998",
-        "445.914",
-        "456.538",
-        "0.89"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "101111304",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+030+1+0+1+030+130+1"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "313131"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "103,884",
-        "78,711",
-        "91,878",
-        "104,929"
+        "109.596",
+        "103.884",
+        "78.711",
+        "91.878"
       ],
       "Taban Puan": [
+        "391.472",
         "381.144",
         "428.528",
-        "413.124",
-        "339.081"
+        "413.124"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203910442",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "23+0+0+0+022+0+0+0+025+0+0+0+023+07+0"
-      ],
-      "Yerleşen": [
-        "22",
-        "22+0+0+0+0",
-        "25237"
-      ],
-      "Taban Sıralama": [
-        "103,928",
-        "104,024",
-        "97,422",
-        "88,356"
-      ],
-      "Taban Puan": [
-        "381.115",
-        "405.427",
-        "407.907",
-        "353.192"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "102710703",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+025+1+0+1+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "27",
-        "25+1+0+1+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "105,033",
-        "103,268",
-        "105,870",
-        "122,169"
-      ],
-      "Taban Puan": [
-        "380.209",
-        "406.062",
-        "400.208",
-        "325.868"
-      ],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208450830",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+1+0+110+0+1+0+110+0+1+0+19+09+0"
-      ],
-      "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "1199"
-      ],
-      "Taban Sıralama": [
-        "106,938",
-        "92,124",
-        "73,156",
-        "75,680"
-      ],
-      "Taban Puan": [
-        "378.633",
-        "415.786",
-        "431.762",
-        "365.018"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105410187",
-      "Üniversite": "İstanbul Medeniyet Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+050+2+0+2+050+250+2"
-      ],
-      "Yerleşen": [
-        "42",
-        "40+1+0+1+0",
-        "545252"
-      ],
-      "Taban Sıralama": [
-        "111,681",
-        "93,597",
-        "95,530",
-        "98,380"
-      ],
-      "Taban Puan": [
-        "374.859",
-        "414.437",
-        "409.678",
-        "344.547"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206510367",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+16+0+1+0+15+0+1+0+15+08+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "6+0+0+0+1",
-        "658"
-      ],
-      "Taban Sıralama": [
-        "119,475",
-        "100,864",
-        "84,132",
-        "94,151"
-      ],
-      "Taban Puan": [
-        "368.914",
-        "408.143",
-        "420.575",
-        "348.082"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201990475",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+110+0+1+0+110+0+1+0+19+08+0"
-      ],
-      "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "1198"
-      ],
-      "Taban Sıralama": [
-        "121,780",
-        "108,474",
-        "77,372",
-        "85,632"
-      ],
-      "Taban Puan": [
-        "367.189",
-        "401.779",
-        "427.414",
-        "355.577"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104810344",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+070+2+0+2+0100+3100+3"
+        "60",
+        "60",
+        "70",
+        "100"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "72103103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "125,335",
-        "125,900",
-        "142,546",
-        "167,257"
+        "118.204",
+        "125.335",
+        "125.900",
+        "142.546"
       ],
       "Taban Puan": [
+        "384.978",
         "364.727",
         "388.266",
-        "371.082",
-        "298.025"
+        "371.082"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203211299",
-      "Üniversite": "İstanbul Sabahattin Zaim Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+15+0+1+0+15+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "655"
-      ],
-      "Taban Sıralama": [
-        "128,112",
-        "107,679",
-        "103,693",
-        "114,855"
-      ],
-      "Taban Puan": [
-        "362.817",
-        "402.409",
-        "402.124",
-        "331.215"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203010115",
-      "Üniversite": "İstanbul Kültür Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+17+0+1+0+17+0+1+0+16+08+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "868"
-      ],
-      "Taban Sıralama": [
-        "142,141",
-        "114,252",
-        "97,267",
-        "107,396"
-      ],
-      "Taban Puan": [
-        "353.657",
-        "397.193",
-        "408.039",
-        "337.077"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106510086",
-      "Üniversite": "Abdullah Gül Üniversitesi",
-      "Fakülte": "Yaşam Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "42",
-        "40+1+0+1+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "143,974",
-        "137,136",
-        "126,848",
-        "133,155"
-      ],
-      "Taban Puan": [
-        "352.553",
-        "380.259",
-        "382.652",
-        "318.239"
-      ],
-      "Şehir": "Kayseri",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109710621",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "636262"
-      ],
-      "Taban Sıralama": [
-        "144,368",
-        "130,803",
-        "131,185",
-        "139,471"
-      ],
-      "Taban Puan": [
-        "352.309",
-        "384.697",
-        "379.291",
-        "314.119"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202610184",
-      "Üniversite": "Demiroğlu Bilim Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+0+0+12+0+0+0+12+0+0+0+12+02+0"
-      ],
-      "Yerleşen": [
-        "2",
-        "2+0+0+0+0",
-        "222"
-      ],
-      "Taban Sıralama": [
-        "146,472",
-        "135,049",
-        "127,366",
-        "123,562"
-      ],
-      "Taban Puan": [
-        "350.992",
-        "381.771",
-        "382.251",
-        "324.855"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209310062",
-      "Üniversite": "İstanbul Atlas Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+0+0+15+0+0+0+19+0+1+0+110+06+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "10106"
-      ],
-      "Taban Sıralama": [
-        "147,167",
-        "129,724",
-        "125,725",
-        "146,175"
-      ],
-      "Taban Puan": [
-        "350.554",
-        "385.486",
-        "383.553",
-        "310.009"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202311016",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+18+06+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "686"
-      ],
-      "Taban Sıralama": [
-        "155,926",
-        "127,935",
-        "108,709",
-        "110,286"
-      ],
-      "Taban Puan": [
-        "345.401",
-        "386.761",
-        "397.708",
-        "334.776"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108470089",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "2+0+0+0+02+0+0+0+02+0+0+0+0--"
-      ],
-      "Yerleşen": [
         "2",
-        "2+0+0+0+0",
-        "2"
+        "2",
+        "2",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "164,378",
-        "162,063"
+        "152.956",
+        "164.378",
+        "162.063",
+        ""
       ],
       "Taban Puan": [
+        "361.713",
         "340.696",
-        "364.442"
+        "364.442",
+        ""
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208310152",
-      "Üniversite": "Konya Gıda Ve Tarım Üniversitesi",
-      "Fakülte": "Tarım Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+15+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "6"
-      ],
-      "Taban Sıralama": [
-        "170,151",
-        "182,253"
-      ],
-      "Taban Puan": [
-        "337.735",
-        "3.295"
-      ],
-      "Şehir": "Konya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108211187",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+030+130+1"
-      ],
-      "Yerleşen": [
-        "32",
-        "30+1+0+1+0",
-        "323131"
-      ],
-      "Taban Sıralama": [
-        "172,406",
-        "165,659",
-        "171,383",
-        "176,018"
-      ],
-      "Taban Puan": [
-        "336.516",
-        "362.366",
-        "352.655",
-        "293.507"
-      ],
-      "Şehir": "Samsun",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206210519",
-      "Üniversite": "İstanbul Yeni Yüzyıl Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+16+08+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "868"
-      ],
-      "Taban Sıralama": [
-        "173,795",
-        "179,153",
-        "127,546",
-        "124,959"
-      ],
-      "Taban Puan": [
-        "335.823",
-        "54.938",
-        "2.101",
-        "323.874"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209410053",
-      "Üniversite": "İstanbul Sağlık Ve Teknoloji Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "11+0+0+0+120+0+0+0+129+0+1+0+120+05+0"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+0+0+0+1",
-        "30205"
-      ],
-      "Taban Sıralama": [
-        "175,896",
-        "171,034",
-        "167,145",
-        "174,229"
-      ],
-      "Taban Puan": [
-        "334.698",
-        "359.273",
-        "355.114",
-        "294.403"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101110466",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+0+070+2+0+0+090+3+0+3+090+390+3"
+        "70",
+        "70",
+        "90",
+        "90"
       ],
       "Yerleşen": [
-        "72",
-        "70+2+0+0+0",
-        "949393"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "179,199",
-        "188,742",
-        "210,957",
-        "246,684"
+        "166.832",
+        "179.199",
+        "188.742",
+        "210.957"
       ],
       "Taban Puan": [
+        "353.928",
         "333.058",
         "350.011",
-        "332.072",
-        "264.004"
+        "332.072"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105610352",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "80+2+0+0+080+2+0+0+0100+3+0+3+0100+3100+3"
+        "80",
+        "80",
+        "100",
+        "100"
       ],
       "Yerleşen": [
-        "82",
-        "80+2+0+0+0",
-        "105103103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "181,094",
-        "191,586",
-        "205,785",
-        "210,731"
+        "177.067",
+        "181.094",
+        "191.586",
+        "205.785"
       ],
       "Taban Puan": [
+        "348.587",
         "332.168",
         "348.609",
-        "334.508",
-        "277.645"
+        "334.508"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107210253",
-      "Üniversite": "Marmara Üniversitesi",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+2+060+260+2"
+        "50",
+        "50",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "636262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "202,711",
-        "207,612",
-        "218,309",
-        "240,976"
+        "187.357",
+        "202.711",
+        "207.612",
+        "218.309"
       ],
       "Taban Puan": [
+        "343.453",
         "322.387",
         "341.042",
-        "328.669",
-        "265.958"
+        "328.669"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107610479",
-      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
+      "Program Kodu": "104110078",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+060+260+2"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "63",
-        "60+2+0+1+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "207,670",
-        "191,533",
-        "204,242",
-        "225,204"
+        "210.390",
+        "231.789",
+        "220.391",
+        "247.816"
       ],
       "Taban Puan": [
-        "320.358",
-        "348.637",
-        "335.242",
-        "71.841"
+        "333.100",
+        "311.104",
+        "335.527",
+        "316.288"
       ],
-      "Şehir": "Muğla",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200690362",
-      "Üniversite": "Başkent Üniversitesi",
+      "Program Kodu": "103410209",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "90",
+        "90",
+        "120",
+        "120"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "234.598",
+        "253.788",
+        "273.041",
+        "286.513"
+      ],
+      "Taban Puan": [
+        "323.539",
+        "303.513",
+        "316.007",
+        "302.291"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103111088",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "247.581",
+        "269.782",
+        "278.342",
+        "277.023"
+      ],
+      "Taban Puan": [
+        "318.789",
+        "298.600",
+        "314.288",
+        "305.536"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103810056",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "266.168",
+        "281.322",
+        "272.300",
+        "292.422"
+      ],
+      "Taban Puan": [
+        "312.559",
+        "295.263",
+        "316.247",
+        "300.369"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100710057",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "284.232",
+        "296.201",
+        "306.016",
+        "327.135"
+      ],
+      "Taban Puan": [
+        "306.969",
+        "291.124",
+        "305.928",
+        "289.849"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109710118",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
       "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+0+0+0+028+0+0+0+030+0+0+0+030+026+0"
-      ],
-      "Yerleşen": [
-        "28",
-        "28+0+0+0+0",
-        "303026"
-      ],
-      "Taban Sıralama": [
-        "208,061",
-        "140,872",
-        "106,523",
-        "107,332"
-      ],
-      "Taban Puan": [
-        "320.191",
-        "377.701",
-        "399.576",
-        "337.129"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "106211103",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+030+1+0+1+030+130+1"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "323131"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "208,997",
-        "166,492",
-        "167,925",
-        "169,528"
+        "292.121",
+        "302.075",
+        "295.385",
+        "319.977"
       ],
       "Taban Puan": [
-        "319.807",
-        "361.889",
-        "354.667",
-        "296.802"
+        "304.646",
+        "289.591",
+        "309.019",
+        "291.870"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "300112163",
-      "Üniversite": "Doğu Akdeniz ÜniversitesiKKTCFen Ve Edebiyat Fakültesi",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "112410201",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+0+0+06+0+0+0+09+0+0+0+010+07+0"
+        "40",
+        "40",
+        "40",
+        "60"
       ],
       "Yerleşen": [
-        "6",
-        "6+0+0+0+0",
-        "9107"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "217,797",
-        "148,527",
-        "162,387",
-        "153,410"
+        "297.086",
+        "309.023",
+        "308.489",
+        "335.370"
       ],
       "Taban Puan": [
-        "316.305",
-        "372.753",
-        "57.964",
-        "305.697"
+        "303.246",
+        "287.801",
+        "305.250",
+        "287.523"
       ],
-      "Şehir": "Famagusta",
-      "Ücret": "Burslu"
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102710148",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "314.229",
+        "321.593",
+        "320.427",
+        "334.215"
+      ],
+      "Taban Puan": [
+        "298.531",
+        "284.774",
+        "301.947",
+        "287.839"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106910091",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "317.316",
+        "338.099",
+        "344.806",
+        "350.513"
+      ],
+      "Taban Puan": [
+        "297.718",
+        "280.932",
+        "295.605",
+        "283.418"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108810111",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "324.372",
+        "351.420",
+        "340.080",
+        "349.429"
+      ],
+      "Taban Puan": [
+        "295.830",
+        "278.007",
+        "296.776",
+        "283.681"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107610091",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "331.226",
+        "341.308",
+        "323.895",
+        "331.021"
+      ],
+      "Taban Puan": [
+        "294.115",
+        "280.226",
+        "301.021",
+        "288.755"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610097",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "338.739",
+        "345.226",
+        "333.208",
+        "337.627"
+      ],
+      "Taban Puan": [
+        "292.296",
+        "279.351",
+        "298.548",
+        "286.907"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108210205",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "339.822",
+        "367.592",
+        "353.293",
+        "358.466"
+      ],
+      "Taban Puan": [
+        "292.043",
+        "274.714",
+        "293.532",
+        "281.351"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111711507",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Polatlı Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "349.849",
+        "354.707",
+        "332.506",
+        "345.124"
+      ],
+      "Taban Puan": [
+        "289.676",
+        "277.313",
+        "298.738",
+        "284.834"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107910228",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.043",
+        "378.871",
+        "370.623",
+        "390.966"
+      ],
+      "Taban Puan": [
+        "288.473",
+        "272.464",
+        "289.478",
+        "273.606"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102590517",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.696",
+        "374.375",
+        "347.941",
+        "352.093"
+      ],
+      "Taban Puan": [
+        "288.328",
+        "273.349",
+        "294.822",
+        "283.006"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101510011",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "361.770",
+        "377.330",
+        "363.261",
+        "363.736"
+      ],
+      "Taban Puan": [
+        "286.959",
+        "272.771",
+        "291.172",
+        "280.036"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109410087",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "369.127",
+        "388.226",
+        "368.949",
+        "367.862"
+      ],
+      "Taban Puan": [
+        "285.364",
+        "270.711",
+        "289.871",
+        "279.041"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910146",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "369.288",
+        "377.046",
+        "360.348",
+        "361.537"
+      ],
+      "Taban Puan": [
+        "285.335",
+        "272.824",
+        "291.846",
+        "280.583"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100110115",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "375.034",
+        "405.419",
+        "382.978",
+        "399.742"
+      ],
+      "Taban Puan": [
+        "284.092",
+        "267.720",
+        "286.689",
+        "271.674"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310061",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "377.166",
+        "391.608",
+        "353.277",
+        "355.812"
+      ],
+      "Taban Puan": [
+        "283.647",
+        "270.121",
+        "293.538",
+        "282.032"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107410109",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "378.885",
+        "390.660",
+        "360.593",
+        "365.613"
+      ],
+      "Taban Puan": [
+        "283.281",
+        "270.285",
+        "291.789",
+        "279.589"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103310167",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "387.133",
+        "418.080",
+        "405.766",
+        "417.694"
+      ],
+      "Taban Puan": [
+        "281.522",
+        "265.609",
+        "281.864",
+        "267.892"
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103510111",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "393.023",
+        "411.689",
+        "356.864",
+        "396.923"
+      ],
+      "Taban Puan": [
+        "280.328",
+        "266.671",
+        "292.676",
+        "272.289"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106210168",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "393.705",
+        "432.752",
+        "384.401",
+        "397.646"
+      ],
+      "Taban Puan": [
+        "280.181",
+        "263.208",
+        "286.372",
+        "272.125"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109290487",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "405.440",
+        "430.327",
+        "376.517",
+        "397.037"
+      ],
+      "Taban Puan": [
+        "277.910",
+        "263.597",
+        "288.158",
+        "272.265"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104210023",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "419.534",
+        "438.588",
+        "399.756",
+        "398.743"
+      ],
+      "Taban Puan": [
+        "275.304",
+        "262.308",
+        "283.119",
+        "271.875"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110310011",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "424.037",
+        "465.678",
+        "415.836",
+        "427.446"
+      ],
+      "Taban Puan": [
+        "274.492",
+        "258.308",
+        "279.838",
+        "265.934"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103210062",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "429.404",
+        "455.572",
+        "411.201",
+        "414.548"
+      ],
+      "Taban Puan": [
+        "273.511",
+        "259.736",
+        "280.752",
+        "268.541"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910243",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "431.189",
+        "448.463",
+        "404.309",
+        "402.511"
+      ],
+      "Taban Puan": [
+        "273.196",
+        "260.786",
+        "282.167",
+        "271.070"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100190222",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "440.653",
+        "401.343",
+        "685.546",
+        "410.423"
+      ],
+      "Taban Puan": [
+        "271.549",
+        "268.424",
+        "241.747",
+        "269.404"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103010037",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "450.161",
+        "414.319",
+        "386.375",
+        "422.304"
+      ],
+      "Taban Puan": [
+        "269.954",
+        "266.229",
+        "285.944",
+        "266.964"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103190712",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji (UOLP-Gence Devlet Üniversitesi) (Ücretli)",
+      "Öğretim Türü": "UOLP",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "459.789",
+        "514.462",
+        "661.416",
+        ""
+      ],
+      "Taban Puan": [
+        "268.380",
+        "251.962",
+        "244.290",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "107310155",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "468.804",
+        "497.283",
+        "453.958",
+        "438.378"
+      ],
+      "Taban Puan": [
+        "266.943",
+        "254.077",
+        "272.751",
+        "263.776"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109190050",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "470.219",
+        "487.236",
+        "481.104",
+        "492.957"
+      ],
+      "Taban Puan": [
+        "266.716",
+        "255.364",
+        "268.087",
+        "254.292"
+      ],
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690454",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "484.994",
+        "547.693",
+        "437.108",
+        "448.485"
+      ],
+      "Taban Puan": [
+        "264.467",
+        "248.126",
+        "275.804",
+        "261.872"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108090091",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "490.551",
+        "507.040",
+        "474.322",
+        "487.466"
+      ],
+      "Taban Puan": [
+        "263.629",
+        "252.856",
+        "269.220",
+        "255.152"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510074",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "497.078",
+        "540.653",
+        "465.572",
+        "482.609"
+      ],
+      "Taban Puan": [
+        "262.674",
+        "248.913",
+        "270.712",
+        "255.935"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107710054",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "10",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "498.925",
+        "568.763",
+        "433.703",
+        "420.835"
+      ],
+      "Taban Puan": [
+        "262.400",
+        "245.864",
+        "276.422",
+        "267.263"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105310143",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "508.793",
+        "508.475",
+        "461.873",
+        "428.967"
+      ],
+      "Taban Puan": [
+        "260.964",
+        "252.681",
+        "271.367",
+        "265.631"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110210145",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "511.487",
+        "482.634",
+        "491.914",
+        "499.304"
+      ],
+      "Taban Puan": [
+        "260.605",
+        "255.977",
+        "266.357",
+        "253.285"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106410121",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "520.435",
+        "561.129",
+        "500.993",
+        "489.829"
+      ],
+      "Taban Puan": [
+        "259.389",
+        "246.665",
+        "264.914",
+        "254.768"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100810092",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "520.678",
+        "544.942",
+        "463.005",
+        "457.432"
+      ],
+      "Taban Puan": [
+        "259.356",
+        "248.430",
+        "271.156",
+        "260.264"
+      ],
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105010013",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "521.583",
+        "508.802",
+        "448.196",
+        "470.867"
+      ],
+      "Taban Puan": [
+        "259.233",
+        "252.643",
+        "273.795",
+        "257.908"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102610113",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "528.985",
+        "551.322",
+        "483.552",
+        "474.410"
+      ],
+      "Taban Puan": [
+        "258.230",
+        "247.716",
+        "267.676",
+        "257.298"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910082",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "531.516",
+        "556.116",
+        "489.144",
+        "479.278"
+      ],
+      "Taban Puan": [
+        "257.896",
+        "247.209",
+        "266.776",
+        "256.474"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108710024",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "538.554",
+        "579.697",
+        "498.019",
+        "496.580"
+      ],
+      "Taban Puan": [
+        "256.963",
+        "244.721",
+        "265.387",
+        "253.722"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410066",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "538.791",
+        "586.507",
+        "516.043",
+        "488.423"
+      ],
+      "Taban Puan": [
+        "256.930",
+        "244.032",
+        "262.615",
+        "254.994"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102810138",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "564.952",
+        "582.825",
+        "521.845",
+        "497.548"
+      ],
+      "Taban Puan": [
+        "253.683",
+        "244.406",
+        "261.761",
+        "253.572"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190268",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "565.528",
+        "599.531",
+        "490.986",
+        "477.755"
+      ],
+      "Taban Puan": [
+        "253.616",
+        "242.741",
+        "266.499",
+        "256.732"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104310067",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "570.915",
+        "595.423",
+        "525.794",
+        "522.582"
+      ],
+      "Taban Puan": [
+        "252.975",
+        "243.144",
+        "261.185",
+        "249.777"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106010037",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "589.406",
+        "598.267",
+        "564.039",
+        "455.794"
+      ],
+      "Taban Puan": [
+        "250.818",
+        "242.873",
+        "255.884",
+        "260.564"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610801",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "599.290",
+        "367.965",
+        "629.897",
+        "555.904"
+      ],
+      "Taban Puan": [
+        "249.707",
+        "274.636",
+        "247.749",
+        "245.215"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570662",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "28",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "601.478",
+        "595.407",
+        "590.048",
+        "473.244"
+      ],
+      "Taban Puan": [
+        "249.467",
+        "243.146",
+        "252.559",
+        "257.493"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100210177",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "614.068",
+        "465.743",
+        "502.652",
+        "456.631"
+      ],
+      "Taban Puan": [
+        "248.087",
+        "258.298",
+        "264.657",
+        "260.410"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610182",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "615.530",
+        "679.192",
+        "537.148",
+        "556.625"
+      ],
+      "Taban Puan": [
+        "247.932",
+        "235.501",
+        "259.553",
+        "245.124"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105990200",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "660.624",
+        "690.305",
+        "707.411",
+        ""
+      ],
+      "Taban Puan": [
+        "243.326",
+        "234.570",
+        "239.549",
+        ""
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
     }
   ]
 }

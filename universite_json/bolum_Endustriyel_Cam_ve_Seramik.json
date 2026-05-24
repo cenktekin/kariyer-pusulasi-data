@@ -2,98 +2,122 @@
   "yks": [
     {
       "Program Kodu": "103150486",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Torbalı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Endüstriyel Cam ve Seramik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+025+1+0+1+0--"
+        "30",
+        "30",
+        "25",
+        "25"
       ],
       "Yerleşen": [
-        "31+0+0+0+0",
-        "Doldu-27"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,412",
-        "511,551"
+        "1.287.576",
+        "1.412.151",
+        "1.551.685",
+        "1.557.352"
       ],
       "Taban Puan": [
+        "267.472",
         "264.214",
-        "253.699"
+        "253.699",
+        "247.586"
       ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102890085",
-      "Üniversite": "Çankırı Karatekin Üniversitesi",
-      "Fakülte": "Çerkeş Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+025+1+0+1+025+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "26+0+0+1+0",
-        "Doldu-27"
-      ],
-      "Taban Sıralama": [
-        "2,029",
-        "811,841"
-      ],
-      "Taban Puan": [
-        "229.042",
-        "237.281"
-      ],
-      "Şehir": "Çankırı",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111570490",
-      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
       "Fakülte": "Yeşilyurt Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Endüstriyel Cam ve Seramik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+325+1+0+1+625+1+0+1+6--"
+        "25",
+        "25",
+        "25",
+        ""
       ],
       "Yerleşen": [
-        "26+0+0+1+6",
-        "Doldu-33"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,058",
-        "652,074"
+        "1.751.988",
+        "2.058.465",
+        "2.074.758",
+        ""
       ],
       "Taban Puan": [
+        "235.741",
         "227.473",
-        "225.021"
+        "225.021",
+        ""
       ],
-      "Şehir": "Malatya",
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102890085",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Çerkeş Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Endüstriyel Cam ve Seramik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.767.478",
+        "2.029.681",
+        "1.841.351",
+        "2.626.102"
+      ],
+      "Taban Puan": [
+        "234.670",
+        "229.042",
+        "237.281",
+        "200.625"
+      ],
+      "Şehir": "ÇANKIRI",
       "Ücret": "Ücretsiz"
     }
   ]

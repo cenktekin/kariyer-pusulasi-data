@@ -2,879 +2,1323 @@
   "yks": [
     {
       "Program Kodu": "104151093",
-      "Üniversite": "Gazi Üniversitesi",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+0+070+2+0+0+070+2+0+2+0--"
+        "70",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "72"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "700,112"
+        "513.239",
+        "700.112",
+        "794.481",
+        "759.685"
       ],
       "Taban Puan": [
-        "315.597"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112451243",
-      "Üniversite": "Eskişehir Teknik Üniversitesi",
-      "Fakülte": "Porsuk Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "60+2+0+1+0",
-        "63"
-      ],
-      "Taban Sıralama": [
-        "848,062"
-      ],
-      "Taban Puan": [
-        "302.749"
-      ],
-      "Şehir": "Eskişehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102751375",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Biga Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "1,266"
-      ],
-      "Taban Puan": [
-        "273.265"
-      ],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102751172",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Çan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+0+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "1,378"
-      ],
-      "Taban Puan": [
-        "266.255"
-      ],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101950712",
-      "Üniversite": "Bilecik Şeyh Edebali Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+1+035+1+0+1+035+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "36+0+0+1+0",
-        "Doldu-37"
-      ],
-      "Taban Sıralama": [
-        "1,515",
-        "491,678"
-      ],
-      "Taban Puan": [
-        "258.012",
-        "246.313"
-      ],
-      "Şehir": "Bilecik",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108050418",
-      "Üniversite": "Nevşehir Hacı Bektaş Veli Üniversitesi",
-      "Fakülte": "Hacıbektaş Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+2+045+2+0+2+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "46+1+0+2+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "1,526"
-      ],
-      "Taban Puan": [
-        "257.351"
-      ],
-      "Şehir": "Nevşehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112552463",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Yalvaç Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "1,514",
-        "201,639"
-      ],
-      "Taban Puan": [
-        "258.044",
-        "248.555"
-      ],
-      "Şehir": "Isparta",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103950812",
-      "Üniversite": "Fırat Üniversitesi",
-      "Fakülte": "Keban Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+330+1+0+0+830+1+0+1+8--"
-      ],
-      "Yerleşen": [
-        "31+0+0+0+8",
-        "39"
-      ],
-      "Taban Sıralama": [
-        "1,535"
-      ],
-      "Taban Puan": [
-        "256.82"
-      ],
-      "Şehir": "Elazığ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108390189",
-      "Üniversite": "Ordu Üniversitesi",
-      "Fakülte": "Gölköy Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+025+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "30+1+0+1+0",
-        "Doldu-27"
-      ],
-      "Taban Sıralama": [
-        "1,586",
-        "391,681"
-      ],
-      "Taban Puan": [
-        "253.853",
-        "246.12"
-      ],
-      "Şehir": "Ordu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102990257",
-      "Üniversite": "Çukurova Üniversitesi",
-      "Fakülte": "Tufanbeyli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+440+1+0+0+1040+1+0+1+10--"
-      ],
-      "Yerleşen": [
-        "41+0+0+0+10",
-        "Doldu-52"
-      ],
-      "Taban Sıralama": [
-        "1,609",
-        "311,657"
-      ],
-      "Taban Puan": [
-        "252.483",
-        "247.501"
-      ],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101350312",
-      "Üniversite": "Artvin Çoruh Üniversitesi",
-      "Fakülte": "Borçka Acarlar Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "1,629"
-      ],
-      "Taban Puan": [
-        "251.33"
-      ],
-      "Şehir": "Artvin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390117",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+0+0",
-        "52"
-      ],
-      "Taban Sıralama": [
-        "1,636"
-      ],
-      "Taban Puan": [
-        "250.93"
-      ],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104551044",
-      "Üniversite": "Giresun Üniversitesi",
-      "Fakülte": "Tirebolu Mehmet Bayrak Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "1,625"
-      ],
-      "Taban Puan": [
-        "251.567"
-      ],
-      "Şehir": "Giresun",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106051104",
-      "Üniversite": "Kahramanmaraş Sütçü İmam Üniversitesi",
-      "Fakülte": "Andırın Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+440+1+0+1+1040+1+0+1+10--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+10",
-        "Doldu-52"
-      ],
-      "Taban Sıralama": [
-        "1,704",
-        "601,854"
-      ],
-      "Taban Puan": [
-        "247.029",
-        "236.556"
-      ],
-      "Şehir": "Kahramanmaraş",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104750556",
-      "Üniversite": "Gümüşhane Üniversitesi",
-      "Fakülte": "Kelkit Aydın Doğan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+020+1+0+1+020+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "21+0+0+0+0",
-        "Doldu-22"
-      ],
-      "Taban Sıralama": [
-        "1,745",
-        "201,899"
-      ],
-      "Taban Puan": [
-        "244.692",
-        "234.126"
-      ],
-      "Şehir": "Gümüşhane",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109790661",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
-      "Fakülte": "İnegöl Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390516",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Söke Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690531",
-      "Üniversite": "Kırıkkale Üniversitesi",
-      "Fakülte": "Kırıkkale Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kırıkkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108570739",
-      "Üniversite": "Osmaniye Korkut Ata Üniversitesi",
-      "Fakülte": "Osmaniye Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+5----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Osmaniye",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104390260",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Turhal Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110290290",
-      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
-      "Fakülte": "Başkale Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Van",
+        "333.893",
+        "315.597",
+        "307.647",
+        "303.857"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202391158",
-      "Üniversite": "İstanbul Arel Üniversitesi",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+1----"
+        "7",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "622.465",
+        "",
+        "809.398",
+        "727.690"
+      ],
+      "Taban Puan": [
+        "321.356",
+        "",
+        "306.314",
+        "306.953"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202391165",
-      "Üniversite": "İstanbul Arel Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "42+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "207590702",
-      "Üniversite": "İstanbul Esenyurt Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207590709",
-      "Üniversite": "İstanbul Esenyurt Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "202791124",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
       "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+1----"
+        "9",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "649.100",
+        "",
+        "779.534",
+        "708.927"
+      ],
+      "Taban Puan": [
+        "318.546",
+        "",
+        "308.994",
+        "308.845"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202791131",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "59+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "101190780",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Nallıhan Meslek Yüksekokulu",
+      "Program Kodu": "112451243",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Porsuk Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+0----"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "684.467",
+        "849.161",
+        "934.237",
+        "948.407"
+      ],
+      "Taban Puan": [
+        "315.004",
+        "302.659",
+        "295.775",
+        "287.244"
+      ],
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102751515",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Biga Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "207590702",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+0----"
+        "3",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Çanakkale",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "711.730",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.389",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101190780",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Nallıhan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "881.526",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "297.509",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109790661",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "İnegöl Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "974.405",
+        "",
+        "1.179.770",
+        "1.091.818"
+      ],
+      "Taban Puan": [
+        "290.132",
+        "",
+        "277.533",
+        "276.358"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690531",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Kırıkkale Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.006.709",
+        "",
+        "1.094.757",
+        "1.040.100"
+      ],
+      "Taban Puan": [
+        "287.660",
+        "",
+        "283.565",
+        "280.147"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102751375",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Biga Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.087.508",
+        "1.271.493",
+        "1.450.467",
+        "1.370.107"
+      ],
+      "Taban Puan": [
+        "281.637",
+        "272.955",
+        "259.809",
+        "258.150"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570739",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "Osmaniye Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.159.068",
+        "",
+        "1.328.694",
+        "1.194.160"
+      ],
+      "Taban Puan": [
+        "276.486",
+        "",
+        "267.521",
+        "269.270"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100390516",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Söke Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.159.603",
+        "",
+        "1.365.653",
+        "1.291.156"
+      ],
+      "Taban Puan": [
+        "276.447",
+        "",
+        "265.134",
+        "262.970"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102751172",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Çan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.181.727",
+        "1.389.183",
+        "1.583.815",
+        "1.522.246"
+      ],
+      "Taban Puan": [
+        "274.859",
+        "265.630",
+        "251.797",
+        "249.476"
+      ],
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100390488",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
       "Fakülte": "Germencik Yamantürk Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+0----"
+        "50",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.186.094",
+        "",
+        "1.189.724",
+        ""
+      ],
+      "Taban Puan": [
+        "274.550",
+        "",
+        "276.838",
+        ""
+      ],
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103651001",
-      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
-      "Fakülte": "İliç Dursun Yıldırım Meslek Yüksekokulu",
+      "Program Kodu": "103950812",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Keban Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzincan",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.300.782",
+        "1.555.000",
+        "1.632.549",
+        "1.595.344"
+      ],
+      "Taban Puan": [
+        "266.561",
+        "255.686",
+        "248.953",
+        "245.591"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108050418",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Hacıbektaş Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.304.237",
+        "1.526.604",
+        "1.656.759",
+        "1.574.191"
+      ],
+      "Taban Puan": [
+        "266.328",
+        "257.351",
+        "247.553",
+        "246.702"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101950712",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.317.792",
+        "1.524.924",
+        "1.678.277",
+        "1.662.638"
+      ],
+      "Taban Puan": [
+        "265.378",
+        "257.446",
+        "246.313",
+        "242.151"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290290",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Başkale Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.325.699",
+        "",
+        "1.599.636",
+        "1.559.276"
+      ],
+      "Taban Puan": [
+        "264.824",
+        "",
+        "250.870",
+        "247.483"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112552463",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Yalvaç Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.363.078",
+        "1.543.994",
+        "1.639.413",
+        "1.617.486"
+      ],
+      "Taban Puan": [
+        "262.258",
+        "256.329",
+        "248.555",
+        "244.451"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104551044",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Tirebolu Mehmet Bayrak Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Doğankent)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.388.616",
+        "1.652.376",
+        "1.752.340",
+        "1.729.413"
+      ],
+      "Taban Puan": [
+        "260.517",
+        "250.015",
+        "242.146",
+        "238.840"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102990257",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Tufanbeyli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Tufanbeyli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.388.866",
+        "1.609.831",
+        "1.657.662",
+        "1.530.133"
+      ],
+      "Taban Puan": [
+        "260.501",
+        "252.482",
+        "247.501",
+        "249.049"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390117",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Bucak Emin Gülmez Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.414.567",
+        "1.649.233",
+        "1.807.444",
+        "1.808.787"
+      ],
+      "Taban Puan": [
+        "258.754",
+        "250.196",
+        "239.123",
+        "235.072"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108390189",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "Gölköy Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.433.674",
+        "1.586.339",
+        "1.681.749",
+        ""
+      ],
+      "Taban Puan": [
+        "257.443",
+        "253.853",
+        "246.120",
+        ""
+      ],
+      "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101350312",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "Borçka Acarlar Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.486.223",
+        "1.629.521",
+        "1.782.397",
+        "1.776.715"
+      ],
+      "Taban Puan": [
+        "253.864",
+        "251.330",
+        "240.486",
+        "236.577"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106051104",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "Andırın Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.488.462",
+        "1.723.942",
+        "1.854.855",
+        "1.736.844"
+      ],
+      "Taban Puan": [
+        "253.713",
+        "245.930",
+        "236.556",
+        "238.485"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104750556",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "Kelkit Aydın Doğan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.534.080",
+        "1.746.677",
+        "1.899.990",
+        "1.863.117"
+      ],
+      "Taban Puan": [
+        "250.584",
+        "244.638",
+        "234.126",
+        "232.575"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390260",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Turhal Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.570.360",
+        "",
+        "1.797.127",
+        "1.758.958"
+      ],
+      "Taban Puan": [
+        "248.111",
+        "",
+        "239.684",
+        "237.423"
+      ],
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103690200",
-      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
       "Fakülte": "Tercan Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "25",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzincan",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.664.647",
+        "",
+        "1.860.572",
+        "2.019.378"
+      ],
+      "Taban Puan": [
+        "241.698",
+        "",
+        "236.242",
+        "225.782"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103651001",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "İliç Dursun Yıldırım Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.715.392",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "238.242",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104190631",
-      "Üniversite": "Gazi Üniversitesi",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+0----"
+        "1",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207590709",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "102751515",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Biga Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202791131",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "2.379.119",
+        "1.836.630"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "209.944",
+        "233.788"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202391165",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "2.850.083",
+        "1.891.532"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "179.116",
+        "231.301"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

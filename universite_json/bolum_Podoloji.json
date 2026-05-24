@@ -1,374 +1,483 @@
 {
   "yks": [
     {
-      "Program Kodu": "206552600",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+14+0+1+0+1---"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1"
-      ],
-      "Taban Sıralama": [
-        "551,706"
-      ],
-      "Taban Puan": [
-        "331.033"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "200150546",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+14+0+0+0+14+0+0+0+1--"
+        "5",
+        "4",
+        "4",
+        "4"
       ],
       "Yerleşen": [
-        "4+0+0+0+1",
-        "Doldu-5"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "580,582",
-        "507,286"
+        "438.622",
+        "580.582",
+        "507.286",
+        "490.593"
       ],
       "Taban Puan": [
+        "343.872",
         "327.723",
-        "338.395"
+        "338.395",
+        "334.933"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202790379",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Program Kodu": "206552600",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+16+0+1+0+15+0+1+0+1--"
+        "7",
+        "4",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "6+0+0+0+1",
-        "Doldu-7"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "682,800",
-        "697,788"
+        "603.584",
+        "551.706",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "317.223",
-        "316.779"
+        "323.376",
+        "331.033",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105051197",
-      "Üniversite": "Harran Üniversitesi",
-      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+1+435+1+0+1+935+1+0+1+9--"
-      ],
-      "Yerleşen": [
-        "36+0+0+1+9",
-        "Doldu-46"
-      ],
-      "Taban Sıralama": [
-        "690,033",
-        "725,331"
-      ],
-      "Taban Puan": [
-        "316.537",
-        "314.108"
-      ],
-      "Şehir": "Şanlıurfa",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100390362",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
       "Fakülte": "Nazilli Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+1+020+1+0+1+0---"
+        "20",
+        "20",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "20+1+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "709,439"
+        "649.085",
+        "709.439",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "314.732"
+        "318.548",
+        "314.732",
+        "",
+        ""
       ],
-      "Şehir": "Aydın",
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105051197",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "653.644",
+        "690.033",
+        "725.331",
+        "660.556"
+      ],
+      "Taban Puan": [
+        "318.081",
+        "316.537",
+        "314.108",
+        "313.952"
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106951988",
-      "Üniversite": "Kocaeli Üniversitesi",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
       "Fakülte": "Kocaeli Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "50+2+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "714,148",
-        "773,536"
+        "668.040",
+        "714.148",
+        "773.536",
+        "705.783"
       ],
       "Taban Puan": [
+        "316.628",
         "314.294",
-        "309.543"
+        "309.543",
+        "309.169"
       ],
-      "Şehir": "Kocaeli",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101190668",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Kızılcahamam Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "202790379",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Podoloji (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+2+0--"
+        "6",
+        "6",
+        "5",
+        "8"
       ],
       "Yerleşen": [
-        "52+0+0+0+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "774,671",
-        "904,145"
+        "693.865",
+        "682.800",
+        "697.788",
+        "588.387"
       ],
       "Taban Puan": [
-        "308.892",
-        "98.208"
+        "314.083",
+        "317.223",
+        "316.779",
+        "322.129"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101190668",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Kızılcahamam Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "707.655",
+        "774.671",
+        "904.145",
+        ""
+      ],
+      "Taban Puan": [
+        "312.781",
+        "308.890",
+        "298.208",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110351371",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
       "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "51+1+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "852,623",
-        "951,577"
+        "779.476",
+        "852.623",
+        "951.577",
+        "836.968"
       ],
       "Taban Puan": [
+        "306.171",
         "302.377",
-        "294.38"
+        "294.380",
+        "296.675"
       ],
-      "Şehir": "Zonguldak",
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106990485",
-      "Üniversite": "Kocaeli Üniversitesi",
-      "Fakülte": "Kocaeli Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+01+0+0+0+01+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "1+0+0+0+0",
-        "0"
-      ],
-      "Taban Sıralama": [
-        "1,339"
-      ],
-      "Taban Puan": [
-        "268.725"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200150537",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "37+0+0+0+021+0+0+0+021+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "21+0+0+0+0",
-        "Doldu-21"
-      ],
-      "Taban Sıralama": [
-        "2,148",
-        "782,149"
-      ],
-      "Taban Puan": [
-        "222.634",
-        "221.25"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "206552607",
-      "Üniversite": "Üsküdar Üniversitesi",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "42+0+0+0+025+0+0+0+0---"
+        "42",
+        "25",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "25+0+0+0+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,271"
+        "2.262.684",
+        "2.271.977",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "215.877"
+        "191.524",
+        "215.877",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202790381",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Program Kodu": "200150537",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Podoloji (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "38+0+0+0+038+0+0+0+034+0+0+0+0--"
+        "37",
+        "21",
+        "21",
+        "21"
       ],
       "Yerleşen": [
-        "29+0+0+0+0",
-        "Doldu-34"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,498"
+        "2.299.603",
+        "2.148.278",
+        "2.149.580",
+        "1.470.751"
       ],
       "Taban Puan": [
-        "204.031"
+        "180.285",
+        "222.634",
+        "221.250",
+        "252.326"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "106990485",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Kocaeli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Podoloji (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.339.126",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "268.725",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202790381",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Podoloji (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "38",
+        "34",
+        "22"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "2.498.252",
+        "1.158.640"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "204.031",
+        "271.669"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     }
   ]

@@ -1,188 +1,324 @@
 {
   "yks": [
     {
-      "Program Kodu": "107390413",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Gölhisar Meslek Yüksekokulu",
+      "Program Kodu": "106990876",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Hereke Asım Kocabıyık Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "60",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.446.738",
+        "",
+        "1.923.629",
+        "1.946.273"
+      ],
+      "Taban Puan": [
+        "256.545",
+        "",
+        "232.877",
+        "228.897"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210302208",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.460.230",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "255.625",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108190422",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Bor Halil-Zöhre Ataman Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.762.774",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "234.993",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107790430",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
       "Fakülte": "Hassa Meslek Yüksekokulu (Kırıkhan)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+1+2----"
+        "20",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Hatay",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.765.043",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "234.836",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390413",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Gölhisar Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.777.952",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "233.950",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106390276",
-      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
       "Fakülte": "Ermenek Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Karaman",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106990876",
-      "Üniversite": "Kocaeli Üniversitesi",
-      "Fakülte": "Hereke Asım Kocabıyık Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "60+2+0+2+0----"
+      "Taban Sıralama": [
+        "1.883.712",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106990883",
-      "Üniversite": "Kocaeli Üniversitesi",
-      "Fakülte": "Hereke Asım Kocabıyık Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "226.552",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "1+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108190422",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
-      "Fakülte": "Bor Halil-Zöhre Ataman Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Niğde",
+      "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210302215",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+0----"
+        "34",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210302208",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "106990883",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Hereke Asım Kocabıyık Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çevresel Ölçüm ve İzleme Sistemleri Teknikerliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "1",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
     }
   ]
 }

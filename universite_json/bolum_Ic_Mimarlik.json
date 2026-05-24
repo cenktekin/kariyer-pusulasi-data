@@ -1,1808 +1,3564 @@
 {
   "yks": [
     {
-      "Program Kodu": "202110956",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "14+0+2+0+116+0+3+0+121+0+3+0+124+024+0"
-      ],
-      "Yerleşen": [
-        "20",
-        "16+0+3+0+1",
-        "232424"
-      ],
-      "Taban Sıralama": [
-        "4,334",
-        "6,694",
-        "12,534",
-        "25,977"
-      ],
-      "Taban Puan": [
-        "449.716",
-        "448.566",
-        "439.179",
-        "369.73"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204810837",
-      "Üniversite": "Özyeğin Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+16+0+1+0+16+06+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "866"
-      ],
-      "Taban Sıralama": [
-        "4,762",
-        "6,915",
-        "11,597",
-        "18,631"
-      ],
-      "Taban Puan": [
-        "447.807",
-        "447.557",
-        "441.319",
-        "379.246"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205410705",
-      "Üniversite": "Tobb Ekonomi Ve Teknoloji Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+16+0+1+0+16+0+1+0+16+07+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "6+0+1+0+1",
-        "867"
-      ],
-      "Taban Sıralama": [
-        "6,612",
-        "12,396",
-        "25,952",
-        "39,842"
-      ],
-      "Taban Puan": [
-        "440.972",
-        "431.131",
-        "421.359",
-        "356.506"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200510791",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+110+0+1+0+112+0+2+0+114+014+0"
-      ],
-      "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "141414"
-      ],
-      "Taban Sıralama": [
-        "27,051",
-        "21,857",
-        "33,759",
-        "43,823"
-      ],
-      "Taban Puan": [
-        "407.283",
-        "418.486",
-        "415.082",
-        "353.229"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203711406",
-      "Üniversite": "Kadir Has Üniversitesi",
-      "Fakülte": "Sanat Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+110+0+1+0+111+09+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "11119"
-      ],
-      "Taban Sıralama": [
-        "45,192",
-        "44,804",
-        "51,788",
-        "57,605"
-      ],
-      "Taban Puan": [
-        "391.184",
-        "00.224",
-        "403.368",
-        "343.327"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206710467",
-      "Üniversite": "Ted Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+17+0+1+0+19+0+1+0+19+09+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "1199"
-      ],
-      "Taban Sıralama": [
-        "59,967",
-        "55,446",
-        "73,997",
-        "66,267"
-      ],
-      "Taban Puan": [
-        "381.091",
-        "393.701",
-        "391.166",
-        "337.86"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203510182",
-      "Üniversite": "İzmir Ekonomi Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "111212"
-      ],
-      "Taban Sıralama": [
-        "63,725",
-        "51,296",
-        "63,395",
-        "68,519"
-      ],
-      "Taban Puan": [
-        "378.768",
-        "396.143",
-        "96.759",
-        "336.522"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104810389",
-      "Üniversite": "Hacettepe Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "38+1+0+0+045+2+0+0+060+2+0+2+080+280+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "648282"
-      ],
-      "Taban Sıralama": [
-        "63,920",
-        "62,271",
-        "82,957",
-        "76,685"
-      ],
-      "Taban Puan": [
-        "378.654",
-        "389.856",
-        "386.752",
-        "331.885"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200611779",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+18+0+1+0+110+0+1+0+110+010+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "111010"
-      ],
-      "Taban Sıralama": [
-        "69,976",
-        "71,832",
-        "89,273",
-        "84,780"
-      ],
-      "Taban Puan": [
-        "375.184",
-        "384.829",
-        "383.723",
-        "327.643"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203111493",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "111212"
-      ],
-      "Taban Sıralama": [
-        "71,779",
-        "84,582",
-        "95,518",
-        "91,058"
-      ],
-      "Taban Puan": [
-        "374.163",
-        "378.805",
-        "380.842",
-        "324.5"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "105510468",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "Mimarlık Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+1+0+0+040+1+0+0+040+1+0+1+040+160+2"
+        "34",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "424162"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "73,496",
-        "70,499",
-        "70,095",
-        "73,718"
+        "70.625",
+        "73.496",
+        "70.499",
+        "70.095"
       ],
       "Taban Puan": [
+        "425.011",
         "408.946",
         "436.811",
-        "435.032",
-        "366.932"
+        "435.032"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206010663",
-      "Üniversite": "Yaşar Üniversitesi",
-      "Fakülte": "Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "105590195",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC Eğitim Araştırma Yerleşkesi (Gazimağusa)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+110+010+0"
+        "2",
+        "3",
+        "2",
+        "7"
       ],
       "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "111010"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "79,518",
-        "67,900",
-        "95,515",
-        "84,351"
+        "83.010",
+        "207.079",
+        "79.527",
+        "159.231"
       ],
       "Taban Puan": [
-        "370.002",
-        "386.858",
-        "380.844",
-        "327.875"
+        "413.757",
+        "320.591",
+        "427.726",
+        "359.921"
       ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209210083",
-      "Üniversite": "Ankara Medipol Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+19+0+1+0+19+09+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "1199"
-      ],
-      "Taban Sıralama": [
-        "82,357",
-        "92,103",
-        "109,537",
-        "115,394"
-      ],
-      "Taban Puan": [
-        "368.545",
-        "375.397",
-        "374.651",
-        "313.556"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203111112",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "111212"
-      ],
-      "Taban Sıralama": [
-        "86,006",
-        "92,386",
-        "109,355",
-        "99,885"
-      ],
-      "Taban Puan": [
-        "366.756",
-        "375.269",
-        "374.734",
-        "320.327"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209510030",
-      "Üniversite": "Ankara Bilim Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+15+08+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "658"
-      ],
-      "Taban Sıralama": [
-        "92,419",
-        "99,614",
-        "140,282",
-        "150,220"
-      ],
-      "Taban Puan": [
-        "363.705",
-        "372.126",
-        "362.432",
-        "300.405"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200211377",
-      "Üniversite": "Atılım Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+16+0+1+0+18+0+1+0+19+010+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "6+0+1+0+1",
-        "10910"
-      ],
-      "Taban Sıralama": [
-        "92,823",
-        "96,064",
-        "107,374",
-        "123,063"
-      ],
-      "Taban Puan": [
-        "363.519",
-        "373.653",
-        "375.574",
-        "310.422"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "107510144",
-      "Üniversite": "Mimar Sinan Güzel Sanatlar Üniversitesi",
+      "Üniversite": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Mimarlık Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "38+1+0+1+045+2+0+2+060+2+0+2+060+260+2"
+        "38",
+        "45",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "49",
-        "45+2+0+2+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "105,547",
-        "103,183",
-        "101,162",
-        "97,817"
+        "110.185",
+        "105.547",
+        "103.183",
+        "101.162"
       ],
       "Taban Puan": [
+        "390.989",
         "379.801",
         "406.138",
-        "404.432",
-        "345.023"
+        "404.432"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206112128",
-      "Üniversite": "Yeditepe Üniversitesi",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Mimarlık Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+110+0+1+0+113+0+2+0+115+015+0"
+        "9",
+        "10",
+        "13",
+        "15"
       ],
       "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "141515"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "112,164",
-        "110,150",
-        "107,622",
-        "107,530"
+        "116.499",
+        "112.164",
+        "110.150",
+        "107.622"
       ],
       "Taban Puan": [
+        "386.211",
         "374.474",
         "400.398",
-        "398.634",
-        "336.964"
+        "398.634"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204790572",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Sanat, Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+15+08+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "658"
-      ],
-      "Taban Sıralama": [
-        "113,629",
-        "127,753",
-        "135,886",
-        "139,159"
-      ],
-      "Taban Puan": [
-        "354.766",
-        "361.133",
-        "64.068",
-        "304.29"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203211014",
-      "Üniversite": "İstanbul Sabahattin Zaim Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+19+0+2+0+110+09+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "10109"
-      ],
-      "Taban Sıralama": [
-        "115,082",
-        "108,220",
-        "152,205",
-        "108,872"
-      ],
-      "Taban Puan": [
-        "354.188",
-        "368.513",
-        "358.123",
-        "316.299"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202511156",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
-      "Fakülte": "Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+110+0+1+0+19+07+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "1197"
-      ],
-      "Taban Sıralama": [
-        "117,633",
-        "115,124",
-        "83,665",
-        "88,399"
-      ],
-      "Taban Puan": [
-        "370.278",
-        "396.498",
-        "421.112",
-        "353.155"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "207210428",
-      "Üniversite": "Mef Üniversitesi",
-      "Fakülte": "Sanat, Tasarım Ve Mimarlık Fakültesi",
+      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+15+0+1+0+16+0+1+0+17+07+0"
+        "4",
+        "5",
+        "6",
+        "7"
       ],
       "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "777"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "123,557",
-        "96,455",
-        "99,329",
-        "94,215"
+        "120.382",
+        "123.557",
+        "96.455",
+        "99.329"
       ],
       "Taban Puan": [
+        "383.369",
         "365.972",
-        "411.974",
-        "06.172",
-        "348.03"
+        "411.970",
+        "406.172"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "206410526",
-      "Üniversite": "Antalya Bilim Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+110+0+1+0+111+011+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "121111"
-      ],
-      "Taban Sıralama": [
-        "124,860",
-        "129,526",
-        "138,661",
-        "116,166"
-      ],
-      "Taban Puan": [
-        "350.501",
-        "360.484",
-        "363.029",
-        "313.225"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203011352",
-      "Üniversite": "İstanbul Kültür Üniversitesi",
+      "Program Kodu": "202511156",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
       "Fakülte": "Mimarlık Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+110+09+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "11109"
-      ],
-      "Taban Sıralama": [
-        "126,159",
-        "117,915",
-        "122,247",
-        "98,985"
-      ],
-      "Taban Puan": [
-        "350.027",
-        "364.736",
-        "369.361",
-        "320.741"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204790510",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Sanat, Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+16+0+1+0+18+0+1+0+18+08+0"
-      ],
-      "Yerleşen": [
+        "6",
         "7",
-        "6+0+0+0+1",
-        "988"
-      ],
-      "Taban Sıralama": [
-        "130,152",
-        "136,644",
-        "131,282",
-        "136,937"
-      ],
-      "Taban Puan": [
-        "348.562",
-        "357.951",
-        "365.826",
-        "305.136"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209110055",
-      "Üniversite": "Ostim Teknik Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+110+0+1+0+19+09+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "1299"
-      ],
-      "Taban Sıralama": [
-        "132,231",
-        "129,499",
-        "129,330",
-        "146,607"
-      ],
-      "Taban Puan": [
-        "347.829",
-        "360.491",
-        "366.549",
-        "301.639"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203011176",
-      "Üniversite": "İstanbul Kültür Üniversitesi",
-      "Fakülte": "Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+19+0+1+0+111+0+2+0+112+011+0"
-      ],
-      "Yerleşen": [
         "10",
-        "9+0+0+0+1",
-        "131211"
-      ],
-      "Taban Sıralama": [
-        "134,940",
-        "135,669",
-        "146,402",
-        "118,730"
-      ],
-      "Taban Puan": [
-        "346.896",
-        "358.336",
-        "0.181",
-        "312.162"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207650959",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+110+0+1+0+19+08+0"
+        "9"
       ],
       "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "1198"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "141,336",
-        "149,553",
-        "153,577",
-        "138,948"
+        "121.385",
+        "117.633",
+        "115.124",
+        "83.665"
       ],
       "Taban Puan": [
-        "344.717",
-        "353.635",
-        "357.632",
-        "304.369"
+        "382.625",
+        "370.278",
+        "396.498",
+        "421.112"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "201110244",
-      "Üniversite": "Çankaya Üniversitesi",
+      "Üniversite": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Mimarlık Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+18+0+1+0+112+0+1+0+113+011+0"
+        "6",
+        "8",
+        "12",
+        "13"
       ],
       "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "141311"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "142,222",
-        "146,607",
-        "150,317",
-        "135,482"
+        "133.377",
+        "142.222",
+        "146.607",
+        "150.317"
       ],
       "Taban Puan": [
+        "374.217",
         "353.608",
         "373.972",
-        "365.843",
-        "316.718"
+        "365.843"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208410308",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+111+011+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "111111"
-      ],
-      "Taban Sıralama": [
-        "145,229",
-        "147,123",
-        "152,946",
-        "138,548"
-      ],
-      "Taban Puan": [
-        "343.453",
-        "354.444",
-        "357.861",
-        "304.525"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107211224",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "38+1+0+0+045+2+0+0+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "646262"
-      ],
-      "Taban Sıralama": [
-        "147,395",
-        "139,314",
-        "130,958",
-        "130,163"
-      ],
-      "Taban Puan": [
-        "350.419",
-        "378.773",
-        "379.485",
-        "320.264"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203490216",
-      "Üniversite": "İstanbul Ticaret Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+16+0+1+0+17+0+1+0+18+0-"
-      ],
-      "Yerleşen": [
-        "6",
-        "6+0+0+0+0",
-        "88"
-      ],
-      "Taban Sıralama": [
-        "147,524",
-        "151,371",
-        "153,966"
-      ],
-      "Taban Puan": [
-        "342.685",
-        "353.073",
-        "357.494"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202110629",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+0+0+0+034+0+0+0+045+0+0+0+045+043+0"
-      ],
-      "Yerleşen": [
-        "34",
-        "34+0+0+0+0",
-        "454543"
-      ],
-      "Taban Sıralama": [
-        "147,798",
-        "162,624",
-        "173,582",
-        "140,402"
-      ],
-      "Taban Puan": [
-        "342.602",
-        "349.598",
-        "350.892",
-        "303.836"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "105690661",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "Mimarlık Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "38+1+0+0+045+2+0+0+060+2+0+2+060+260+2"
+        "38",
+        "45",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "646262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "149,497",
-        "144,024",
-        "141,706",
-        "140,744"
+        "145.683",
+        "149.497",
+        "144.024",
+        "141.706"
       ],
       "Taban Puan": [
+        "366.111",
         "349.161",
         "375.659",
-        "371.677",
-        "313.299"
+        "371.677"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201990853",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "150,401"
-      ],
-      "Taban Puan": [
-        "341.765"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201610584",
-      "Üniversite": "Hasan Kalyoncu Üniversitesi",
-      "Fakülte": "Güzel Sanatlar Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+18+0+1+0+110+0+2+0+115+015+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "131515"
-      ],
-      "Taban Sıralama": [
-        "152,965",
-        "167,600",
-        "179,598",
-        "188,093"
-      ],
-      "Taban Puan": [
-        "340.949",
-        "348.134",
-        "348.965",
-        "288.686"
-      ],
-      "Şehir": "Gaziantep",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209010331",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "MimarlıK Ve TasarıM FaküLtesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "153,179"
-      ],
-      "Taban Puan": [
-        "340.885"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202090309",
-      "Üniversite": "Işık Üniversitesi",
-      "Fakülte": "Sanat, Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+16+07+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "567"
-      ],
-      "Taban Sıralama": [
-        "154,121",
-        "142,047",
-        "153,056",
-        "139,233"
-      ],
-      "Taban Puan": [
-        "340.581",
-        "356.129",
-        "357.823",
-        "04.263"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202090306",
-      "Üniversite": "Işık Üniversitesi",
-      "Fakülte": "Sanat, Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+15+08+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "658"
-      ],
-      "Taban Sıralama": [
-        "154,673",
-        "152,383",
-        "160,627",
-        "150,912"
-      ],
-      "Taban Puan": [
-        "340.405",
-        "352.758",
-        "355.187",
-        "300.174"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210200402",
-      "Üniversite": "Antalya Belek Üniversitesi",
-      "Fakülte": "Sanat Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+17+08+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "678"
-      ],
-      "Taban Sıralama": [
-        "157,369",
-        "174,491",
-        "191,060",
-        "179,635"
-      ],
-      "Taban Puan": [
-        "339.562",
-        "346.145",
-        "345.472",
-        "291.084"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202990239",
-      "Üniversite": "Altınbaş Üniversitesi",
-      "Fakülte": "Mühendislik Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+16+0-"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "56"
-      ],
-      "Taban Sıralama": [
-        "161,205",
-        "167,193",
-        "154,983"
-      ],
-      "Taban Puan": [
-        "338.389",
-        "348.253",
-        "357.145"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205410714",
-      "Üniversite": "Tobb Ekonomi Ve Teknoloji Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+0+0+08+0+0+0+010+0+0+0+04+012+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "8+0+0+0+0",
-        "10412"
-      ],
-      "Taban Sıralama": [
-        "161,676",
-        "170,883",
-        "151,207",
-        "151,346"
-      ],
-      "Taban Puan": [
-        "338.253",
-        "347.174",
-        "358.454",
-        "300.013"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202990225",
-      "Üniversite": "Altınbaş Üniversitesi",
-      "Fakülte": "Mühendislik Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+16+0-"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "66"
-      ],
-      "Taban Sıralama": [
-        "162,117",
-        "162,104",
-        "161,912"
-      ],
-      "Taban Puan": [
-        "338.122",
-        "349.758",
-        "354.757"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202790510",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Program Kodu": "107211224",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Güzel Sanatlar Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+15+0+1+0+17+0+1+0+16+06+0"
+        "38",
+        "45",
+        "60",
+        "60"
       ],
       "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "150.059",
+        "147.395",
+        "139.314",
+        "130.958"
+      ],
+      "Taban Puan": [
+        "363.440",
+        "350.419",
+        "378.773",
+        "379.485"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112410934",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "25",
+        "20",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "171.622",
+        "177.719",
+        "170.017",
+        "192.646"
+      ],
+      "Taban Puan": [
+        "351.387",
+        "333.785",
+        "359.848",
+        "340.952"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210301865",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik-Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
         "6",
-        "5+0+0+0+1",
-        "866"
+        "8",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "165,395",
-        "170,140",
-        "155,631",
-        "148,410"
+        "173.597",
+        "177.164",
+        "177.880",
+        "171.528"
       ],
       "Taban Puan": [
-        "337.153",
-        "47.398",
-        "356.911",
-        "301.034"
+        "350.396",
+        "334.053",
+        "355.570",
+        "352.568"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209010317",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "MimarlıK Ve TasarıM FaküLtesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "167,347"
-      ],
-      "Taban Puan": [
-        "336.598"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209310250",
-      "Üniversite": "İstanbul Atlas Üniversitesi",
-      "Fakülte": "Sanat, Tasarım Ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "167,586"
-      ],
-      "Taban Puan": [
-        "336.534"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "204111172",
-      "Üniversite": "Maltepe Üniversitesi",
-      "Fakülte": "Mimarlık Ve Tasarım Fakültesi",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+110+09+0"
+        "4",
+        "4",
+        "4",
+        "10"
       ],
       "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "4109"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "171,196",
-        "163,824",
-        "174,131",
-        "164,218"
+        "177.976",
+        "171.196",
+        "163.824",
+        "174.131"
       ],
       "Taban Puan": [
+        "348.130",
         "337.157",
         "363.418",
-        "351.062",
-        "99.625"
+        "351.060"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201490297",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "181.080",
+        "189.547",
+        "181.913",
+        "191.205"
+      ],
+      "Taban Puan": [
+        "346.525",
+        "328.226",
+        "353.468",
+        "341.724"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210301851",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Mühendislik-Mimarlık Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+16+0+1+0+18+0+1+0+17+012+0"
+        "5",
+        "6",
+        "8",
+        ""
       ],
       "Yerleşen": [
-        "7",
-        "6+0+0+0+1",
-        "9712"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "171,291",
-        "190,969",
-        "179,793",
-        "201,641"
+        "182.450",
+        "171.291",
+        "190.969",
+        "179.793"
       ],
       "Taban Puan": [
+        "345.826",
         "337.111",
         "348.911",
-        "347.856",
-        "281.49"
+        "347.856"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "206211138",
-      "Üniversite": "İstanbul Yeni Yüzyıl Üniversitesi",
-      "Fakülte": "Mühendislik-Mimarlık Fakültesi",
+      "Program Kodu": "202412791",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+17+0+1+0+110+0+1+0+19+09+0"
+        "11",
+        "11",
+        "15",
+        "16"
       ],
       "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "1199"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "173,950",
-        "188,812",
-        "188,126",
-        "175,624"
+        "189.076",
+        "191.406",
+        "200.139",
+        "193.569"
       ],
       "Taban Puan": [
-        "334.719",
-        "342.209",
-        "346.357",
-        "292.279"
+        "342.623",
+        "327.380",
+        "344.496",
+        "340.480"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202711657",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
+      "Program Kodu": "208750239",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "4",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "203.105",
+        "215.725",
+        "234.120",
+        "208.760"
+      ],
+      "Taban Puan": [
+        "336.240",
+        "317.142",
+        "329.961",
+        "333.065"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100711107",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "54",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "205.536",
+        "205.131",
+        "207.373",
+        "212.186"
+      ],
+      "Taban Puan": [
+        "335.182",
+        "321.409",
+        "341.140",
+        "331.473"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201210922",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "8",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "205.576",
+        "204.968",
+        "213.479",
+        "201.972"
+      ],
+      "Taban Puan": [
+        "335.164",
+        "321.476",
+        "338.466",
+        "336.355"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202390822",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "210.026",
+        "247.704",
+        "264.214",
+        "238.005"
+      ],
+      "Taban Puan": [
+        "333.258",
+        "305.512",
+        "318.946",
+        "320.233"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402432",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "7",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "213.630",
+        "230.634",
+        "249.640",
+        "196.357"
+      ],
+      "Taban Puan": [
+        "331.732",
+        "311.502",
+        "324.100",
+        "339.107"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402411",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "8",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "229.352",
+        "239.102",
+        "260.548",
+        "229.277"
+      ],
+      "Taban Puan": [
+        "325.474",
+        "308.488",
+        "320.224",
+        "323.873"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202712391",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
       "Fakülte": "Güzel Sanatlar Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+111+0+2+0+115+0+2+0+114+014+0"
+        "6",
+        "7",
+        "10",
+        "9"
       ],
       "Yerleşen": [
-        "12",
-        "11+0+0+0+1",
-        "161414"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "176,102",
-        "182,748",
-        "189,103",
-        "162,015"
+        "231.725",
+        "243.087",
+        "252.350",
+        "215.458"
       ],
       "Taban Puan": [
-        "334.141",
-        "343.823",
-        "346.071",
-        "296.508"
+        "324.570",
+        "307.100",
+        "323.130",
+        "329.959"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106910285",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "54",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "234.729",
+        "247.588",
+        "240.940",
+        "244.417"
+      ],
+      "Taban Puan": [
+        "323.489",
+        "305.554",
+        "327.331",
+        "317.622"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108290537",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "20",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "235.900",
+        "269.854",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "323.054",
+        "298.578",
+        "",
+        ""
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208151309",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "238.208",
+        "237.834",
+        "246.043",
+        "245.933"
+      ],
+      "Taban Puan": [
+        "322.201",
+        "308.921",
+        "325.418",
+        "317.032"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207510858",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "258.542",
+        "284.771",
+        "280.054",
+        "267.416"
+      ],
+      "Taban Puan": [
+        "315.048",
+        "294.289",
+        "313.724",
+        "308.907"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106210326",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "54",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "262.808",
+        "276.506",
+        "268.594",
+        "263.207"
+      ],
+      "Taban Puan": [
+        "313.658",
+        "296.640",
+        "317.486",
+        "310.421"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204010642",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Güzel Sanatlar ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "5",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "263.435",
+        "275.730",
+        "258.400",
+        "252.573"
+      ],
+      "Taban Puan": [
+        "313.442",
+        "296.862",
+        "320.954",
+        "314.372"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205510801",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "267.268",
+        "281.642",
+        "283.257",
+        "272.974"
+      ],
+      "Taban Puan": [
+        "312.198",
+        "295.171",
+        "312.699",
+        "306.946"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109490339",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "26",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "267.723",
+        "282.722",
+        "283.319",
+        "292.672"
+      ],
+      "Taban Puan": [
+        "312.053",
+        "294.862",
+        "312.677",
+        "300.292"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108990523",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "47",
+        "55",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "275.444",
+        "299.345",
+        "280.371",
+        "285.499"
+      ],
+      "Taban Puan": [
+        "309.623",
+        "290.332",
+        "313.622",
+        "302.629"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109970297",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "45",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "278.999",
+        "300.472",
+        "303.419",
+        "298.637"
+      ],
+      "Taban Puan": [
+        "308.554",
+        "290.017",
+        "306.672",
+        "298.367"
+      ],
+      "Şehir": "YALOVA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111372230",
+      "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "26",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "286.101",
+        "306.666",
+        "305.826",
+        "319.112"
+      ],
+      "Taban Puan": [
+        "306.404",
+        "288.415",
+        "305.983",
+        "292.128"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910631",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "43",
+        "50",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "288.063",
+        "296.014",
+        "286.743",
+        "279.039"
+      ],
+      "Taban Puan": [
+        "305.848",
+        "291.167",
+        "311.622",
+        "304.857"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300112815",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "8",
+        "10",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "291.588",
+        "315.007",
+        "317.202",
+        "318.394"
+      ],
+      "Taban Puan": [
+        "304.804",
+        "286.354",
+        "302.833",
+        "292.337"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208310043",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "292.103",
+        "310.567",
+        "309.763",
+        "290.534"
+      ],
+      "Taban Puan": [
+        "304.652",
+        "287.424",
+        "304.883",
+        "300.984"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103290187",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "54",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "298.351",
+        "321.093",
+        "316.147",
+        "309.024"
+      ],
+      "Taban Puan": [
+        "302.892",
+        "284.896",
+        "303.131",
+        "295.149"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108090133",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Güzel Sanatlar Fakültesi (Hacıbektaş)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "309.327",
+        "329.653",
+        "331.460",
+        "339.890"
+      ],
+      "Taban Puan": [
+        "299.828",
+        "282.844",
+        "298.993",
+        "286.274"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490472",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "45",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "315.775",
+        "341.321",
+        "338.374",
+        "333.892"
+      ],
+      "Taban Puan": [
+        "298.117",
+        "280.223",
+        "297.210",
+        "287.931"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300112772",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "9",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "329.371",
+        "337.423",
+        "344.331",
+        "359.823"
+      ],
+      "Taban Puan": [
+        "294.577",
+        "281.084",
+        "295.720",
+        "281.014"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111570518",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "26",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "335.716",
+        "401.083",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "293.024",
+        "268.464",
+        "",
+        ""
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110790035",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "45",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "343.763",
+        "380.672",
+        "378.087",
+        "334.431"
+      ],
+      "Taban Puan": [
+        "291.097",
+        "272.127",
+        "287.788",
+        "287.779"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204010651",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Güzel Sanatlar ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "16",
+        "14",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "368.967",
+        "369.485",
+        "358.297",
+        "363.306"
+      ],
+      "Taban Puan": [
+        "285.403",
+        "274.321",
+        "292.325",
+        "280.138"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300411947",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "381.086",
+        "371.352",
+        "414.493",
+        "457.803"
+      ],
+      "Taban Puan": [
+        "282.810",
+        "273.955",
+        "280.097",
+        "260.196"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300513103",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "12",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "391.823",
+        "427.952",
+        "443.696",
+        "538.905"
+      ],
+      "Taban Puan": [
+        "280.555",
+        "263.983",
+        "274.589",
+        "247.496"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206112331",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "41",
+        "47",
+        "65",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "396.458",
+        "361.693",
+        "395.608",
+        "311.301"
+      ],
+      "Taban Puan": [
+        "279.653",
+        "275.890",
+        "283.977",
+        "294.473"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300212189",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "13",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "426.333",
+        "426.093",
+        "439.337",
+        "512.989"
+      ],
+      "Taban Puan": [
+        "274.068",
+        "264.290",
+        "275.392",
+        "251.198"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300411902",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "6",
+        "8",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "432.933",
+        "431.166",
+        "430.830",
+        "535.826"
+      ],
+      "Taban Puan": [
+        "272.885",
+        "263.466",
+        "276.967",
+        "247.918"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202511853",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "39",
+        "46",
+        "58",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "438.761",
+        "398.690",
+        "392.510",
+        "299.854"
+      ],
+      "Taban Puan": [
+        "271.867",
+        "268.892",
+        "284.639",
+        "297.978"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300212144",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "13",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "443.007",
+        "454.095",
+        "471.161",
+        "530.783"
+      ],
+      "Taban Puan": [
+        "271.153",
+        "259.959",
+        "269.756",
+        "248.627"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207210446",
+      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "28",
+        "35",
+        "39"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "452.636",
+        "375.474",
+        "407.238",
+        "303.611"
+      ],
+      "Taban Puan": [
+        "269.543",
+        "273.126",
+        "281.552",
+        "296.808"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300390593",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "18",
+        "12",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "470.677",
+        "501.900",
+        "438.808",
+        ""
+      ],
+      "Taban Puan": [
+        "266.644",
+        "253.488",
+        "275.490",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105590188",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC Eğitim Araştırma Yerleşkesi (Gazimağusa)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "13",
+        "10",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "483.102",
+        "",
+        "193.454",
+        "359.661"
+      ],
+      "Taban Puan": [
+        "264.748",
+        "",
+        "347.700",
+        "281.052"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201110774",
+      "Üniversite": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "39",
+        "45",
+        "57",
+        "57"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "488.316",
+        "413.215",
+        "380.765",
+        "380.727"
+      ],
+      "Taban Puan": [
+        "263.966",
+        "266.415",
+        "287.165",
+        "275.946"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204010633",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Güzel Sanatlar ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "18",
+        "20",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "508.151",
+        "498.976",
+        "498.720",
+        "456.646"
+      ],
+      "Taban Puan": [
+        "261.057",
+        "253.870",
+        "265.274",
+        "260.407"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201290488",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "38",
+        "51",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "517.672",
+        "532.046",
+        "656.055",
+        "450.796"
+      ],
+      "Taban Puan": [
+        "259.763",
+        "249.888",
+        "244.866",
+        "261.446"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207250057",
+      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "4",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "564.201",
+        "462.517",
+        "482.433",
+        ""
+      ],
+      "Taban Puan": [
+        "253.771",
+        "258.747",
+        "267.858",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204111436",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "19",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "591.511",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "250.584",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208750376",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "29",
+        "33",
+        "25",
+        "19"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "601.104",
+        "582.893",
+        "544.943",
+        "469.114"
+      ],
+      "Taban Puan": [
+        "249.505",
+        "244.399",
+        "258.465",
+        "258.213"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205590237",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "33",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "649.190",
+        "898.803",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "244.446",
+        "218.127",
+        "",
+        ""
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "208310053",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "",
+        "",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "651.266",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "244.248",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208310075",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "30",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "668.144",
+        "758.588",
+        "842.286",
+        ""
+      ],
+      "Taban Puan": [
+        "242.605",
+        "229.014",
+        "227.373",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202390836",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "27",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "673.149",
+        "727.846",
+        "880.951",
+        "478.331"
+      ],
+      "Taban Puan": [
+        "242.123",
+        "231.467",
+        "224.207",
+        "256.637"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210301858",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik-Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "38",
+        "51",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "682.499",
+        "620.810",
+        "611.825",
+        "495.693"
+      ],
+      "Taban Puan": [
+        "241.223",
+        "240.711",
+        "249.872",
+        "253.858"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300112806",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "17",
+        "16",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "683.765",
+        "",
+        "447.273",
+        "453.310"
+      ],
+      "Taban Puan": [
+        "241.108",
+        "",
+        "273.962",
+        "261.000"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204190410",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "21",
+        "21",
+        "39"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "700.153",
+        "903.522",
+        "645.251",
+        "709.616"
+      ],
+      "Taban Puan": [
+        "239.589",
+        "217.770",
+        "246.043",
+        "228.312"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210301872",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik-Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "38",
+        "51",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "759.749",
+        "654.877",
+        "683.358",
+        "441.523"
+      ],
+      "Taban Puan": [
+        "234.334",
+        "237.599",
+        "241.971",
+        "263.176"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300112763",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "15",
+        "12",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "767.477",
+        "1.283.121",
+        "572.909",
+        "464.603"
+      ],
+      "Taban Puan": [
+        "233.673",
+        "177.507",
+        "254.750",
+        "259.001"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210402425",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "37",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "768.466",
+        "469.441",
+        "501.965",
+        "456.603"
+      ],
+      "Taban Puan": [
+        "233.586",
+        "257.773",
+        "264.759",
+        "260.416"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300390600",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "18",
+        "17",
+        "18",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "769.145",
+        "806.060",
+        "771.811",
+        ""
+      ],
+      "Taban Puan": [
+        "233.528",
+        "225.291",
+        "233.438",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202412807",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "72",
+        "72",
+        "93",
+        "92"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "785.611",
+        "515.960",
+        "539.757",
+        "382.314"
+      ],
+      "Taban Puan": [
+        "232.118",
+        "251.792",
+        "259.186",
+        "275.576"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300112781",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "13",
+        "9",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "840.230",
+        "",
+        "566.668",
+        "612.660"
+      ],
+      "Taban Puan": [
+        "227.620",
+        "",
+        "255.552",
+        "238.298"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208151316",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "26",
+        "33",
+        "32",
+        "24"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "849.785",
+        "702.947",
+        "762.249",
+        "504.073"
+      ],
+      "Taban Puan": [
+        "226.852",
+        "233.515",
+        "234.312",
+        "252.549"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208151302",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "1",
+        "2",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "865.539",
+        "733.118",
+        "646.768",
+        "507.790"
+      ],
+      "Taban Puan": [
+        "225.582",
+        "231.046",
+        "245.882",
+        "251.987"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206112137",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "17",
+        "20",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "869.393",
+        "508.425",
+        "487.985",
+        "351.839"
+      ],
+      "Taban Puan": [
+        "225.280",
+        "252.688",
+        "266.960",
+        "283.073"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202390829",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "7",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "870.376",
+        "967.270",
+        "890.243",
+        ""
+      ],
+      "Taban Puan": [
+        "225.201",
+        "212.713",
+        "223.453",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210402439",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sanat ve Tasarım Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "44",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "905.778",
+        "550.309",
+        "523.252",
+        "457.965"
+      ],
+      "Taban Puan": [
+        "222.360",
+        "247.829",
+        "261.556",
+        "260.169"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300513112",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "21",
+        "18",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "938.195",
+        "1.201.457",
+        "647.114",
+        "749.353"
+      ],
+      "Taban Puan": [
+        "219.721",
+        "190.850",
+        "245.845",
+        "224.725"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300112799",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "15",
+        "14",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "985.443",
+        "912.389",
+        "549.517",
+        "579.893"
+      ],
+      "Taban Puan": [
+        "215.858",
+        "217.074",
+        "257.837",
+        "242.162"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300290435",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "15",
+        "13",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.025.715",
+        "915.717",
+        "749.066",
+        "782.043"
+      ],
+      "Taban Puan": [
+        "212.402",
+        "216.815",
+        "235.526",
+        "221.876"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207510876",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "31",
+        "34",
+        "34",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.088.286",
+        "1.130.805",
+        "735.115",
+        "574.522"
+      ],
+      "Taban Puan": [
+        "206.677",
+        "198.408",
+        "236.848",
+        "242.816"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300411929",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "34",
+        "32",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.138.405",
+        "1.238.216",
+        "817.871",
+        "807.176"
+      ],
+      "Taban Puan": [
+        "201.588",
+        "186.032",
+        "229.424",
+        "219.785"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201490311",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sanat, Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "34",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.174.070",
+        "1.015.043",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "197.519",
+        "208.789",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "108090147",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Güzel Sanatlar Fakültesi (Hacıbektaş)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İç Mimarlık (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "595.809",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "243.109",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202712416",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "39",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "300290434",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "14",
+        "14",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "871.639",
+        "1.021.150"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "224.966",
+        "203.347"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300290436",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "14",
+        "14",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "925.934",
+        "1.188.911"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "220.622",
+        "191.045"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300290437",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Mimarlık, Tasarım ve Güzel Sanatlar Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "15",
+        "13",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.089.508",
+        "755.004",
+        "787.020"
+      ],
+      "Taban Puan": [
+        "",
+        "202.300",
+        "234.973",
+        "221.457"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300490508",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Güzel Sanatlar Tasarım ve Mimarlık Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İç Mimarlık (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "20",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "894.902",
+        "913.702"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "223.082",
+        "211.339"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

@@ -1,1822 +1,7084 @@
 {
   "yks": [
     {
-      "Program Kodu": "202111106",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
+      "Program Kodu": "203910796",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+0+3+0+121+0+3+0+121+0+3+0+124+024+0"
+        "21",
+        "18",
+        "18",
+        "20"
       ],
       "Yerleşen": [
-        "25",
-        "21+0+3+0+1",
-        "252424"
+        "",
+        "",
+        "",
+        ""
       ],
-      "Taban Sıralama": [],
+      "Taban Sıralama": [
+        "253",
+        "473",
+        "239",
+        "132"
+      ],
       "Taban Puan": [
+        "510.784",
+        "504.596",
+        "527.169",
+        "530.685"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202111106",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "21",
+        "21",
+        "24"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "376",
+        "305",
+        "271",
+        "329"
+      ],
+      "Taban Puan": [
+        "504.015",
         "511.772",
         "525.788",
-        "520.224",
-        "474.644"
+        "520.224"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104010052",
-      "Üniversite": "Galatasaray Üniversitesi",
+      "Üniversite": "GALATASARAY ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Fransızca)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+0+035+1+0+0+035+1+0+0+035+125+1"
+        "35",
+        "35",
+        "35",
+        "35"
       ],
       "Yerleşen": [
-        "36",
-        "35+1+0+0+0",
-        "363626"
+        "",
+        "",
+        "",
+        ""
       ],
-      "Taban Sıralama": [],
+      "Taban Sıralama": [
+        "426",
+        "425",
+        "340",
+        "164"
+      ],
       "Taban Puan": [
+        "502.128",
         "506.582",
         "522.671",
-        "528.448",
-        "486.664"
+        "528.448"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203910796",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "21+0+3+0+118+0+3+0+118+0+3+0+120+019+0"
-      ],
-      "Yerleşen": [
-        "22",
-        "18+0+3+0+1",
-        "222019"
-      ],
-      "Taban Sıralama": [],
-      "Taban Puan": [
-        "504.596",
-        "527.169",
-        "530.685",
-        "487.292"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "205410283",
-      "Üniversite": "Tobb Ekonomi Ve Teknoloji Üniversitesi",
+      "Üniversite": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "14+0+2+0+115+0+2+0+114+0+2+0+116+015+0"
+        "14",
+        "15",
+        "14",
+        "16"
       ],
       "Yerleşen": [
-        "18",
-        "15+0+2+0+1",
-        "171615"
+        "",
+        "",
+        "",
+        ""
       ],
-      "Taban Sıralama": [],
+      "Taban Sıralama": [
+        "616",
+        "691",
+        "658",
+        "689"
+      ],
       "Taban Puan": [
+        "494.124",
         "496.907",
         "511.461",
-        "509.852",
-        "462.344"
+        "509.852"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "204810228",
-      "Üniversite": "Özyeğin Üniversitesi",
+      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "13+0+2+0+113+0+2+0+120+0+3+0+126+028+0"
+        "13",
+        "13",
+        "20",
+        "26"
       ],
       "Yerleşen": [
-        "16",
-        "13+0+2+0+1",
-        "232628"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,091",
-        "1,584",
-        "1,389",
-        "1,533"
+        "1.181",
+        "1.091",
+        "1.584",
+        "1.389"
       ],
       "Taban Puan": [
+        "478.657",
         "486.427",
         "490.951",
-        "496.637",
-        "440.401"
+        "496.637"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202111115",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "9+0+0+0+010+0+0+0+010+0+0+0+016+016+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "10+0+0+0+0",
-        "101616"
-      ],
-      "Taban Sıralama": [
-        "1,191",
-        "1,262",
-        "1,689",
-        "1,612"
-      ],
-      "Taban Puan": [
-        "484.194",
-        "497.142",
-        "492.336",
-        "439.367"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "102270035",
-      "Üniversite": "Boğaziçi Üniversitesi",
+      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+0+070+2-"
+        "60",
+        "60",
+        "60",
+        "70"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "6272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,240",
-        "1,284",
-        "1,741"
+        "1.367",
+        "1.240",
+        "1.284",
+        "1.741"
       ],
       "Taban Puan": [
+        "474.757",
         "483.205",
         "496.689",
         "491.727"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206111969",
-      "Üniversite": "Yeditepe Üniversitesi",
+      "Program Kodu": "202111115",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "14+0+2+0+115+0+2+0+115+0+2+0+116+016+0"
+        "9",
+        "10",
+        "10",
+        "16"
       ],
       "Yerleşen": [
-        "16",
-        "15+0+0+0+1",
-        "161616"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,559",
-        "1,662"
+        "1.548",
+        "1.191",
+        "1.262",
+        "1.689"
       ],
       "Taban Puan": [
-        "476.809",
-        "489.542",
-        "503.396",
-        "451.514"
+        "471.420",
+        "484.194",
+        "497.142",
+        "492.336"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "105690587",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (UOLP-Hamburg Üniversitesi) (Ücretli)",
+      "Öğretim Türü": "UOLP",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+0+0+010+0+0+0+010+0+0+0+010+010+0"
+        "10",
+        "10",
+        "10",
+        "10"
       ],
       "Yerleşen": [
-        "10",
-        "10+0+0+0+0",
-        "101010"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,619",
-        "1,414"
+        "1.873",
+        "1.619",
+        "1.414",
+        "933"
       ],
       "Taban Puan": [
+        "466.298",
         "475.743",
         "494.115",
-        "504.601",
-        "462.246"
+        "504.601"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "202910736",
-      "Üniversite": "Altınbaş Üniversitesi",
+      "Program Kodu": "206111969",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+0+0+02+0+0+0+02+0+0+0+03+03+0"
+        "14",
+        "15",
+        "15",
+        "16"
       ],
       "Yerleşen": [
-        "2",
-        "2+0+0+0+0",
-        "233"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "3,094",
-        "2,429",
-        "2,182",
-        "8,426"
+        "2.041",
+        "1.559",
+        "1.662",
+        "991"
       ],
       "Taban Puan": [
-        "457.334",
-        "479.333",
-        "486.539",
-        "9.905"
+        "464.279",
+        "476.809",
+        "489.542",
+        "503.396"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101110518",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "200+5+0+0+0500+13+0+0+0500+13+0+0+0550+14550+14"
+        "200",
+        "500",
+        "500",
+        "550"
       ],
       "Yerleşen": [
-        "513",
-        "500+13+0+0+0",
-        "513564564"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "3,225",
-        "3,242",
-        "4,387",
-        "5,124"
+        "2.233",
+        "3.225",
+        "3.242",
+        "4.387"
       ],
       "Taban Puan": [
+        "461.841",
         "456.383",
         "471.292",
-        "468.876",
-        "412.368"
+        "468.876"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104890610",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "120",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.877",
+        "",
+        "4.090",
+        "6.201"
+      ],
+      "Taban Puan": [
+        "454.975",
+        "",
+        "463.981",
+        "459.609"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105610501",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "250",
+        "500",
+        "500",
+        "500"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "3.275",
+        "5.560",
+        "4.539",
+        "5.405"
+      ],
+      "Taban Puan": [
+        "451.252",
+        "444.710",
+        "460.703",
+        "463.338"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200511568",
-      "Üniversite": "Bahçeşehir Üniversitesi",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "16+0+2+0+117+0+2+0+120+0+3+0+122+022+0"
+        "16",
+        "17",
+        "20",
+        "22"
       ],
       "Yerleşen": [
-        "18",
-        "17+0+0+0+1",
-        "222222"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "4,436",
-        "3,821",
-        "4,201",
-        "5,222"
+        "3.681",
+        "4.436",
+        "3.821",
+        "4.201"
       ],
       "Taban Puan": [
+        "447.858",
         "449.264",
         "466.077",
-        "470.137",
-        "411.971"
+        "470.137"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105610501",
-      "Üniversite": "İstanbul Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "250+7+0+0+0500+13+0+0+0500+13+0+0+0500+13480+12"
-      ],
-      "Yerleşen": [
-        "513",
-        "500+13+0+0+0",
-        "513513492"
-      ],
-      "Taban Sıralama": [
-        "5,560",
-        "4,539",
-        "5,405",
-        "5,691"
-      ],
-      "Taban Puan": [
-        "444.714",
-        "60.703",
-        "463.338",
-        "409.973"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200611328",
-      "Üniversite": "Başkent Üniversitesi",
+      "Program Kodu": "203910832",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "23+0+3+0+124+0+4+0+124+0+4+0+126+023+0"
+        "10",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "28",
-        "24+0+3+0+1",
-        "262623"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "8,183",
-        "5,791",
-        "10,270",
-        "11,368"
+        "4.210",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "436.552",
-        "452.874",
-        "44.871",
-        "392.331"
+        "444.392",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "107210332",
-      "Üniversite": "Marmara Üniversitesi",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "250+7+0+0+0350+9+0+0+0350+9+0+0+0350+9340+9"
+        "250",
+        "350",
+        "350",
+        "350"
       ],
       "Yerleşen": [
-        "359",
-        "350+9+0+0+0",
-        "359359349"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "9,005",
-        "6,174",
-        "9,118",
-        "10,097"
+        "4.745",
+        "9.005",
+        "6.174",
+        "9.118"
       ],
       "Taban Puan": [
+        "441.652",
         "434.457",
         "451.038",
-        "448.374",
-        "395.323"
+        "448.374"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111710412",
-      "Üniversite": "Ankara Hacı Bayram Veli Üniversitesi",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "200+5+0+0+0300+8+0+0+0300+8+0+0+0420+11420+11"
+        "200",
+        "300",
+        "300",
+        "420"
       ],
       "Yerleşen": [
-        "308",
-        "300+8+0+0+0",
-        "308431431"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "9,139",
-        "6,380",
-        "11,196",
-        "14,341"
+        "4.930",
+        "9.139",
+        "6.380",
+        "11.196"
       ],
       "Taban Puan": [
+        "440.873",
         "434.175",
         "450.064",
-        "442.304",
-        "386.298"
+        "442.304"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202910736",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (UOLP-Köln Üniversitesi) (Burslu)",
+      "Öğretim Türü": "UOLP",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "2",
+        "2",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "5.130",
+        "3.094",
+        "2.429",
+        "2.182"
+      ],
+      "Taban Puan": [
+        "439.918",
+        "457.334",
+        "479.333",
+        "486.500"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208610015",
+      "Üniversite": "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "18",
+        "18",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "5.182",
+        "13.632",
+        "6.549",
+        "9.052"
+      ],
+      "Taban Puan": [
+        "439.668",
+        "425.256",
+        "449.311",
+        "448.572"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202510167",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "22+0+3+0+123+0+3+0+123+0+3+0+125+022+0"
+        "22",
+        "23",
+        "23",
+        "25"
       ],
       "Yerleşen": [
-        "27",
-        "23+0+3+0+1",
-        "242522"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "9,947",
-        "5,947",
-        "6,158",
-        "5,755"
+        "5.565",
+        "9.947",
+        "5.947",
+        "6.158"
       ],
       "Taban Puan": [
+        "438.037",
         "432.333",
         "452.175",
-        "459.787",
-        "409.658"
+        "459.787"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "109610013",
-      "Üniversite": "Türk-Alman Üniversitesi",
+      "Program Kodu": "200611328",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "80+2+0+0+0110+3+0+0+0110+3+0+0+0110+3100+3"
+        "23",
+        "24",
+        "24",
+        "26"
       ],
       "Yerleşen": [
-        "113",
-        "110+3+0+0+0",
-        "113113103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "11,385",
-        "8,130",
-        "11,620",
-        "13,485"
+        "5.788",
+        "8.183",
+        "5.791",
+        "10.270"
       ],
       "Taban Puan": [
-        "429.475",
-        "442.384",
-        "41.249",
-        "387.943"
+        "437.149",
+        "436.552",
+        "452.870",
+        "444.871"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "203710083",
-      "Üniversite": "Kadir Has Üniversitesi",
+      "Üniversite": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+110+0+1+0+121+0+3+0+126+024+0"
+        "9",
+        "10",
+        "21",
+        "26"
       ],
       "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "222624"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "11,391",
-        "9,521",
-        "12,546",
-        "15,063"
+        "5.817",
+        "11.391",
+        "9.521",
+        "12.546"
       ],
       "Taban Puan": [
+        "437.043",
         "429.456",
         "437.639",
-        "439.148",
-        "384.996"
+        "439.148"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207210331",
-      "Üniversite": "Mef Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "13+0+2+0+114+0+2+0+120+0+3+0+121+020+0"
-      ],
-      "Yerleşen": [
-        "15",
-        "14+0+0+0+1",
-        "222120"
-      ],
-      "Taban Sıralama": [
-        "12,514",
-        "9,347",
-        "12,391",
-        "14,715"
-      ],
-      "Taban Puan": [
-        "427.277",
-        "438.176",
-        "439.455",
-        "385.666"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110010023",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "100+3+0+0+0250+7+0+0+0250+7+0+0+0230+6220+6"
+        "100",
+        "250",
+        "250",
+        "230"
       ],
       "Yerleşen": [
-        "257",
-        "250+7+0+0+0",
-        "257236226"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "13,391",
-        "9,239",
-        "14,264",
-        "18,707"
+        "6.242",
+        "13.391",
+        "9.239",
+        "14.264"
       ],
       "Taban Puan": [
+        "435.473",
         "425.698",
-        "438.543",
-        "5.583",
-        "379.143"
+        "438.500",
+        "435.583"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208610015",
-      "Üniversite": "İbn Haldun Üniversitesi",
+      "Program Kodu": "109610013",
+      "Üniversite": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "15+0+0+0+118+0+0+0+118+0+0+0+115+010+0"
+        "80",
+        "110",
+        "110",
+        "110"
       ],
       "Yerleşen": [
-        "19",
-        "18+0+0+0+1",
-        "191510"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "13,632",
-        "6,549",
-        "9,052",
-        "10,598"
+        "6.459",
+        "11.385",
+        "8.130",
+        "11.620"
       ],
       "Taban Puan": [
-        "425.256",
-        "449.311",
-        "448.572",
-        "394.055"
+        "434.737",
+        "429.475",
+        "442.380",
+        "441.249"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110910096",
-      "Üniversite": "Ankara Sosyal Bilimler Üniversitesi",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+0100+3+0+0+0100+3+0+0+0160+4150+4"
+        "50",
+        "100",
+        "100",
+        "160"
       ],
       "Yerleşen": [
-        "103",
-        "100+3+0+0+0",
-        "103164154"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "15,901",
-        "10,317",
-        "16,942",
-        "22,087"
+        "6.906",
+        "15.901",
+        "10.317",
+        "16.942"
       ],
       "Taban Puan": [
+        "433.400",
         "421.395",
         "435.475",
-        "431.164",
-        "374.461"
+        "431.164"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203110211",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
+      "Program Kodu": "207210331",
+      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "23+0+3+0+125+0+4+0+125+0+4+0+129+029+0"
+        "13",
+        "14",
+        "20",
+        "21"
       ],
       "Yerleşen": [
-        "26",
-        "25+0+0+0+1",
-        "262929"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "16,012",
-        "10,883",
-        "14,717",
-        "20,626"
+        "7.454",
+        "12.514",
+        "9.347",
+        "12.391"
       ],
       "Taban Puan": [
-        "421.194",
-        "434.126",
-        "434.758",
-        "376.349"
+        "431.834",
+        "427.277",
+        "438.176",
+        "439.455"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "103110309",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "200+5+0+0+0460+12+0+0+0460+12+0+0+0460+12460+12"
+        "200",
+        "460",
+        "460",
+        "460"
       ],
       "Yerleşen": [
-        "472",
-        "460+12+0+0+0",
-        "472472472"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "16,194",
-        "9,736",
-        "13,564",
-        "16,705"
+        "8.056",
+        "16.194",
+        "9.736",
+        "13.564"
       ],
       "Taban Puan": [
+        "430.223",
         "420.904",
         "436.947",
-        "436.988",
-        "382.291"
+        "436.988"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "201110086",
-      "Üniversite": "Çankaya Üniversitesi",
+      "Üniversite": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "24+0+3+0+123+0+3+0+124+0+3+0+127+023+0"
+        "24",
+        "23",
+        "24",
+        "27"
       ],
       "Yerleşen": [
-        "25",
-        "23+0+1+0+1",
-        "252723"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "16,615",
-        "9,758",
-        "15,566",
-        "20,748"
+        "9.202",
+        "16.615",
+        "9.758",
+        "15.566"
       ],
       "Taban Puan": [
+        "427.449",
         "420.253",
         "436.886",
-        "433.329",
-        "376.191"
+        "433.329"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "209210059",
-      "Üniversite": "Ankara Medipol Üniversitesi",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "18+0+3+0+119+0+3+0+119+0+3+0+120+019+0"
+        "18",
+        "19",
+        "19",
+        "20"
       ],
       "Yerleşen": [
-        "21",
-        "19+0+1+0+1",
-        "222019"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "17,622",
-        "11,658",
-        "18,381",
-        "26,538"
+        "9.305",
+        "17.622",
+        "11.658",
+        "18.381"
       ],
       "Taban Puan": [
+        "427.252",
         "418.767",
         "432.547",
-        "429.329",
-        "369.134"
+        "429.329"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105410115",
+      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "190",
+        "190",
+        "190"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.430",
+        "20.025",
+        "13.045",
+        "17.312"
+      ],
+      "Taban Puan": [
+        "426.995",
+        "415.625",
+        "429.939",
+        "430.650"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203110211",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "25",
+        "25",
+        "29"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.589",
+        "16.012",
+        "10.883",
+        "14.717"
+      ],
+      "Taban Puan": [
+        "426.639",
+        "421.194",
+        "434.126",
+        "434.758"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "203510791",
-      "Üniversite": "İzmir Ekonomi Üniversitesi",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "22+0+3+0+123+0+3+0+123+0+3+0+126+025+0"
+        "22",
+        "23",
+        "23",
+        "26"
       ],
       "Yerleşen": [
-        "24",
-        "23+0+0+0+1",
-        "242625"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "18,560",
-        "10,823",
-        "15,117",
-        "22,935"
+        "9.715",
+        "18.560",
+        "10.823",
+        "15.117"
       ],
       "Taban Puan": [
+        "426.367",
         "417.478",
-        "434.254",
-        "34.043",
-        "73.374"
+        "434.250",
+        "434.040"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101010255",
-      "Üniversite": "Anadolu Üniversitesi",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "200+5+0+0+0300+8+0+0+0300+8+0+0+0355+9355+9"
+        "200",
+        "300",
+        "300",
+        "355"
       ],
       "Yerleşen": [
-        "308",
-        "300+8+0+0+0",
-        "308364364"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "19,038",
-        "11,141",
-        "16,617",
-        "20,854"
+        "9.923",
+        "19.038",
+        "11.141",
+        "16.617"
       ],
       "Taban Puan": [
+        "425.962",
         "416.872",
-        "433.584",
-        "31.652",
-        "376.059"
+        "433.580",
+        "431.652"
       ],
-      "Şehir": "Eskişehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105410115",
-      "Üniversite": "İstanbul Medeniyet Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "80+2+0+0+0190+5+0+0+0190+5+0+0+0190+5180+5"
-      ],
-      "Yerleşen": [
-        "195",
-        "190+5+0+0+0",
-        "195195185"
-      ],
-      "Taban Sıralama": [
-        "20,025",
-        "13,045",
-        "17,312",
-        "21,937"
-      ],
-      "Taban Puan": [
-        "415.625",
-        "429.939",
-        "430.653",
-        "74.669"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "205410362",
-      "Üniversite": "Tobb Ekonomi Ve Teknoloji Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "36+0+0+0+038+0+0+0+038+0+0+0+038+023+0"
-      ],
-      "Yerleşen": [
-        "38",
-        "38+0+0+0+0",
-        "383823"
-      ],
-      "Taban Sıralama": [
-        "20,734",
-        "15,043",
-        "18,317",
-        "23,850"
-      ],
-      "Taban Puan": [
-        "414.745",
-        "426.796",
-        "429.392",
-        "372.169"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "103890226",
-      "Üniversite": "Eskişehir Osmangazi Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+0+080+2+0+0+080+2+0+0+080+260+2"
-      ],
-      "Yerleşen": [
-        "82",
-        "80+2+0+0+0",
-        "828262"
-      ],
-      "Taban Sıralama": [
-        "21,451",
-        "13,166",
-        "19,178",
-        "24,254"
-      ],
-      "Taban Puan": [
-        "413.853",
-        "429.725",
-        "428.339",
-        "371.7"
-      ],
-      "Şehir": "Eskişehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100710145",
-      "Üniversite": "Akdeniz Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "100+3+0+0+0200+5+0+0+0200+5+0+0+0260+7250+7"
-      ],
-      "Yerleşen": [
-        "205",
-        "200+5+0+0+0",
-        "205267257"
-      ],
-      "Taban Sıralama": [
-        "21,528",
-        "13,084",
-        "18,728",
-        "23,180"
-      ],
-      "Taban Puan": [
-        "413.734",
-        "429.875",
-        "428.869",
-        "373.034"
-      ],
-      "Şehir": "Antalya",
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "204111948",
-      "Üniversite": "Maltepe Üniversitesi",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+12+0+0+0+16+0+1+0+115+013+0"
+        "5",
+        "2",
+        "6",
+        "15"
       ],
       "Yerleşen": [
-        "3",
-        "2+0+0+0+1",
-        "71513"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "21,543",
-        "13,405",
-        "19,321",
-        "23,202"
+        "11.134",
+        "21.543",
+        "13.405",
+        "19.321"
       ],
       "Taban Puan": [
+        "423.645",
         "413.717",
         "429.341",
-        "428.161",
-        "373.003"
+        "428.161"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100710145",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "200",
+        "200",
+        "260"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "11.141",
+        "21.528",
+        "13.084",
+        "18.728"
+      ],
+      "Taban Puan": [
+        "423.628",
+        "413.734",
+        "429.875",
+        "428.869"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103890226",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "11.550",
+        "21.451",
+        "13.166",
+        "19.178"
+      ],
+      "Taban Puan": [
+        "422.810",
+        "413.853",
+        "429.725",
+        "428.339"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109710215",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi (Gemlik)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "220",
+        "220",
+        "240"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "12.546",
+        "24.427",
+        "15.492",
+        "22.378"
+      ],
+      "Taban Puan": [
+        "421.166",
+        "410.169",
+        "426.176",
+        "424.805"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910401",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "250",
+        "250",
+        "250"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "12.792",
+        "25.940",
+        "16.929",
+        "22.769"
+      ],
+      "Taban Puan": [
+        "420.702",
+        "408.518",
+        "424.211",
+        "424.404"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200210582",
-      "Üniversite": "Atılım Üniversitesi",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+0+4+0+126+0+4+0+126+0+4+0+130+029+0"
-      ],
-      "Yerleşen": [
-        "28",
-        "26+0+1+0+1",
-        "273029"
-      ],
-      "Taban Sıralama": [
-        "22,221",
-        "13,514",
-        "18,873",
-        "26,664"
-      ],
-      "Taban Puan": [
-        "412.768",
-        "429.154",
-        "28.693",
-        "68.983"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203010187",
-      "Üniversite": "İstanbul Kültür Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "22+0+3+0+123+0+3+0+123+0+3+0+124+021+0"
-      ],
-      "Yerleşen": [
-        "24",
-        "23+0+0+0+1",
-        "242421"
-      ],
-      "Taban Sıralama": [
-        "23,217",
-        "13,198",
-        "17,192",
-        "21,137"
-      ],
-      "Taban Puan": [
-        "411.564",
-        "429.685",
-        "430.832",
-        "375.678"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203410086",
-      "Üniversite": "İstanbul Ticaret Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "21+0+3+0+123+0+3+0+123+0+3+0+129+029+0"
-      ],
-      "Yerleşen": [
         "25",
-        "23+0+1+0+1",
-        "252929"
+        "26",
+        "26",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "23,695",
-        "14,786",
-        "20,567",
-        "25,149"
+        "13.324",
+        "22.221",
+        "13.514",
+        "18.873"
       ],
       "Taban Puan": [
-        "411.012",
-        "427.165",
-        "426.713",
-        "370.666"
+        "419.793",
+        "412.768",
+        "429.150",
+        "428.690"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206010487",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "18",
+        "18",
+        "19"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "13.543",
+        "24.740",
+        "13.659",
+        "17.561"
+      ],
+      "Taban Puan": [
+        "419.471",
+        "409.862",
+        "428.902",
+        "430.351"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "209510039",
-      "Üniversite": "Ankara Bilim Üniversitesi",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+155+055+0"
+        "10",
+        "10",
+        "10",
+        "55"
       ],
       "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "115555"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "23,890",
-        "17,246",
-        "35,445",
-        "39,398"
+        "13.802",
+        "23.890",
+        "17.246",
+        "35.445"
       ],
       "Taban Puan": [
+        "419.063",
         "410.735",
         "423.786",
-        "413.857",
-        "356.863"
+        "413.857"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "109710215",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi (Gemlik)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "100+3+0+0+0220+6+0+0+0220+6+0+0+0240+6240+6"
-      ],
-      "Yerleşen": [
-        "226",
-        "220+6+0+0+0",
-        "226246246"
-      ],
-      "Taban Sıralama": [
-        "24,427",
-        "15,492",
-        "22,378",
-        "26,231"
-      ],
-      "Taban Puan": [
-        "410.169",
-        "426.176",
-        "424.805",
-        "369.464"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206010487",
-      "Üniversite": "Yaşar Üniversitesi",
+      "Program Kodu": "203410086",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "17+0+3+0+118+0+3+0+118+0+3+0+119+019+0"
-      ],
-      "Yerleşen": [
-        "19",
-        "18+0+0+0+1",
-        "211919"
-      ],
-      "Taban Sıralama": [
-        "24,740",
-        "13,659",
-        "17,561",
-        "25,197"
-      ],
-      "Taban Puan": [
-        "409.862",
-        "428.902",
-        "430.351",
-        "370.617"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210301417",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+110+0+1+0+122+018+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "112218"
-      ],
-      "Taban Sıralama": [
-        "24,833",
-        "15,308",
-        "20,894",
-        "25,608"
-      ],
-      "Taban Puan": [
-        "409.745",
-        "426.451",
-        "426.363",
-        "370.142"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108910401",
-      "Üniversite": "Selçuk Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "100+3+0+0+0250+7+0+0+0250+7+0+0+0250+7250+7"
-      ],
-      "Yerleşen": [
-        "257",
-        "250+7+0+0+0",
-        "257257257"
-      ],
-      "Taban Sıralama": [
-        "25,940",
-        "16,929",
-        "22,769",
-        "28,021"
-      ],
-      "Taban Puan": [
-        "408.518",
-        "424.211",
-        "424.404",
-        "367.474"
-      ],
-      "Şehir": "Konya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204950395",
-      "Üniversite": "Piri Reis Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+19+0+2+0+113+012+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "101312"
-      ],
-      "Taban Sıralama": [
-        "27,287",
-        "19,494",
-        "25,022",
-        "29,046"
-      ],
-      "Taban Puan": [
-        "407.038",
-        "421.124",
-        "22.213",
-        "66.383"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205850563",
-      "Üniversite": "Ufuk Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "15+0+2+0+116+0+2+0+116+0+2+0+117+0-"
-      ],
-      "Yerleşen": [
-        "17",
-        "16+0+0+0+1",
-        "1717"
-      ],
-      "Taban Sıralama": [
-        "27,807",
-        "16,193",
-        "23,212"
-      ],
-      "Taban Puan": [
-        "406.475",
-        "425.171",
-        "423.937"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203210731",
-      "Üniversite": "İstanbul Sabahattin Zaim Üniversitesi",
-      "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "23+0+3+0+122+0+3+0+123+0+3+0+130+028+0"
-      ],
-      "Yerleşen": [
+        "21",
         "23",
-        "22+0+0+0+1",
-        "243028"
+        "23",
+        "29"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "28,872",
-        "17,552",
-        "20,949",
-        "26,048"
+        "13.832",
+        "23.695",
+        "14.786",
+        "20.567"
       ],
       "Taban Puan": [
-        "405.334",
-        "23.409",
-        "426.336",
-        "9.652"
+        "419.024",
+        "411.012",
+        "427.165",
+        "426.713"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202410502",
-      "Üniversite": "İstanbul Aydın Üniversitesi",
+      "Program Kodu": "203010187",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+0+3+0+121+0+3+0+126+0+4+0+130+029+0"
+        "22",
+        "23",
+        "23",
+        "24"
       ],
       "Yerleşen": [
-        "22",
-        "21+0+0+0+1",
-        "273029"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "28,886",
-        "17,557",
-        "22,700",
-        "29,252"
+        "14.189",
+        "23.217",
+        "13.198",
+        "17.192"
       ],
       "Taban Puan": [
-        "405.317",
-        "423.404",
-        "424.473",
-        "366.148"
+        "418.441",
+        "411.564",
+        "429.685",
+        "430.832"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "106910179",
-      "Üniversite": "Kocaeli Üniversitesi",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "120+3+0+0+0280+7+0+0+0280+7+0+0+0280+7280+7"
+        "120",
+        "280",
+        "280",
+        "280"
       ],
       "Yerleşen": [
-        "287",
-        "280+7+0+0+0",
-        "287287287"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "29,773",
-        "20,567",
-        "27,712",
-        "34,645"
+        "14.522",
+        "29.773",
+        "20.567",
+        "27.712"
       ],
       "Taban Puan": [
+        "417.880",
         "404.427",
-        "419.884",
-        "19.822",
-        "360.927"
+        "419.880",
+        "419.822"
       ],
-      "Şehir": "Kocaeli",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105761158",
-      "Üniversite": "İzmir Katip Çelebi Üniversitesi",
+      "Program Kodu": "210301417",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Hukuk Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+0+0--"
+        "8",
+        "8",
+        "10",
+        ""
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "62"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "29,824",
-        "23,926"
+        "15.021",
+        "24.833",
+        "15.308",
+        "20.894"
       ],
       "Taban Puan": [
-        "404.387",
-        "416.426"
+        "417.124",
+        "409.745",
+        "426.451",
+        "426.363"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105761158",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "15.132",
+        "29.824",
+        "23.926",
+        ""
+      ],
+      "Taban Puan": [
+        "416.977",
+        "404.387",
+        "416.426",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204950395",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "9",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "15.597",
+        "27.287",
+        "19.494",
+        "25.022"
+      ],
+      "Taban Puan": [
+        "416.216",
+        "407.038",
+        "421.120",
+        "422.210"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205850563",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "16",
+        "16",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "15.710",
+        "27.807",
+        "16.193",
+        "23.212"
+      ],
+      "Taban Puan": [
+        "416.036",
+        "406.475",
+        "425.171",
+        "423.937"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202410502",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "21",
+        "26",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "15.983",
+        "28.886",
+        "17.557",
+        "22.700"
+      ],
+      "Taban Puan": [
+        "415.652",
+        "405.317",
+        "423.404",
+        "424.473"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203210731",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "22",
+        "23",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "16.748",
+        "28.872",
+        "17.552",
+        "20.949"
+      ],
+      "Taban Puan": [
+        "414.608",
+        "405.330",
+        "423.409",
+        "426.300"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103510235",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "230",
+        "230",
+        "230"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "16.883",
+        "35.752",
+        "24.202",
+        "30.052"
+      ],
+      "Taban Puan": [
+        "414.405",
+        "398.740",
+        "416.163",
+        "417.919"
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102910482",
-      "Üniversite": "Çukurova Üniversitesi",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
       "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "100+3+0+0+10190+5+0+0+48190+5+0+0+48190+5190+5"
+        "100",
+        "190",
+        "190",
+        "190"
       ],
       "Yerleşen": [
-        "243",
-        "190+5+0+0+48",
-        "243195195"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "32,985",
-        "21,410",
-        "27,255",
-        "32,539"
+        "16.915",
+        "32.985",
+        "21.410",
+        "27.255"
       ],
       "Taban Puan": [
+        "414.358",
         "401.318",
         "418.965",
-        "420.215",
-        "362.883"
+        "420.215"
       ],
-      "Şehir": "Adana",
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101590157",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "18.185",
+        "36.096",
+        "26.062",
+        "32.135"
+      ],
+      "Taban Puan": [
+        "412.612",
+        "398.435",
+        "414.429",
+        "416.296"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202210338",
+      "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "26",
+        "27",
+        "22"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.040",
+        "33.542",
+        "16.238",
+        "20.530"
+      ],
+      "Taban Puan": [
+        "411.498",
+        "400.812",
+        "425.102",
+        "426.762"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108690097",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "130",
+        "130",
+        "130"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.177",
+        "38.298",
+        "26.643",
+        "33.164"
+      ],
+      "Taban Puan": [
+        "411.308",
+        "396.569",
+        "413.942",
+        "415.557"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205410362",
+      "Üniversite": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "36",
+        "38",
+        "38",
+        "38"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.489",
+        "20.734",
+        "15.043",
+        "18.317"
+      ],
+      "Taban Puan": [
+        "410.934",
+        "414.745",
+        "426.796",
+        "429.392"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "108810774",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "240",
+        "240",
+        "240"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.503",
+        "39.338",
+        "28.382",
+        "36.972"
+      ],
+      "Taban Puan": [
+        "410.908",
+        "395.714",
+        "412.421",
+        "412.809"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111110062",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "120",
+        "120",
+        "120"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.599",
+        "35.621",
+        "21.116",
+        "26.586"
+      ],
+      "Taban Puan": [
+        "410.780",
+        "398.857",
+        "419.265",
+        "420.788"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "201410295",
-      "Üniversite": "Fatih Sultan Mehmet",
-      "Fakülte": "ÜniversitesiVakıfHukuk Fakültesi",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+0+3+0+121+0+3+0+120+0+3+0+127+029+0"
+        "20",
+        "21",
+        "20",
+        "27"
       ],
       "Yerleşen": [
-        "22",
-        "21+0+0+0+1",
-        "212729"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "33,437",
-        "19,536",
-        "25,407",
-        "38,273"
+        "19.790",
+        "33.437",
+        "19.536",
+        "25.407"
       ],
       "Taban Puan": [
+        "410.535",
         "400.909",
         "421.077",
-        "421.862",
-        "357.773"
+        "421.862"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204711051",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "11",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "20.196",
+        "33.736",
+        "22.055",
+        "26.950"
+      ],
+      "Taban Puan": [
+        "410.060",
+        "400.652",
+        "418.297",
+        "420.485"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112910024",
+      "Üniversite": "İZMİR BAKIRÇAY ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "160",
+        "160",
+        "160"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "20.547",
+        "37.541",
+        "26.208",
+        "31.550"
+      ],
+      "Taban Puan": [
+        "409.641",
+        "397.199",
+        "414.303",
+        "416.763"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206410660",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "18",
+        "19",
+        "19",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "20.569",
+        "35.838",
+        "23.940",
+        "30.319"
+      ],
+      "Taban Puan": [
+        "409.615",
+        "398.669",
+        "416.414",
+        "417.719"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100190208",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "90",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "20.927",
+        "41.263",
+        "28.668",
+        "34.834"
+      ],
+      "Taban Puan": [
+        "409.200",
+        "394.192",
+        "412.202",
+        "414.286"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108210841",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Ali Fuad Başgil Hukuk Fakültesi (Çarşamba)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "75",
+        "130",
+        "130",
+        "130"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "22.084",
+        "41.290",
+        "28.789",
+        "36.180"
+      ],
+      "Taban Puan": [
+        "407.894",
+        "394.169",
+        "412.102",
+        "413.347"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201210588",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "13",
+        "13",
+        "18"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "22.758",
+        "37.495",
+        "22.112",
+        "32.585"
+      ],
+      "Taban Puan": [
+        "407.137",
+        "397.245",
+        "418.236",
+        "415.979"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106610146",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "200",
+        "200",
+        "200"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "22.837",
+        "43.254",
+        "33.447",
+        "39.504"
+      ],
+      "Taban Puan": [
+        "407.046",
+        "392.648",
+        "408.338",
+        "411.080"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206210634",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "11",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "23.795",
+        "39.769",
+        "22.709",
+        "26.892"
+      ],
+      "Taban Puan": [
+        "406.018",
+        "395.359",
+        "417.625",
+        "420.542"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107010767",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "90",
+        "130",
+        "130",
+        "130"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "24.135",
+        "45.089",
+        "35.363",
+        "44.203"
+      ],
+      "Taban Puan": [
+        "405.664",
+        "391.251",
+        "406.863",
+        "408.031"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109210759",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "220",
+        "220",
+        "220"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "24.296",
+        "46.014",
+        "34.545",
+        "44.760"
+      ],
+      "Taban Puan": [
+        "405.481",
+        "390.569",
+        "407.474",
+        "407.684"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204610471",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "7",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "25.024",
+        "44.852",
+        "29.746",
+        ""
+      ],
+      "Taban Puan": [
+        "404.722",
+        "391.433",
+        "411.307",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202990400",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "25.103",
+        "",
+        "28.155",
+        "38.395"
+      ],
+      "Taban Puan": [
+        "404.643",
+        "",
+        "412.621",
+        "411.816"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104210456",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "190",
+        "190",
+        "190"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "25.313",
+        "46.886",
+        "33.660",
+        "40.358"
+      ],
+      "Taban Puan": [
+        "404.435",
+        "389.940",
+        "408.166",
+        "410.496"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109910091",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "120",
+        "240",
+        "240",
+        "240"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "26.939",
+        "49.211",
+        "37.157",
+        "46.168"
+      ],
+      "Taban Puan": [
+        "402.821",
+        "388.262",
+        "405.524",
+        "406.812"
+      ],
+      "Şehir": "YALOVA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107990101",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "120",
+        "120",
+        "120"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "27.449",
+        "46.256",
+        "34.343",
+        "44.120"
+      ],
+      "Taban Puan": [
+        "402.348",
+        "390.396",
+        "407.625",
+        "408.086"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201790218",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "13",
+        "13",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "27.702",
+        "41.249",
+        "25.347",
+        "30.574"
+      ],
+      "Taban Puan": [
+        "402.116",
+        "394.205",
+        "415.115",
+        "417.510"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103010134",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "280",
+        "280",
+        "280"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "27.830",
+        "55.697",
+        "42.556",
+        "49.239"
+      ],
+      "Taban Puan": [
+        "401.990",
+        "383.865",
+        "401.782",
+        "404.901"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204010024",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "22",
+        "22",
+        "23"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "28.114",
+        "42.727",
+        "33.818",
+        "38.046"
+      ],
+      "Taban Puan": [
+        "401.693",
+        "393.056",
+        "408.038",
+        "412.061"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101410206",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "190",
+        "190",
+        "190"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "28.223",
+        "50.520",
+        "38.705",
+        "44.593"
+      ],
+      "Taban Puan": [
+        "401.607",
+        "387.341",
+        "404.399",
+        "407.788"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100410836",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "140",
+        "140",
+        "140"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "28.640",
+        "51.526",
+        "39.244",
+        "49.317"
+      ],
+      "Taban Puan": [
+        "401.250",
+        "386.651",
+        "404.028",
+        "404.859"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102690294",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "29.968",
+        "51.696",
+        "40.730",
+        "50.666"
+      ],
+      "Taban Puan": [
+        "400.011",
+        "386.546",
+        "403.017",
+        "404.053"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112110777",
+      "Üniversite": "TRABZON ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "120",
+        "220",
+        "220",
+        "220"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "30.069",
+        "53.211",
+        "42.043",
+        "52.503"
+      ],
+      "Taban Puan": [
+        "399.920",
+        "385.520",
+        "402.142",
+        "402.947"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105310461",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "200",
+        "200",
+        "200"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "31.575",
+        "58.775",
+        "45.703",
+        "43.860"
+      ],
+      "Taban Puan": [
+        "398.586",
+        "381.857",
+        "399.620",
+        "408.248"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390160",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "90",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "32.652",
+        "56.481",
+        "43.977",
+        "49.637"
+      ],
+      "Taban Puan": [
+        "397.621",
+        "383.322",
+        "400.761",
+        "404.658"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106770724",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "120",
+        "120",
+        "120"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "34.063",
+        "56.815",
+        "44.251",
+        "55.675"
+      ],
+      "Taban Puan": [
+        "396.448",
+        "383.120",
+        "400.601",
+        "401.089"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390201",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "34.983",
+        "56.657",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "395.702",
+        "383.216",
+        "",
+        ""
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201010245",
+      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "26",
+        "30",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "35.170",
+        "51.880",
+        "41.725",
+        "42.332"
+      ],
+      "Taban Puan": [
+        "395.558",
+        "386.414",
+        "402.344",
+        "409.242"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108790055",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "100",
+        "100",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "35.322",
+        "60.275",
+        "47.627",
+        "57.484"
+      ],
+      "Taban Puan": [
+        "395.421",
+        "380.909",
+        "398.388",
+        "400.053"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201610424",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "24",
+        "24",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "35.763",
+        "52.575",
+        "38.028",
+        "41.686"
+      ],
+      "Taban Puan": [
+        "395.072",
+        "385.938",
+        "404.904",
+        "409.656"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102890076",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "180",
+        "180",
+        "200"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "35.895",
+        "61.852",
+        "48.488",
+        "55.671"
+      ],
+      "Taban Puan": [
+        "394.962",
+        "379.901",
+        "397.861",
+        "401.092"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610085",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "180",
+        "300",
+        "300",
+        "300"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "37.492",
+        "65.343",
+        "50.736",
+        "58.874"
+      ],
+      "Taban Puan": [
+        "393.727",
+        "377.787",
+        "396.469",
+        "399.254"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300510312",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "17",
+        "14"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "40.499",
+        "68.438",
+        "58.552",
+        "68.946"
+      ],
+      "Taban Puan": [
+        "391.497",
+        "376.028",
+        "391.911",
+        "393.763"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300110334",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "17",
+        "16",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "44.095",
+        "55.615",
+        "48.715",
+        "57.801"
+      ],
+      "Taban Puan": [
+        "388.880",
+        "383.922",
+        "397.727",
+        "399.881"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110910245",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "44.667",
+        "72.317",
+        "54.213",
+        "72.321"
+      ],
+      "Taban Puan": [
+        "388.475",
+        "373.857",
+        "394.406",
+        "392.037"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300710222",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "2",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "45.827",
+        "69.571",
+        "62.150",
+        "73.334"
+      ],
+      "Taban Puan": [
+        "387.666",
+        "375.414",
+        "389.930",
+        "391.507"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109610049",
+      "Üniversite": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "47.242",
+        "73.821",
+        "",
+        "122.814"
+      ],
+      "Taban Puan": [
+        "386.695",
+        "373.007",
+        "",
+        "369.134"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300211843",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "5",
+        "12",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "51.613",
+        "70.819",
+        "61.244",
+        "69.732"
+      ],
+      "Taban Puan": [
+        "383.860",
+        "374.706",
+        "390.435",
+        "393.382"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300311357",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "47",
+        "47",
+        "47",
+        "21"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "53.592",
+        "75.596",
+        "57.886",
+        "66.113"
+      ],
+      "Taban Puan": [
+        "382.589",
+        "372.040",
+        "392.299",
+        "395.244"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300410588",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "54.177",
+        "77.030",
+        "59.951",
+        "68.964"
+      ],
+      "Taban Puan": [
+        "382.244",
+        "371.267",
+        "391.159",
+        "393.754"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "301390049",
+      "Üniversite": "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "10",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "54.824",
+        "74.106",
+        "64.571",
+        "75.173"
+      ],
+      "Taban Puan": [
+        "381.821",
+        "372.858",
+        "388.583",
+        "390.570"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "302000185",
+      "Üniversite": "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "55.756",
+        "78.237",
+        "",
+        "76.131"
+      ],
+      "Taban Puan": [
+        "381.258",
+        "370.650",
+        "",
+        "390.086"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "301410027",
+      "Üniversite": "ADA KENT ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "56.475",
+        "75.545",
+        "67.382",
+        "76.326"
+      ],
+      "Taban Puan": [
+        "380.830",
+        "372.072",
+        "387.130",
+        "389.978"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204010033",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "47",
+        "24",
+        "25",
+        "23"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "57.043",
+        "66.284",
+        "52.436",
+        "61.248"
+      ],
+      "Taban Puan": [
+        "380.504",
+        "377.217",
+        "395.461",
+        "397.906"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204950398",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "37",
+        "43",
+        "49",
+        "57"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "63.082",
+        "76.686",
+        "92.863",
+        ""
+      ],
+      "Taban Puan": [
+        "377.152",
+        "371.449",
+        "375.047",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200590236",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "53",
+        "37",
+        "10",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "75.529",
+        "60.009",
+        "18.038",
+        "17.982"
+      ],
+      "Taban Puan": [
+        "370.687",
+        "381.063",
+        "422.831",
+        "429.768"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204810219",
+      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "83",
+        "88",
+        "125",
+        "150"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "75.680",
+        "110.987",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "370.609",
+        "355.791",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202111124",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "123",
+        "129",
+        "129",
+        "123"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "78.263",
+        "76.062",
+        "42.977",
+        "40.098"
+      ],
+      "Taban Puan": [
+        "369.360",
+        "371.782",
+        "401.489",
+        "410.672"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206090394",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "99",
+        "94",
+        "90",
+        "86"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "78.273",
+        "80.714",
+        "68.633",
+        "92.520"
+      ],
+      "Taban Puan": [
+        "369.354",
+        "369.408",
+        "386.490",
+        "382.193"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203210749",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "125",
+        "129",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "79.308",
+        "96.196",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "368.867",
+        "362.025",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206290205",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "70",
+        "70",
+        "54"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "83.533",
+        "97.931",
+        "105.648",
+        "114.684"
+      ],
+      "Taban Puan": [
+        "366.863",
+        "361.271",
+        "369.596",
+        "372.450"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "200690533",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "127",
+        "111",
+        "108",
+        "96"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "84.199",
+        "81.377",
+        "56.759",
+        "49.544"
+      ],
+      "Taban Puan": [
+        "366.549",
+        "369.056",
+        "392.937",
+        "404.727"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "105690956",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk (UOLP-Uluslararası Saraybosna Üniversitesi) (Ücretli)",
+      "Öğretim Türü": "UOLP",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "15",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "85.825",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "365.807",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204610541",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "16",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "86.801",
+        "101.299",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "365.373",
+        "359.819",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "203710708",
+      "Üniversite": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "56",
+        "59",
+        "136",
+        "140"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "88.886",
+        "84.761",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "364.421",
+        "367.368",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206111978",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "76",
+        "80",
+        "78",
+        "73"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "95.271",
+        "60.228",
+        "56.237",
+        "37.670"
+      ],
+      "Taban Puan": [
+        "361.674",
+        "380.936",
+        "393.225",
+        "412.327"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206410650",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "116",
+        "122",
+        "122",
+        "114"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "96.619",
+        "100.009",
+        "100.812",
+        "105.061"
+      ],
+      "Taban Puan": [
+        "361.085",
+        "360.375",
+        "371.613",
+        "376.590"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300390252",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "93",
+        "93",
+        "93",
+        "26"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "98.160",
+        "111.877",
+        "109.341",
+        ""
+      ],
+      "Taban Puan": [
+        "360.439",
+        "355.445",
+        "368.079",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205850570",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "97",
+        "87",
+        "102",
+        "93"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "101.204",
+        "",
+        "108.737",
+        "96.704"
+      ],
+      "Taban Puan": [
+        "359.200",
+        "",
+        "368.321",
+        "380.299"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "110910252",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "102.346",
+        "118.095",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "358.712",
+        "353.020",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203910787",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "92",
+        "122",
+        "124",
+        "116"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "103.861",
+        "121.086",
+        "76.301",
+        "67.710"
+      ],
+      "Taban Puan": [
+        "358.104",
+        "351.904",
+        "382.629",
+        "394.405"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "408811009",
+      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "105.110",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "357.620",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300110325",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "50",
+        "58",
+        "54"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "108.149",
+        "",
+        "100.284",
+        "105.818"
+      ],
+      "Taban Puan": [
+        "356.372",
+        "",
+        "371.831",
+        "376.240"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202410511",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "129",
+        "136",
+        "170",
+        "170"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "110.081",
+        "105.618",
+        "",
+        "85.187"
+      ],
+      "Taban Puan": [
+        "355.621",
+        "357.995",
+        "",
+        "385.650"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203510807",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "136",
+        "144",
+        "144",
+        "144"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "111.594",
+        "109.916",
+        "88.491",
+        "91.507"
+      ],
+      "Taban Puan": [
+        "355.038",
+        "356.216",
+        "377.020",
+        "382.679"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201290453",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "81",
+        "85",
+        "85",
+        "102"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "111.689",
+        "119.395",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "354.998",
+        "352.548",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201490136",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "127",
+        "123",
+        "127",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "111.768",
+        "116.272",
+        "94.175",
+        ""
+      ],
+      "Taban Puan": [
+        "354.967",
+        "353.720",
+        "374.483",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201610433",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "115",
+        "123",
+        "123",
+        "150"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "114.909",
+        "95.374",
+        "96.089",
+        "107.610"
+      ],
+      "Taban Puan": [
+        "353.797",
+        "362.383",
+        "373.639",
+        "375.470"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209510124",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "60",
+        "48",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "116.522",
+        "105.166",
+        "112.481",
+        ""
+      ],
+      "Taban Puan": [
+        "353.174",
+        "358.207",
+        "366.846",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209210060",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "117",
+        "",
+        "116",
+        "108"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "116.882",
+        "",
+        "",
+        "77.364"
+      ],
+      "Taban Puan": [
+        "353.045",
+        "",
+        "",
+        "389.473"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202910799",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (UOLP-Köln Üniversitesi) (%50 İndirimli)",
+      "Öğretim Türü": "UOLP",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "13",
+        "13",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "117.681",
+        "111.063",
+        "92.055",
+        "109.590"
+      ],
+      "Taban Puan": [
+        "352.743",
+        "355.766",
+        "375.416",
+        "374.627"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "110910238",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "1",
+        "5",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "120.792",
+        "120.413",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "351.639",
+        "352.162",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203410368",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "120",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "124.250",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "350.401",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206010503",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "25",
+        "29",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "124.887",
+        "",
+        "110.449",
+        "114.386"
+      ],
+      "Taban Puan": [
+        "350.178",
+        "",
+        "367.637",
+        "372.586"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200610278",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "46",
+        "49",
+        "53"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "105.855"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "376.226"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300190423",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "43",
+        "43",
+        "36",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "112.387",
+        "118.867"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "366.885",
+        "370.752"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "408810932",
+      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "408810939",
+      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "409610818",
+      "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "10",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "409610825",
+      "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "409610832",
+      "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "204111939",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "4",
+        "25",
+        "56"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "123.712",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "350.907",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204190427",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "4",
+        "",
+        "29"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "90.950",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "364.383",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202990407",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "97",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "104.078"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "377.036"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200511559",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "47",
+        "68",
+        "123",
+        "120"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "121.492"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "369.682"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "301390051",
+      "Üniversite": "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "2",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "301390050",
+      "Üniversite": "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "17",
+        "28",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201650248",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "120.865",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "363.654",
+        ""
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "107290513",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hukuk (UOLP-Uluslararası Saraybosna Üniversitesi) (Ücretli)",
+      "Öğretim Türü": "UOLP",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "5",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "39.017",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "404.171",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200290295",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200290215",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "158",
+        "170",
+        "170",
+        "170"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "119.722",
+        "102.925",
+        "106.896"
+      ],
+      "Taban Puan": [
+        "",
+        "352.428",
+        "370.714",
+        "375.786"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201010254",
+      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "161",
+        "170",
+        "166",
+        "160"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "89.089",
+        "93.954"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "376.747",
+        "381.543"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204950396",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "8",
+        "16",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "123.582",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "350.949",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206111951",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "15",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "79.133"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "388.630"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201110695",
+      "Üniversite": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "136",
+        "126",
+        "107",
+        "98"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "107.160",
+        "68.702",
+        "77.940"
+      ],
+      "Taban Puan": [
+        "",
+        "357.350",
+        "386.447",
+        "389.204"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202210339",
+      "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "161",
+        "170",
+        "153",
+        "123"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "84.134",
+        "77.957",
+        "83.567"
+      ],
+      "Taban Puan": [
+        "",
+        "367.676",
+        "381.849",
+        "386.454"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203010178",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "9",
+        "9",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "122.001",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "363.225",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203090173",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "131",
+        "135",
+        "135",
+        "116"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "109.238",
+        "94.992"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "368.125",
+        "381.078"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201790259",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "81",
+        "85",
+        "80",
+        "53"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "123.367",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "362.708",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203211487",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "19",
+        "15",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "123.409",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "351.010",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205410265",
+      "Üniversite": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "57",
+        "60",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "119.767",
+        "105.404",
+        "87.310"
+      ],
+      "Taban Puan": [
+        "",
+        "352.414",
+        "369.699",
+        "384.637"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "301410038",
+      "Üniversite": "ADA KENT ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "17",
+        "34",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202511102",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "141",
+        "149",
+        "131",
+        "115"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "78.781"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "388.807"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204010015",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "89",
+        "120",
+        "119",
+        "104"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "112.056",
+        "119.198"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "367.024",
+        "370.619"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300710655",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "25",
+        "24"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "302000192",
+      "Üniversite": "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210301424",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "50",
+        "64",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "124.395",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "350.668",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203110256",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "145",
+        "",
+        "158",
+        "158"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "104.169"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "376.993"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204711069",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "72",
+        "72",
+        "89"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203410077",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "49",
+        "44",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "123.009",
+        "105.744"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "362.837",
+        "376.269"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "207210358",
+      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "84",
+        "89",
+        "129",
+        "121"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "124.752",
+        "",
+        "116.611"
+      ],
+      "Taban Puan": [
+        "",
+        "350.540",
+        "",
+        "371.658"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204610464",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "23",
+        "38",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "120.528",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "363.774",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300410579",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "11",
+        "10",
+        "18"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300410773",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "40",
+        "40",
+        "33"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300211094",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "15",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300212259",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "18",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "113.505",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "354.811",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300513148",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Hukuk Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "37",
+        "73",
+        "76"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "409900108",
+      "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
+      "Fakülte": "Hukuk ve Sosyal Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "409900129",
+      "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
+      "Fakülte": "Hukuk ve Sosyal Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "409900136",
+      "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
+      "Fakülte": "Hukuk ve Sosyal Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Hukuk (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%25 İndirimli"
     }
   ]
 }

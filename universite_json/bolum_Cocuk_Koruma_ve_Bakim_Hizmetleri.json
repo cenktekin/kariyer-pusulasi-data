@@ -1,315 +1,404 @@
 {
   "yks": [
     {
-      "Program Kodu": "206552177",
-      "Üniversite": "Üsküdar Üniversitesi",
+      "Program Kodu": "110050031",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+14+0+1+0+14+0+0+0+1--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "4+0+0+0+1",
-        "Doldu-5"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "836,954"
+        "748.100",
+        "893.396",
+        "970.796",
+        "902.452"
       ],
       "Taban Puan": [
-        "303.893"
+        "308.999",
+        "299.160",
+        "292.871",
+        "291.044"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206552177",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "4",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "755.315",
+        "842.151",
+        "836.954",
+        "735.181"
+      ],
+      "Taban Puan": [
+        "308.345",
+        "303.228",
+        "303.893",
+        "306.217"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "110050031",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "893,396",
-        "970,796"
-      ],
-      "Taban Puan": [
-        "299.162",
-        "92.871"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "105190120",
-      "Üniversite": "Hitit Üniversitesi",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,310",
-        "261,428"
+        "1.118.601",
+        "1.310.989",
+        "1.428.901",
+        "1.282.422"
       ],
       "Taban Puan": [
-        "270.472",
-        "261.143"
+        "279.392",
+        "270.469",
+        "261.143",
+        "263.524"
       ],
-      "Şehir": "Çorum",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102090083",
-      "Üniversite": "Bingöl Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "1,408",
-        "531,557"
-      ],
-      "Taban Puan": [
-        "264.452",
-        "53.373"
-      ],
-      "Şehir": "Bingöl",
+      "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107790245",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
       "Fakülte": "Yayladağı Sosyal Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+1+220+1+0+1+520+1+0+1+5--"
+        "20",
+        "20",
+        "20",
+        "70"
       ],
       "Yerleşen": [
-        "21+0+0+1+5",
-        "Doldu-27"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,449",
-        "671,463"
+        "1.182.028",
+        "1.449.167",
+        "1.463.277",
+        "1.465.073"
       ],
       "Taban Puan": [
+        "274.837",
         "261.966",
-        "259.027"
+        "259.027",
+        "252.646"
       ],
-      "Şehir": "Hatay",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109190043",
-      "Üniversite": "Sinop Üniversitesi",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
       "Fakülte": "Türkeli Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,452",
-        "081,642"
+        "1.238.209",
+        "1.452.708",
+        "1.642.444",
+        "1.616.091"
       ],
       "Taban Puan": [
+        "270.907",
         "261.755",
-        "248.376"
+        "248.376",
+        "244.526"
       ],
-      "Şehir": "Sinop",
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102090083",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.250.253",
+        "1.408.353",
+        "1.557.207",
+        "1.435.230"
+      ],
+      "Taban Puan": [
+        "270.072",
+        "264.450",
+        "253.373",
+        "254.346"
+      ],
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104390106",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
       "Fakülte": "Artova Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,549",
-        "421,706"
+        "1.331.786",
+        "1.549.984",
+        "1.706.610",
+        "1.653.542"
       ],
       "Taban Puan": [
-        "256.022",
-        "244.71"
+        "264.414",
+        "255.978",
+        "244.710",
+        "242.606"
       ],
-      "Şehir": "Tokat",
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101890066",
-      "Üniversite": "Bayburt Üniversitesi",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
       "Fakülte": "Aydıntepe Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "39"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,602",
-        "971,765"
+        "1.385.898",
+        "1.604.062",
+        "1.765.363",
+        "1.793.242"
       ],
       "Taban Puan": [
-        "252.885",
-        "241.429"
+        "260.708",
+        "252.817",
+        "241.429",
+        "235.797"
       ],
-      "Şehir": "Bayburt",
+      "Şehir": "BAYBURT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110050049",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206552507",
-      "Üniversite": "Üsküdar Üniversitesi",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "42+0+0+0+022+0+0+0+018+0+0+0+0--"
+        "42",
+        "22",
+        "18",
+        "21"
       ],
       "Yerleşen": [
-        "22+0+0+0+0",
-        "Doldu-18"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,317",
-        "982,271"
+        "",
+        "2.317.598",
+        "2.271.088",
+        "2.257.233"
       ],
       "Taban Puan": [
+        "",
         "213.359",
-        "215.245"
+        "215.245",
+        "216.060"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "110050049",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ç",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+01+0+0+0+0---"
-      ],
-      "Yerleşen": [
-        "0+0+0+0"
-      ],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
     }
   ]
 }

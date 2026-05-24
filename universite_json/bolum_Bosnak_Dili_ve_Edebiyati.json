@@ -1,59 +1,83 @@
 {
   "yks": [
     {
-      "Program Kodu": "109410263",
-      "Üniversite": "Trakya Üniversitesi",
+      "Program Kodu": "105690998",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Boşnak Dili ve Edebiyatı (Boşnakça)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+1+020+1+0+1+020+1+0+1+020+120+1"
+        "15",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "21",
-        "21+0+0+0+0",
-        "22124"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "130,173",
-        "139,024"
+        "52.603",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "213.857",
-        "195.61"
+        "329.635",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Edirne",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105690998",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Program Kodu": "109410263",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "B",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Boşnak Dili ve Edebiyatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "15+1+0+0+0----"
+        "20",
+        "20",
+        "20",
+        "20"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "117.820",
+        "130.173",
+        "139.024",
+        ""
+      ],
+      "Taban Puan": [
+        "214.544",
+        "213.857",
+        "195.610",
+        ""
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     }
   ]

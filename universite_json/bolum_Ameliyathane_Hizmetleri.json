@@ -2,1549 +2,5083 @@
   "yks": [
     {
       "Program Kodu": "104850591",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+070+2+0+0+070+2+0+2+0--"
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "389,743",
-        "432,238"
+        "340.564",
+        "391.056",
+        "432.238",
+        "423.731"
       ],
       "Taban Puan": [
-        "353.658",
-        "348.854"
+        "359.591",
+        "353.441",
+        "348.854",
+        "345.124"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103451569",
-      "Üniversite": "Ege Üniversitesi",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+070+2+0+0+070+2+0+2+0--"
+        "50",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "455,167",
-        "514,806"
+        "399.831",
+        "455.167",
+        "514.806",
+        "476.612"
       ],
       "Taban Puan": [
+        "349.688",
         "343.538",
-        "337.424"
+        "337.424",
+        "336.960"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209210013",
-      "Üniversite": "Ankara Medipol Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+19+0+1+0+18+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "9+0+0+0+1",
-        "Doldu-9"
-      ],
-      "Taban Sıralama": [
-        "468,505",
-        "571,609"
-      ],
-      "Taban Puan": [
-        "341.649",
-        "330.449"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200150679",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+15+0+1+0+15+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+1+0+1",
-        "6"
-      ],
-      "Taban Sıralama": [
-        "471,181"
-      ],
-      "Taban Puan": [
-        "341.289"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111050116",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Gülhane Sağlık Meslek Yüksekokulu (Ankara)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Ankara)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "475,968",
-        "548,366"
+        "423.732",
+        "475.968",
+        "548.366",
+        "550.198"
       ],
       "Taban Puan": [
+        "346.086",
         "340.629",
-        "333.246"
+        "333.246",
+        "326.868"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200150679",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "5",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "427.415",
+        "471.181",
+        "429.730",
+        "437.626"
+      ],
+      "Taban Puan": [
+        "345.535",
+        "341.289",
+        "349.231",
+        "342.886"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209210013",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "9",
+        "8",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "428.374",
+        "468.505",
+        "571.609",
+        "573.999"
+      ],
+      "Taban Puan": [
+        "345.397",
+        "341.649",
+        "330.449",
+        "323.887"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204090748",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "436.297",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "344.213",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "200650295",
-      "Üniversite": "Başkent Üniversitesi",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+1",
+        "7",
+        "7",
+        "7",
         "8"
       ],
-      "Taban Sıralama": [
-        "498,914"
-      ],
-      "Taban Puan": [
-        "337.572"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209610016",
-      "Üniversite": "İzmir Tınaztepe Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+1+0+19+0+1+0+19+0+1+0+1--"
-      ],
       "Yerleşen": [
-        "9+0+1+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "504,782"
+        "451.836",
+        "502.467",
+        "599.976",
+        "617.028"
       ],
       "Taban Puan": [
-        "336.806"
+        "342.044",
+        "337.108",
+        "327.153",
+        "318.772"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107451239",
-      "Üniversite": "Mersin Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+2+065+2+0+2+065+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "65+2+0+2+0",
-        "Doldu-69"
-      ],
-      "Taban Sıralama": [
-        "505,630",
-        "564,806"
-      ],
-      "Taban Puan": [
-        "336.701",
-        "331.257"
-      ],
-      "Şehir": "Mersin",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103550904",
-      "Üniversite": "Erciyes Üniversitesi",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
       "Fakülte": "Halil Bayraktar Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+070+2+0+0+070+2+0+2+0--"
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "505,275",
-        "577,770"
+        "452.427",
+        "507.244",
+        "577.770",
+        "574.509"
       ],
       "Taban Puan": [
-        "336.745",
-        "329.728"
+        "341.960",
+        "336.492",
+        "329.728",
+        "323.825"
       ],
-      "Şehir": "Kayseri",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111050019",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "523,331",
-        "591,342"
-      ],
-      "Taban Puan": [
-        "334.431",
-        "328.154"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208810033",
-      "Üniversite": "Lokman Hekim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+18+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "8+0+0+0+1",
-        "Doldu-9"
-      ],
-      "Taban Sıralama": [
-        "524,841",
-        "608,581"
-      ],
-      "Taban Puan": [
-        "334.244",
-        "326.177"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108953175",
-      "Üniversite": "Selçuk Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+070+2+0+2+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "70+2+0+2+0",
-        "Doldu-74"
-      ],
-      "Taban Sıralama": [
-        "525,677",
-        "608,435"
-      ],
-      "Taban Puan": [
-        "334.143",
-        "26.193"
-      ],
-      "Şehir": "Konya",
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104251392",
-      "Üniversite": "Gaziantep Üniversitesi",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+450+2+0+2+1350+2+0+2+13--"
+        "40",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "50+2+0+2+13",
-        "Doldu-67"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "527,031",
-        "567,742"
+        "454.675",
+        "527.031",
+        "567.742",
+        "556.340"
       ],
       "Taban Puan": [
+        "341.646",
         "333.973",
-        "330.912"
+        "330.912",
+        "326.079"
       ],
-      "Şehir": "Gaziantep",
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200950502",
-      "Üniversite": "Bezm-İ Âlem",
-      "Fakülte": "ÜniversitesiVakıfSağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "107451239",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+1--"
+        "65",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "531,875"
+        "458.688",
+        "505.630",
+        "564.806",
+        "533.919"
       ],
       "Taban Puan": [
-        "333.385"
+        "341.090",
+        "336.701",
+        "331.257",
+        "328.979"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200290178",
-      "Üniversite": "Atılım Üniversitesi",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+15+0+1+0+16+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+1+0+1",
+        "4",
+        "5",
+        "6",
         "7"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "549,946"
+        "459.413",
+        "549.946",
+        "615.261",
+        "616.637"
       ],
       "Taban Puan": [
-        "331.247"
+        "340.996",
+        "331.247",
+        "325.447",
+        "318.817"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111050019",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "463.929",
+        "523.331",
+        "591.342",
+        "540.213"
+      ],
+      "Taban Puan": [
+        "340.365",
+        "334.431",
+        "328.154",
+        "328.160"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108953175",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "467.820",
+        "525.677",
+        "608.435",
+        "587.212"
+      ],
+      "Taban Puan": [
+        "339.826",
+        "334.140",
+        "326.193",
+        "322.276"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208810033",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "471.934",
+        "524.841",
+        "608.581",
+        "602.629"
+      ],
+      "Taban Puan": [
+        "339.280",
+        "334.244",
+        "326.177",
+        "320.430"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209610016",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "9",
+        "9",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "488.680",
+        "504.782",
+        "605.954",
+        "550.729"
+      ],
+      "Taban Puan": [
+        "337.054",
+        "336.806",
+        "326.475",
+        "326.799"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105051134",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "493.539",
+        "571.882",
+        "688.514",
+        "651.094"
+      ],
+      "Taban Puan": [
+        "336.421",
+        "328.697",
+        "317.715",
+        "314.977"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203150176",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "10+0+1+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "554,505"
+        "495.130",
+        "554.505",
+        "593.174",
+        "561.301"
       ],
       "Taban Puan": [
-        "330.709"
+        "336.211",
+        "330.709",
+        "327.936",
+        "325.450"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "205850224",
-      "Üniversite": "Ufuk Üniversitesi",
+      "Program Kodu": "200950502",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+16+0+1+0+1--"
+        "7",
+        "7",
+        "7",
+        "6"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "7"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "556,509"
+        "498.071",
+        "531.875",
+        "531.408",
+        "475.674"
       ],
       "Taban Puan": [
-        "330.478"
+        "335.833",
+        "333.385",
+        "335.298",
+        "337.097"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207710101",
-      "Üniversite": "Sanko Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+16+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+1",
-        "7"
-      ],
-      "Taban Sıralama": [
-        "556,698"
-      ],
-      "Taban Puan": [
-        "330.456"
-      ],
-      "Şehir": "Gaziantep",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203151192",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "10"
-      ],
-      "Taban Sıralama": [
-        "562,627"
-      ],
-      "Taban Puan": [
-        "329.771"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206410635",
-      "Üniversite": "Antalya Bilim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+18+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "8+0+1+0+1",
-        "Doldu-9"
-      ],
-      "Taban Sıralama": [
-        "567,465",
-        "620,443"
-      ],
-      "Taban Puan": [
-        "329.207",
-        "324.87"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207950041",
-      "Üniversite": "Yüksek İhtisas Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+1+0+110+0+1+0+110+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "566,172"
-      ],
-      "Taban Puan": [
-        "329.362"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "100351358",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
       "Fakülte": "Söke Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+070+2+0+2+070+2+0+2+0--"
+        "40",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+2+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "571,155",
-        "670,530"
+        "503.527",
+        "571.155",
+        "670.530",
+        "624.888"
       ],
       "Taban Puan": [
+        "335.128",
         "328.783",
-        "319.549"
+        "319.549",
+        "317.861"
       ],
-      "Şehir": "Aydın",
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105051134",
-      "Üniversite": "Harran Üniversitesi",
-      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+330+1+0+1+860+2+0+2+15--"
-      ],
-      "Yerleşen": [
-        "30+1+0+1+8",
-        "Doldu-79"
-      ],
-      "Taban Sıralama": [
-        "571,882",
-        "688,514"
-      ],
-      "Taban Puan": [
-        "328.697",
-        "317.715"
-      ],
-      "Şehir": "Şanlıurfa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "205590090",
-      "Üniversite": "Toros Üniversitesi",
+      "Program Kodu": "207950041",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+1+0+18+0+1+0+18+0+1+0+1--"
+        "10",
+        "10",
+        "10",
+        "11"
       ],
       "Yerleşen": [
-        "8+0+0+0+1",
-        "Doldu-10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "584,537",
-        "625,427"
+        "506.116",
+        "570.522",
+        "656.990",
+        "672.623"
       ],
       "Taban Puan": [
-        "327.284",
-        "324.317"
+        "334.790",
+        "328.857",
+        "320.943",
+        "312.645"
       ],
-      "Şehir": "Mersin",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "208910014",
-      "Üniversite": "İzmir Kavram Meslek Yüksekokulu",
-      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Program Kodu": "207710101",
+      "Üniversite": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+17+0+1+0+17+0+1+0+1--"
+        "7",
+        "7",
+        "6",
+        "7"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "588,332"
+        "508.322",
+        "556.698",
+        "588.014",
+        "531.129"
       ],
       "Taban Puan": [
-        "326.876"
+        "334.508",
+        "330.456",
+        "328.538",
+        "329.354"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205850224",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "510.536",
+        "556.509",
+        "627.883",
+        "637.185"
+      ],
+      "Taban Puan": [
+        "334.236",
+        "330.478",
+        "324.051",
+        "316.505"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111210053",
-      "Üniversite": "Gaziantep İslam Bilim Ve Teknoloji Üniversitesi",
+      "Üniversite": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+440+1+0+1+1040+1+0+1+10--"
+        "40",
+        "40",
+        "40",
+        ""
       ],
       "Yerleşen": [
-        "41+0+0+1+10",
-        "Doldu-52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "595,593",
-        "663,767"
+        "512.625",
+        "595.593",
+        "663.767",
+        ""
       ],
       "Taban Puan": [
+        "333.967",
         "326.089",
-        "320.243"
+        "320.243",
+        ""
       ],
-      "Şehir": "Gaziantep",
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203851237",
-      "Üniversite": "Kapadokya Üniversitesi",
-      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Program Kodu": "206410635",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "8",
+        "8",
+        "8",
+        "9"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "596,689"
+        "517.168",
+        "567.465",
+        "620.443",
+        "633.583"
       ],
       "Taban Puan": [
-        "325.967"
+        "333.407",
+        "329.207",
+        "324.870",
+        "316.903"
       ],
-      "Şehir": "Nevşehir",
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207650017",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "603,720"
-      ],
-      "Taban Puan": [
-        "325.197"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107390153",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "50+2+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "605,140",
-        "710,634"
-      ],
-      "Taban Puan": [
-        "325.049",
-        "315.52"
-      ],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102650475",
-      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+070+2+0+2+070+2+0+2+18--"
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "72+0+0+2+0",
-        "Doldu-92"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "605,305",
-        "716,748"
+        "523.218",
+        "605.305",
+        "716.748",
+        "674.663"
       ],
       "Taban Puan": [
-        "325.033",
-        "14.935"
+        "332.648",
+        "325.030",
+        "314.935",
+        "312.422"
       ],
-      "Şehir": "Sivas",
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209710020",
-      "Üniversite": "Kocaeli Sağlık Ve Teknoloji Üniversitesi",
-      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Program Kodu": "203151192",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+17+0+1+0+17+0+1+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "611,421"
+        "525.998",
+        "562.627",
+        "599.996",
+        "578.379"
       ],
       "Taban Puan": [
-        "324.38"
+        "332.308",
+        "329.771",
+        "327.151",
+        "323.338"
       ],
-      "Şehir": "Kocaeli",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101451945",
-      "Üniversite": "Atatürk Üniversitesi",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+075+2+0+0+075+2+0+2+0--"
+        "50",
+        "75",
+        "75",
+        "75"
       ],
       "Yerleşen": [
-        "75+2+0+0+0",
-        "Doldu-79"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "614,101",
-        "676,998"
+        "526.746",
+        "614.101",
+        "676.998",
+        "661.126"
       ],
       "Taban Puan": [
+        "332.220",
         "324.103",
-        "318.873"
+        "318.873",
+        "313.888"
       ],
-      "Şehir": "Erzurum",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204752242",
-      "Üniversite": "İstanbul Okan Üniversitesi",
+      "Program Kodu": "205590090",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+15+0+1+0+16+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+1",
+        "8",
+        "8",
+        "8",
         "7"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "621,054"
+        "529.297",
+        "584.537",
+        "625.427",
+        "620.533"
       ],
       "Taban Puan": [
-        "323.385"
+        "331.913",
+        "327.284",
+        "324.317",
+        "318.366"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "MERSİN",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "208450016",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "203851237",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
+        "10",
+        "10",
+        "10",
         "11"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "624,940"
+        "529.590",
+        "596.689",
+        "633.083",
+        "688.653"
       ],
       "Taban Puan": [
-        "322.974"
+        "331.877",
+        "325.967",
+        "323.488",
+        "310.939"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208910014",
+      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "533.555",
+        "588.332",
+        "632.117",
+        "593.809"
+      ],
+      "Taban Puan": [
+        "331.404",
+        "326.876",
+        "323.589",
+        "321.471"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "106350439",
-      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "40",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "626,576"
+        "538.747",
+        "626.576",
+        "746.286",
+        "679.227"
       ],
       "Taban Puan": [
-        "322.798"
+        "330.772",
+        "322.798",
+        "312.093",
+        "311.938"
       ],
-      "Şehir": "Karaman",
+      "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206551294",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "107390153",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+1+0+110+0+1+0+1--"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "627,602"
+        "539.324",
+        "605.140",
+        "710.634",
+        "660.942"
       ],
       "Taban Puan": [
-        "322.697"
+        "330.705",
+        "325.049",
+        "315.520",
+        "313.910"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207650017",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "540.732",
+        "603.720",
+        "633.210",
+        "615.202"
+      ],
+      "Taban Puan": [
+        "330.534",
+        "325.197",
+        "323.474",
+        "318.977"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209010060",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "209710020",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+18+0+1+0+1--"
+        "10",
+        "7",
+        "7",
+        "9"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "Doldu-9"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "632,090",
-        "694,403"
+        "543.655",
+        "611.421",
+        "672.993",
+        "682.929"
       ],
       "Taban Puan": [
-        "322.238",
-        "317.114"
+        "330.195",
+        "324.380",
+        "319.285",
+        "311.548"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208450016",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "551.093",
+        "624.940",
+        "660.122",
+        "635.825"
+      ],
+      "Taban Puan": [
+        "329.314",
+        "322.974",
+        "320.619",
+        "316.654"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202456534",
-      "Üniversite": "İstanbul Aydın Üniversitesi",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
+        "10",
+        "10",
+        "10",
         "11"
       ],
-      "Taban Sıralama": [
-        "638,561"
-      ],
-      "Taban Puan": [
-        "321.588"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104390080",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Tokat Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "640,050",
-        "760,129"
+        "555.018",
+        "638.561",
+        "695.553",
+        "643.808"
       ],
       "Taban Puan": [
-        "321.437",
-        "310.799"
+        "328.851",
+        "321.588",
+        "317.001",
+        "315.780"
       ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101990078",
-      "Üniversite": "Bilecik Şeyh Edebali Üniversitesi",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "40+1+0+1+0",
-        "41"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "641,266"
+        "557.876",
+        "641.266",
+        "754.972",
+        "722.621"
       ],
       "Taban Puan": [
-        "321.32"
+        "328.513",
+        "321.320",
+        "311.281",
+        "307.459"
       ],
-      "Şehir": "Bilecik",
+      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109490274",
-      "Üniversite": "Trakya Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "644,414",
-        "738,308"
-      ],
-      "Taban Puan": [
-        "321.002",
-        "312.864"
-      ],
-      "Şehir": "Edirne",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209910012",
-      "Üniversite": "İstanbul Sağlık Ve Sosyal Bilimler Meslek Yüksekokulu",
-      "Fakülte": "İstanbul Sağlık Ve Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+14+0+1+0+14+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1",
-        "4"
-      ],
-      "Taban Sıralama": [
-        "654,240"
-      ],
-      "Taban Puan": [
-        "320.017"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210300143",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "657,152"
-      ],
-      "Taban Puan": [
-        "319.73"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110350707",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
       "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+075+2+0+2+075+2+0+2+0--"
+        "60",
+        "75",
+        "75",
+        "75"
       ],
       "Yerleşen": [
-        "75+2+0+2+0",
-        "78"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "658,644"
+        "559.051",
+        "658.644",
+        "771.199",
+        "708.920"
       ],
       "Taban Puan": [
-        "319.583"
+        "328.372",
+        "319.583",
+        "309.759",
+        "308.846"
       ],
-      "Şehir": "Zonguldak",
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209310013",
-      "Üniversite": "İstanbul Atlas Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "104390080",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Tokat Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+19+0+1+0+19+0+1+0+1--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "9+0+0+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "664,238"
+        "560.297",
+        "640.050",
+        "760.129",
+        "723.005"
       ],
       "Taban Puan": [
-        "319.036"
+        "328.232",
+        "321.437",
+        "310.799",
+        "307.421"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107850397",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "567.891",
+        "686.388",
+        "768.579",
+        "730.528"
+      ],
+      "Taban Puan": [
+        "327.346",
+        "316.880",
+        "310.012",
+        "306.677"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209210236",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "49",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "569.781",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "327.127",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "206250166",
-      "Üniversite": "İstanbul Yeni Yüzyıl Üniversitesi",
+      "Program Kodu": "209010060",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+111+0+1+0+110+0+1+0+1--"
+        "7",
+        "7",
+        "8",
+        "9"
       ],
       "Yerleşen": [
-        "11+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "676,648"
+        "571.972",
+        "632.090",
+        "694.403",
+        "711.743"
       ],
       "Taban Puan": [
-        "317.826"
+        "326.879",
+        "322.238",
+        "317.114",
+        "308.555"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109490274",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "572.393",
+        "645.345",
+        "738.308",
+        "683.075"
+      ],
+      "Taban Puan": [
+        "326.834",
+        "320.911",
+        "312.864",
+        "311.534"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210300143",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "572.536",
+        "657.152",
+        "735.347",
+        "715.013"
+      ],
+      "Taban Puan": [
+        "326.819",
+        "319.730",
+        "313.140",
+        "308.222"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204752242",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "6",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "575.213",
+        "621.054",
+        "730.367",
+        "661.712"
+      ],
+      "Taban Puan": [
+        "326.520",
+        "323.385",
+        "313.629",
+        "313.824"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206551294",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "576.004",
+        "627.602",
+        "672.843",
+        "616.147"
+      ],
+      "Taban Puan": [
+        "326.432",
+        "322.697",
+        "319.300",
+        "318.871"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202550748",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+1+0+18+0+1+0+18+0+1+0+1--"
+        "8",
+        "8",
+        "8",
+        "7"
       ],
       "Yerleşen": [
-        "8+0+0+0+1",
-        "Doldu-9"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "680,766",
-        "751,938"
+        "584.231",
+        "680.766",
+        "751.938",
+        "688.927"
       ],
       "Taban Puan": [
+        "325.504",
         "317.425",
-        "311.568"
+        "311.568",
+        "310.915"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209310013",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "9",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "590.775",
+        "664.238",
+        "790.980",
+        "764.258"
+      ],
+      "Taban Puan": [
+        "324.773",
+        "319.036",
+        "307.964",
+        "303.424"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201790600",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "597.540",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "324.041",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209910012",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "4",
+        "4",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "607.926",
+        "654.240",
+        "744.398",
+        "747.178"
+      ],
+      "Taban Puan": [
+        "322.912",
+        "320.017",
+        "312.272",
+        "305.058"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206250166",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "611.298",
+        "676.648",
+        "744.256",
+        "764.541"
+      ],
+      "Taban Puan": [
+        "322.555",
+        "317.826",
+        "312.286",
+        "303.400"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202950268",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "611.770",
+        "699.277",
+        "808.377",
+        "705.166"
+      ],
+      "Taban Puan": [
+        "322.505",
+        "315.668",
+        "306.408",
+        "309.231"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202753034",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "9",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "612.783",
+        "693.057",
+        "751.158",
+        "730.093"
+      ],
+      "Taban Puan": [
+        "322.396",
+        "316.257",
+        "311.639",
+        "306.721"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208750206",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "616.758",
+        "699.437",
+        "809.043",
+        "789.555"
+      ],
+      "Taban Puan": [
+        "321.966",
+        "315.653",
+        "306.346",
+        "301.043"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106190072",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "618.606",
+        "721.382",
+        "779.999",
+        "720.918"
+      ],
+      "Taban Puan": [
+        "321.764",
+        "313.631",
+        "308.953",
+        "307.635"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205053792",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "623.312",
+        "724.005",
+        "804.106",
+        "810.331"
+      ],
+      "Taban Puan": [
+        "321.265",
+        "313.389",
+        "306.780",
+        "299.117"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210401592",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "10",
+        "10",
+        "10",
+        ""
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "684,644"
+        "623.694",
+        "684.644",
+        "758.496",
+        "751.518"
       ],
       "Taban Puan": [
-        "317.045"
+        "321.224",
+        "317.045",
+        "310.949",
+        "304.649"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "107850397",
-      "Üniversite": "Muş Alparslan Üniversitesi",
+      "Program Kodu": "200390455",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "4",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "51+1+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "686,388",
-        "768,579"
+        "625.213",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "316.883",
-        "10.012"
+        "321.064",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "Muş",
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206851422",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "639.054",
+        "728.630",
+        "847.247",
+        "778.421"
+      ],
+      "Taban Puan": [
+        "319.605",
+        "312.967",
+        "302.998",
+        "302.076"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202090319",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "6",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "641.081",
+        "702.090",
+        "809.589",
+        "804.389"
+      ],
+      "Taban Puan": [
+        "319.387",
+        "315.407",
+        "306.299",
+        "299.659"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208150231",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "642.895",
+        "740.001",
+        "823.231",
+        "836.401"
+      ],
+      "Taban Puan": [
+        "319.196",
+        "311.922",
+        "305.098",
+        "296.725"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202650483",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "6",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "653.555",
+        "739.122",
+        "814.560",
+        "794.159"
+      ],
+      "Taban Puan": [
+        "318.089",
+        "312.002",
+        "305.857",
+        "300.611"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207550027",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "670.458",
+        "770.450",
+        "848.485",
+        "885.892"
+      ],
+      "Taban Puan": [
+        "316.392",
+        "309.255",
+        "302.892",
+        "292.427"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300150872",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "7",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "729.546",
+        "855.963",
+        "1.031.902",
+        "1.295.025"
+      ],
+      "Taban Puan": [
+        "310.693",
+        "302.100",
+        "288.193",
+        "262.726"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204090762",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "755.600",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "308.322",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300250614",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "8",
+        "8",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "955.847",
+        "1.110.293",
+        "1.406.166",
+        "1.444.171"
+      ],
+      "Taban Puan": [
+        "291.570",
+        "283.537",
+        "262.565",
+        "253.825"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207950139",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "55",
+        "53"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.011.497",
+        "1.150.818",
+        "1.250.305",
+        "1.449.633"
+      ],
+      "Taban Puan": [
+        "287.297",
+        "280.807",
+        "272.691",
+        "253.522"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300550762",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "11",
+        "14",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.030.735",
+        "1.122.829",
+        "1.269.295",
+        "1.506.190"
+      ],
+      "Taban Puan": [
+        "285.847",
+        "282.685",
+        "271.417",
+        "250.362"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206410636",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "51",
+        "51",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.035.664",
+        "1.086.370",
+        "1.321.897",
+        "1.380.860"
+      ],
+      "Taban Puan": [
+        "285.483",
+        "285.155",
+        "267.961",
+        "257.511"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300350552",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.065.989",
+        "1.174.010",
+        "1.337.757",
+        "1.413.276"
+      ],
+      "Taban Puan": [
+        "283.222",
+        "279.256",
+        "266.937",
+        "255.616"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205850517",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "18",
+        "13",
+        "15",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.228.470",
+        "1.252.121",
+        "1.291.961",
+        "1.168.994"
+      ],
+      "Taban Puan": [
+        "271.588",
+        "274.188",
+        "269.916",
+        "270.958"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200950637",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "32",
+        "32",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.355.822",
+        "1.101.454",
+        "1.570.620",
+        "1.205.252"
+      ],
+      "Taban Puan": [
+        "262.756",
+        "284.141",
+        "252.579",
+        "268.531"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209010061",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "48",
+        "51",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.438.745",
+        "1.817.213",
+        "2.035.731",
+        "2.431.590"
+      ],
+      "Taban Puan": [
+        "257.089",
+        "240.681",
+        "227.025",
+        "209.074"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209210014",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "54",
+        "",
+        "49",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.445.587",
+        "",
+        "",
+        "944.757"
+      ],
+      "Taban Puan": [
+        "256.623",
+        "",
+        "",
+        "287.547"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200150688",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "34",
+        "34",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.454.357",
+        "1.548.796",
+        "1.771.833",
+        "1.789.541"
+      ],
+      "Taban Puan": [
+        "256.016",
+        "256.047",
+        "241.065",
+        "235.972"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204090755",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "22",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.472.053",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "254.824",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208810034",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "51",
+        "51",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.582.991",
+        "1.201.656",
+        "1.286.149",
+        "1.440.487"
+      ],
+      "Taban Puan": [
+        "247.260",
+        "277.462",
+        "270.308",
+        "254.039"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "206250306",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "63",
+        "59",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.610.789",
+        "1.839.789",
+        "1.569.277",
+        "1.665.275"
+      ],
+      "Taban Puan": [
+        "245.371",
+        "239.423",
+        "252.659",
+        "242.015"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207950032",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.651.646",
+        "1.340.077",
+        "1.599.094",
+        "1.588.828"
+      ],
+      "Taban Puan": [
+        "242.591",
+        "268.670",
+        "250.901",
+        "245.941"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209610017",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "55",
+        "55",
+        "47"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.667.154",
+        "1.279.481",
+        "1.344.657",
+        "1.342.709"
+      ],
+      "Taban Puan": [
+        "241.527",
+        "272.445",
+        "266.499",
+        "259.801"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206851431",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "66",
+        "62",
+        "62",
+        "54"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.695.155",
+        "1.749.404",
+        "2.252.914",
+        "1.689.761"
+      ],
+      "Taban Puan": [
+        "239.624",
+        "244.485",
+        "216.144",
+        "240.778"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207710102",
+      "Üniversite": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "19",
+        "22",
+        "22"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.743.433",
+        "1.149.604",
+        "1.246.298",
+        "1.087.462"
+      ],
+      "Taban Puan": [
+        "236.329",
+        "280.885",
+        "272.958",
+        "276.671"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "205053783",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "66",
+        "66",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.757.987",
+        "2.380.511",
+        "2.401.147",
+        "2.279.676"
+      ],
+      "Taban Puan": [
+        "235.324",
+        "209.813",
+        "208.865",
+        "215.164"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206551319",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "43",
+        "45",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.760.203",
+        "1.450.237",
+        "1.461.931",
+        "1.233.019"
+      ],
+      "Taban Puan": [
+        "235.170",
+        "261.899",
+        "259.112",
+        "266.706"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300350561",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.796.517",
+        "1.892.670",
+        "1.999.286",
+        "2.439.156"
+      ],
+      "Taban Puan": [
+        "232.671",
+        "236.485",
+        "228.904",
+        "208.763"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300150881",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.849.536",
+        "2.275.659",
+        "1.884.633",
+        "2.250.896"
+      ],
+      "Taban Puan": [
+        "228.963",
+        "215.675",
+        "234.954",
+        "216.314"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205590089",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "52",
+        "52",
+        "52",
+        "44"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.853.112",
+        "1.843.128",
+        "",
+        "1.342.515"
+      ],
+      "Taban Puan": [
+        "228.712",
+        "239.240",
+        "",
+        "259.814"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204752251",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "38",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.893.543",
+        "1.662.574",
+        "1.826.809",
+        "1.926.077"
+      ],
+      "Taban Puan": [
+        "225.845",
+        "249.430",
+        "238.075",
+        "229.773"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207650879",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.928.763",
+        "1.730.984",
+        "",
+        "1.483.957"
+      ],
+      "Taban Puan": [
+        "223.284",
+        "245.524",
+        "",
+        "251.586"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206870091",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.987.949",
+        "879.473",
+        "2.174.028",
+        "1.441.838"
+      ],
+      "Taban Puan": [
+        "218.924",
+        "300.249",
+        "220.030",
+        "253.959"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208910066",
+      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.014.848",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "216.884",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201790607",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.107.326",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "209.365",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207550036",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "58",
+        "68",
+        "68",
+        "59"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.124.881",
+        "2.383.694",
+        "2.194.066",
+        "2.033.844"
+      ],
+      "Taban Puan": [
+        "207.839",
+        "209.625",
+        "219.033",
+        "225.184"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300150863",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "14",
+        "13",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.149.192",
+        "2.172.004",
+        "2.230.451",
+        "2.321.997"
+      ],
+      "Taban Puan": [
+        "205.616",
+        "221.339",
+        "217.249",
+        "213.477"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210401599",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.154.374",
+        "1.166.515",
+        "1.698.495",
+        "1.305.957"
+      ],
+      "Taban Puan": [
+        "205.106",
+        "279.755",
+        "245.177",
+        "262.051"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208750207",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "63",
+        "62",
+        "61",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.181.583",
+        "2.131.528",
+        "2.410.458",
+        "2.016.534"
+      ],
+      "Taban Puan": [
+        "202.372",
+        "223.527",
+        "208.407",
+        "225.904"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208450564",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "67",
+        "68",
+        "63"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.189.020",
+        "2.693.806",
+        "2.120.860",
+        "2.204.538"
+      ],
+      "Taban Puan": [
+        "201.575",
+        "186.212",
+        "222.695",
+        "218.192"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200390462",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.239.555",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "195.329",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200950666",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.273.671",
+        "2.288.388",
+        "2.682.984",
+        ""
+      ],
+      "Taban Puan": [
+        "189.264",
+        "214.982",
+        "193.967",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300550408",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "29",
+        "29",
+        "26",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.278.109",
+        "2.384.328",
+        "2.402.690",
+        "2.759.703"
+      ],
+      "Taban Puan": [
+        "188.212",
+        "209.587",
+        "208.791",
+        "193.301"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208150267",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.289.021",
+        "2.542.225",
+        "2.466.809",
+        "2.011.144"
+      ],
+      "Taban Puan": [
+        "185.011",
+        "199.816",
+        "205.599",
+        "226.132"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200651239",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "47",
+        "47"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.295.260",
+        "1.473.667",
+        "1.605.273",
+        "1.283.908"
+      ],
+      "Taban Puan": [
+        "182.567",
+        "260.488",
+        "250.538",
+        "263.433"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202550739",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "52",
+        "51",
+        "51",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.410.069",
+        "2.606.702",
+        "1.983.898"
+      ],
+      "Taban Puan": [
+        "",
+        "208.088",
+        "198.377",
+        "227.284"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202753043",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "56",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.233.027",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "218.008",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209310015",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "59",
+        "59",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.271.417",
+        "2.377.903",
+        "2.219.244"
+      ],
+      "Taban Puan": [
+        "",
+        "215.908",
+        "210.004",
+        "217.600"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203851811",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "56"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.141.318",
+        "2.029.497",
+        "2.070.397"
+      ],
+      "Taban Puan": [
+        "",
+        "223.004",
+        "227.349",
+        "223.645"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "103451718",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ameliyathane Hizmetleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202753034",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "210300150",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+19+0+1+0+19+0+1+0+1--"
+        "67",
+        "67",
+        "68",
+        ""
       ],
       "Yerleşen": [
-        "9+0+0+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "693,057"
+        "",
+        "2.436.129",
+        "2.418.493",
+        "2.259.970"
       ],
       "Taban Puan": [
-        "316.257"
+        "",
+        "206.548",
+        "208.007",
+        "215.948"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210401606",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "71",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.931.759",
+        "1.887.443",
+        "1.615.243"
+      ],
+      "Taban Puan": [
+        "",
+        "234.343",
+        "234.801",
+        "244.568"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202090320",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "58",
+        "38",
+        "34",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.925.833",
+        "1.995.621",
+        "2.151.278"
+      ],
+      "Taban Puan": [
+        "",
+        "234.667",
+        "229.095",
+        "220.334"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207550018",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203150185",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.098.038"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "275.918"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202650602",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "42",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.849.992",
+        "1.864.694",
+        "2.207.537"
+      ],
+      "Taban Puan": [
+        "",
+        "238.856",
+        "236.020",
+        "218.068"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202456525",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "14",
+        "16",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.179.535",
+        "2.267.690",
+        "2.118.832"
+      ],
+      "Taban Puan": [
+        "",
+        "220.935",
+        "215.410",
+        "221.645"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202456543",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "53",
+        "54",
+        "53",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.749.094",
+        "1.580.135",
+        "1.223.375"
+      ],
+      "Taban Puan": [
+        "",
+        "244.503",
+        "252.018",
+        "267.340"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203151208",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.209.418"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "268.252"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208150249",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "56"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.381.405",
+        "2.330.385",
+        "2.394.169"
+      ],
+      "Taban Puan": [
+        "",
+        "209.760",
+        "212.341",
+        "210.592"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202950859",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "59",
+        "59",
+        "56"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.010.007",
+        "2.280.772",
+        "1.377.431"
+      ],
+      "Taban Puan": [
+        "",
+        "230.105",
+        "214.770",
+        "257.714"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209710070",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "46",
+        "46",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.577.006",
+        "2.579.525",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "197.331",
+        "199.830",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "207710109",
+      "Üniversite": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "27",
+        "20",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.403.407",
+        "1.435.248",
+        "1.169.464"
+      ],
+      "Taban Puan": [
+        "",
+        "264.758",
+        "260.744",
+        "270.927"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205850215",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "29",
+        "23",
+        "18"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.177.884",
+        "2.118.322",
+        "1.693.353"
+      ],
+      "Taban Puan": [
+        "",
+        "221.025",
+        "222.825",
+        "240.599"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206551285",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "18",
+        "16",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.428.321",
+        "2.634.781",
+        "1.902.543"
+      ],
+      "Taban Puan": [
+        "",
+        "207.013",
+        "196.816",
+        "230.813"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209210243",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "52",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200290179",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "31",
+        "33",
+        "33",
+        "33"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.293.921",
+        "1.454.358",
+        "1.315.068"
+      ],
+      "Taban Puan": [
+        "",
+        "271.543",
+        "259.571",
+        "261.490"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300250605",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "11",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.665.068",
+        "2.841.268",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "189.693",
+        "180.498",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300250817",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "12",
+        "11",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.413.271",
+        "2.475.378",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "207.904",
+        "205.165",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209910013",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ameliyathane Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "28",
+        "31",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.286.017",
+        "1.720.133",
+        "1.829.199"
+      ],
+      "Taban Puan": [
+        "",
+        "272.039",
+        "243.949",
+        "234.131"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

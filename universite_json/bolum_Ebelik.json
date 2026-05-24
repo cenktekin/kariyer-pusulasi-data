@@ -2,1828 +2,4603 @@
   "yks": [
     {
       "Program Kodu": "101110669",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Hemşirelik Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "110+3+0+0+0115+3+0+0+0110+3+0+3+0110+3120+3"
+        "110",
+        "115",
+        "110",
+        "110"
       ],
       "Yerleşen": [
-        "118",
-        "115+3+0+0+0",
-        "116113123"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "168,983",
-        "175,185",
-        "180,211",
-        "182,163"
+        "143.545",
+        "168.983",
+        "175.185",
+        "180.211"
       ],
       "Taban Puan": [
+        "367.503",
         "338.312",
         "356.978",
-        "347.633",
-        "290.425"
+        "347.633"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203110308",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "16+0+2+0+112+0+2+0+112+0+2+0+112+012+0"
+        "16",
+        "12",
+        "12",
+        "12"
       ],
       "Yerleşen": [
-        "13",
-        "12+0+0+0+1",
-        "141212"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "170,475",
-        "168,558",
-        "162,183",
-        "149,159"
+        "154.464",
+        "170.475",
+        "168.558",
+        "162.183"
       ],
       "Taban Puan": [
+        "360.847",
         "337.525",
         "360.703",
-        "358.087",
-        "308.183"
+        "358.087"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103410951",
-      "Üniversite": "Ege Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "90+3+0+0+095+3+0+0+090+3+0+3+090+3100+3"
-      ],
-      "Yerleşen": [
-        "98",
-        "95+3+0+0+0",
-        "9693103"
-      ],
-      "Taban Sıralama": [
-        "184,502",
-        "186,385",
-        "186,766",
-        "185,412"
-      ],
-      "Taban Puan": [
-        "330.544",
-        "351.168",
-        "344.099",
-        "288.851"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209210071",
-      "Üniversite": "Ankara Medipol Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "13+0+2+0+110+0+1+0+19+0+1+0+19+010+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "11910"
-      ],
-      "Taban Sıralama": [
-        "187,628",
-        "197,331",
-        "201,613",
-        "200,969"
-      ],
-      "Taban Puan": [
-        "329.123",
-        "345.806",
-        "336.523",
-        "281.791"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208810012",
-      "Üniversite": "Lokman Hekim Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+16+0+1+0+15+0+1+0+16+06+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "6+0+1+0+1",
-        "666"
-      ],
-      "Taban Sıralama": [
-        "189,568",
-        "197,868",
-        "203,423",
-        "200,795"
-      ],
-      "Taban Puan": [
-        "328.218",
-        "345.553",
-        "35.626",
-        "281.88"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111091162",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Gülhane Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Ankara)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+2+075+2+0+2+070+2+0+2+070+270+2"
+        "70",
+        "75",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "79",
-        "75+2+0+2+0",
-        "727272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "189,682",
-        "193,469",
-        "197,061",
-        "197,530"
+        "160.578",
+        "189.682",
+        "193.469",
+        "197.061"
       ],
       "Taban Puan": [
+        "357.332",
         "328.163",
         "347.693",
-        "338.734",
-        "283.346"
+        "338.734"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103410951",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "90",
+        "95",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "160.641",
+        "184.502",
+        "186.385",
+        "186.766"
+      ],
+      "Taban Puan": [
+        "357.296",
+        "330.544",
+        "351.168",
+        "344.099"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210000598",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "162.163",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "356.472",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209210071",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "10",
+        "9",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "163.550",
+        "187.628",
+        "197.331",
+        "201.613"
+      ],
+      "Taban Puan": [
+        "355.723",
+        "329.123",
+        "345.806",
+        "336.523"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "103810586",
-      "Üniversite": "Eskişehir Osmangazi Üniversitesi",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+2+075+2+0+2+070+2+0+2+070+280+2"
+        "70",
+        "75",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "79",
-        "75+2+0+2+0",
-        "747282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "192,845",
-        "192,796",
-        "192,953",
-        "191,315"
+        "164.500",
+        "192.845",
+        "192.796",
+        "192.953"
       ],
       "Taban Puan": [
+        "355.196",
         "326.741",
         "348.029",
-        "340.802",
-        "286.076"
+        "340.802"
       ],
-      "Şehir": "Eskişehir",
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107210826",
-      "Üniversite": "Marmara Üniversitesi",
+      "Program Kodu": "208810012",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+0+075+2+0+0+070+2+0+2+070+280+2"
+        "7",
+        "6",
+        "5",
+        "6"
       ],
       "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "747282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "195,262",
-        "190,750",
-        "181,865",
-        "175,543"
+        "164.636",
+        "189.568",
+        "197.868",
+        "203.423"
       ],
       "Taban Puan": [
+        "355.117",
+        "328.218",
+        "345.550",
+        "335.626"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107210826",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "171.830",
+        "195.262",
+        "190.750",
+        "181.865"
+      ],
+      "Taban Puan": [
+        "351.281",
         "325.647",
         "349.024",
-        "346.722",
-        "93.737"
+        "346.720"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102910922",
-      "Üniversite": "Çukurova Üniversitesi",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+0+775+2+0+0+1970+2+0+2+1870+280+2"
+        "70",
+        "75",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "96",
-        "75+2+0+0+19",
-        "927282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "196,248",
-        "197,335",
-        "190,336",
-        "199,480"
+        "173.618",
+        "196.248",
+        "197.335",
+        "190.336"
       ],
       "Taban Puan": [
+        "350.382",
         "325.231",
         "345.804",
-        "342.154",
-        "282.457"
+        "342.154"
       ],
-      "Şehir": "Adana",
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111611129",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "90+3+0+0+095+3+0+0+090+3+0+3+090+380+2"
-      ],
-      "Yerleşen": [
-        "98",
-        "95+3+0+0+0",
-        "969382"
-      ],
-      "Taban Sıralama": [
-        "199,234",
-        "200,732",
-        "188,995",
-        "179,592"
-      ],
-      "Taban Puan": [
-        "323.888",
-        "344.206",
-        "342.893",
-        "291.745"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108911108",
-      "Üniversite": "Selçuk Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "85+3+0+3+095+3+0+3+090+3+0+3+090+390+3"
-      ],
-      "Yerleşen": [
-        "101",
-        "95+3+0+3+0",
-        "939393"
-      ],
-      "Taban Sıralama": [
-        "205,296",
-        "204,573",
-        "203,467",
-        "201,077"
-      ],
-      "Taban Puan": [
-        "321.333",
-        "342.424",
-        "335.613",
-        "281.742"
-      ],
-      "Şehir": "Konya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108211124",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "85+3+0+3+090+3+0+3+085+3+0+3+085+375+2"
-      ],
-      "Yerleşen": [
-        "96",
-        "90+3+0+3+0",
-        "908877"
-      ],
-      "Taban Sıralama": [
-        "205,698",
-        "210,939",
-        "207,886",
-        "202,372"
-      ],
-      "Taban Puan": [
-        "321.158",
-        "339.563",
-        "33.487",
-        "281.178"
-      ],
-      "Şehir": "Samsun",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204090559",
-      "Üniversite": "Kto Karatay Üniversitesi",
+      "Program Kodu": "207950370",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "205,714"
-      ],
-      "Taban Puan": [
-        "321.149"
-      ],
-      "Şehir": "Konya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203111015",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "17+0+2+0+112+0+2+0+112+0+2+0+112+012+0"
+        "4",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "13",
-        "12+0+0+0+1",
-        "151212"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "206,318",
-        "218,590",
-        "203,133",
-        "191,368"
+        "173.838",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "320.895",
-        "336.288",
-        "335.764",
-        "286.057"
+        "350.257",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209610023",
-      "Üniversite": "İzmir Tınaztepe Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+1+0+110+0+1+0+19+0+1+0+19+012+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "11912"
-      ],
-      "Taban Sıralama": [
-        "209,234",
-        "210,930",
-        "198,805",
-        "216,893"
-      ],
-      "Taban Puan": [
-        "319.712",
-        "339.563",
-        "337.877",
-        "275.159"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "111010029",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Hamidiye Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "80+2+0+2+085+3+0+3+080+2+0+2+080+270+2"
-      ],
-      "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "848272"
-      ],
-      "Taban Sıralama": [
-        "210,541",
-        "220,333",
-        "207,372",
-        "196,873"
-      ],
-      "Taban Puan": [
-        "319.175",
-        "335.552",
-        "333.742",
-        "283.634"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102710396",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "90+3+0+3+095+3+0+3+090+3+0+3+090+380+2"
-      ],
-      "Yerleşen": [
-        "101",
-        "95+3+0+3+0",
-        "959382"
-      ],
-      "Taban Sıralama": [
-        "210,565",
-        "216,400",
-        "211,861",
-        "204,409"
-      ],
-      "Taban Puan": [
-        "319.165",
-        "337.215",
-        "331.621",
-        "280.28"
-      ],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107490450",
-      "Üniversite": "Mersin Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+2+0+2+085+3+0+3+0---"
-      ],
-      "Yerleşen": [
-        "91",
-        "85+3+0+3+0"
-      ],
-      "Taban Sıralama": [
-        "210,714"
-      ],
-      "Taban Puan": [
-        "319.105"
-      ],
-      "Şehir": "Mersin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100310952",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "80+2+0+2+085+3+0+3+080+2+0+2+080+290+3"
-      ],
-      "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "828293"
-      ],
-      "Taban Sıralama": [
-        "213,086",
-        "218,971",
-        "213,841",
-        "207,269"
-      ],
-      "Taban Puan": [
-        "318.157",
-        "336.126",
-        "330.708",
-        "279.102"
-      ],
-      "Şehir": "Aydın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207610381",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "16+0+2+0+110+0+2+0+110+0+2+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "111212"
-      ],
-      "Taban Sıralama": [
-        "214,432",
-        "226,892",
-        "209,257",
-        "189,891"
-      ],
-      "Taban Puan": [
-        "317.642",
-        "332.855",
-        "332.826",
-        "286.729"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "109210644",
-      "Üniversite": "Süleyman Demirel Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+065+2+0+2+060+2+0+2+060+270+2"
-      ],
-      "Yerleşen": [
-        "69",
-        "65+2+0+2+0",
-        "626272"
-      ],
-      "Taban Sıralama": [
-        "215,459",
-        "219,031",
-        "214,683",
-        "209,334"
-      ],
-      "Taban Puan": [
-        "317.247",
-        "336.133",
-        "0.309",
-        "278.204"
-      ],
-      "Şehir": "Isparta",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104210386",
-      "Üniversite": "Gaziantep Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+2+0+2+885+3+0+3+2180+2+0+2+2070+280+2"
-      ],
-      "Yerleşen": [
-        "112",
-        "85+3+0+3+21",
-        "1047282"
-      ],
-      "Taban Sıralama": [
-        "216,620",
-        "219,653",
-        "203,079",
-        "206,804"
-      ],
-      "Taban Puan": [
-        "316.784",
-        "335.842",
-        "335.792",
-        "279.282"
-      ],
-      "Şehir": "Gaziantep",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201910351",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+19+0+2+0+18+09+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "1189"
-      ],
-      "Taban Sıralama": [
-        "217,653",
-        "228,976",
-        "220,595",
-        "205,772"
-      ],
-      "Taban Puan": [
-        "316.362",
-        "332.022",
-        "327.656",
-        "279.714"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106910937",
-      "Üniversite": "Kocaeli Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "80+2+0+2+085+3+0+3+080+2+0+2+080+270+2"
-      ],
-      "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "848272"
-      ],
-      "Taban Sıralama": [
-        "219,002",
-        "220,883",
-        "215,183",
-        "206,499"
-      ],
-      "Taban Puan": [
-        "315.843",
-        "335.331",
-        "330.086",
-        "279.403"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108810959",
-      "Üniversite": "Sakarya Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+2+075+2+0+2+070+2+0+2+070+280+2"
-      ],
-      "Yerleşen": [
-        "79",
-        "75+2+0+2+0",
-        "747282"
-      ],
-      "Taban Sıralama": [
-        "219,943",
-        "221,886",
-        "216,234",
-        "209,874"
-      ],
-      "Taban Puan": [
-        "315.488",
-        "334.923",
-        "29.602",
-        "277.979"
-      ],
-      "Şehir": "Sakarya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206511241",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "11+0+2+0+110+0+2+0+110+0+2+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "111212"
-      ],
-      "Taban Sıralama": [
-        "220,198",
-        "229,685",
-        "220,085",
-        "203,637"
-      ],
-      "Taban Puan": [
-        "315.395",
-        "331.743",
-        "27.886",
-        "280.634"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "206410653",
-      "Üniversite": "Antalya Bilim Üniversitesi",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+16+06+0"
+        "7",
+        "7",
+        "7",
+        "6"
       ],
       "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "866"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "222,210",
-        "184,913",
-        "214,232",
-        "220,828"
+        "174.432",
+        "222.210",
+        "184.913",
+        "214.232"
       ],
       "Taban Puan": [
+        "349.959",
         "314.623",
         "351.911",
-        "330.508",
-        "273.582"
+        "330.508"
       ],
-      "Şehir": "Antalya",
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "101510295",
-      "Üniversite": "Balıkesir Üniversitesi",
+      "Program Kodu": "108911108",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "90+3+0+3+095+3+0+3+090+3+0+3+090+380+2"
+        "85",
+        "95",
+        "90",
+        "90"
       ],
       "Yerleşen": [
-        "101",
-        "95+3+0+3+0",
-        "969382"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "222,675",
-        "225,841",
-        "220,776",
-        "211,939"
+        "174.636",
+        "205.296",
+        "204.573",
+        "203.467"
       ],
       "Taban Puan": [
-        "314.445",
-        "333.292",
-        "327.581",
-        "277.165"
+        "349.849",
+        "321.333",
+        "342.424",
+        "335.613"
       ],
-      "Şehir": "Balıkesir",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110210321",
-      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
+      "Program Kodu": "111611129",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+2+085+3+0+3+080+2+0+2+080+280+2"
+        "90",
+        "95",
+        "90",
+        "90"
       ],
       "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "848282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "223,259",
-        "223,666",
-        "219,484",
-        "213,050"
+        "175.500",
+        "199.234",
+        "200.732",
+        "188.995"
       ],
       "Taban Puan": [
-        "314.223",
-        "34.177",
-        "328.153",
-        "276.699"
+        "349.416",
+        "323.888",
+        "344.206",
+        "342.893"
       ],
-      "Şehir": "Van",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108211124",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "85",
+        "90",
+        "85",
+        "85"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "176.498",
+        "205.698",
+        "210.939",
+        "207.886"
+      ],
+      "Taban Puan": [
+        "348.899",
+        "321.158",
+        "339.560",
+        "333.487"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107490450",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "75",
+        "85",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "179.297",
+        "210.714",
+        "213.882",
+        "207.760"
+      ],
+      "Taban Puan": [
+        "347.433",
+        "319.105",
+        "338.291",
+        "333.545"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204090559",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "9",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "180.189",
+        "205.714",
+        "169.599",
+        "164.025"
+      ],
+      "Taban Puan": [
+        "346.981",
+        "321.149",
+        "360.095",
+        "356.981"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102710396",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "90",
+        "95",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "182.696",
+        "210.565",
+        "216.400",
+        "211.861"
+      ],
+      "Taban Puan": [
+        "345.699",
+        "319.165",
+        "337.215",
+        "331.621"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111010029",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Hamidiye Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "85",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "182.793",
+        "210.541",
+        "220.333",
+        "207.372"
+      ],
+      "Taban Puan": [
+        "345.649",
+        "319.175",
+        "335.552",
+        "333.742"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104210386",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "75",
+        "85",
+        "80",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "183.432",
+        "216.620",
+        "219.653",
+        "203.079"
+      ],
+      "Taban Puan": [
+        "345.333",
+        "316.784",
+        "335.842",
+        "335.792"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310952",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "85",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "185.815",
+        "213.086",
+        "218.971",
+        "213.841"
+      ],
+      "Taban Puan": [
+        "344.186",
+        "318.157",
+        "336.126",
+        "330.708"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109210644",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "65",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "186.415",
+        "215.459",
+        "219.031",
+        "214.683"
+      ],
+      "Taban Puan": [
+        "343.892",
+        "317.247",
+        "336.100",
+        "330.309"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207610381",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "187.543",
+        "214.432",
+        "226.892",
+        "209.257"
+      ],
+      "Taban Puan": [
+        "343.368",
+        "317.642",
+        "332.855",
+        "332.826"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106910937",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "85",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "188.513",
+        "219.002",
+        "220.883",
+        "215.183"
+      ],
+      "Taban Puan": [
+        "342.892",
+        "315.843",
+        "335.331",
+        "330.086"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108810959",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "189.064",
+        "219.943",
+        "221.886",
+        "216.234"
+      ],
+      "Taban Puan": [
+        "342.630",
+        "315.488",
+        "334.920",
+        "329.602"
+      ],
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102510617",
-      "Üniversite": "Manisa Celâl Bayar Üniversitesi",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "90+3+0+3+095+3+0+3+090+3+0+3+090+390+3"
+        "90",
+        "95",
+        "90",
+        "90"
       ],
       "Yerleşen": [
-        "101",
-        "95+3+0+3+0",
-        "939393"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "223,378",
-        "226,265",
-        "221,192",
-        "213,738"
+        "192.078",
+        "223.378",
+        "226.265",
+        "221.192"
       ],
       "Taban Puan": [
+        "341.227",
         "314.175",
         "333.104",
-        "327.403",
-        "276.422"
+        "327.403"
       ],
-      "Şehir": "Manisa",
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101510295",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "90",
+        "95",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "192.511",
+        "222.675",
+        "225.841",
+        "220.776"
+      ],
+      "Taban Puan": [
+        "341.025",
+        "314.445",
+        "333.292",
+        "327.581"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206511241",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "192.897",
+        "220.198",
+        "229.685",
+        "220.085"
+      ],
+      "Taban Puan": [
+        "340.849",
+        "315.395",
+        "331.740",
+        "327.886"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "109190073",
-      "Üniversite": "Sinop Üniversitesi",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "45+2+0+2+045+2+0+2+040+1+0+1+030+1-"
+        "45",
+        "45",
+        "40",
+        "30"
       ],
       "Yerleşen": [
-        "49",
-        "45+2+0+2+0",
-        "4131"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "224,522",
-        "232,659",
-        "228,323"
+        "193.027",
+        "224.522",
+        "232.659",
+        "228.323"
       ],
       "Taban Puan": [
+        "340.786",
         "313.748",
         "330.548",
-        "324.29"
+        "324.290"
       ],
-      "Şehir": "Sinop",
+      "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208410053",
-      "Üniversite": "İstinye Üniversitesi",
+      "Program Kodu": "209610023",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "12+0+2+0+110+0+2+0+110+0+2+0+112+012+0"
+        "10",
+        "10",
+        "9",
+        "9"
       ],
       "Yerleşen": [
-        "12",
-        "10+0+1+0+1",
-        "111212"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "224,548",
-        "233,676",
-        "212,344",
-        "200,248"
+        "193.779",
+        "209.234",
+        "210.930",
+        "198.805"
       ],
       "Taban Puan": [
-        "313.739",
-        "330.156",
-        "331.403",
-        "282.117"
+        "340.452",
+        "319.712",
+        "339.563",
+        "337.877"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110210321",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "85",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "194.017",
+        "223.259",
+        "223.666",
+        "219.484"
+      ],
+      "Taban Puan": [
+        "340.350",
+        "314.220",
+        "334.177",
+        "328.153"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203111015",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "12",
+        "12",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "195.546",
+        "206.318",
+        "218.590",
+        "203.133"
+      ],
+      "Taban Puan": [
+        "339.645",
+        "320.895",
+        "336.288",
+        "335.764"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "112070686",
-      "Üniversite": "Tarsus Üniversitesi",
+      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+070+2+0+2+065+2+0+2+055+240+1"
+        "60",
+        "70",
+        "65",
+        "55"
       ],
       "Yerleşen": [
-        "74",
-        "70+2+0+2+0",
-        "695741"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "226,547",
-        "226,779",
-        "219,922",
-        "215,388"
+        "195.976",
+        "226.547",
+        "226.779",
+        "219.922"
       ],
       "Taban Puan": [
+        "339.447",
         "312.984",
         "332.904",
-        "327.959",
-        "275.76"
+        "327.959"
       ],
-      "Şehir": "Mersin",
+      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209010058",
-      "Üniversite": "Fenerbahçe Üniversitesi",
+      "Program Kodu": "208410053",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+17+0+1+0+17+0+1+0+18+08+0"
+        "12",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "888"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "227,768",
-        "233,203",
-        "233,206",
-        "211,695"
+        "196.405",
+        "224.548",
+        "233.676",
+        "212.344"
       ],
       "Taban Puan": [
-        "312.545",
-        "330.336",
-        "322.214",
-        "277.261"
+        "339.262",
+        "313.739",
+        "330.156",
+        "331.403"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "111410265",
-      "Üniversite": "Kütahya Sağlık Bilimleri Üniversitesi",
+      "Program Kodu": "201910351",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "85+3+0+3+090+3+0+3+085+3+0+3+075+270+2"
+        "10",
+        "10",
+        "9",
+        "8"
       ],
       "Yerleşen": [
-        "96",
-        "90+3+0+3+0",
-        "887772"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "228,385",
-        "231,610",
-        "224,643",
-        "217,349"
+        "196.993",
+        "217.653",
+        "228.976",
+        "220.595"
       ],
       "Taban Puan": [
-        "312.321",
-        "330.966",
-        "325.863",
-        "274.97"
+        "338.990",
+        "316.362",
+        "332.022",
+        "327.656"
       ],
-      "Şehir": "Kütahya",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "107110051",
-      "Üniversite": "Mardin Artuklu Üniversitesi",
+      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+065+2+0+2+060+2+0+2+060+270+2"
+        "60",
+        "65",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "69",
-        "65+2+0+2+0",
-        "646272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "228,395",
-        "221,433",
-        "218,182",
-        "212,832"
+        "197.217",
+        "228.395",
+        "221.433",
+        "218.182"
       ],
       "Taban Puan": [
+        "338.892",
         "312.318",
         "335.109",
-        "328.727",
-        "276.795"
+        "328.727"
       ],
-      "Şehir": "Mardin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209310038",
-      "Üniversite": "İstanbul Atlas Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "9+0+1+0+19+0+1+0+18+0+1+0+18+08+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "9+0+0+0+1",
-        "988"
-      ],
-      "Taban Sıralama": [
-        "228,928",
-        "241,281",
-        "235,013",
-        "213,291"
-      ],
-      "Taban Puan": [
-        "312.113",
-        "27.199",
-        "321.452",
-        "276.601"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208750171",
-      "Üniversite": "İstanbul Kent Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "9+0+1+0+110+0+1+0+19+0+1+0+18+08+0"
-      ],
-      "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "1088"
-      ],
-      "Taban Sıralama": [
-        "229,265",
-        "239,280",
-        "234,453",
-        "210,097"
-      ],
-      "Taban Puan": [
-        "311.983",
-        "27.983",
-        "21.684",
-        "277.896"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202650610",
-      "Üniversite": "Demiroğlu Bilim Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+15+0+1+0+14+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "555"
-      ],
-      "Taban Sıralama": [
-        "229,580",
-        "239,680",
-        "232,628",
-        "208,736"
-      ],
-      "Taban Puan": [
-        "311.871",
-        "327.814",
-        "322.462",
-        "278.466"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103910885",
-      "Üniversite": "Fırat Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+0+775+2+0+0+1970+2+0+2+1870+280+2"
-      ],
-      "Yerleşen": [
-        "96",
-        "75+2+0+0+19",
-        "927282"
-      ],
-      "Taban Sıralama": [
-        "229,602",
-        "229,674",
-        "225,529",
-        "218,125"
-      ],
-      "Taban Puan": [
-        "311.866",
-        "331.744",
-        "325.461",
-        "274.671"
-      ],
-      "Şehir": "Elazığ",
+      "Şehir": "MARDİN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105310752",
-      "Üniversite": "İnönü Üniversitesi",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "75+2+0+2+880+2+0+2+2075+2+0+2+1975+265+2"
+        "75",
+        "80",
+        "75",
+        "75"
       ],
       "Yerleşen": [
-        "104",
-        "80+2+0+2+20",
-        "987767"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "231,202",
-        "229,907",
-        "212,849",
-        "207,243"
+        "198.105",
+        "231.202",
+        "229.907",
+        "212.849"
       ],
       "Taban Puan": [
+        "338.483",
         "311.313",
-        "331.653",
-        "31.183",
-        "279.113"
+        "331.650",
+        "331.183"
       ],
-      "Şehir": "Malatya",
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111210016",
-      "Üniversite": "Gaziantep İslam Bilim Ve Teknoloji Üniversitesi",
+      "Program Kodu": "111410265",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+665+2+0+2+1660+2+0+2+1560+250+2"
+        "85",
+        "90",
+        "85",
+        "75"
       ],
       "Yerleşen": [
-        "85",
-        "65+2+0+2+16",
-        "796252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "231,728",
-        "231,866",
-        "222,671",
-        "217,304"
+        "198.401",
+        "228.385",
+        "231.610",
+        "224.643"
       ],
       "Taban Puan": [
-        "311.133",
-        "30.862",
-        "326.732",
-        "74.991"
+        "338.345",
+        "312.321",
+        "330.966",
+        "325.863"
       ],
-      "Şehir": "Gaziantep",
+      "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108190163",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
       "Fakülte": "Zübeyde Hanım Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+065+2+0+2+060+2+0+2+060+2-"
+        "60",
+        "65",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "69",
-        "65+2+0+2+0",
-        "6462"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "231,853",
-        "234,429",
-        "227,199"
+        "198.923",
+        "231.853",
+        "234.429",
+        "227.199"
       ],
       "Taban Puan": [
+        "338.108",
         "311.081",
         "329.835",
         "324.737"
       ],
-      "Şehir": "Niğde",
+      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690155",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "199.388",
+        "240.269",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "337.911",
+        "308.098",
+        "",
+        ""
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209310038",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "200.537",
+        "228.928",
+        "241.281",
+        "235.013"
+      ],
+      "Taban Puan": [
+        "337.394",
+        "312.110",
+        "327.199",
+        "321.452"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103910885",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "200.713",
+        "229.602",
+        "229.674",
+        "225.529"
+      ],
+      "Taban Puan": [
+        "337.308",
+        "311.866",
+        "331.744",
+        "325.461"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209710325",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "202.692",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "336.424",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102610449",
-      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "75+2+0+2+085+3+0+3+080+2+0+2+2080+290+3"
+        "75",
+        "85",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "1038293"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "232,437",
-        "237,520",
-        "229,118",
-        "222,664"
+        "202.847",
+        "232.437",
+        "237.520",
+        "229.118"
       ],
       "Taban Puan": [
-        "310.878",
+        "336.354",
+        "310.877",
         "328.658",
-        "323.945",
-        "272.832"
+        "323.945"
       ],
-      "Şehir": "Sivas",
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100990029",
-      "Üniversite": "Amasya Üniversitesi",
+      "Program Kodu": "209010058",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+065+2+0+2+060+2+0+2+060+260+2"
+        "10",
+        "7",
+        "7",
+        "8"
       ],
       "Yerleşen": [
-        "69",
-        "65+2+0+2+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "232,661",
-        "233,810",
-        "224,814",
-        "216,156"
+        "202.935",
+        "227.768",
+        "233.203",
+        "233.206"
       ],
       "Taban Puan": [
+        "336.318",
+        "312.545",
+        "330.336",
+        "322.214"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100990029",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "65",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "202.942",
+        "232.661",
+        "233.810",
+        "224.814"
+      ],
+      "Taban Puan": [
+        "336.314",
         "310.799",
         "330.097",
-        "325.774",
-        "275.448"
+        "325.774"
       ],
-      "Şehir": "Amasya",
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111210016",
+      "Üniversite": "GAZİANTEP İSLAM BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "65",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "203.028",
+        "231.728",
+        "231.866",
+        "222.671"
+      ],
+      "Taban Puan": [
+        "336.277",
+        "311.130",
+        "330.862",
+        "326.730"
+      ],
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107390140",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
       "Fakülte": "Bucak Sağlık Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "55+2+0+2+055+2+0+2+050+2+0+2+050+240+1"
+        "55",
+        "55",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "59",
-        "55+2+0+2+0",
-        "535241"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "233,779",
-        "237,804",
-        "228,796",
-        "219,978"
+        "203.558",
+        "233.779",
+        "237.804",
+        "228.796"
       ],
       "Taban Puan": [
+        "336.051",
         "310.396",
         "328.553",
-        "324.088",
-        "273.947"
+        "324.088"
       ],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410966",
-      "Üniversite": "Atatürk Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "100+3+0+0+0105+3+0+0+0100+3+0+3+0100+3100+3"
-      ],
-      "Yerleşen": [
-        "108",
-        "105+3+0+0+0",
-        "106103103"
-      ],
-      "Taban Sıralama": [
-        "236,843",
-        "236,538",
-        "230,632",
-        "223,415"
-      ],
-      "Taban Puan": [
-        "309.274",
-        "329.033",
-        "23.271",
-        "272.536"
-      ],
-      "Şehir": "Erzurum",
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106490146",
-      "Üniversite": "Kastamonu Üniversitesi",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "55+2+0+2+055+2+0+2+050+2+0+2+040+150+2"
+        "55",
+        "55",
+        "50",
+        "40"
       ],
       "Yerleşen": [
-        "59",
-        "55+2+0+2+0",
-        "534152"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "236,861",
-        "241,658",
-        "231,041",
-        "223,978"
+        "204.299",
+        "236.861",
+        "241.658",
+        "231.041"
       ],
       "Taban Puan": [
+        "335.729",
         "309.267",
         "327.044",
-        "323.107",
-        "272.316"
+        "323.107"
       ],
-      "Şehir": "Kastamonu",
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202650610",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "205.328",
+        "229.580",
+        "239.680",
+        "232.628"
+      ],
+      "Taban Puan": [
+        "335.271",
+        "311.871",
+        "327.814",
+        "322.462"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101410966",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "100",
+        "105",
+        "100",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "205.916",
+        "236.843",
+        "236.538",
+        "230.632"
+      ],
+      "Taban Puan": [
+        "335.033",
+        "309.274",
+        "329.030",
+        "323.271"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111570364",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "45",
+        "40",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "206.181",
+        "238.678",
+        "239.957",
+        ""
+      ],
+      "Taban Puan": [
+        "334.917",
+        "308.624",
+        "327.708",
+        ""
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106010249",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "206.822",
+        "242.555",
+        "241.998",
+        "221.470"
+      ],
+      "Taban Puan": [
+        "334.623",
+        "307.289",
+        "326.913",
+        "327.277"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100210071",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "40",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "207.892",
+        "241.346",
+        "240.227",
+        "225.402"
+      ],
+      "Taban Puan": [
+        "334.172",
+        "307.726",
+        "327.601",
+        "325.505"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203852006",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Sağlık Bilimleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "6",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "208.881",
+        "241.076",
+        "239.348",
+        ""
+      ],
+      "Taban Puan": [
+        "333.743",
+        "307.815",
+        "327.960",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100610252",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "85",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "209.397",
+        "240.375",
+        "244.637",
+        "231.748"
+      ],
+      "Taban Puan": [
+        "333.521",
+        "308.061",
+        "325.936",
+        "322.824"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208750171",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "9",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "209.741",
+        "229.265",
+        "239.280",
+        "234.453"
+      ],
+      "Taban Puan": [
+        "333.382",
+        "311.980",
+        "327.980",
+        "321.684"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102190127",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "209.807",
+        "239.181",
+        "238.362",
+        ""
+      ],
+      "Taban Puan": [
+        "333.353",
+        "308.463",
+        "328.336",
+        ""
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202491017",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "210.035",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "333.254",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108570505",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "70",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "210.135",
+        "243.649",
+        "243.221",
+        "229.209"
+      ],
+      "Taban Puan": [
+        "333.211",
+        "306.908",
+        "326.467",
+        "323.902"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210302453",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "211.807",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "332.506",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104310613",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "90",
+        "95",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "212.596",
+        "245.671",
+        "248.308",
+        "236.312"
+      ],
+      "Taban Puan": [
+        "332.166",
+        "306.202",
+        "324.593",
+        "320.920"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106770750",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "90",
+        "85",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "213.018",
+        "245.300",
+        "248.529",
+        "238.074"
+      ],
+      "Taban Puan": [
+        "331.984",
+        "306.328",
+        "324.510",
+        "320.206"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510214",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi (Piraziz)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "213.343",
+        "243.428",
+        "244.913",
+        "235.793"
+      ],
+      "Taban Puan": [
+        "331.846",
+        "306.984",
+        "325.832",
+        "321.131"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102890061",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "214.423",
+        "246.393",
+        "248.413",
+        "234.872"
+      ],
+      "Taban Puan": [
+        "331.393",
+        "305.957",
+        "324.549",
+        "321.508"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390048",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "214.543",
+        "248.216",
+        "250.374",
+        "237.495"
+      ],
+      "Taban Puan": [
+        "331.341",
+        "305.349",
+        "323.839",
+        "320.441"
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202990358",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "215.167",
+        "",
+        "462.270",
+        "496.199"
+      ],
+      "Taban Puan": [
+        "331.068",
+        "",
+        "293.212",
+        "288.010"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109590025",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "65",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "215.649",
+        "247.343",
+        "245.279",
+        "233.630"
+      ],
+      "Taban Puan": [
+        "330.875",
+        "305.634",
+        "325.695",
+        "322.035"
+      ],
+      "Şehir": "TUNCELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106110857",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "75",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "216.887",
+        "249.588",
+        "240.938",
+        "229.760"
+      ],
+      "Taban Puan": [
+        "330.355",
+        "304.885",
+        "327.332",
+        "323.654"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100290165",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik (Besni)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "217.090",
+        "248.537",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "330.279",
+        "305.237",
+        "",
+        ""
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205090632",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "218.666",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "329.639",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210403013",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "218.791",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "329.587",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105910428",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "220.626",
+        "250.815",
+        "251.564",
+        "238.669"
+      ],
+      "Taban Puan": [
+        "328.842",
+        "304.469",
+        "323.403",
+        "319.960"
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100590141",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "65",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "221.241",
+        "250.480",
+        "251.398",
+        "237.699"
+      ],
+      "Taban Puan": [
+        "328.617",
+        "304.574",
+        "323.464",
+        "320.357"
+      ],
+      "Şehir": "AĞRI",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200310863",
-      "Üniversite": "Avrasya Üniversitesi",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+17+0+1+0+17+0+1+0+18+08+0"
+        "9",
+        "7",
+        "7",
+        "8"
       ],
       "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "888"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "236,908",
-        "243,830",
-        "238,540",
-        "228,535"
+        "221.386",
+        "236.908",
+        "243.830",
+        "238.540"
       ],
       "Taban Puan": [
+        "328.562",
         "309.252",
         "326.241",
-        "320.011",
-        "270.557"
+        "320.011"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "TRABZON",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "111570364",
-      "Üniversite": "Malatya Turgut Özal Üniversitesi",
+      "Program Kodu": "207590303",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+345+2+0+2+1140+1+0+1+10--"
+        "9",
+        "8",
+        "6",
+        ""
       ],
       "Yerleşen": [
-        "60",
-        "45+2+0+2+11",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "238,678",
-        "239,957"
+        "224.361",
+        "239.267",
+        "244.398",
+        ""
       ],
       "Taban Puan": [
-        "308.624",
-        "327.708"
+        "327.403",
+        "308.440",
+        "326.024",
+        ""
       ],
-      "Şehir": "Malatya",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109370230",
+      "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ebelik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "224.758",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "327.233",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ŞIRNAK",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204090573",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "9",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "230.414",
+        "251.490",
+        "293.611",
+        "207.686"
+      ],
+      "Taban Puan": [
+        "325.061",
+        "304.243",
+        "309.533",
+        "333.582"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300512256",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "19",
+        "18",
+        "23"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "245.165",
+        "262.804",
+        "266.274",
+        "296.113"
+      ],
+      "Taban Puan": [
+        "319.665",
+        "300.675",
+        "318.254",
+        "299.168"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300211579",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hemşirelik Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "15",
+        "16",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "256.942",
+        "271.497",
+        "285.994",
+        "322.939"
+      ],
+      "Taban Puan": [
+        "315.576",
+        "298.105",
+        "311.852",
+        "291.011"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207950384",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "19",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "262.276",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "313.820",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208810048",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "38",
+        "34",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "267.844",
+        "311.056",
+        "292.018",
+        "310.138"
+      ],
+      "Taban Puan": [
+        "312.015",
+        "287.299",
+        "309.996",
+        "294.828"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206410654",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "42",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "305.978",
+        "330.142",
+        "357.829",
+        "345.972"
+      ],
+      "Taban Puan": [
+        "300.758",
+        "282.727",
+        "292.441",
+        "284.610"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204090566",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "49",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "404.953",
+        "435.655",
+        "399.376",
+        "374.043"
+      ],
+      "Taban Puan": [
+        "277.993",
+        "262.754",
+        "283.198",
+        "277.526"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209610024",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "59",
+        "55",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "434.643",
+        "402.747",
+        "385.765",
+        "413.946"
+      ],
+      "Taban Puan": [
+        "272.584",
+        "268.173",
+        "286.076",
+        "268.662"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300590429",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "46",
+        "42",
+        "37"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "463.560",
+        "578.724",
+        "475.514",
+        "525.520"
+      ],
+      "Taban Puan": [
+        "267.761",
+        "244.823",
+        "269.015",
+        "249.358"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210000605",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "463.565",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "267.761",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205090639",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "476.475",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "265.752",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200390256",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "47",
+        "42",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "494.812",
+        "587.626",
+        "614.482",
+        ""
+      ],
+      "Taban Puan": [
+        "263.006",
+        "243.915",
+        "249.546",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "207950377",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "501.658",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "261.998",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300211588",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hemşirelik Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "22",
+        "17",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "512.473",
+        "661.297",
+        "479.705",
+        "501.325"
+      ],
+      "Taban Puan": [
+        "260.468",
+        "237.036",
+        "268.317",
+        "252.978"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209010059",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "47",
+        "42",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "576.376",
+        "574.208",
+        "607.113",
+        "640.102"
+      ],
+      "Taban Puan": [
+        "252.319",
+        "245.296",
+        "250.446",
+        "235.259"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206511259",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "23",
+        "28",
+        "48"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "577.404",
+        "395.177",
+        "397.567",
+        "329.008"
+      ],
+      "Taban Puan": [
+        "252.199",
+        "269.502",
+        "283.563",
+        "289.320"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207590310",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "40",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "613.617",
+        "707.441",
+        "536.613",
+        ""
+      ],
+      "Taban Puan": [
+        "248.137",
+        "233.143",
+        "259.635",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201990972",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "53",
+        "53",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "626.776",
+        "807.543",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "246.734",
+        "225.176",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "203852013",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Sağlık Bilimleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "34",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "636.559",
+        "627.477",
+        "484.338",
+        ""
+      ],
+      "Taban Puan": [
+        "245.722",
+        "240.085",
+        "267.550",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "202491024",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "638.729",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "245.506",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208410626",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "76",
+        "71",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "667.851",
+        "974.009",
+        "568.180",
+        "573.374"
+      ],
+      "Taban Puan": [
+        "242.632",
+        "212.164",
+        "255.356",
+        "242.968"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207610399",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "102",
+        "68",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "670.595",
+        "482.971",
+        "527.975",
+        "427.684"
+      ],
+      "Taban Puan": [
+        "242.368",
+        "255.929",
+        "260.872",
+        "265.884"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300211455",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Hemşirelik Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "18",
+        "17",
+        "14"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "672.357",
+        "1.073.569",
+        "525.290",
+        "619.722"
+      ],
+      "Taban Puan": [
+        "242.199",
+        "203.751",
+        "261.253",
+        "237.494"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208750172",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "58",
+        "57",
+        "52",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "755.089",
+        "483.836",
+        "491.232",
+        "503.562"
+      ],
+      "Taban Puan": [
+        "234.732",
+        "255.817",
+        "266.463",
+        "252.624"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210403020",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "787.486",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "231.960",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210302376",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "824.626",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "228.895",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202990365",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "9",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "838.189",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "227.787",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209310039",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "51",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "848.112",
+        "603.001",
+        "697.141",
+        "421.615"
+      ],
+      "Taban Puan": [
+        "226.989",
+        "242.399",
+        "240.562",
+        "267.106"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209710332",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "848.980",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "226.916",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "201990965",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "861.318",
+        "1.018.092",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "225.910",
+        "208.533",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208750495",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "2",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "864.008",
+        "757.939",
+        "699.161",
+        ""
+      ],
+      "Taban Puan": [
+        "225.704",
+        "229.068",
+        "240.359",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "207590296",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "9",
+        "9",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "876.517",
+        "821.741",
+        "708.227",
+        ""
+      ],
+      "Taban Puan": [
+        "224.716",
+        "224.082",
+        "239.464",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210403027",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.007.465",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "213.995",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202650611",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "34",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.029.279",
+        "333.641",
+        "384.627",
+        "425.776"
+      ],
+      "Taban Puan": [
+        "212.085",
+        "281.931",
+        "286.327",
+        "266.263"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206552558",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "45",
+        "40",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.194.606",
+        "",
+        "682.687",
+        "608.553"
+      ],
+      "Taban Puan": [
+        "194.905",
+        "",
+        "242.039",
+        "238.757"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209210072",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "85",
+        "",
+        "59",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.201.373",
+        "",
+        "",
+        "260.732"
+      ],
+      "Taban Puan": [
+        "194.002",
+        "",
+        "",
+        "311.319"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203110317",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "102",
+        "",
+        "76",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "283.501"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "303.305"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203111024",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Bilimleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ebelik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "101",
+        "",
+        "76",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "318.283"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "292.374"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

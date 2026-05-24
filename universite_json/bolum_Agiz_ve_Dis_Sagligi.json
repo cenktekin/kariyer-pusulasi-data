@@ -1,1560 +1,5884 @@
 {
   "yks": [
     {
-      "Program Kodu": "200590146",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+13+0+1+0+13+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "3+0+1+0+1",
-        "4"
-      ],
-      "Taban Sıralama": [
-        "176,776"
-      ],
-      "Taban Puan": [
-        "405.152"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "104850564",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+070+2+0+0+070+2+0+2+0--"
+        "40",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "291,222",
-        "342,810"
+        "231.897",
+        "291.222",
+        "342.810",
+        "355.337"
       ],
       "Taban Puan": [
+        "382.072",
         "372.781",
-        "363.818"
+        "363.818",
+        "357.217"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200590146",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "3",
+        "3",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "235.554",
+        "176.776",
+        "207.313",
+        "397.132"
+      ],
+      "Taban Puan": [
+        "381.197",
+        "405.152",
+        "395.690",
+        "349.595"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "200150652",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+14+0+1+0+14+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1",
+        "6",
+        "4",
+        "4",
         "5"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "319,056"
+        "284.198",
+        "334.552",
+        "329.242",
+        "326.854"
       ],
       "Taban Puan": [
-        "366.819"
+        "370.416",
+        "363.688",
+        "366.390",
+        "363.036"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "110290241",
-      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
-      "Fakülte": "Van Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "25+1+0+1+025+1+0+1+025+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "25+1+0+1+0",
-        "Doldu-27"
-      ],
-      "Taban Sıralama": [
-        "349,225",
-        "466,589"
-      ],
-      "Taban Puan": [
-        "360.887",
-        "343.893"
-      ],
-      "Şehir": "Van",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "104150914",
-      "Üniversite": "Gazi Üniversitesi",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+075+2+0+0+075+2+0+2+0--"
+        "50",
+        "75",
+        "75",
+        "75"
       ],
       "Yerleşen": [
-        "75+2+0+0+0",
-        "Doldu-79"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "364,424",
-        "441,687"
+        "296.028",
+        "364.424",
+        "441.687",
+        "456.444"
       ],
       "Taban Puan": [
+        "367.998",
         "358.075",
-        "347.455"
+        "347.455",
+        "339.946"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103190413",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+060+2+0+0+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "60+2+0+0+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "371,554",
-        "416,843"
-      ],
-      "Taban Puan": [
-        "356.812",
-        "351.195"
-      ],
-      "Şehir": "İzmir",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101150898",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+065+2+0+0+065+2+0+2+0--"
+        "50",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "65+2+0+0+0",
-        "Doldu-69"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "378,501",
-        "451,290"
+        "306.013",
+        "378.501",
+        "451.290",
+        "472.927"
       ],
       "Taban Puan": [
+        "366.026",
         "355.578",
-        "346.067"
+        "346.067",
+        "337.499"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103050742",
-      "Üniversite": "Dicle Üniversitesi",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
       "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+570+2+0+2+1870+2+0+2+18--"
+        "50",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+2+18",
-        "Doldu-92"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "382,920",
-        "450,418"
+        "313.764",
+        "382.920",
+        "450.418",
+        "488.610"
       ],
       "Taban Puan": [
+        "364.529",
         "354.799",
-        "346.192"
+        "346.192",
+        "335.224"
       ],
-      "Şehir": "Diyarbakır",
+      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200950026",
-      "Üniversite": "Bezm-İ Âlem",
-      "Fakülte": "ÜniversitesiVakıfSağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+16+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+1",
-        "7"
-      ],
-      "Taban Sıralama": [
-        "383,373"
-      ],
-      "Taban Puan": [
-        "354.721"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209210015",
-      "Üniversite": "Ankara Medipol Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "8+0+1+0+1",
-        "8"
-      ],
-      "Taban Sıralama": [
-        "385,311"
-      ],
-      "Taban Puan": [
-        "354.4"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102950666",
-      "Üniversite": "Çukurova Üniversitesi",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
       "Fakülte": "Abdi Sütcü Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+450+2+0+0+1350+2+0+2+13--"
+        "40",
+        "50",
+        "50",
+        "70"
       ],
       "Yerleşen": [
-        "50+2+0+0+13",
-        "Doldu-67"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "386,838",
-        "444,212"
+        "320.933",
+        "386.838",
+        "444.212",
+        "501.565"
       ],
       "Taban Puan": [
+        "363.190",
         "354.149",
-        "347.08"
+        "347.080",
+        "333.398"
       ],
-      "Şehir": "Adana",
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111650078",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
+      "Program Kodu": "103190413",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+070+2+0+0+070+2+0+2+0--"
+        "40",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "400,243",
-        "444,141"
+        "334.701",
+        "371.554",
+        "416.843",
+        "430.031"
       ],
       "Taban Puan": [
-        "351.914",
-        "347.091"
+        "360.645",
+        "356.812",
+        "351.195",
+        "344.097"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111091390",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Gülhane Sağlık Meslek Yüksekokulu (Ankara)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "50+2+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "414,262",
-        "495,464"
-      ],
-      "Taban Puan": [
-        "349.669",
-        "339.964"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206410615",
-      "Üniversite": "Antalya Bilim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+18+0+1+0+18+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "8+0+1+0+1",
-        "Doldu-9"
-      ],
-      "Taban Sıralama": [
-        "417,592",
-        "493,823"
-      ],
-      "Taban Puan": [
-        "349.148",
-        "340.177"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210000360",
-      "Üniversite": "Mudanya Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+1---"
-      ],
-      "Yerleşen": [
-        "4+0+1+0+1"
-      ],
-      "Taban Sıralama": [
-        "420,419"
-      ],
-      "Taban Puan": [
-        "348.715"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103550685",
-      "Üniversite": "Erciyes Üniversitesi",
-      "Fakülte": "Halil Bayraktar Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+065+2+0+0+065+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "65+2+0+0+0",
-        "Doldu-69"
-      ],
-      "Taban Sıralama": [
-        "424,935",
-        "505,395"
-      ],
-      "Taban Puan": [
-        "348.015",
-        "338.64"
-      ],
-      "Şehir": "Kayseri",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108251141",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+070+2+0+2+070+2+0+2+0--"
+        "50",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+2+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "430,370",
-        "523,343"
+        "335.396",
+        "431.800",
+        "523.343",
+        "536.852"
       ],
       "Taban Puan": [
-        "347.186",
-        "336.32"
+        "360.517",
+        "346.964",
+        "336.320",
+        "328.591"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290241",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Van Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "24"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "336.499",
+        "349.225",
+        "466.589",
+        "504.392"
+      ],
+      "Taban Puan": [
+        "360.312",
+        "360.887",
+        "343.893",
+        "333.004"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209210015",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "337.843",
+        "385.311",
+        "467.635",
+        "510.987"
+      ],
+      "Taban Puan": [
+        "360.077",
+        "354.400",
+        "343.742",
+        "332.100"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111650078",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "349.128",
+        "400.537",
+        "444.141",
+        "438.999"
+      ],
+      "Taban Puan": [
+        "358.067",
+        "351.864",
+        "347.091",
+        "342.665"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103550685",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Halil Bayraktar Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "350.462",
+        "424.935",
+        "505.395",
+        "508.042"
+      ],
+      "Taban Puan": [
+        "357.832",
+        "348.015",
+        "338.640",
+        "332.491"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111091390",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Gülhane Sağlık Meslek Yüksekokulu (Ankara)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ankara)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.379",
+        "414.262",
+        "495.464",
+        "519.522"
+      ],
+      "Taban Puan": [
+        "356.994",
+        "349.669",
+        "339.964",
+        "330.924"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200950026",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "6",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.423",
+        "383.373",
+        "375.290",
+        "365.678"
+      ],
+      "Taban Puan": [
+        "356.988",
+        "354.721",
+        "358.018",
+        "355.254"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110050058",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+065+2+0+2+065+2+0+2+0--"
+        "50",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "65+2+0+2+0",
-        "Doldu-69"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "437,044",
-        "521,286"
+        "367.508",
+        "437.044",
+        "521.286",
+        "523.831"
       ],
       "Taban Puan": [
+        "354.918",
         "346.178",
-        "336.578"
+        "336.578",
+        "330.324"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104250913",
-      "Üniversite": "Gaziantep Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+2+770+2+0+2+1870+2+0+2+18--"
-      ],
-      "Yerleşen": [
-        "70+2+0+2+18",
-        "Doldu-92"
-      ],
-      "Taban Sıralama": [
-        "437,540",
-        "526,953"
-      ],
-      "Taban Puan": [
-        "346.102",
-        "335.861"
-      ],
-      "Şehir": "Gaziantep",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200651812",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "210000360",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+16+0+1+0+17+0+1+0+1--"
+        "4",
+        "4",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "6+0+1+0+1",
-        "8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "438,850"
+        "367.900",
+        "420.419",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "345.911"
+        "354.852",
+        "348.715",
+        "",
+        ""
       ],
-      "Şehir": "Ankara",
+      "Şehir": "BURSA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "105090080",
-      "Üniversite": "Harran Üniversitesi",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
       "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+330+1+0+1+850+2+0+2+13--"
+        "30",
+        "30",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "30+1+0+1+8",
-        "Doldu-67"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "443,306",
-        "556,893"
+        "369.414",
+        "443.306",
+        "556.893",
+        "600.488"
       ],
       "Taban Puan": [
-        "345.256",
-        "332.208"
+        "354.601",
+        "345.255",
+        "332.208",
+        "320.681"
       ],
-      "Şehir": "Şanlıurfa",
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204610478",
-      "Üniversite": "Nuh Naci Yazgan Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+16+0+1+0+1---"
-      ],
-      "Yerleşen": [
-        "6+0+1+0+1"
-      ],
-      "Taban Sıralama": [
-        "438,618"
-      ],
-      "Taban Puan": [
-        "345.944"
-      ],
-      "Şehir": "Kayseri",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203150016",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "450,207"
-      ],
-      "Taban Puan": [
-        "344.261"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105750014",
-      "Üniversite": "İzmir Katip Çelebi Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+075+2+0+2+075+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "75+2+0+2+0",
-        "Doldu-79"
-      ],
-      "Taban Sıralama": [
-        "450,727",
-        "525,471"
-      ],
-      "Taban Puan": [
-        "344.191",
-        "336.045"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203151174",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+1+0+1",
-        "12"
-      ],
-      "Taban Sıralama": [
-        "451,783"
-      ],
-      "Taban Puan": [
-        "344.036"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111050276",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "40",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "451,875",
-        "530,787"
+        "372.290",
+        "451.875",
+        "530.787",
+        "519.450"
       ],
       "Taban Puan": [
+        "354.108",
         "344.023",
-        "335.379"
+        "335.379",
+        "330.933"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200651812",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "372.704",
+        "438.850",
+        "521.493",
+        "535.639"
+      ],
+      "Taban Puan": [
+        "354.041",
+        "345.911",
+        "336.551",
+        "328.748"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104250913",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "379.540",
+        "437.540",
+        "526.953",
+        "532.481"
+      ],
+      "Taban Puan": [
+        "352.921",
+        "346.102",
+        "335.861",
+        "329.168"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206410615",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "382.366",
+        "417.592",
+        "493.823",
+        "497.719"
+      ],
+      "Taban Puan": [
+        "352.465",
+        "349.148",
+        "340.177",
+        "333.937"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105351122",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "65",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "383.215",
+        "468.289",
+        "558.349",
+        "520.932"
+      ],
+      "Taban Puan": [
+        "352.337",
+        "341.678",
+        "332.027",
+        "330.725"
+      ],
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "208810031",
-      "Üniversite": "Lokman Hekim Üniversitesi",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+1--"
+        "7",
+        "7",
+        "7",
+        "8"
       ],
       "Yerleşen": [
-        "7+0+1+0+1",
-        "Doldu-9"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "453,542",
-        "534,587"
+        "384.642",
+        "453.542",
+        "534.587",
+        "537.837"
       ],
       "Taban Puan": [
+        "352.104",
         "343.782",
-        "334.919"
+        "334.919",
+        "328.466"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108890294",
-      "Üniversite": "Sakarya Üniversitesi",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
       "Fakülte": "Sakarya Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "40+1+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "455,987",
-        "548,039"
+        "385.095",
+        "455.987",
+        "548.039",
+        "556.950"
       ],
       "Taban Puan": [
+        "352.028",
         "343.415",
-        "333.285"
+        "333.284",
+        "326.005"
       ],
-      "Şehir": "Sakarya",
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107050263",
-      "Üniversite": "Necmettin Erbakan Üniversitesi",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+070+2+0+2+070+2+0+2+0--"
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+2+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "460,571",
-        "561,074"
+        "388.472",
+        "460.571",
+        "561.074",
+        "580.781"
       ],
       "Taban Puan": [
+        "351.476",
         "342.762",
-        "331.697"
+        "331.697",
+        "323.043"
       ],
-      "Şehir": "Konya",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105351122",
-      "Üniversite": "İnönü Üniversitesi",
+      "Program Kodu": "203150016",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "65+2+0+2+765+2+0+2+1665+2+0+2+16--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "65+2+0+2+16",
-        "Doldu-85"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "468,289",
-        "558,349"
+        "389.482",
+        "450.207",
+        "473.681",
+        "495.465"
       ],
       "Taban Puan": [
-        "341.678",
-        "332.027"
+        "351.315",
+        "344.261",
+        "342.897",
+        "334.250"
       ],
-      "Şehir": "Malatya",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105750014",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "75",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "390.641",
+        "450.727",
+        "525.471",
+        "520.551"
+      ],
+      "Taban Puan": [
+        "351.138",
+        "344.191",
+        "336.045",
+        "330.780"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207650335",
-      "Üniversite": "Biruni Üniversitesi",
+      "Program Kodu": "203151174",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "479,865"
+        "395.480",
+        "451.783",
+        "504.388",
+        "548.152"
       ],
       "Taban Puan": [
-        "340.093"
+        "350.366",
+        "344.036",
+        "338.780",
+        "327.136"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204610478",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "6",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "403.058",
+        "445.200",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "349.186",
+        "344.980",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "109253328",
-      "Üniversite": "Süleyman Demirel Üniversitesi",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
       "Fakülte": "Isparta Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+080+2+0+2+085+3+0+3+0--"
+        "50",
+        "80",
+        "85",
+        "85"
       ],
       "Yerleşen": [
-        "80+2+0+2+0",
-        "89"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "480,189"
+        "405.086",
+        "480.189",
+        "597.309",
+        "604.205"
       ],
       "Taban Puan": [
-        "340.05"
+        "348.882",
+        "340.050",
+        "327.468",
+        "320.244"
       ],
-      "Şehir": "Isparta",
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209610034",
-      "Üniversite": "İzmir Tınaztepe Üniversitesi",
+      "Program Kodu": "102652144",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+18+0+1+0+17+0+1+0+1--"
+        "40",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "8+0+0+0+1",
-        "8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "480,303"
+        "412.008",
+        "513.993",
+        "610.964",
+        "597.416"
       ],
       "Taban Puan": [
-        "340.034"
+        "347.833",
+        "335.624",
+        "325.909",
+        "321.040"
       ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100150714",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "Mehmet Tanrıkulu Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "414.112",
+        "505.883",
+        "608.243",
+        "591.690"
+      ],
+      "Taban Puan": [
+        "347.518",
+        "336.666",
+        "326.212",
+        "321.732"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "205590088",
-      "Üniversite": "Toros Üniversitesi",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+110+0+1+0+110+0+1+0+1--"
+        "10",
+        "10",
+        "10",
+        "9"
       ],
       "Yerleşen": [
-        "10+0+1+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "482,910"
+        "427.961",
+        "482.910",
+        "568.745",
+        "627.498"
       ],
       "Taban Puan": [
-        "339.686"
+        "345.458",
+        "339.686",
+        "330.796",
+        "317.573"
       ],
-      "Şehir": "Mersin",
+      "Şehir": "MERSİN",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "206551928",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "207650335",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+1+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "487,253"
+        "428.973",
+        "479.865",
+        "538.694",
+        "553.451"
       ],
       "Taban Puan": [
-        "339.119"
+        "345.305",
+        "340.093",
+        "334.428",
+        "326.449"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "208450149",
-      "Üniversite": "İstinye Üniversitesi",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "499,890"
+        "435.313",
+        "499.890",
+        "573.958",
+        "587.591"
       ],
       "Taban Puan": [
-        "337.448"
+        "344.364",
+        "337.448",
+        "330.179",
+        "322.231"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202551304",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
+      "Program Kodu": "209610034",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+110+0+1+0+110+0+1+0+1--"
+        "10",
+        "8",
+        "7",
+        "7"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "500,710"
+        "435.847",
+        "480.303",
+        "533.989",
+        "536.275"
       ],
       "Taban Puan": [
-        "337.335"
+        "344.283",
+        "340.034",
+        "334.992",
+        "328.665"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "100150714",
-      "Üniversite": "Bolu Abant İzzet Baysal Üniversitesi",
-      "Fakülte": "Mehmet Tanrıkulu Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "206551928",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "440.312",
+        "487.253",
+        "547.738",
+        "585.345"
+      ],
+      "Taban Puan": [
+        "343.636",
+        "339.119",
+        "333.322",
+        "322.500"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102090082",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "40",
+        "60",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "505,883",
-        "608,243"
+        "443.002",
+        "524.620",
+        "661.193",
+        "663.620"
       ],
       "Taban Puan": [
-        "336.666",
-        "326.212"
+        "343.262",
+        "334.272",
+        "320.513",
+        "313.623"
       ],
-      "Şehir": "Bolu",
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203851219",
-      "Üniversite": "Kapadokya Üniversitesi",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
       "Fakülte": "Kapadokya Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "513,837"
+        "445.135",
+        "513.837",
+        "601.889",
+        "632.757"
       ],
       "Taban Puan": [
-        "335.646"
+        "342.967",
+        "335.646",
+        "326.930",
+        "316.997"
       ],
-      "Şehir": "Nevşehir",
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "102652144",
-      "Üniversite": "Sivas Cumhuriyet Üniversitesi",
+      "Program Kodu": "106650657",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+070+2+0+2+070+2+0+2+18--"
+        "50",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+2+0",
-        "Doldu-92"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "513,993",
-        "610,964"
+        "447.572",
+        "547.227",
+        "653.485",
+        "629.858"
       ],
       "Taban Puan": [
-        "335.624",
-        "325.909"
+        "342.621",
+        "331.562",
+        "321.305",
+        "317.310"
       ],
-      "Şehir": "Sivas",
+      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209710016",
-      "Üniversite": "Kocaeli Sağlık Ve Teknoloji Üniversitesi",
-      "Fakülte": "Avrupa Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "8"
-      ],
-      "Taban Sıralama": [
-        "519,744"
-      ],
-      "Taban Puan": [
-        "334.884"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202454944",
-      "Üniversite": "İstanbul Aydın Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "522,400"
-      ],
-      "Taban Puan": [
-        "334.551"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107790277",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Kırıkhan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+220+1+0+1+520+1+0+1+5--"
-      ],
-      "Yerleşen": [
-        "20+1+0+1+5",
-        "Doldu-27"
-      ],
-      "Taban Sıralama": [
-        "523,430",
-        "655,391"
-      ],
-      "Taban Puan": [
-        "334.419",
-        "321.109"
-      ],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102090082",
-      "Üniversite": "Bingöl Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+060+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "524,620",
-        "661,193"
-      ],
-      "Taban Puan": [
-        "334.272",
-        "320.513"
-      ],
-      "Şehir": "Bingöl",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209010045",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+1",
-        "8"
-      ],
-      "Taban Sıralama": [
-        "521,552"
-      ],
-      "Taban Puan": [
-        "334.659"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104390079",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Tokat Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "528,717",
-        "656,026"
-      ],
-      "Taban Puan": [
-        "333.765",
-        "321.043"
-      ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208910012",
-      "Üniversite": "İzmir Kavram Meslek Yüksekokulu",
-      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+1+0+17+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+1",
-        "8"
-      ],
-      "Taban Sıralama": [
-        "529,210"
-      ],
-      "Taban Puan": [
-        "333.7"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "106390087",
-      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "40+1+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "529,290",
-        "653,364"
+        "449.727",
+        "529.290",
+        "653.364",
+        "647.147"
       ],
       "Taban Puan": [
+        "342.330",
         "333.692",
-        "321.318"
+        "321.318",
+        "315.404"
       ],
-      "Şehir": "Karaman",
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790277",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Kırıkhan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "449.914",
+        "523.430",
+        "655.391",
+        "612.612"
+      ],
+      "Taban Puan": [
+        "342.305",
+        "334.419",
+        "321.109",
+        "319.276"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107890083",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "451.471",
+        "544.408",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "342.093",
+        "331.894",
+        "",
+        ""
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390079",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Tokat Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "457.000",
+        "528.717",
+        "656.026",
+        "649.925"
+      ],
+      "Taban Puan": [
+        "341.326",
+        "333.765",
+        "321.043",
+        "315.100"
+      ],
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "204790619",
-      "Üniversite": "İstanbul Okan Üniversitesi",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+16+0+1+0+1--"
+        "4",
+        "4",
+        "6",
+        ""
       ],
       "Yerleşen": [
-        "4+0+0+0+1",
-        "Doldu-8"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "530,806",
-        "700,997"
+        "457.333",
+        "530.806",
+        "700.997",
+        ""
       ],
       "Taban Puan": [
+        "341.278",
         "333.506",
-        "316.462"
+        "316.462",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "112690288",
-      "Üniversite": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "A",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "209010045",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "5",
+        "5",
+        "7",
+        "8"
       ],
       "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "541,189",
-        "658,653"
+        "458.530",
+        "524.857",
+        "595.858",
+        "657.632"
       ],
       "Taban Puan": [
-        "332.278",
-        "320.772"
+        "341.110",
+        "334.242",
+        "327.628",
+        "314.269"
       ],
-      "Şehir": "Afyonkarahisar",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110351186",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "75",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "459.784",
+        "581.656",
+        "688.792",
+        "686.767"
+      ],
+      "Taban Puan": [
+        "340.941",
+        "327.609",
+        "317.690",
+        "311.144"
+      ],
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112690288",
+      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "459.948",
+        "541.189",
+        "658.653",
+        "661.772"
+      ],
+      "Taban Puan": [
+        "340.916",
+        "332.278",
+        "320.772",
+        "313.817"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209210222",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "54",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "461.938",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "340.638",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202551304",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "464.027",
+        "500.710",
+        "579.257",
+        "597.218"
+      ],
+      "Taban Puan": [
+        "340.351",
+        "337.335",
+        "329.547",
+        "321.064"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209710016",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "7",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "468.422",
+        "519.744",
+        "589.156",
+        "624.382"
+      ],
+      "Taban Puan": [
+        "339.747",
+        "334.884",
+        "328.410",
+        "317.921"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202454944",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "470.435",
+        "522.400",
+        "585.451",
+        "603.943"
+      ],
+      "Taban Puan": [
+        "339.481",
+        "334.551",
+        "328.829",
+        "320.276"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210300115",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "474.417",
+        "554.915",
+        "644.043",
+        "619.434"
+      ],
+      "Taban Puan": [
+        "338.950",
+        "330.665",
+        "322.315",
+        "318.493"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109890117",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "474.735",
+        "565.315",
+        "699.942",
+        "685.022"
+      ],
+      "Taban Puan": [
+        "338.909",
+        "329.456",
+        "316.567",
+        "311.322"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390120",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "476.441",
+        "553.268",
+        "668.012",
+        "663.395"
+      ],
+      "Taban Puan": [
+        "338.686",
+        "330.854",
+        "319.805",
+        "313.646"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103690069",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "477.989",
+        "558.400",
+        "697.481",
+        "682.338"
+      ],
+      "Taban Puan": [
+        "338.481",
+        "330.254",
+        "316.810",
+        "311.608"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209310012",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "479.264",
+        "541.294",
+        "630.545",
+        "634.350"
+      ],
+      "Taban Puan": [
+        "338.307",
+        "332.265",
+        "323.756",
+        "316.819"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111490235",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Tavşanlı Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "482.869",
+        "555.919",
+        "671.298",
+        "678.780"
+      ],
+      "Taban Puan": [
+        "337.825",
+        "330.545",
+        "319.465",
+        "311.985"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109490273",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "483.723",
+        "573.903",
+        "685.581",
+        "667.116"
+      ],
+      "Taban Puan": [
+        "337.715",
+        "328.469",
+        "318.002",
+        "313.248"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208910012",
+      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "485.880",
+        "529.210",
+        "592.020",
+        "614.572"
+      ],
+      "Taban Puan": [
+        "337.422",
+        "333.700",
+        "328.074",
+        "319.051"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105290130",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "505.267",
+        "560.963",
+        "739.904",
+        "741.569"
+      ],
+      "Taban Puan": [
+        "334.903",
+        "329.965",
+        "312.711",
+        "305.590"
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101370250",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "506.680",
+        "596.994",
+        "743.921",
+        "730.667"
+      ],
+      "Taban Puan": [
+        "334.718",
+        "325.933",
+        "312.322",
+        "306.663"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209910010",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "4",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "507.642",
+        "562.886",
+        "643.221",
+        "677.357"
+      ],
+      "Taban Puan": [
+        "334.597",
+        "329.744",
+        "322.400",
+        "312.134"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208750189",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "12",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "508.727",
+        "595.941",
+        "725.746",
+        "670.515"
+      ],
+      "Taban Puan": [
+        "334.456",
+        "326.049",
+        "314.068",
+        "312.868"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201290270",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "509.181",
+        "608.050",
+        "677.684",
+        "670.860"
+      ],
+      "Taban Puan": [
+        "334.400",
+        "324.736",
+        "318.808",
+        "312.832"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202751929",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "11",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "509.548",
+        "600.409",
+        "653.894",
+        "605.646"
+      ],
+      "Taban Puan": [
+        "334.357",
+        "325.560",
+        "321.265",
+        "320.079"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200351639",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "512.248",
+        "586.792",
+        "665.585",
+        "763.056"
+      ],
+      "Taban Puan": [
+        "334.015",
+        "327.040",
+        "320.056",
+        "303.540"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209810016",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "512.886",
+        "604.793",
+        "688.594",
+        "669.162"
+      ],
+      "Taban Puan": [
+        "333.935",
+        "325.085",
+        "317.706",
+        "313.023"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202950223",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "514.303",
+        "563.670",
+        "663.286",
+        "665.565"
+      ],
+      "Taban Puan": [
+        "333.760",
+        "329.649",
+        "320.295",
+        "313.417"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206250518",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "11",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "517.700",
+        "606.454",
+        "655.518",
+        "658.620"
+      ],
+      "Taban Puan": [
+        "333.340",
+        "324.907",
+        "321.096",
+        "314.165"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106150635",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "65",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "522.222",
+        "629.046",
+        "708.488",
+        "692.031"
+      ],
+      "Taban Puan": [
+        "332.768",
+        "322.552",
+        "315.724",
+        "310.588"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202390210",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "9",
+        "9",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "540.034",
+        "610.168",
+        "674.953",
+        "677.171"
+      ],
+      "Taban Puan": [
+        "330.617",
+        "324.507",
+        "319.085",
+        "312.157"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205053774",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "541.040",
+        "634.333",
+        "693.121",
+        "668.544"
+      ],
+      "Taban Puan": [
+        "330.497",
+        "322.008",
+        "317.245",
+        "313.089"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210401550",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "543.723",
+        "610.739",
+        "650.229",
+        "714.006"
+      ],
+      "Taban Puan": [
+        "330.186",
+        "324.451",
+        "321.660",
+        "308.323"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206851397",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "555.737",
+        "669.868",
+        "730.962",
+        "755.683"
+      ],
+      "Taban Puan": [
+        "328.765",
+        "318.482",
+        "313.568",
+        "304.236"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208150204",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "563.779",
+        "654.613",
+        "720.831",
+        "693.232"
+      ],
+      "Taban Puan": [
+        "327.828",
+        "319.980",
+        "314.545",
+        "310.459"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207590261",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "6",
+        "6",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "592.188",
+        "658.765",
+        "756.461",
+        ""
+      ],
+      "Taban Puan": [
+        "324.617",
+        "319.571",
+        "311.132",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300150721",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "8",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "691.875",
+        "788.481",
+        "962.755",
+        "1.266.040"
+      ],
+      "Taban Puan": [
+        "314.267",
+        "307.690",
+        "293.494",
+        "264.565"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200950035",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "32",
+        "28",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "827.524",
+        "865.296",
+        "1.110.622",
+        "1.014.632"
+      ],
+      "Taban Puan": [
+        "302.002",
+        "301.353",
+        "282.408",
+        "282.063"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200390167",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "38",
+        "34",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "832.640",
+        "1.429.350",
+        "1.460.270",
+        "1.650.193"
+      ],
+      "Taban Puan": [
+        "301.576",
+        "263.154",
+        "259.211",
+        "242.777"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206410616",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "51",
+        "51",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "846.894",
+        "905.710",
+        "1.076.093",
+        "1.265.912"
+      ],
+      "Taban Puan": [
+        "300.371",
+        "298.220",
+        "284.917",
+        "264.573"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "301290075",
+      "Üniversite": "KIBRIS SAĞLIK VE TOPLUM BİLİMLERİ ÜNİVERSİTESİ (KKTC-GÜZELYURT)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "901.982",
+        "984.958",
+        "1.118.868",
+        "1.288.280"
+      ],
+      "Taban Puan": [
+        "295.849",
+        "292.309",
+        "281.809",
+        "263.154"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300550753",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "13",
+        "14",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "909.368",
+        "1.036.225",
+        "1.173.470",
+        "1.532.467"
+      ],
+      "Taban Puan": [
+        "295.259",
+        "288.643",
+        "277.976",
+        "248.923"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300350807",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "34",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "931.093",
+        "1.041.571",
+        "1.241.282",
+        "1.395.456"
+      ],
+      "Taban Puan": [
+        "293.533",
+        "288.271",
+        "273.295",
+        "256.648"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300750072",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "948.213",
+        "1.029.161",
+        "1.153.824",
+        "921.453"
+      ],
+      "Taban Puan": [
+        "292.162",
+        "289.139",
+        "279.341",
+        "289.457"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300290339",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "8",
+        "8",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "948.932",
+        "1.048.348",
+        "1.196.340",
+        "1.281.341"
+      ],
+      "Taban Puan": [
+        "292.108",
+        "287.796",
+        "276.378",
+        "263.592"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209210016",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "",
+        "48",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.007.352",
+        "",
+        "",
+        "836.429"
+      ],
+      "Taban Puan": [
+        "287.613",
+        "",
+        "",
+        "296.721"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210000367",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.017.436",
+        "941.290",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "286.854",
+        "295.546",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208810032",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "42",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.081.333",
+        "950.295",
+        "1.058.892",
+        "1.174.231"
+      ],
+      "Taban Puan": [
+        "282.086",
+        "294.872",
+        "286.186",
+        "270.605"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "209010046",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "37",
+        "37",
+        "42",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.113.930",
+        "1.500.758",
+        "1.772.381",
+        "1.960.845"
+      ],
+      "Taban Puan": [
+        "279.728",
+        "258.872",
+        "241.032",
+        "228.272"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300590344",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "9",
+        "13",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.116.368",
+        "1.244.580",
+        "1.491.759",
+        "2.449.248"
+      ],
+      "Taban Puan": [
+        "279.552",
+        "274.677",
+        "257.287",
+        "208.346"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200150661",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "31",
+        "31",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.140.840",
+        "1.332.292",
+        "1.490.981",
+        "1.493.433"
+      ],
+      "Taban Puan": [
+        "277.790",
+        "269.152",
+        "257.334",
+        "251.055"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206551946",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "41",
+        "38",
+        "41",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.169.823",
+        "1.110.763",
+        "1.151.352",
+        "1.108.808"
+      ],
+      "Taban Puan": [
+        "275.713",
+        "283.504",
+        "279.518",
+        "275.138"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206250527",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "63",
+        "59",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.187.326",
+        "1.342.803",
+        "1.289.355",
+        "1.500.941"
+      ],
+      "Taban Puan": [
+        "274.464",
+        "268.501",
+        "270.090",
+        "250.647"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204610492",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "21",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.275.351",
+        "931.820",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "268.322",
+        "296.256",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "101190516",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.321.690",
+        "835.954",
+        "994.863",
+        "1.312.359"
+      ],
+      "Taban Puan": [
+        "265.105",
+        "303.728",
+        "291.020",
+        "261.656"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200690727",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "38",
+        "42",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.334.345",
+        "1.263.428",
+        "1.318.073",
+        "1.181.767"
+      ],
+      "Taban Puan": [
+        "264.237",
+        "273.472",
+        "268.209",
+        "270.095"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204790626",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "34",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.340.353",
+        "1.307.578",
+        "1.835.683",
+        ""
+      ],
+      "Taban Puan": [
+        "263.828",
+        "270.683",
+        "237.587",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207650876",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.355.823",
+        "1.449.232",
+        "2.205.315",
+        "1.143.552"
+      ],
+      "Taban Puan": [
+        "262.756",
+        "261.962",
+        "218.477",
+        "272.713"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209610035",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "51",
+        "47",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.391.185",
+        "1.090.945",
+        "1.262.235",
+        "1.360.276"
+      ],
+      "Taban Puan": [
+        "260.346",
+        "284.844",
+        "271.890",
+        "258.739"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206851404",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "62",
+        "61",
+        "53"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.414.634",
+        "1.667.982",
+        "1.916.704",
+        "1.752.075"
+      ],
+      "Taban Puan": [
+        "258.748",
+        "249.124",
+        "233.244",
+        "237.757"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205053765",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "68",
+        "64",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.475.222",
+        "2.106.435",
+        "2.079.258",
+        "1.949.159"
+      ],
+      "Taban Puan": [
+        "254.608",
+        "224.897",
+        "224.787",
+        "228.773"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300350816",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "34",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.547.414",
+        "1.755.223",
+        "1.843.659",
+        "2.317.487"
+      ],
+      "Taban Puan": [
+        "249.674",
+        "244.162",
+        "237.154",
+        "213.654"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201290341",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "59",
+        "59",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.586.019",
+        "1.833.710",
+        "2.009.215",
+        "1.992.496"
+      ],
+      "Taban Puan": [
+        "247.062",
+        "239.763",
+        "228.388",
+        "226.920"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300150739",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "6",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.751.860",
+        "1.980.349",
+        "1.860.267",
+        "1.874.984"
+      ],
+      "Taban Puan": [
+        "235.750",
+        "231.707",
+        "236.258",
+        "232.042"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205590087",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "63",
+        "63",
+        "63",
+        "56"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.756.866",
+        "1.920.679",
+        "",
+        "1.531.173"
+      ],
+      "Taban Puan": [
+        "235.402",
+        "234.947",
+        "",
+        "248.994"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203150025",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.764.068",
+        "",
+        "",
+        "985.492"
+      ],
+      "Taban Puan": [
+        "234.903",
+        "",
+        "",
+        "284.311"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204610485",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "12",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.774.875",
+        "1.320.713",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "234.161",
+        "269.867",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208450131",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "67",
+        "68",
+        "67"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.824.116",
+        "2.159.866",
+        "1.796.360",
+        "1.948.628"
+      ],
+      "Taban Puan": [
+        "230.755",
+        "222.002",
+        "239.724",
+        "228.795"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208750191",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "66",
+        "73",
+        "67"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.831.289",
+        "1.684.413",
+        "1.877.519",
+        "1.826.138"
+      ],
+      "Taban Puan": [
+        "230.257",
+        "248.175",
+        "235.334",
+        "234.275"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209310014",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "42",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.900.183",
+        "1.676.578",
+        "1.939.085",
+        "1.794.250"
+      ],
+      "Taban Puan": [
+        "225.360",
+        "248.624",
+        "232.061",
+        "235.752"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203851809",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "63"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.921.601",
+        "1.754.349",
+        "1.884.830",
+        "2.244.103"
+      ],
+      "Taban Puan": [
+        "223.805",
+        "244.212",
+        "234.942",
+        "216.589"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "206851388",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.930.520",
+        "2.051.678",
+        "2.017.635",
+        "1.594.037"
+      ],
+      "Taban Puan": [
+        "223.158",
+        "227.845",
+        "227.955",
+        "245.662"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208910065",
+      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.947.919",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "221.885",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209810017",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "41",
+        "30",
+        "34",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.949.415",
+        "2.289.428",
+        "2.008.384",
+        "1.900.504"
+      ],
+      "Taban Puan": [
+        "221.776",
+        "214.922",
+        "228.431",
+        "230.903"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207590268",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "44",
+        "37",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.952.667",
+        "1.808.968",
+        "1.931.021",
+        ""
+      ],
+      "Taban Puan": [
+        "221.535",
+        "241.142",
+        "232.486",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300550435",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "29",
+        "27",
+        "26",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.987.032",
+        "2.185.061",
+        "2.314.559",
+        "2.849.232"
+      ],
+      "Taban Puan": [
+        "218.993",
+        "220.634",
+        "213.122",
+        "185.596"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202390598",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "56",
+        "49",
+        "51",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.991.123",
+        "2.396.379",
+        "2.669.714",
+        ""
+      ],
+      "Taban Puan": [
+        "218.687",
+        "208.882",
+        "194.776",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "200351621",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.031.265",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "215.605",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210300122",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "67",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.053.280",
+        "2.060.568",
+        "2.108.552",
+        "2.191.687"
+      ],
+      "Taban Puan": [
+        "213.851",
+        "227.362",
+        "223.304",
+        "218.716"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209810015",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "12",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.053.916",
+        "2.489.958",
+        "2.419.347",
+        "2.459.619"
+      ],
+      "Taban Puan": [
+        "213.799",
+        "203.230",
+        "207.966",
+        "207.922"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202551297",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "63",
+        "63",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.065.259",
+        "2.138.640",
+        "2.047.085",
+        "1.645.991"
+      ],
+      "Taban Puan": [
+        "212.885",
+        "223.146",
+        "226.438",
+        "242.988"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208150213",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "64",
+        "64",
+        "61"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.072.294",
+        "1.997.942",
+        "2.128.179",
+        "2.189.383"
+      ],
+      "Taban Puan": [
+        "212.302",
+        "230.755",
+        "222.323",
+        "218.807"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300150712",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "21",
+        "21",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.091.524",
+        "2.144.584",
+        "2.110.926",
+        "2.389.370"
+      ],
+      "Taban Puan": [
+        "210.714",
+        "222.831",
+        "223.188",
+        "210.790"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "301290076",
+      "Üniversite": "KIBRIS SAĞLIK VE TOPLUM BİLİMLERİ ÜNİVERSİTESİ (KKTC-GÜZELYURT)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "34",
+        "34",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.160.547",
+        "2.322.366",
+        "2.620.986",
+        ""
+      ],
+      "Taban Puan": [
+        "204.503",
+        "213.087",
+        "197.586",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202390229",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "6",
+        "4",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.164.092",
+        "2.269.470",
+        "2.130.836",
+        "2.103.779"
+      ],
+      "Taban Puan": [
+        "204.137",
+        "216.013",
+        "222.188",
+        "222.274"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210401557",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.182.181",
+        "1.353.373",
+        "1.621.078",
+        "1.250.821"
+      ],
+      "Taban Puan": [
+        "202.312",
+        "267.851",
+        "249.618",
+        "265.543"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200950659",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.209.447",
+        "2.037.194",
+        "2.390.979",
+        ""
+      ],
+      "Taban Puan": [
+        "199.276",
+        "228.632",
+        "209.363",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300750081",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.235.345",
+        "2.365.309",
+        "2.671.340",
+        ""
+      ],
+      "Taban Puan": [
+        "195.948",
+        "210.676",
+        "194.677",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209710068",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "59",
+        "46",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.244.161",
+        "2.455.999",
+        "2.354.386",
+        ""
+      ],
+      "Taban Puan": [
+        "194.647",
+        "205.342",
+        "211.155",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "202790564",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "",
+        "",
+        "67"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.299.098",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "180.590",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "103190803",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104190624",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ağız ve Diş Sağlığı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200590147",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.641.605",
+        "1.553.607",
+        "1.481.036"
+      ],
+      "Taban Puan": [
+        "",
+        "250.633",
+        "253.583",
+        "251.751"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210401564",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "69",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.596.403",
+        "1.527.043",
+        "1.519.620"
+      ],
+      "Taban Puan": [
+        "",
+        "253.261",
+        "255.154",
+        "249.624"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202950841",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "59",
+        "59",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.717.079",
+        "1.563.450",
+        "1.298.323"
+      ],
+      "Taban Puan": [
+        "",
+        "246.326",
+        "253.003",
+        "262.526"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207590254",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "5",
+        "9",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.409.325",
+        "2.358.455",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "208.130",
+        "210.949",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202454971",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "64",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.639.345",
+        "1.950.875",
+        "1.562.343"
+      ],
+      "Taban Puan": [
+        "",
+        "250.765",
+        "231.442",
+        "247.319"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "203151183",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.084.629"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "276.880"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208150197",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.244.653",
+        "2.347.187",
+        "1.720.351"
+      ],
+      "Taban Puan": [
+        "",
+        "217.370",
+        "211.508",
+        "239.279"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206551919",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "27",
+        "27",
+        "20",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.477.046",
+        "2.224.748",
+        "1.900.537"
+      ],
+      "Taban Puan": [
+        "",
+        "204.038",
+        "217.526",
+        "230.901"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209210229",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "49",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300290338",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "11",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.708.986",
+        "2.815.527",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "183.885",
+        "183.697",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300290341",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "12",
+        "11",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.308.099",
+        "2.301.984",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "213.890",
+        "213.741",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300590345",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "23",
+        "21",
+        "17",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.711.894",
+        "2.814.616",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "183.389",
+        "183.796",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209910011",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ağız ve Diş Sağlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "28",
+        "30",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.102.748",
+        "1.487.584",
+        "1.662.744"
+      ],
+      "Taban Puan": [
+        "",
+        "284.052",
+        "257.538",
+        "242.145"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

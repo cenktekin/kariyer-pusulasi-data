@@ -1,1818 +1,7644 @@
 {
   "yks": [
     {
-      "Program Kodu": "200511638",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+15+07+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "657"
-      ],
-      "Taban Sıralama": [
-        "82,632",
-        "89,936",
-        "63,379",
-        "65,904"
-      ],
-      "Taban Puan": [
-        "400.038",
-        "417.795",
-        "442.405",
-        "374.796"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200510922",
-      "Üniversite": "Bahçeşehir Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+0+0+14+0+0+0+14+0+0+0+13+07+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "437"
-      ],
-      "Taban Sıralama": [
-        "105,178",
-        "101,687",
-        "87,617",
-        "95,291"
-      ],
-      "Taban Puan": [
-        "380.097",
-        "407.374",
-        "17.093",
-        "347.087"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200110044",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+15+09+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "659"
-      ],
-      "Taban Sıralama": [
-        "112,159",
-        "99,258",
-        "78,002",
-        "67,770"
-      ],
-      "Taban Puan": [
-        "374.476",
-        "409.506",
-        "426.755",
-        "372.89"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104810714",
-      "Üniversite": "Hacettepe Üniversitesi",
-      "Fakülte": "Fizik Tedavi Ve Rehabilitasyon Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "80+2+0+0+0105+3+0+0+0100+3+0+3+0120+3120+3"
-      ],
-      "Yerleşen": [
-        "108",
-        "105+3+0+0+0",
-        "106123123"
-      ],
-      "Taban Sıralama": [
-        "113,099",
-        "102,847",
-        "97,777",
-        "90,773"
-      ],
-      "Taban Puan": [
-        "373.739",
-        "406.392",
-        "407.574",
-        "350.991"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206110989",
-      "Üniversite": "Yeditepe Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+18+010+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "8810"
-      ],
-      "Taban Sıralama": [
-        "116,212",
-        "106,355",
-        "98,027",
-        "99,347"
-      ],
-      "Taban Puan": [
-        "371.365",
-        "403.509",
-        "407.344",
-        "343.745"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203590180",
-      "Üniversite": "İzmir Ekonomi Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+14+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "7",
-        "5+0+1+0+1",
-        "555"
-      ],
-      "Taban Sıralama": [
-        "138,757",
-        "155,492",
-        "153,283",
-        "198,101"
-      ],
-      "Taban Puan": [
-        "355.724",
-        "368.347",
-        "363.846",
-        "283.082"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200690541",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+18+0+1+0+18+0+1+0+17+010+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "8+0+1+0+1",
-        "9710"
-      ],
-      "Taban Sıralama": [
-        "140,832",
-        "113,868",
-        "105,770",
-        "117,963"
-      ],
-      "Taban Puan": [
-        "354.438",
-        "397.488",
-        "400.302",
-        "328.887"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203111439",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+1+0+110+0+1+0+19+09+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "10+0+0+0+0",
-        "1199"
-      ],
-      "Taban Sıralama": [
-        "141,522",
-        "115,863",
-        "91,831",
-        "92,713"
-      ],
-      "Taban Puan": [
-        "354.026",
-        "395.941",
-        "3.164",
-        "349.323"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209210075",
-      "Üniversite": "Ankara Medipol Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+16+0+1+0+16+015+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "7615"
-      ],
-      "Taban Sıralama": [
-        "143,518",
-        "139,779",
-        "139,737",
-        "172,893"
-      ],
-      "Taban Puan": [
-        "352.833",
-        "378.462",
-        "373.133",
-        "295.067"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203110114",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "11+0+2+0+111+0+2+0+110+0+2+0+112+012+0"
-      ],
-      "Yerleşen": [
-        "12",
-        "11+0+0+0+1",
-        "111212"
-      ],
-      "Taban Sıralama": [
-        "150,952",
-        "132,224",
-        "121,272",
-        "83,846"
-      ],
-      "Taban Puan": [
-        "348.302",
-        "383.751",
-        "387.122",
-        "357.176"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104111252",
-      "Üniversite": "Gazi Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+0+0105+3+0+0+0100+3+0+3+0100+3100+3"
-      ],
-      "Yerleşen": [
-        "108",
-        "105+3+0+0+0",
-        "105103103"
-      ],
-      "Taban Sıralama": [
-        "161,273",
-        "145,320",
-        "135,324",
-        "135,762"
-      ],
-      "Taban Puan": [
-        "342.388",
-        "374.796",
-        "376.282",
-        "316.529"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103490365",
-      "Üniversite": "Ege Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "56+2+0+0+070+2+0+0+065+2+0+2+065+265+2"
-      ],
-      "Yerleşen": [
-        "72",
-        "70+2+0+0+0",
-        "686767"
-      ],
-      "Taban Sıralama": [
-        "161,884",
-        "153,034",
-        "143,329",
-        "143,413"
-      ],
-      "Taban Puan": [
-        "342.037",
-        "369.882",
-        "370.568",
-        "311.637"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200910142",
-      "Üniversite": "Bezm-İ Âlem",
-      "Fakülte": "ÜniversitesiVakıfSağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+16+0+1+0+18+015+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "7815"
-      ],
-      "Taban Sıralama": [
-        "163,614",
-        "136,898",
-        "128,417",
-        "104,279"
-      ],
-      "Taban Puan": [
-        "341.097",
-        "380.428",
-        "381.483",
-        "39.643"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "111611138",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+075+2+0+0+070+2+0+2+070+280+2"
-      ],
-      "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "747282"
-      ],
-      "Taban Sıralama": [
-        "172,721",
-        "158,521",
-        "142,372",
-        "139,335"
-      ],
-      "Taban Puan": [
-        "336.353",
-        "366.508",
-        "371.217",
-        "314.206"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207650975",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+14+0+1+0+14+06+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "446"
-      ],
-      "Taban Sıralama": [
-        "181,519",
-        "172,101",
-        "174,630",
-        "181,524"
-      ],
-      "Taban Puan": [
-        "331.954",
-        "358.679",
-        "350.756",
-        "290.747"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200211686",
-      "Üniversite": "Atılım Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+13+0+0+0+13+0+0+0+13+08+0"
-      ],
-      "Yerleşen": [
-        "4",
-        "3+0+0+0+1",
-        "438"
-      ],
-      "Taban Sıralama": [
-        "185,266",
-        "188,505",
-        "194,685",
-        "219,573"
-      ],
-      "Taban Puan": [
-        "330.186",
-        "350.144",
-        "339.921",
-        "274.105"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208810016",
-      "Üniversite": "Lokman Hekim Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+16+08+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "868"
-      ],
-      "Taban Sıralama": [
-        "191,386",
-        "168,806",
-        "165,552",
-        "183,267"
-      ],
-      "Taban Puan": [
-        "327.388",
-        "360.553",
-        "356.078",
-        "289.892"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107210844",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+0105+3+0+0+0100+3+0+3+0100+3100+3"
-      ],
-      "Yerleşen": [
-        "108",
-        "105+3+0+0+0",
-        "106103103"
-      ],
-      "Taban Sıralama": [
-        "197,372",
-        "182,492",
-        "157,394",
-        "141,562"
-      ],
-      "Taban Puan": [
-        "324.713",
-        "353.171",
-        "361.116",
-        "312.809"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208410071",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+15+010+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "5510"
-      ],
-      "Taban Sıralama": [
-        "198,675",
-        "178,708",
-        "164,597",
-        "184,244"
-      ],
-      "Taban Puan": [
-        "324.149",
-        "355.133",
-        "356.642",
-        "89.417"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103190677",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
-      "Fakülte": "Fizik Tedavi Ve Rehabilitasyon Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "80+2+0+0+0105+3+0+0+0100+3+0+3+0100+3-"
-      ],
-      "Yerleşen": [
-        "108",
-        "105+3+0+0+0",
-        "106103"
-      ],
-      "Taban Sıralama": [
-        "199,967",
-        "184,709",
-        "182,518"
-      ],
-      "Taban Puan": [
-        "323.574",
-        "352.014",
-        "346.339"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208450752",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+15+06+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "456"
-      ],
-      "Taban Sıralama": [
-        "200,790",
-        "177,360",
-        "157,267",
-        "154,390"
-      ],
-      "Taban Puan": [
-        "323.214",
-        "355.845",
-        "361.192",
-        "305.154"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202512569",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+15+011+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "6511"
-      ],
-      "Taban Sıralama": [
-        "202,717",
-        "186,722",
-        "155,865",
-        "167,859"
-      ],
-      "Taban Puan": [
-        "322.385",
-        "351.009",
-        "362.138",
-        "297.71"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "200190058",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+14+0+1+0+14+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1",
+        "5",
+        "4",
+        "4",
         "5"
       ],
-      "Taban Sıralama": [
-        "203,542"
-      ],
-      "Taban Puan": [
-        "396.069"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207610212",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+1+0+17+0+1+0+17+0+1+0+16+09+0"
-      ],
       "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "869"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "210,618",
-        "199,619",
-        "160,890",
-        "154,049"
+        "227.446",
+        "203.542",
+        "299.039",
+        "326.481"
       ],
       "Taban Puan": [
-        "319.147",
-        "344.733",
-        "358.901",
-        "305.353"
+        "383.158",
+        "396.069",
+        "372.553",
+        "363.108"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203111033",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+1+0+110+0+1+0+19+012+0"
-      ],
-      "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "11912"
-      ],
-      "Taban Sıralama": [
-        "213,902",
-        "195,421",
-        "154,215",
-        "175,721"
-      ],
-      "Taban Puan": [
-        "317.843",
-        "346.763",
-        "363.232",
-        "293.641"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "111091432",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Gülhane Fizyoterapi Ve Rehabilitasyon Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+075+2+0+2+070+2+0+2+070+270+2"
-      ],
-      "Yerleşen": [
-        "79",
-        "75+2+0+2+0",
-        "747272"
-      ],
-      "Taban Sıralama": [
-        "213,917",
-        "207,159",
-        "199,971",
-        "207,387"
-      ],
-      "Taban Puan": [
-        "317.839",
-        "341.239",
-        "337.321",
-        "279.052"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109790463",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "55+2+0+0+070+2+0+0+065+2+0+2+065+265+2"
-      ],
-      "Yerleşen": [
-        "72",
-        "70+2+0+0+0",
-        "696767"
-      ],
-      "Taban Sıralama": [
-        "214,124",
-        "188,302",
-        "180,769",
-        "179,790"
-      ],
-      "Taban Puan": [
-        "317.761",
-        "350.226",
-        "347.302",
-        "291.637"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100790531",
-      "Üniversite": "Akdeniz Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+075+2+0+2+070+2+0+2+070+260+2"
-      ],
-      "Yerleşen": [
-        "79",
-        "75+2+0+2+0",
-        "747262"
-      ],
-      "Taban Sıralama": [
-        "219,892",
-        "213,121",
-        "204,686",
-        "224,971"
-      ],
-      "Taban Puan": [
-        "315.506",
-        "338.622",
-        "335.028",
-        "271.935"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111010056",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
-      "Fakülte": "Hamidiye Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+075+2+0+2+070+2+0+2+070+270+2"
-      ],
-      "Yerleşen": [
-        "79",
-        "75+2+0+2+0",
-        "747272"
-      ],
-      "Taban Sıralama": [
-        "223,989",
-        "220,652",
-        "193,926",
-        "194,677"
-      ],
-      "Taban Puan": [
-        "313.956",
-        "335.426",
-        "340.295",
-        "284.573"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203011555",
-      "Üniversite": "İstanbul Kültür Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+1+0+14+0+1+0+14+0+1+0+13+08+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "438"
-      ],
-      "Taban Sıralama": [
-        "225,920",
-        "239,520",
-        "208,527",
-        "226,929"
-      ],
-      "Taban Puan": [
-        "313.224",
-        "327.883",
-        "33.183",
-        "271.157"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201990487",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+17+0+1+0+16+0+1+0+16+010+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "6610"
-      ],
-      "Taban Sıralama": [
-        "226,617",
-        "222,727",
-        "188,923",
-        "205,043"
-      ],
-      "Taban Puan": [
-        "312.958",
-        "334.553",
-        "42.927",
-        "280.002"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110010298",
-      "Üniversite": "Ankara Yıldırım Beyazıt Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+2+085+3+0+3+080+2+0+2+080+280+2"
-      ],
-      "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "848282"
-      ],
-      "Taban Sıralama": [
-        "226,707",
-        "205,770",
-        "182,651",
-        "179,178"
-      ],
-      "Taban Puan": [
-        "312.924",
-        "341.871",
-        "346.267",
-        "291.937"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207910078",
-      "Üniversite": "Yüksek İhtisas Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+16+0+1+0+15+0+1+0+15+08+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "6+0+1+0+1",
-        "658"
-      ],
-      "Taban Sıralama": [
-        "233,156",
-        "207,646",
-        "193,172",
-        "205,583"
-      ],
-      "Taban Puan": [
-        "310.627",
-        "341.027",
-        "340.703",
-        "279.794"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201910387",
-      "Üniversite": "Haliç Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+16+0+1+0+16+09+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "769"
-      ],
-      "Taban Sıralama": [
-        "233,314",
-        "236,308",
-        "194,694",
-        "200,835"
-      ],
-      "Taban Puan": [
-        "310.572",
-        "329.117",
-        "339.916",
-        "281.858"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209310068",
-      "Üniversite": "İstanbul Atlas Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+13+0+1+0+13+06+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "436"
-      ],
-      "Taban Sıralama": [
-        "233,935",
-        "221,451",
-        "218,994",
-        "246,644"
-      ],
-      "Taban Puan": [
-        "310.341",
-        "335.104",
-        "328.367",
-        "264.02"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "200551407",
-      "Üniversite": "Bahçeşehir Üniversitesi",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+1--"
+        "5",
+        "5",
+        "5",
+        "8"
       ],
       "Yerleşen": [
-        "5+0+0+0+1",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "253.481",
+        "234.421",
+        "287.839",
+        "301.851"
+      ],
+      "Taban Puan": [
+        "377.037",
+        "386.888",
+        "374.992",
+        "368.444"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203550975",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
         "6"
       ],
-      "Taban Sıralama": [
-        "234,421"
-      ],
-      "Taban Puan": [
-        "386.888"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209010091",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+13+06+0"
-      ],
       "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "536"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "236,160",
-        "226,379",
-        "198,375",
-        "227,801"
+        "265.041",
+        "298.723",
+        "346.338",
+        "347.053"
       ],
       "Taban Puan": [
-        "309.533",
-        "333.052",
-        "338.085",
-        "270.83"
+        "374.437",
+        "371.124",
+        "363.158",
+        "358.866"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "204090580",
-      "Üniversite": "Kto Karatay Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+1----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "236,583"
-      ],
-      "Taban Puan": [
-        "309.367"
-      ],
-      "Şehir": "Konya",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105710333",
-      "Üniversite": "İzmir Katip Çelebi Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "100751354",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+085+3+0+3+080+2+0+2+080+280+2"
+        "30",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "91",
-        "85+3+0+3+0",
-        "848282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "239,824",
-        "222,375",
-        "208,218",
-        "209,150"
+        "318.684",
+        "423.621",
+        "418.905",
+        "434.027"
       ],
       "Taban Puan": [
-        "308.256",
-        "334.698",
-        "333.326",
-        "278.285"
+        "363.603",
+        "348.223",
+        "350.882",
+        "343.467"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210000297",
-      "Üniversite": "Mudanya Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "203152048",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+17+0+1+0+18+0+1+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "327.881",
+        "326.919",
+        "333.194",
+        "363.062"
+      ],
+      "Taban Puan": [
+        "361.888",
+        "365.233",
+        "365.608",
+        "355.739"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209210025",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "333.701",
+        "377.000",
+        "363.140",
+        "392.242"
+      ],
+      "Taban Puan": [
+        "360.826",
+        "355.838",
+        "360.099",
+        "350.460"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210000129",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
         "9",
-        "7+0+1+0+1",
+        "9",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "349.548",
+        "510.338",
+        "400.552",
+        "521.322"
+      ],
+      "Taban Puan": [
+        "357.988",
+        "336.090",
+        "353.762",
+        "330.671"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200650789",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "369.361",
+        "414.442",
+        "420.512",
+        "448.929"
+      ],
+      "Taban Puan": [
+        "354.609",
+        "349.643",
+        "350.624",
+        "341.106"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200290182",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "391.473",
+        "466.167",
+        "409.956",
+        "462.307"
+      ],
+      "Taban Puan": [
+        "351.000",
+        "341.981",
+        "352.287",
+        "339.058"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203150634",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "392.459",
+        "426.285",
+        "434.577",
+        "396.140"
+      ],
+      "Taban Puan": [
+        "350.845",
+        "347.803",
+        "348.509",
+        "349.768"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203151314",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "393.347",
+        "437.601",
+        "403.915",
+        "428.226"
+      ],
+      "Taban Puan": [
+        "350.708",
+        "346.093",
+        "353.229",
+        "344.391"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202790879",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "395.784",
+        "495.234",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "350.314",
+        "338.063",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204610436",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "408.814",
+        "403.637",
+        "380.203",
+        "441.621"
+      ],
+      "Taban Puan": [
+        "348.325",
+        "351.357",
+        "357.184",
+        "342.244"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206410618",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
         "9"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "241,339",
-        "234,839"
+        "413.074",
+        "495.834",
+        "483.010",
+        "483.429"
       ],
       "Taban Puan": [
-        "307.729",
-        "329.68"
+        "347.668",
+        "337.978",
+        "341.622",
+        "335.957"
       ],
-      "Şehir": "Bursa",
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105490204",
-      "Üniversite": "İstanbul Medeniyet Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "102951204",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Abdi Sütcü Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+045+2+0+2+040+1+0+1+0--"
+        "40",
+        "50",
+        "50",
+        "70"
       ],
       "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "413.600",
+        "455.337",
+        "435.530",
+        "503.288"
+      ],
+      "Taban Puan": [
+        "347.591",
+        "343.511",
+        "348.364",
+        "333.158"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105750041",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "75",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "425.348",
+        "497.948",
+        "504.129",
+        "474.273"
+      ],
+      "Taban Puan": [
+        "345.844",
+        "337.705",
+        "338.818",
+        "337.299"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209010099",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "425.523",
+        "415.132",
+        "396.120",
+        "398.034"
+      ],
+      "Taban Puan": [
+        "345.816",
+        "349.532",
+        "354.501",
+        "349.439"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108953254",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "425.909",
+        "517.940",
+        "548.796",
+        "537.510"
+      ],
+      "Taban Puan": [
+        "345.755",
+        "335.117",
+        "333.189",
+        "328.510"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209610012",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "430.870",
+        "483.997",
+        "469.327",
+        "422.329"
+      ],
+      "Taban Puan": [
+        "345.025",
+        "339.541",
+        "343.511",
+        "345.357"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108650403",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Denizli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "440.549",
+        "536.388",
+        "554.110",
+        "530.846"
+      ],
+      "Taban Puan": [
+        "343.599",
+        "332.840",
+        "332.541",
+        "329.389"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204050156",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "446.018",
+        "481.782",
+        "467.512",
+        "450.202"
+      ],
+      "Taban Puan": [
+        "342.838",
+        "339.842",
+        "343.761",
+        "340.915"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205850066",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "448.310",
+        "483.202",
+        "467.059",
+        "496.003"
+      ],
+      "Taban Puan": [
+        "342.522",
+        "339.649",
+        "343.821",
+        "334.176"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108851665",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "Sakarya Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "458.931",
+        "547.161",
+        "561.688",
+        "510.233"
+      ],
+      "Taban Puan": [
+        "341.059",
+        "331.570",
+        "331.625",
+        "332.201"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202455245",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "460.454",
+        "554.693",
+        "560.518",
+        "475.246"
+      ],
+      "Taban Puan": [
+        "340.843",
+        "330.689",
+        "331.764",
+        "337.159"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207650114",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "462.047",
+        "485.731",
+        "532.701",
+        "487.633"
+      ],
+      "Taban Puan": [
+        "340.622",
+        "339.310",
+        "335.141",
+        "335.366"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104251038",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "75",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "474.209",
+        "550.240",
+        "526.340",
+        "552.415"
+      ],
+      "Taban Puan": [
+        "338.979",
+        "331.208",
+        "335.937",
+        "326.584"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209010049",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "474.241",
+        "499.889",
+        "491.492",
+        "466.091"
+      ],
+      "Taban Puan": [
+        "338.975",
+        "337.449",
+        "340.480",
+        "338.514"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202551385",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "476.170",
+        "494.349",
+        "480.598",
+        "448.419"
+      ],
+      "Taban Puan": [
+        "338.721",
+        "338.182",
+        "341.952",
+        "341.179"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100351288",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Aydın Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "476.605",
+        "566.135",
+        "577.653",
+        "557.182"
+      ],
+      "Taban Puan": [
+        "338.664",
+        "329.366",
+        "329.741",
+        "325.974"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201950474",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "482.434",
+        "486.939",
+        "543.969",
+        "549.100"
+      ],
+      "Taban Puan": [
+        "337.882",
+        "339.159",
+        "333.780",
+        "327.013"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110590029",
+      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "486.981",
+        "587.781",
+        "614.242",
+        "593.983"
+      ],
+      "Taban Puan": [
+        "337.280",
+        "326.936",
+        "325.552",
+        "321.453"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205590100",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "9",
+        "8",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "488.483",
+        "583.690",
+        "557.154",
+        "540.737"
+      ],
+      "Taban Puan": [
+        "337.079",
+        "327.381",
+        "332.171",
+        "328.094"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206550472",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "489.975",
+        "512.995",
+        "531.329",
+        "480.658"
+      ],
+      "Taban Puan": [
+        "336.883",
+        "335.748",
+        "335.309",
+        "336.362"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103950972",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "491.696",
+        "621.850",
+        "644.471",
+        "624.880"
+      ],
+      "Taban Puan": [
+        "336.655",
+        "323.300",
+        "322.270",
+        "317.862"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103050706",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "496.142",
+        "563.481",
+        "530.443",
+        "564.826"
+      ],
+      "Taban Puan": [
+        "336.078",
+        "329.672",
+        "335.420",
+        "325.027"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101150995",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Kızılcahamam Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "496.154",
+        "561.649",
+        "588.250",
+        "576.018"
+      ],
+      "Taban Puan": [
+        "336.076",
+        "329.887",
+        "328.513",
+        "323.633"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111091460",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Arnavutköy Darülaceze Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "496.621",
+        "441.151",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "336.020",
+        "345.568",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208910030",
+      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "9",
+        "9",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "497.076",
+        "542.798",
+        "564.151",
+        "528.059"
+      ],
+      "Taban Puan": [
+        "335.959",
+        "332.079",
+        "331.334",
+        "329.762"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200650471",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Adana Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "500.531",
+        "522.542",
+        "596.811",
+        "594.245"
+      ],
+      "Taban Puan": [
+        "335.510",
+        "334.533",
+        "327.522",
+        "321.421"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209710034",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "8",
+        "6",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "501.081",
+        "506.135",
+        "424.692",
+        "503.785"
+      ],
+      "Taban Puan": [
+        "335.445",
+        "336.633",
+        "349.991",
+        "333.089"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208450246",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "502.985",
+        "521.406",
+        "519.987",
+        "497.242"
+      ],
+      "Taban Puan": [
+        "335.200",
+        "334.677",
+        "336.747",
+        "334.007"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105390338",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "509.509",
+        "604.368",
+        "661.835",
+        "537.580"
+      ],
+      "Taban Puan": [
+        "334.362",
+        "325.128",
+        "320.444",
+        "328.501"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110670181",
+      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "511.697",
+        "579.576",
+        "612.771",
+        "576.265"
+      ],
+      "Taban Puan": [
+        "334.089",
+        "327.838",
+        "325.717",
+        "323.604"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102650518",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "513.114",
+        "637.534",
+        "708.457",
+        "643.859"
+      ],
+      "Taban Puan": [
+        "333.909",
+        "321.686",
+        "315.727",
+        "315.774"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207950286",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "519.945",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "333.060",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101451451",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "75",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "523.528",
+        "613.344",
+        "662.147",
+        "612.616"
+      ],
+      "Taban Puan": [
+        "332.611",
+        "324.184",
+        "320.414",
+        "319.276"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109252887",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Isparta Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "80",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "524.603",
+        "601.987",
+        "655.558",
+        "623.633"
+      ],
+      "Taban Puan": [
+        "332.478",
+        "325.386",
+        "321.092",
+        "318.011"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202950647",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "524.756",
+        "587.271",
+        "595.614",
+        "599.152"
+      ],
+      "Taban Puan": [
+        "332.458",
+        "326.992",
+        "327.655",
+        "320.837"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106051167",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "Kahramanmaraş Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "526.635",
+        "674.711",
+        "730.655",
+        "607.992"
+      ],
+      "Taban Puan": [
+        "332.233",
+        "318.009",
+        "313.599",
+        "319.812"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101150738",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Haymana Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "536.221",
+        "607.367",
+        "671.207",
+        "632.003"
+      ],
+      "Taban Puan": [
+        "331.075",
+        "324.809",
+        "319.475",
+        "317.077"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200390319",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "549.655",
+        "640.455",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "329.487",
+        "321.398",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107951261",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "550.194",
+        "629.265",
+        "665.232",
+        "619.088"
+      ],
+      "Taban Puan": [
+        "329.419",
+        "322.528",
+        "320.094",
+        "318.531"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209310022",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "550.255",
+        "597.559",
+        "578.990",
+        "682.301"
+      ],
+      "Taban Puan": [
+        "329.412",
+        "325.870",
+        "329.581",
+        "311.611"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210300486",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "551.792",
+        "592.873",
+        "588.527",
+        "621.847"
+      ],
+      "Taban Puan": [
+        "329.232",
+        "326.382",
+        "328.481",
+        "318.215"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201250887",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "9",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "553.957",
+        "583.414",
+        "584.189",
+        "556.344"
+      ],
+      "Taban Puan": [
+        "328.976",
+        "327.412",
+        "328.964",
+        "326.079"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209910018",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "555.814",
+        "615.418",
+        "640.397",
+        "680.757"
+      ],
+      "Taban Puan": [
+        "328.755",
+        "323.972",
+        "322.712",
+        "311.780"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101590231",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Bigadiç Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "558.548",
+        "620.171",
+        "684.378",
+        ""
+      ],
+      "Taban Puan": [
+        "328.429",
+        "323.485",
+        "318.119",
+        ""
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570524",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "52"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "559.262",
+        "662.357",
+        "644.254",
+        "643.380"
+      ],
+      "Taban Puan": [
+        "328.347",
+        "319.222",
+        "322.294",
+        "315.822"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105051231",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "560.816",
+        "649.770",
+        "684.827",
+        "670.632"
+      ],
+      "Taban Puan": [
+        "328.170",
+        "320.465",
+        "318.076",
+        "312.857"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108250928",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Havza Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "562.218",
+        "650.731",
+        "706.895",
+        "642.956"
+      ],
+      "Taban Puan": [
+        "328.010",
+        "320.374",
+        "315.885",
+        "315.870"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100390284",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Nazilli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "566.351",
+        "631.061",
+        "673.749",
+        "646.210"
+      ],
+      "Taban Puan": [
+        "327.532",
+        "322.344",
+        "319.209",
+        "315.513"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209810022",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "568.818",
+        "609.535",
+        "581.451",
+        "548.455"
+      ],
+      "Taban Puan": [
+        "327.241",
+        "324.576",
+        "329.282",
+        "327.098"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202751753",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "569.926",
+        "602.791",
+        "619.283",
+        "597.912"
+      ],
+      "Taban Puan": [
+        "327.109",
+        "325.297",
+        "325.002",
+        "320.980"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108190130",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Niğde Zübeyde Hanım Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "570.586",
+        "620.396",
+        "659.051",
+        "620.963"
+      ],
+      "Taban Puan": [
+        "327.037",
+        "323.460",
+        "320.729",
+        "318.316"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109490276",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "571.651",
+        "651.127",
+        "687.641",
+        "635.998"
+      ],
+      "Taban Puan": [
+        "326.915",
+        "320.335",
+        "317.797",
+        "316.633"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111890194",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Akyazı Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "574.034",
+        "636.859",
+        "706.585",
+        "667.552"
+      ],
+      "Taban Puan": [
+        "326.654",
+        "321.756",
+        "315.915",
+        "313.200"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104590082",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "575.278",
+        "685.029",
+        "747.834",
+        "738.215"
+      ],
+      "Taban Puan": [
+        "326.513",
+        "317.011",
+        "311.946",
+        "305.924"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370882",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "İncesu Ayşe ve Saffet Arslan Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "577.379",
+        "653.045",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "326.270",
+        "320.142",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210400227",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "579.406",
+        "1.600.069",
+        "1.343.199",
+        "1.350.872"
+      ],
+      "Taban Puan": [
+        "326.043",
+        "253.045",
+        "266.595",
+        "259.308"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "112651621",
+      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "581.209",
+        "660.189",
+        "711.332",
+        "664.546"
+      ],
+      "Taban Puan": [
+        "325.836",
+        "319.436",
+        "315.456",
+        "313.526"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109970372",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
+      "Fakülte": "Termal Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "75",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "585.737",
+        "667.582",
+        "723.300",
+        "670.882"
+      ],
+      "Taban Puan": [
+        "325.331",
+        "318.711",
+        "314.308",
+        "312.830"
+      ],
+      "Şehir": "YALOVA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205053835",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "585.996",
+        "657.225",
+        "676.442",
+        "683.831"
+      ],
+      "Taban Puan": [
+        "325.306",
+        "319.723",
+        "318.931",
+        "311.451"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107390084",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "586.236",
+        "667.853",
+        "729.153",
+        "682.780"
+      ],
+      "Taban Puan": [
+        "325.279",
+        "318.684",
+        "313.743",
+        "311.562"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107090281",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Seydişehir Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "586.956",
+        "646.744",
+        "717.068",
+        "676.551"
+      ],
+      "Taban Puan": [
+        "325.198",
+        "320.769",
+        "314.907",
+        "312.222"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209210278",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
         "49",
-        "45+2+0+2+0",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "588.221",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "325.054",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108690094",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Sarayköy Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "591.161",
+        "685.619",
+        "747.414",
+        "688.884"
+      ],
+      "Taban Puan": [
+        "324.731",
+        "316.956",
+        "311.986",
+        "310.919"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210400220",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "11",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "592.260",
+        "622.580",
+        "607.077",
+        "616.896"
+      ],
+      "Taban Puan": [
+        "324.607",
+        "323.223",
+        "326.349",
+        "318.787"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208750058",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "593.608",
+        "623.901",
+        "660.376",
+        "671.920"
+      ],
+      "Taban Puan": [
+        "324.463",
+        "323.079",
+        "320.592",
+        "312.720"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203851273",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "596.012",
+        "640.259",
+        "715.874",
+        "689.383"
+      ],
+      "Taban Puan": [
+        "324.202",
+        "321.418",
+        "315.024",
+        "310.866"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101750344",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "596.278",
+        "693.348",
+        "740.175",
+        "682.553"
+      ],
+      "Taban Puan": [
+        "324.174",
+        "316.230",
+        "312.684",
+        "311.585"
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690102",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "Bartın Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "597.854",
+        "703.808",
+        "747.064",
+        "736.105"
+      ],
+      "Taban Puan": [
+        "324.002",
+        "315.247",
+        "312.021",
+        "306.124"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100690075",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "67"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "599.934",
+        "698.397",
+        "767.396",
+        "725.886"
+      ],
+      "Taban Puan": [
+        "323.768",
+        "315.754",
+        "310.119",
+        "307.132"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108750598",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "602.357",
+        "691.328",
+        "757.949",
+        "669.036"
+      ],
+      "Taban Puan": [
+        "323.513",
+        "316.418",
+        "310.999",
+        "313.037"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106390034",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "603.177",
+        "715.768",
+        "786.303",
+        "729.123"
+      ],
+      "Taban Puan": [
+        "323.423",
+        "314.145",
+        "308.383",
+        "306.816"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202352358",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "12",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "603.333",
+        "657.623",
+        "678.650",
+        "676.041"
+      ],
+      "Taban Puan": [
+        "323.405",
+        "319.684",
+        "318.710",
+        "312.278"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210100115",
+      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "5",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "605.585",
+        "622.675",
+        "661.105",
+        "865.535"
+      ],
+      "Taban Puan": [
+        "323.160",
+        "323.211",
+        "320.521",
+        "294.184"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111490200",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Tavşanlı Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "608.479",
+        "719.085",
+        "766.462",
+        "713.324"
+      ],
+      "Taban Puan": [
+        "322.851",
+        "313.850",
+        "310.203",
+        "308.391"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100990024",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "Sabuncuoğlu Şerefeddin Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "612.017",
+        "695.073",
+        "770.302",
+        "741.847"
+      ],
+      "Taban Puan": [
+        "322.480",
+        "316.068",
+        "309.847",
+        "305.562"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207590142",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "4",
+        "4",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "616.693",
+        "650.128",
+        "683.947",
+        "765.861"
+      ],
+      "Taban Puan": [
+        "321.974",
+        "320.431",
+        "318.166",
+        "303.274"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108050542",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Kozaklı Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "618.877",
+        "717.219",
+        "794.206",
+        "736.232"
+      ],
+      "Taban Puan": [
+        "321.734",
+        "314.015",
+        "307.672",
+        "306.113"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109253355",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Atayalvaç Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "623.320",
+        "722.135",
+        "786.847",
+        "729.381"
+      ],
+      "Taban Puan": [
+        "321.264",
+        "313.560",
+        "308.334",
+        "306.790"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111490169",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "Simav Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "629.455",
+        "742.012",
+        "808.947",
+        "757.733"
+      ],
+      "Taban Puan": [
+        "320.612",
+        "311.743",
+        "306.355",
+        "304.039"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202090424",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "9",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "631.908",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "320.344",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107890041",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "637.252",
+        "797.710",
+        "905.949",
+        "839.273"
+      ],
+      "Taban Puan": [
+        "319.791",
+        "306.911",
+        "298.059",
+        "296.471"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112190114",
+      "Üniversite": "TRABZON ÜNİVERSİTESİ",
+      "Fakülte": "Tonya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "639.690",
+        "726.031",
+        "808.540",
+        "747.705"
+      ],
+      "Taban Puan": [
+        "319.539",
+        "313.199",
+        "306.391",
+        "305.011"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206850733",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "642.146",
+        "700.103",
+        "705.820",
+        "715.212"
+      ],
+      "Taban Puan": [
+        "319.273",
+        "315.597",
+        "315.987",
+        "308.204"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106850276",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "80",
+        "100",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "649.274",
+        "779.377",
+        "826.127",
+        "790.665"
+      ],
+      "Taban Puan": [
+        "318.526",
+        "308.473",
+        "304.851",
+        "300.935"
+      ],
+      "Şehir": "KİLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106150592",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "653.520",
+        "780.769",
+        "783.083",
+        "729.078"
+      ],
+      "Taban Puan": [
+        "318.093",
+        "308.358",
+        "308.672",
+        "306.820"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109090046",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "662.125",
+        "796.819",
+        "891.866",
+        "814.876"
+      ],
+      "Taban Puan": [
+        "317.218",
+        "306.984",
+        "299.221",
+        "298.688"
+      ],
+      "Şehir": "SİİRT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102050445",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "662.664",
+        "792.206",
+        "855.254",
+        "784.144"
+      ],
+      "Taban Puan": [
+        "317.164",
+        "307.377",
+        "302.302",
+        "301.545"
+      ],
+      "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208150364",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "663.812",
+        "679.773",
+        "683.921",
+        "684.956"
+      ],
+      "Taban Puan": [
+        "317.048",
+        "317.524",
+        "318.169",
+        "311.328"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202650526",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "667.759",
+        "637.789",
+        "704.244",
+        "687.178"
+      ],
+      "Taban Puan": [
+        "316.653",
+        "321.663",
+        "316.139",
+        "311.098"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104750565",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "Gümüşhane Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "675.797",
+        "799.371",
+        "878.815",
+        "817.942"
+      ],
+      "Taban Puan": [
+        "315.853",
+        "306.762",
+        "300.309",
+        "298.416"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101370269",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "678.250",
+        "768.165",
+        "862.127",
+        "821.694"
+      ],
+      "Taban Puan": [
+        "315.610",
+        "309.445",
+        "301.717",
+        "298.072"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105150532",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "Sungurlu Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "683.556",
+        "798.114",
+        "878.098",
+        "817.067"
+      ],
+      "Taban Puan": [
+        "315.089",
+        "306.876",
+        "300.369",
+        "298.491"
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390084",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Reşadiye Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "684.430",
+        "789.331",
+        "863.280",
+        "806.653"
+      ],
+      "Taban Puan": [
+        "315.007",
+        "307.618",
+        "301.619",
+        "299.451"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209910060",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu) (Bursa Yerleşkesi)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "685.479",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "314.906",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106490142",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "Çatalzeytin Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "687.089",
+        "781.563",
+        "862.502",
+        "772.105"
+      ],
+      "Taban Puan": [
+        "314.748",
+        "308.286",
+        "301.684",
+        "302.680"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105290090",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "714.397",
+        "846.097",
+        "923.093",
+        "868.936"
+      ],
+      "Taban Puan": [
+        "312.123",
+        "302.906",
+        "296.678",
+        "293.891"
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300150784",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "6",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "714.444",
+        "855.771",
+        "880.476",
+        "945.714"
+      ],
+      "Taban Puan": [
+        "312.118",
+        "302.116",
+        "300.171",
+        "287.468"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104790145",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "Şiran Dursun Keleş Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "720.930",
+        "861.474",
+        "962.503",
+        "875.603"
+      ],
+      "Taban Puan": [
+        "311.513",
+        "301.656",
+        "293.514",
+        "293.308"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300750115",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "808.914",
+        "1.056.796",
+        "985.012",
+        "1.338.588"
+      ],
+      "Taban Puan": [
+        "303.599",
+        "287.199",
+        "291.764",
+        "260.047"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204050174",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "17",
+        "17",
+        "16",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "900.034",
+        "755.554",
+        "869.986",
+        "778.852"
+      ],
+      "Taban Puan": [
+        "296.003",
+        "310.532",
+        "301.057",
+        "302.035"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206410619",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "51",
+        "51",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "991.417",
+        "1.122.674",
+        "1.093.390",
+        "1.175.696"
+      ],
+      "Taban Puan": [
+        "288.822",
+        "282.694",
+        "283.665",
+        "270.504"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "302000108",
+      "Üniversite": "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.000.274",
+        "1.087.773",
+        "",
+        "1.168.867"
+      ],
+      "Taban Puan": [
+        "288.144",
+        "285.056",
+        "",
+        "270.967"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200390326",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.004.380",
+        "1.927.652",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "287.835",
+        "234.571",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300551203",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "16",
+        "20",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.033.895",
+        "1.091.171",
+        "1.155.892",
+        "1.380.898"
+      ],
+      "Taban Puan": [
+        "285.615",
+        "284.829",
+        "279.197",
+        "257.509"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210000136",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "40",
+        "30",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.043.445",
+        "970.320",
+        "943.873",
+        "734.640"
+      ],
+      "Taban Puan": [
+        "284.905",
+        "293.381",
+        "294.999",
+        "306.269"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207950300",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.044.011",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "284.865",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300350419",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.113.615",
+        "1.244.148",
+        "1.304.285",
+        "1.415.293"
+      ],
+      "Taban Puan": [
+        "279.750",
+        "274.704",
+        "269.104",
+        "255.501"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300950079",
+      "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.215.722",
+        "1.313.399",
+        "1.399.029",
+        "1.589.213"
+      ],
+      "Taban Puan": [
+        "272.470",
+        "270.315",
+        "263.013",
+        "245.919"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200190059",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "37",
+        "31",
+        "31",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.241.673",
+        "1.411.973",
+        "1.362.016",
+        "1.195.139"
+      ],
+      "Taban Puan": [
+        "270.664",
+        "264.224",
+        "265.368",
+        "269.202"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209010050",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "42",
         "42"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "241,723",
-        "245,637"
+        "1.299.821",
+        "1.545.127",
+        "1.496.844",
+        "1.899.212"
       ],
       "Taban Puan": [
-        "307.632",
-        "5.563"
+        "266.626",
+        "256.262",
+        "256.972",
+        "230.962"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206410641",
-      "Üniversite": "Antalya Bilim Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "209610013",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+17+0+1+0+17+0+1+0+16+030+0"
+        "51",
+        "51",
+        "51",
+        "47"
       ],
       "Yerleşen": [
-        "8",
-        "7+0+0+0+1",
-        "8630"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "244,338",
-        "237,042",
-        "223,414",
-        "279,693"
+        "1.307.213",
+        "1.167.987",
+        "1.151.698",
+        "1.025.575"
       ],
       "Taban Puan": [
-        "306.662",
-        "328.837",
-        "326.389",
-        "253.541"
+        "266.120",
+        "279.655",
+        "279.492",
+        "281.236"
       ],
-      "Şehir": "Antalya",
-      "Ücret": "Burslu"
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209010030",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "210100122",
+      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+15+08+0"
+        "32",
+        "34",
+        "34",
+        ""
       ],
       "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "558"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "244,493",
-        "260,842",
-        "200,022",
-        "220,703"
+        "1.452.179",
+        "1.372.056",
+        "1.576.671",
+        "1.556.851"
       ],
       "Taban Puan": [
-        "306.611",
-        "320.116",
-        "337.294",
-        "273.637"
+        "256.162",
+        "266.669",
+        "252.220",
+        "247.614"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209610022",
-      "Üniversite": "İzmir Tınaztepe Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "203550966",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+18+0+1+0+16+0+1+0+16+030+0"
+        "37",
+        "37",
+        "37",
+        "37"
       ],
       "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "7630"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "246,165",
-        "223,193",
-        "213,726",
-        "276,598"
+        "1.478.984",
+        "1.360.211",
+        "1.080.205",
+        "1.339.590"
       ],
       "Taban Puan": [
-        "306.029",
-        "334.357",
-        "330.767",
-        "254.477"
+        "254.354",
+        "267.424",
+        "284.613",
+        "259.987"
       ],
-      "Şehir": "İzmir",
-      "Ücret": "Burslu"
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "108290376",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "209210026",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "36+1+0+1+045+2+0+2+040+1+0+1+040+1-"
-      ],
-      "Yerleşen": [
         "49",
-        "45+2+0+2+0",
-        "4241"
+        "",
+        "49",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "246,282",
-        "228,771",
-        "236,493"
+        "1.506.593",
+        "",
+        "",
+        "836.126"
       ],
       "Taban Puan": [
-        "305.994",
-        "332.103",
-        "320.843"
+        "252.479",
+        "",
+        "",
+        "296.748"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200290183",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "37",
+        "37",
+        "37",
+        "33"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.597.122",
+        "1.144.418",
+        "1.225.983",
+        "1.109.897"
+      ],
+      "Taban Puan": [
+        "246.300",
+        "281.237",
+        "274.328",
+        "275.059"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206850742",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "65",
+        "65",
+        "64",
+        "64"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.629.178",
+        "1.636.400",
+        "1.843.735",
+        "1.796.085"
+      ],
+      "Taban Puan": [
+        "244.113",
+        "250.936",
+        "237.150",
+        "235.665"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204610443",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "22",
+        "36",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.632.252",
+        "1.176.043",
+        "1.284.218",
+        "1.231.896"
+      ],
+      "Taban Puan": [
+        "243.907",
+        "279.121",
+        "270.436",
+        "266.780"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "204050147",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "47",
+        "48",
+        "47"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.679.416",
+        "1.381.584",
+        "1.268.482",
+        "1.258.514"
+      ],
+      "Taban Puan": [
+        "240.694",
+        "266.093",
+        "271.469",
+        "265.049"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205053826",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "66",
+        "66",
+        "66",
+        "58"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.701.926",
+        "2.635.738",
+        "2.415.650",
+        "2.033.086"
+      ],
+      "Taban Puan": [
+        "239.166",
+        "192.578",
+        "208.147",
+        "225.214"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207590149",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "14",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.730.204",
+        "2.142.555",
+        "1.721.783",
+        "1.320.170"
+      ],
+      "Taban Puan": [
+        "237.234",
+        "222.940",
+        "243.859",
+        "261.174"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205850640",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.738.692",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "236.650",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "207650898",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.784.532",
+        "1.818.589",
+        "2.727.414",
+        "1.211.263"
+      ],
+      "Taban Puan": [
+        "233.502",
+        "240.606",
+        "191.104",
+        "268.135"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207950293",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.837.934",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "229.796",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300351108",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.943.001",
+        "2.119.360",
+        "1.981.464",
+        "2.606.920"
+      ],
+      "Taban Puan": [
+        "222.247",
+        "224.190",
+        "229.829",
+        "201.528"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201290376",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "59",
+        "51",
+        "27"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.982.621",
+        "2.052.931",
+        "2.226.645",
+        "1.595.912"
+      ],
+      "Taban Puan": [
+        "219.326",
+        "227.777",
+        "217.431",
+        "245.559"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204610457",
+      "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "20",
+        "5",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.010.931",
+        "1.546.090",
+        "1.298.375",
+        ""
+      ],
+      "Taban Puan": [
+        "217.177",
+        "256.204",
+        "269.491",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200650462",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Adana Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "6",
+        "5",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.073.041",
+        "1.763.243",
+        "1.554.971",
+        "623.230"
+      ],
+      "Taban Puan": [
+        "212.244",
+        "243.706",
+        "253.501",
+        "318.059"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206850724",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.079.939",
+        "2.084.653",
+        "2.283.497",
+        "1.639.520"
+      ],
+      "Taban Puan": [
+        "211.684",
+        "226.068",
+        "214.638",
+        "243.325"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205590099",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "56",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.111.140",
+        "2.239.867",
+        "",
+        "1.364.762"
+      ],
+      "Taban Puan": [
+        "209.048",
+        "217.637",
+        "",
+        "258.469"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300150793",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "11",
+        "7",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.129.673",
+        "2.723.701",
+        "1.709.989",
+        "2.139.879"
+      ],
+      "Taban Puan": [
+        "207.411",
+        "180.999",
+        "244.518",
+        "220.791"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200650717",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "7",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.159.820",
+        "1.806.190",
+        "1.558.910",
+        "1.175.398"
+      ],
+      "Taban Puan": [
+        "204.574",
+        "241.296",
+        "253.269",
+        "270.523"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202390353",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "16",
+        "36",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.199.537",
+        "2.754.879",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "200.418",
+        "156.714",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208910077",
+      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
+      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.201.974",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "200.146",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "107390148",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.256.502",
+        "902.100",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "192.650",
+        "298.500",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209410015",
-      "Üniversite": "İstanbul Sağlık Ve Teknoloji Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "209810021",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+1+0+14+0+1+0+14+0+1+0+13+040+0"
+        "1",
+        "13",
+        "10",
+        "9"
       ],
       "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "5340"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "248,221",
-        "263,479",
-        "220,642",
-        "273,865"
+        "2.265.789",
+        "",
+        "2.482.426",
+        "2.681.272"
       ],
       "Taban Puan": [
-        "305.347",
-        "319.208",
-        "327.639",
-        "255.306"
+        "190.921",
+        "",
+        "204.814",
+        "197.866"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "206511135",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "200390497",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+110+0+2+0+110+0+2+0+111+012+0"
+        "15",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "11",
-        "10+0+0+0+1",
-        "111112"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "250,175",
-        "250,055",
-        "198,735",
-        "196,358"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "304.683",
-        "323.957",
-        "337.912",
-        "83.847"
+        "",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "210302019",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "200551416",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+15+011+0"
+        "34",
+        "35",
+        "35",
+        "48"
       ],
       "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "5511"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "251,205",
-        "255,608",
-        "205,598",
-        "231,627"
+        "",
+        "1.846.220",
+        "1.809.493",
+        "1.355.117"
       ],
       "Taban Puan": [
-        "304.334",
-        "321.932",
-        "334.586",
-        "269.373"
+        "",
+        "239.063",
+        "239.011",
+        "259.051"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "205590070",
-      "Üniversite": "Toros Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "202551376",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+17+0+1+0+16+0+1+0+16+030+0"
+        "52",
+        "53",
+        "55",
+        "47"
       ],
       "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.522.045",
+        "2.641.229",
+        "1.767.076"
+      ],
+      "Taban Puan": [
+        "",
+        "201.163",
+        "196.449",
+        "237.030"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202751762",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "68",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.439.403",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "206.351",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202790886",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210400234",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "71",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.743.934",
+        "1.437.233",
+        "1.276.971"
+      ],
+      "Taban Puan": [
+        "",
+        "244.792",
+        "260.616",
+        "263.867"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209310023",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "54",
+        "54",
+        "54",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.184.018",
+        "2.205.677",
+        "1.748.555"
+      ],
+      "Taban Puan": [
+        "",
+        "220.687",
+        "218.460",
+        "237.930"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203851820",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.294.651",
+        "2.017.413",
+        "2.228.439"
+      ],
+      "Taban Puan": [
+        "",
+        "214.630",
+        "227.967",
+        "217.225"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "209010100",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "42",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.451.585",
+        "2.283.393",
+        "2.705.153"
+      ],
+      "Taban Puan": [
+        "",
+        "205.611",
+        "214.643",
+        "196.590"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210300493",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "68",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.583.851",
+        "2.370.453",
+        "2.159.046"
+      ],
+      "Taban Puan": [
+        "",
+        "196.813",
+        "210.364",
+        "220.023"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208450237",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "1.770.809",
+        "1.609.906"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "241.122",
+        "244.841"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202090431",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202090438",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202390360",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "53",
+        "52",
+        "40",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.727.048",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "180.179",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "207590156",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
         "9",
-        "7+0+1+0+1",
-        "7630"
+        "9",
+        "11",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "252,510",
-        "231,772",
-        "255,805",
-        "300,118"
+        "",
+        "2.613.917",
+        "2.503.406",
+        ""
       ],
       "Taban Puan": [
-        "303.914",
-        "330.898",
-        "313.153",
-        "247.815"
+        "",
+        "194.452",
+        "203.778",
+        ""
       ],
-      "Şehir": "Mersin",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "204790568",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "209810023",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "F",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+1+0+14+0+1+0+13+0+1+0+13+06+0"
+        "46",
+        "34",
+        "37",
+        "33"
       ],
       "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "336"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "253,521",
-        "274,012",
-        "201,998",
-        "246,768"
+        "",
+        "",
+        "2.220.922",
+        "1.774.312"
       ],
       "Taban Puan": [
-        "303.595",
-        "315.692",
-        "336.342",
-        "263.972"
+        "",
+        "",
+        "217.714",
+        "236.690"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203150643",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "888.919"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "292.169"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203152057",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "",
+        "67",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.314.827"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "261.507"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "302000115",
+      "Üniversite": "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.563.391",
+        "",
+        "2.742.889"
+      ],
+      "Taban Puan": [
+        "",
+        "198.330",
+        "",
+        "194.384"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202650605",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "43",
+        "43",
+        "39",
+        "39"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.866.449",
+        "1.745.702",
+        "1.865.054"
+      ],
+      "Taban Puan": [
+        "",
+        "237.948",
+        "242.516",
+        "232.486"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202455236",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "58",
+        "57",
+        "49"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.489.613",
+        "2.735.060",
+        "2.205.435"
+      ],
+      "Taban Puan": [
+        "",
+        "203.252",
+        "190.565",
+        "218.155"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201990664",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "7",
+        "14",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201950686",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "46",
+        "39",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "208750067",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "66",
+        "67"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.985.836",
+        "2.019.445",
+        "1.996.486"
+      ],
+      "Taban Puan": [
+        "",
+        "231.411",
+        "227.862",
+        "226.752"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203151323",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "",
+        "68",
+        "68"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "986.046"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "284.266"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "102690350",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizyoterapi (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "436.550",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "346.251",
+        "",
+        ""
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202950877",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209710080",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "51",
+        "38",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.185.002",
+        "1.888.295",
+        "1.919.884"
+      ],
+      "Taban Puan": [
+        "",
+        "220.637",
+        "234.754",
+        "230.045"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "205850057",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "31",
+        "43",
+        "42",
+        "38"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.180.451",
+        "2.074.596",
+        "1.636.095"
+      ],
+      "Taban Puan": [
+        "",
+        "220.886",
+        "225.029",
+        "243.502"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209210285",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200651496",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Adana Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "36",
+        "42",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.391.803",
+        "1.463.596",
+        "1.042.725"
+      ],
+      "Taban Puan": [
+        "",
+        "265.467",
+        "259.007",
+        "279.951"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206550463",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "21",
+        "13"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.728.211",
+        "2.003.867",
+        "1.828.458"
+      ],
+      "Taban Puan": [
+        "",
+        "179.873",
+        "228.664",
+        "234.165"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206550506",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "43",
+        "37",
+        "40",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.765.393",
+        "1.788.103",
+        "1.493.643"
+      ],
+      "Taban Puan": [
+        "",
+        "243.585",
+        "240.178",
+        "251.044"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "300150775",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "19",
+        "19",
+        "22",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.211.288",
+        "2.297.604",
+        "2.189.894"
+      ],
+      "Taban Puan": [
+        "",
+        "219.204",
+        "213.955",
+        "218.786"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300750124",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "21",
+        "21",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.561.086",
+        "2.627.574",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "198.496",
+        "197.218",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300950088",
+      "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300990062",
+      "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.442.388",
+        "2.667.645",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "206.170",
+        "194.901",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300551212",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "34",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.548.777",
+        "2.729.569",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "199.368",
+        "190.948",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200650832",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "39",
+        "49",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.720.379",
+        "1.927.552",
+        "1.299.983"
+      ],
+      "Taban Puan": [
+        "",
+        "246.137",
+        "232.670",
+        "262.425"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "208150355",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "2.616.789",
+        "2.457.567"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "197.819",
+        "208.004"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208150373",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "58",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209910019",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "42",
+        "46",
+        "51"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.369.605",
+        "1.681.196",
+        "1.608.780"
+      ],
+      "Taban Puan": [
+        "",
+        "266.831",
+        "246.151",
+        "244.902"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209910067",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Fizyoterapi (%50 İndirimli) (Bursa Yerleşkesi)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

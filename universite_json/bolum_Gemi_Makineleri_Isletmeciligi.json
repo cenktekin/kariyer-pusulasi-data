@@ -1,361 +1,484 @@
 {
   "yks": [
     {
-      "Program Kodu": "204950404",
-      "Üniversite": "Piri Reis Üniversitesi",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "12+0+2+0+112+0+2+0+112+0+2+0+1--"
-      ],
-      "Yerleşen": [
-        "12+0+0+0+1",
-        "13"
-      ],
-      "Taban Sıralama": [
-        "253,133"
-      ],
-      "Taban Puan": [
-        "381.935"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "104070084",
-      "Üniversite": "Galatasaray Üniversitesi",
+      "Üniversite": "GALATASARAY ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+025+1+0+1+0---"
+        "25",
+        "25",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "25+1+0+1+0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "265,344"
+        "211.047",
+        "265.344",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "378.875"
+        "387.341",
+        "378.875",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204950405",
-      "Üniversite": "Piri Reis Üniversitesi",
+      "Program Kodu": "204950404",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "48+0+0+0+048+0+0+0+053+0+0+0+0--"
+        "12",
+        "12",
+        "12",
+        "13"
       ],
       "Yerleşen": [
-        "48+0+0+0+0",
-        "Doldu-53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "726,780",
-        "667,673"
+        "222.946",
+        "253.133",
+        "267.284",
+        "287.662"
       ],
       "Taban Puan": [
-        "313.131",
-        "319.841"
+        "384.270",
+        "381.935",
+        "379.721",
+        "371.693"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "106990848",
-      "Üniversite": "Kocaeli Üniversitesi",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
       "Fakülte": "Karamürsel Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+0----"
+        "35",
+        "70",
+        "",
+        ""
       ],
-      "Yerleşen": [],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "727,417"
+        "457.304",
+        "727.417",
+        "733.723",
+        "681.859"
       ],
       "Taban Puan": [
-        "313.074"
+        "341.283",
+        "313.074",
+        "313.299",
+        "311.660"
       ],
-      "Şehir": "Kocaeli",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106290230",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "Sürmene Abdullah Kanca Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+0+045+2+0+0+045+2+0+2+0--"
+        "35",
+        "45",
+        "45",
+        "45"
       ],
       "Yerleşen": [
-        "45+2+0+0+0",
-        "47"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "771,565"
+        "538.903",
+        "772.304",
+        "857.439",
+        "867.412"
       ],
       "Taban Puan": [
-        "309.157"
+        "330.753",
+        "309.090",
+        "302.113",
+        "294.025"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107490297",
-      "Üniversite": "Mersin Üniversitesi",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+045+2+0+2+045+2+0+2+0--"
+        "35",
+        "45",
+        "45",
+        "45"
       ],
       "Yerleşen": [
-        "46+1+0+0+0",
-        "47"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "772,484"
+        "554.024",
+        "772.484",
+        "757.706",
+        "784.854"
       ],
       "Taban Puan": [
-        "309.074"
+        "328.970",
+        "309.074",
+        "311.022",
+        "301.483"
       ],
-      "Şehir": "Mersin",
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204950405",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gemi Makineleri İşletmeciliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "48",
+        "48",
+        "53",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "594.728",
+        "726.780",
+        "667.673",
+        "705.222"
+      ],
+      "Taban Puan": [
+        "324.340",
+        "313.131",
+        "319.841",
+        "309.225"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "108390131",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "Fatsa Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "599.480",
+        "918.712",
+        "991.615",
+        "980.608"
+      ],
+      "Taban Puan": [
+        "323.819",
+        "297.243",
+        "291.260",
+        "284.695"
+      ],
+      "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111890371",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Denizcilik Meslek Yüksekokulu (Kocaali)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "652.660",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "318.184",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "300790044",
-      "Üniversite": "Girne ÜniversitesiKKTCDenizcilik Meslek Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gemi Makineleri İşletmeciliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+05+0+0+0+07+0+0+0+0--"
+        "5",
+        "5",
+        "7",
+        "7"
       ],
       "Yerleşen": [
-        "5+0+0+0+0",
-        "Doldu-7"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "909,063",
-        "1,019"
+        "660.967",
+        "909.063",
+        "1.019.732",
+        "1.085.390"
       ],
       "Taban Puan": [
+        "317.333",
         "297.963",
-        "289.117"
+        "289.117",
+        "276.824"
       ],
-      "Şehir": "Karakum",
+      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "108390131",
-      "Üniversite": "Ordu Üniversitesi",
-      "Fakülte": "Fatsa Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+1+0",
-        "52"
-      ],
-      "Taban Sıralama": [
-        "918,712"
-      ],
-      "Taban Puan": [
-        "297.243"
-      ],
-      "Şehir": "Ordu",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "110390158",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
       "Fakülte": "Alaplı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+045+2+0+2+045+2+0+2+0--"
+        "30",
+        "45",
+        "45",
+        "45"
       ],
       "Yerleşen": [
-        "45+2+0+1+0",
-        "47"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "975,547"
+        "686.312",
+        "976.643",
+        "1.049.805",
+        "1.014.885"
       ],
       "Taban Puan": [
-        "292.998"
+        "314.825",
+        "292.920",
+        "286.851",
+        "282.044"
       ],
-      "Şehir": "Zonguldak",
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "204950403",
-      "Üniversite": "Piri Reis Üniversitesi",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Denizcilik Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Gemi Makineleri İşletmeciliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "33+0+0+0+033+0+0+0+028+0+0+0+0--"
+        "33",
+        "33",
+        "28",
+        "23"
       ],
       "Yerleşen": [
-        "33+0+0+0+0",
-        "Doldu-28"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,215",
-        "731,243"
+        "1.217.402",
+        "1.215.873",
+        "1.243.200",
+        "1.186.596"
       ],
       "Taban Puan": [
+        "272.356",
         "276.544",
-        "273.167"
+        "273.167",
+        "269.774"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300790045",
-      "Üniversite": "Girne ÜniversitesiKKTCDenizcilik Meslek Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gemi Makineleri İşletmeciliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "27+0+0+0+027+0+0+0+020+0+0+0+0--"
+        "27",
+        "27",
+        "20",
+        "20"
       ],
       "Yerleşen": [
-        "27+0+0+0+0",
-        "Doldu-20"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,034",
-        "382,302"
+        "",
+        "2.117.673",
+        "2.302.400",
+        ""
       ],
       "Taban Puan": [
-        "228.779",
-        "213.721"
+        "",
+        "224.282",
+        "213.721",
+        ""
       ],
-      "Şehir": "Karakum",
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "111890371",
-      "Üniversite": "Sakarya Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu (Kocaali)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "G",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Sakarya",
-      "Ücret": "Ücretsiz"
     }
   ]
 }

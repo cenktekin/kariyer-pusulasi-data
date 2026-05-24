@@ -2,62 +2,82 @@
   "yks": [
     {
       "Program Kodu": "105611623",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ukrayna Dili ve Edebiyatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+025+1+0+1+025+125+1"
+        "30",
+        "30",
+        "25",
+        "25"
       ],
       "Yerleşen": [
-        "31",
-        "31+0+0+0+0",
-        "262626"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "41,647",
-        "40,187",
-        "40,453",
-        "29,502"
+        "34.997",
+        "41.647",
+        "40.187",
+        "40.453"
       ],
       "Taban Puan": [
+        "368.081",
         "361.083",
         "372.196",
-        "354.799",
-        "343.525"
+        "354.799"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101190822",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Dil Ve Tarih Coğrafya Fakültesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "Dil ve Tarih Coğrafya Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ukrayna Dili ve Edebiyatı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+0+0----"
+        "20",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Ankara",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "45.924",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "343.929",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     }
   ]

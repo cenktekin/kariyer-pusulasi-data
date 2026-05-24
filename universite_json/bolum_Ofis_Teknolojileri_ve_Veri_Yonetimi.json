@@ -1,464 +1,804 @@
 {
   "yks": [
     {
-      "Program Kodu": "105990333",
-      "Üniversite": "Kafkas Üniversitesi",
+      "Program Kodu": "100790616",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
       "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+1+0+1+0----"
+        "35",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kars",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107190193",
-      "Üniversite": "Mardin Artuklu Üniversitesi",
-      "Fakülte": "Ömerli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
       ],
-      "Kontenjan": [
-        "40+1+0+1+0----"
+      "Taban Sıralama": [
+        "792.267",
+        "",
+        "1.202.483",
+        "1.178.201"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Mardin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101490957",
-      "Üniversite": "Atatürk Üniversitesi",
-      "Fakülte": "Aşkale Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
+      "Taban Puan": [
+        "305.043",
+        "",
+        "275.941",
+        "270.331"
       ],
-      "Kontenjan": [
-        "30+1+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzurum",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101490922",
-      "Üniversite": "Atatürk Üniversitesi",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Erzurum",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102190197",
-      "Üniversite": "Bitlis Eren Üniversitesi",
-      "Fakülte": "Ahlat Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Bitlis",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390427",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Tefenni Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102990485",
-      "Üniversite": "Çukurova Üniversitesi",
-      "Fakülte": "Kozan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+0+4----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107790423",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Antakya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+2----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107790444",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Kırıkhan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+2----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112270957",
-      "Üniversite": "Kahramanmaraş İstiklal Üniversitesi",
-      "Fakülte": "Elbistan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+3----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kahramanmaraş",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112370945",
-      "Üniversite": "Kayseri Üniversitesi",
-      "Fakülte": "Develi Hüseyin Şahin Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Kayseri",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107490506",
-      "Üniversite": "Mersin Üniversitesi",
-      "Fakülte": "Anamur Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Mersin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107490520",
-      "Üniversite": "Mersin Üniversitesi",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Mersin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109490391",
-      "Üniversite": "Trakya Üniversitesi",
-      "Fakülte": "Edirne Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Edirne",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109490440",
-      "Üniversite": "Trakya Üniversitesi",
-      "Fakülte": "Uzunköprü Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Edirne",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110390314",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
-      "Fakülte": "Çaycuma Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Zonguldak",
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "201490486",
-      "Üniversite": "Fatih Sultan Mehmet",
-      "Fakülte": "ÜniversitesiVakıfMeslek Yüksekokulu",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+1----"
+        "5",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "842.236",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "300.759",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201490493",
-      "Üniversite": "Fatih Sultan Mehmet",
-      "Fakülte": "ÜniversitesiVakıfMeslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "34+0+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "100790616",
-      "Üniversite": "Akdeniz Üniversitesi",
+      "Program Kodu": "107490520",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
       "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+0----"
+        "35",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Antalya",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "918.916",
+        "",
+        "1.250.444",
+        "1.285.503"
+      ],
+      "Taban Puan": [
+        "294.496",
+        "",
+        "272.683",
+        "263.330"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490922",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.195.847",
+        "",
+        "1.374.667",
+        "1.432.353"
+      ],
+      "Taban Puan": [
+        "273.862",
+        "",
+        "264.563",
+        "254.516"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109490391",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Edirne Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.260.208",
+        "",
+        "1.629.180",
+        "1.555.767"
+      ],
+      "Taban Puan": [
+        "269.370",
+        "",
+        "249.146",
+        "247.673"
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100890125",
-      "Üniversite": "Aksaray Üniversitesi",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
       "Fakülte": "Aksaray Sosyal Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "O",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "35+1+0+1+0----"
+        "35",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aksaray",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.360.708",
+        "",
+        "1.692.772",
+        "1.815.775"
+      ],
+      "Taban Puan": [
+        "262.423",
+        "",
+        "245.500",
+        "234.752"
+      ],
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370945",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "Develi Hüseyin Şahin Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.392.182",
+        "",
+        "1.557.637",
+        "1.737.816"
+      ],
+      "Taban Puan": [
+        "260.278",
+        "",
+        "253.347",
+        "238.439"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790423",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Antakya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.405.578",
+        "",
+        "1.449.942",
+        "1.570.029"
+      ],
+      "Taban Puan": [
+        "259.363",
+        "",
+        "259.843",
+        "246.919"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102990485",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Kozan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.467.425",
+        "",
+        "1.648.234",
+        "1.854.499"
+      ],
+      "Taban Puan": [
+        "255.139",
+        "",
+        "248.040",
+        "232.968"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107490506",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Anamur Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.490.233",
+        "",
+        "1.713.875",
+        "1.853.636"
+      ],
+      "Taban Puan": [
+        "253.591",
+        "",
+        "244.297",
+        "233.007"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110390314",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Çaycuma Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.534.348",
+        "",
+        "1.865.128",
+        "2.006.771"
+      ],
+      "Taban Puan": [
+        "250.564",
+        "",
+        "235.999",
+        "226.315"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107190193",
+      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "Fakülte": "Ömerli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.632.726",
+        "",
+        "1.688.747",
+        "1.864.092"
+      ],
+      "Taban Puan": [
+        "243.875",
+        "",
+        "245.728",
+        "232.530"
+      ],
+      "Şehir": "MARDİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790444",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Kırıkhan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.701.634",
+        "",
+        "1.833.688",
+        "1.944.859"
+      ],
+      "Taban Puan": [
+        "239.186",
+        "",
+        "237.694",
+        "228.959"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109490440",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Uzunköprü Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.732.481",
+        "",
+        "2.016.231",
+        "2.162.104"
+      ],
+      "Taban Puan": [
+        "237.080",
+        "",
+        "228.029",
+        "219.902"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105990333",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.756.053",
+        "",
+        "1.830.551",
+        "1.898.761"
+      ],
+      "Taban Puan": [
+        "235.458",
+        "",
+        "237.868",
+        "230.981"
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490957",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Aşkale Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.787.742",
+        "",
+        "1.703.208",
+        "1.817.621"
+      ],
+      "Taban Puan": [
+        "233.280",
+        "",
+        "244.904",
+        "234.669"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112270957",
+      "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+      "Fakülte": "Elbistan Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.798.823",
+        "",
+        "1.949.632",
+        "1.889.552"
+      ],
+      "Taban Puan": [
+        "232.506",
+        "",
+        "231.507",
+        "231.391"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390427",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Tefenni Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.799.726",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "232.442",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102190197",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "Ahlat Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.807.925",
+        "",
+        "1.825.263",
+        "1.988.094"
+      ],
+      "Taban Puan": [
+        "231.870",
+        "",
+        "238.157",
+        "227.108"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201490493",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ofis Teknolojileri ve Veri Yönetimi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

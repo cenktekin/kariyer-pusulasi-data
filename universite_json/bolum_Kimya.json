@@ -1,1839 +1,3123 @@
 {
   "yks": [
     {
-      "Program Kodu": "203910451",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+14+0+1+0+14+0+1+0+18+06+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "686"
-      ],
-      "Taban Sıralama": [
-        "2,140",
-        "1,259",
-        "2,098",
-        "2,088"
-      ],
-      "Taban Puan": [
-        "530.856",
-        "541.335",
-        "34.349",
-        "2.391"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "203910099",
-      "Üniversite": "Koç Üniversitesi",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+0+0+16+0+0+0+16+0+0+0+16+08+0"
+        "8",
+        "6",
+        "6",
+        "6"
       ],
       "Yerleşen": [
-        "7",
-        "6+0+0+0+1",
-        "768"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,544",
-        "2,218",
-        "3,406",
-        "7,975"
+        "5.442",
+        "2.544",
+        "2.218",
+        "3.406"
       ],
       "Taban Puan": [
-        "528.555",
-        "36.669",
-        "528.914",
-        "461.415"
+        "515.290",
+        "528.550",
+        "536.669",
+        "528.914"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102210311",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+0+070+270+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "627272"
-      ],
-      "Taban Sıralama": [
-        "6,399",
-        "6,071",
-        "6,490",
-        "7,598"
-      ],
-      "Taban Puan": [
-        "512.078",
-        "524.413",
-        "520.449",
-        "462.697"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108410415",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+0+060+2+0+0+080+2+0+0+090+3100+3"
-      ],
-      "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "8293103"
-      ],
-      "Taban Sıralama": [
-        "9,610",
-        "11,921",
-        "18,184",
-        "25,494"
-      ],
-      "Taban Puan": [
-        "502.375",
-        "511.551",
-        "499.062",
-        "424.55"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105510362",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+0+080+280+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "528282"
-      ],
-      "Taban Sıralama": [
-        "13,547",
-        "17,442",
-        "26,082",
-        "32,927"
-      ],
-      "Taban Puan": [
-        "492.443",
-        "501.963",
-        "487.509",
-        "413.551"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102270119",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Fen FaküLtesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "22,037"
-      ],
-      "Taban Puan": [
-        "475.652"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110110491",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+0+070+270+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "727272"
-      ],
-      "Taban Sıralama": [
-        "23,360",
-        "29,203",
-        "38,518",
-        "46,546"
-      ],
-      "Taban Puan": [
-        "473.327",
-        "484.454",
-        "471.422",
-        "396.433"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202110083",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "19+0+1+0+119+0+1+0+119+0+1+0+120+020+0"
+        "19",
+        "19",
+        "19",
+        "20"
       ],
       "Yerleşen": [
-        "21",
-        "19+0+1+0+1",
-        "212020"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "23,914",
-        "22,017",
-        "31,418",
-        "43,181"
+        "24.378",
+        "23.914",
+        "22.017",
+        "31.418"
       ],
       "Taban Puan": [
+        "476.892",
         "472.398",
         "494.788",
-        "480.444",
-        "00.4"
+        "480.440"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102270119",
+      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "26.634",
+        "22.037",
+        "",
+        "20.624"
+      ],
+      "Taban Puan": [
+        "473.789",
+        "475.652",
+        "",
+        "495.235"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108410142",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+2+080+280+2"
+        "50",
+        "50",
+        "50",
+        "80"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "528282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "26,383",
-        "32,681",
-        "44,394",
-        "51,676"
+        "29.371",
+        "26.383",
+        "32.681",
+        "44.394"
       ],
       "Taban Puan": [
-        "468.134",
-        "79.896",
-        "464.309",
-        "390.228"
+        "470.054",
+        "468.130",
+        "479.896",
+        "464.309"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203910469",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+0+0+06+0+0+0+06+0+0+0+022+030+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "6+0+0+0+0",
-        "62230"
-      ],
-      "Taban Sıralama": [
-        "27,337",
-        "19,555",
-        "36,961",
-        "49,414"
-      ],
-      "Taban Puan": [
-        "466.608",
-        "498.532",
-        "473.383",
-        "92.932"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203910106",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+0+0+03+0+0+0+03+0+0+0+03+02+0"
-      ],
-      "Yerleşen": [
-        "3",
-        "3+0+0+0+0",
-        "332"
-      ],
-      "Taban Sıralama": [
-        "28,506",
-        "32,152",
-        "53,639",
-        "47,878"
-      ],
-      "Taban Puan": [
-        "464.792",
-        "480.594",
-        "53.365",
-        "394.806"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "110110191",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+080+2+0+0+080+280+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "828282"
-      ],
-      "Taban Sıralama": [
-        "31,383",
-        "41,104",
-        "49,462",
-        "56,591"
-      ],
-      "Taban Puan": [
-        "460.405",
-        "469.354",
-        "458.241",
-        "384.721"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206110671",
-      "Üniversite": "Yeditepe Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "7+0+1+0+17+0+1+0+16+0+1+0+16+06+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "7+0+1+0+1",
-        "866"
-      ],
-      "Taban Sıralama": [
-        "33,050",
-        "35,628",
-        "33,217",
-        "44,320"
-      ],
-      "Taban Puan": [
-        "457.947",
-        "476.141",
-        "478.098",
-        "399.05"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104810574",
-      "Üniversite": "Hacettepe Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+0+080+280+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "728282"
-      ],
-      "Taban Sıralama": [
-        "35,349",
-        "40,836",
-        "50,290",
-        "57,675"
-      ],
-      "Taban Puan": [
-        "454.532",
-        "469.657",
-        "457.267",
-        "383.554"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105810086",
-      "Üniversite": "İzmir Yüksek Teknoloji Enstitüsü",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+045+2+0+0+040+1+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "416262"
-      ],
-      "Taban Sıralama": [
-        "40,710",
-        "45,791",
-        "56,619",
-        "63,100"
-      ],
-      "Taban Puan": [
-        "447.094",
-        "463.994",
-        "449.968",
-        "377.733"
-      ],
-      "Şehir": "İzmir",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105510159",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+2+070+270+2"
+        "60",
+        "60",
+        "60",
+        "70"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "627272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "47,732",
-        "48,592",
-        "56,164",
-        "65,133"
+        "45.213",
+        "47.732",
+        "48.592",
+        "56.164"
       ],
       "Taban Puan": [
-        "437.944",
-        "60.805",
-        "450.483",
-        "75.577"
+        "451.035",
+        "437.940",
+        "460.805",
+        "450.480"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104112065",
-      "Üniversite": "Gazi Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "55,434",
-        "58,387",
-        "70,910",
-        "81,836"
-      ],
-      "Taban Puan": [
-        "428.658",
-        "449.814",
-        "34.167",
-        "359.065"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103410396",
-      "Üniversite": "Ege Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+0+070+2+0+0+080+2+0+0+080+280+2"
-      ],
-      "Yerleşen": [
-        "72",
-        "70+2+0+0+0",
-        "828282"
-      ],
-      "Taban Sıralama": [
-        "55,647",
-        "56,026",
-        "64,186",
-        "73,735"
-      ],
-      "Taban Puan": [
-        "428.394",
-        "52.268",
-        "441.532",
-        "366.916"
-      ],
-      "Şehir": "İzmir",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202110595",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+05+0+0+0+05+0+0+0+05+05+0"
+        "5",
+        "5",
+        "5",
+        "5"
       ],
       "Yerleşen": [
-        "5",
-        "5+0+0+0+0",
-        "555"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "56,143",
-        "42,444",
-        "48,993",
-        "60,705"
+        "56.724",
+        "56.143",
+        "42.444",
+        "48.993"
       ],
       "Taban Puan": [
+        "438.695",
         "427.833",
         "467.787",
-        "458.824",
-        "380.28"
+        "458.824"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "101190210",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+2+0+0+075+2+0+0+0100+3+0+0+0100+3100+3"
-      ],
-      "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "103103103"
-      ],
-      "Taban Sıralama": [
-        "59,071",
-        "65,015",
-        "80,884",
-        "97,856"
-      ],
-      "Taban Puan": [
-        "424.537",
-        "442.603",
-        "423.882",
-        "344.994"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104410181",
-      "Üniversite": "Gebze Teknik Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "62,437",
-        "67,749",
-        "82,127",
-        "91,484"
-      ],
-      "Taban Puan": [
-        "420.704",
-        "439.734",
-        "422.679",
-        "350.364"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107210535",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+060+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "62,622",
-        "61,094",
-        "69,074",
-        "74,143"
-      ],
-      "Taban Puan": [
-        "420.544",
-        "6.857",
-        "436.173",
-        "366.544"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "110110446",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
+      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+040+1+0+0+050+2+0+2+050+250+2"
+        "40",
+        "40",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "64,178",
-        "72,562",
-        "83,970",
-        "99,871"
+        "60.840",
+        "64.178",
+        "72.562",
+        "83.970"
       ],
       "Taban Puan": [
+        "434.474",
         "418.699",
         "434.606",
-        "420.759",
-        "343.292"
+        "420.759"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104110669",
-      "Üniversite": "Gazi Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+2+0+0+075+2+0+0+090+3+0+0+090+390+3"
-      ],
-      "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "939393"
-      ],
-      "Taban Sıralama": [
-        "67,718",
-        "74,602",
-        "91,332",
-        "111,247"
-      ],
-      "Taban Puan": [
-        "414.907",
-        "432.534",
-        "413.622",
-        "334.005"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111610758",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+0+070+270+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "727272"
-      ],
-      "Taban Sıralama": [
-        "71,072",
-        "74,747",
-        "83,959",
-        "90,880"
-      ],
-      "Taban Puan": [
-        "411.424",
-        "32.402",
-        "420.772",
-        "350.904"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200290169",
-      "Üniversite": "Atılım Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "2+0+0+0+18+0+0+0+112+0+0+0+114+013+0"
-      ],
-      "Yerleşen": [
-        "9",
-        "8+0+0+0+1",
-        "131413"
-      ],
-      "Taban Sıralama": [
-        "77,947",
-        "80,597",
-        "101,848",
-        "118,793"
-      ],
-      "Taban Puan": [
-        "404.518",
-        "426.715",
-        "403.788",
-        "328.296"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "112411059",
-      "Üniversite": "Eskişehir Teknik Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+2+0+0+075+2+0+0+070+2+0+0+070+270+2"
-      ],
-      "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "727272"
-      ],
-      "Taban Sıralama": [
-        "79,830",
-        "84,992",
-        "105,245",
-        "134,650"
-      ],
-      "Taban Puan": [
-        "402.662",
-        "422.535",
-        "400.731",
-        "317.257"
-      ],
-      "Şehir": "Eskişehir",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110110085",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
+      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+0100+3+0+3+0100+3100+3"
+        "60",
+        "60",
+        "100",
+        "100"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "103103103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "80,526",
-        "93,677",
-        "115,672",
-        "144,820"
+        "71.684",
+        "80.526",
+        "93.677",
+        "115.672"
       ],
       "Taban Puan": [
+        "424.026",
         "402.028",
         "414.371",
-        "391.709",
-        "310.8"
+        "391.709"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102210065",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "83,597",
-        "64,321",
-        "62,392",
-        "71,499"
-      ],
-      "Taban Puan": [
-        "399.112",
-        "443.336",
-        "443.464",
-        "369.142"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "210301907",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
-      "Fakülte": "Mühendislik-Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "3+0+1+0+12+0+0+0+14+0+1+0+15+03+0"
-      ],
-      "Yerleşen": [
-        "3",
-        "2+0+0+0+1",
-        "553"
-      ],
-      "Taban Sıralama": [
-        "83,727",
-        "92,134",
-        "101,324",
-        "118,914"
-      ],
-      "Taban Puan": [
-        "398.985",
-        "415.777",
-        "404.284",
-        "328.215"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101111313",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+1+020+120+1"
+        "20",
+        "20",
+        "20",
+        "20"
       ],
       "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "84,865",
-        "85,725",
-        "98,682",
-        "124,244"
+        "74.635",
+        "84.865",
+        "85.725",
+        "98.682"
       ],
       "Taban Puan": [
+        "421.298",
         "397.882",
         "421.829",
-        "406.759",
-        "324.372"
+        "406.759"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103810223",
-      "Üniversite": "Eskişehir Osmangazi Üniversitesi",
-      "Fakülte": "Mühendislik-Mimarlık Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+0+065+2+0+0+060+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "67",
-        "65+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "87,919",
-        "94,154",
-        "120,045",
-        "153,297"
-      ],
-      "Taban Puan": [
-        "395.022",
-        "413.937",
-        "388.086",
-        "305.751"
-      ],
-      "Şehir": "Eskişehir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206552493",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+15+0+1+0+15+0+1+0+15+05+0"
-      ],
-      "Yerleşen": [
-        "6",
-        "5+0+0+0+1",
-        "655"
-      ],
-      "Taban Sıralama": [
-        "90,170",
-        "84,524",
-        "93,249",
-        "109,777"
-      ],
-      "Taban Puan": [
-        "393.008",
-        "422.959",
-        "411.841",
-        "335.183"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108410081",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "91,656",
-        "76,620",
-        "77,455",
-        "88,815"
-      ],
-      "Taban Puan": [
-        "391.629",
-        "430.573",
-        "427.335",
-        "352.755"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106910382",
-      "Üniversite": "Kocaeli Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+0+065+2+0+0+060+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "67",
-        "65+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "97,286",
-        "98,111",
-        "119,358",
-        "137,790"
-      ],
-      "Taban Puan": [
-        "386.711",
-        "410.537",
-        "388.673",
-        "15.201"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104410206",
-      "Üniversite": "Gebze Teknik Üniversitesi",
-      "Fakülte": "Temel Bilimler Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+030+1+0+1+030+130+1"
-      ],
-      "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "313131"
-      ],
-      "Taban Sıralama": [
-        "102,890",
-        "109,468",
-        "141,204",
-        "161,957"
-      ],
-      "Taban Puan": [
-        "381.944",
-        "400.954",
-        "372.039",
-        "300.847"
-      ],
-      "Şehir": "Kocaeli",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203910442",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "23+0+0+0+022+0+0+0+025+0+0+0+023+07+0"
-      ],
-      "Yerleşen": [
-        "22",
-        "22+0+0+0+0",
-        "25237"
-      ],
-      "Taban Sıralama": [
-        "103,928",
-        "104,024",
-        "97,422",
-        "88,356"
-      ],
-      "Taban Puan": [
-        "381.115",
-        "405.427",
-        "407.907",
-        "353.192"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "102410054",
-      "Üniversite": "Bursa Teknik Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "55+2+0+0+055+2+0+0+050+2+0+0+050+250+2"
-      ],
-      "Yerleşen": [
-        "57",
-        "55+2+0+0+0",
-        "525252"
-      ],
-      "Taban Sıralama": [
-        "106,434",
-        "104,633",
-        "135,512",
-        "164,607"
-      ],
-      "Taban Puan": [
-        "379.051",
-        "404.951",
-        "376.168",
-        "299.421"
-      ],
-      "Şehir": "Bursa",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104810362",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+2+090+390+3"
+        "50",
+        "50",
+        "70",
+        "90"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "729393"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "109,544",
-        "131,520",
-        "171,949",
-        "217,319"
+        "93.326",
+        "109.544",
+        "131.520",
+        "171.949"
       ],
       "Taban Puan": [
+        "404.606",
         "376.568",
         "384.215",
-        "352.321",
-        "274.984"
+        "352.321"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102790219",
-      "Üniversite": "Çanakkale Onsekiz Mart Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Program Kodu": "104410206",
+      "Üniversite": "GEBZE TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Temel Bilimler Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+025+1+0+0+025+125+1"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "262626"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "110,278",
-        "111,151",
-        "139,796",
-        "171,536"
+        "97.068",
+        "102.890",
+        "109.468",
+        "141.204"
       ],
       "Taban Puan": [
-        "375.989",
-        "399.623",
-        "73.085",
-        "295.783"
+        "401.541",
+        "381.944",
+        "400.954",
+        "372.039"
       ],
-      "Şehir": "Çanakkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108470082",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "2+0+0+0+01+0+0+0+01+0+0+0+01+0-"
-      ],
-      "Yerleşen": [
-        "1",
-        "1+0+0+0+0",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "111,605",
-        "108,227",
-        "119,066"
-      ],
-      "Taban Puan": [
-        "374.914",
-        "401.977",
-        "388.901"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105810023",
-      "Üniversite": "İzmir Yüksek Teknoloji Enstitüsü",
+      "Üniversite": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+040+1+0+0+040+1+0+1+060+260+2"
+        "40",
+        "40",
+        "40",
+        "60"
       ],
       "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "416262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "112,874",
-        "137,264",
-        "194,798",
-        "229,039"
+        "97.297",
+        "112.874",
+        "137.264",
+        "194.798"
       ],
       "Taban Puan": [
+        "401.368",
         "373.913",
         "380.166",
-        "339.874",
-        "270.361"
+        "339.874"
       ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107210289",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+0+060+2+0+0+080+2+0+2+080+280+2"
-      ],
-      "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "828282"
-      ],
-      "Taban Sıralama": [
-        "128,678",
-        "133,861",
-        "160,682",
-        "190,700"
-      ],
-      "Taban Puan": [
-        "362.413",
-        "82.612",
-        "359.031",
-        "286.36"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105690745",
-      "Üniversite": "İstanbul Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+050+2+0+2+050+250+2"
-      ],
-      "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "525252"
-      ],
-      "Taban Sıralama": [
-        "138,397",
-        "151,657",
-        "192,103",
-        "243,641"
-      ],
-      "Taban Puan": [
-        "355.944",
-        "370.738",
-        "341.247",
-        "265.062"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101110493",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+2+060+260+2"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "139,387",
-        "155,503",
-        "208,766",
-        "258,444"
+        "116.096",
+        "139.387",
+        "155.503",
+        "208.766"
       ],
       "Taban Puan": [
+        "386.511",
         "355.324",
         "368.343",
-        "333.061",
-        "260.108"
+        "333.061"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107210289",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "118.316",
+        "128.678",
+        "133.861",
+        "160.682"
+      ],
+      "Taban Puan": [
+        "384.889",
+        "362.410",
+        "382.612",
+        "359.031"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105690745",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "121.490",
+        "138.397",
+        "151.657",
+        "192.103"
+      ],
+      "Taban Puan": [
+        "382.540",
+        "355.944",
+        "370.738",
+        "341.247"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111610749",
-      "Üniversite": "İstanbul Üniversitesi-Cerrahpaşa",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
       "Fakülte": "Mühendislik Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+070+2+0+2+070+270+2"
+        "50",
+        "50",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "727272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "139,716",
-        "149,307",
-        "178,324",
-        "210,056"
+        "123.302",
+        "139.716",
+        "149.307",
+        "178.324"
       ],
       "Taban Puan": [
+        "381.220",
         "355.133",
         "372.203",
-        "348.643",
-        "277.907"
+        "348.643"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100190213",
-      "Üniversite": "Bolu Abant İzzet Baysal Üniversitesi",
-      "Fakülte": "Mühendislik Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "35+1+0+0+035+1+0+0+030+1+0+0+030+130+1"
-      ],
-      "Yerleşen": [
-        "36",
-        "35+1+0+0+0",
-        "313131"
-      ],
-      "Taban Sıralama": [
-        "143,382",
-        "136,447",
-        "170,323",
-        "222,372"
-      ],
-      "Taban Puan": [
-        "352.919",
-        "380.757",
-        "353.301",
-        "272.956"
-      ],
-      "Şehir": "Bolu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209410131",
-      "Üniversite": "İstanbul Sağlık Ve Teknoloji Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "21+0+1+0+129+0+1+0+129+0+1+0+120+0-"
-      ],
-      "Yerleşen": [
-        "30",
-        "29+0+0+0+1",
-        "3020"
-      ],
-      "Taban Sıralama": [
-        "147,878",
-        "164,222",
-        "212,457"
-      ],
-      "Taban Puan": [
-        "350.135",
-        "363.192",
-        "331.361"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202190190",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+0+0+010+0+0+0+010+0+0+0+010+010+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "10+0+0+0+0",
-        "101010"
-      ],
-      "Taban Sıralama": [
-        "152,051",
-        "92,579",
-        "94,050",
-        "96,919"
-      ],
-      "Taban Puan": [
-        "347.651",
-        "415.367",
-        "411.084",
-        "345.775"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "103410236",
-      "Üniversite": "Ege Üniversitesi",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "K",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+080+2+0+2+080+280+2"
+        "50",
+        "50",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "828282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "159,395",
-        "191,575",
-        "232,901",
-        "274,197"
+        "137.042",
+        "159.395",
+        "191.575",
+        "232.901"
       ],
       "Taban Puan": [
+        "371.671",
         "343.437",
         "348.616",
-        "322.336",
-        "255.206"
+        "322.336"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104110121",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "137.435",
+        "161.355",
+        "185.112",
+        "240.783"
+      ],
+      "Taban Puan": [
+        "371.419",
+        "342.345",
+        "351.803",
+        "319.113"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108470166",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "144.385",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "366.937",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208450802",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "158.700",
+        "184.433",
+        "181.035",
+        "240.734"
+      ],
+      "Taban Puan": [
+        "358.380",
+        "330.577",
+        "353.924",
+        "319.133"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103810092",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "169.191",
+        "190.970",
+        "215.719",
+        "254.777"
+      ],
+      "Taban Puan": [
+        "352.672",
+        "327.575",
+        "337.518",
+        "313.523"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103110248",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "169.344",
+        "199.671",
+        "237.159",
+        "274.295"
+      ],
+      "Taban Puan": [
+        "352.587",
+        "323.709",
+        "328.792",
+        "306.474"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202190190",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "183.935",
+        "152.051",
+        "92.579",
+        "94.050"
+      ],
+      "Taban Puan": [
+        "345.096",
+        "347.651",
+        "415.367",
+        "411.084"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "112410237",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "188.339",
+        "218.594",
+        "240.276",
+        "293.351"
+      ],
+      "Taban Puan": [
+        "342.971",
+        "316.010",
+        "327.583",
+        "300.060"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100710093",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "193.829",
+        "217.951",
+        "235.667",
+        "249.993"
+      ],
+      "Taban Puan": [
+        "340.427",
+        "316.252",
+        "329.363",
+        "315.411"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102710184",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "196.981",
+        "231.895",
+        "251.393",
+        "286.418"
+      ],
+      "Taban Puan": [
+        "338.994",
+        "311.065",
+        "323.465",
+        "302.321"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102410027",
+      "Üniversite": "BURSA TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "218.723",
+        "251.872",
+        "264.603",
+        "286.574"
+      ],
+      "Taban Puan": [
+        "329.618",
+        "304.110",
+        "318.813",
+        "302.270"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109710145",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "227.811",
+        "255.422",
+        "275.848",
+        "308.325"
+      ],
+      "Taban Puan": [
+        "326.037",
+        "302.980",
+        "315.105",
+        "295.363"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106910134",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "232.009",
+        "267.975",
+        "295.831",
+        "312.102"
+      ],
+      "Taban Puan": [
+        "324.476",
+        "299.112",
+        "308.894",
+        "294.231"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108810156",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "245.233",
+        "270.582",
+        "284.720",
+        "302.179"
+      ],
+      "Taban Puan": [
+        "319.640",
+        "298.369",
+        "312.244",
+        "297.242"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910173",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "247.829",
+        "293.840",
+        "285.374",
+        "304.198"
+      ],
+      "Taban Puan": [
+        "318.698",
+        "291.739",
+        "312.047",
+        "296.631"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107610143",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "265.907",
+        "297.119",
+        "300.278",
+        "311.711"
+      ],
+      "Taban Puan": [
+        "312.642",
+        "290.894",
+        "307.577",
+        "294.348"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108210241",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "269.621",
+        "307.100",
+        "306.746",
+        "323.737"
+      ],
+      "Taban Puan": [
+        "311.477",
+        "288.308",
+        "305.736",
+        "290.792"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105810147",
+      "Üniversite": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "2",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "270.959",
+        "242.675",
+        "228.279",
+        "191.892"
+      ],
+      "Taban Puan": [
+        "311.064",
+        "307.246",
+        "332.298",
+        "341.353"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610131",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "271.586",
+        "313.531",
+        "303.561",
+        "311.862"
+      ],
+      "Taban Puan": [
+        "310.866",
+        "286.701",
+        "306.628",
+        "294.303"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107910122",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "279.320",
+        "317.976",
+        "320.469",
+        "333.286"
+      ],
+      "Taban Puan": [
+        "308.454",
+        "285.641",
+        "301.938",
+        "288.100"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109410103",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "284.716",
+        "313.842",
+        "318.196",
+        "330.633"
+      ],
+      "Taban Puan": [
+        "306.828",
+        "286.630",
+        "302.565",
+        "288.866"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102590580",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "289.628",
+        "321.390",
+        "311.582",
+        "329.280"
+      ],
+      "Taban Puan": [
+        "305.361",
+        "284.824",
+        "304.378",
+        "289.245"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100110133",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "291.443",
+        "323.586",
+        "318.484",
+        "336.284"
+      ],
+      "Taban Puan": [
+        "304.851",
+        "284.295",
+        "302.487",
+        "287.283"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310104",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "292.064",
+        "315.799",
+        "309.694",
+        "319.102"
+      ],
+      "Taban Puan": [
+        "304.663",
+        "286.162",
+        "304.902",
+        "292.131"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101510047",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "295.695",
+        "327.309",
+        "314.156",
+        "328.556"
+      ],
+      "Taban Puan": [
+        "303.649",
+        "283.398",
+        "303.670",
+        "289.440"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107410145",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "300.953",
+        "314.747",
+        "302.543",
+        "318.447"
+      ],
+      "Taban Puan": [
+        "302.149",
+        "286.416",
+        "306.933",
+        "292.325"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103310149",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "302.926",
+        "334.758",
+        "335.927",
+        "346.225"
+      ],
+      "Taban Puan": [
+        "301.600",
+        "281.694",
+        "297.836",
+        "284.552"
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111711525",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Polatlı Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "303.985",
+        "326.726",
+        "313.745",
+        "320.500"
+      ],
+      "Taban Puan": [
+        "301.311",
+        "283.539",
+        "303.788",
+        "291.723"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106210195",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "313.250",
+        "341.979",
+        "325.978",
+        "334.604"
+      ],
+      "Taban Puan": [
+        "298.797",
+        "280.082",
+        "300.474",
+        "287.735"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104290229",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "314.464",
+        "322.242",
+        "324.171",
+        "335.044"
+      ],
+      "Taban Puan": [
+        "298.469",
+        "284.614",
+        "300.951",
+        "287.611"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109290543",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "318.338",
+        "350.273",
+        "328.521",
+        "342.506"
+      ],
+      "Taban Puan": [
+        "297.449",
+        "278.253",
+        "299.773",
+        "285.537"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910304",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "20",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "325.183",
+        "356.737",
+        "308.001",
+        "334.313"
+      ],
+      "Taban Puan": [
+        "295.638",
+        "276.898",
+        "305.388",
+        "287.811"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103210098",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "325.454",
+        "371.464",
+        "336.432",
+        "347.994"
+      ],
+      "Taban Puan": [
+        "295.573",
+        "273.932",
+        "297.703",
+        "284.072"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110310038",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "334.462",
+        "376.976",
+        "355.796",
+        "377.474"
+      ],
+      "Taban Puan": [
+        "293.323",
+        "272.835",
+        "292.932",
+        "276.710"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103510165",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "33",
+        "33",
+        "33",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "341.585",
+        "361.480",
+        "331.822",
+        "342.500"
+      ],
+      "Taban Puan": [
+        "291.622",
+        "275.931",
+        "298.904",
+        "285.539"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100410103",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "343.655",
+        "381.089",
+        "351.018",
+        "366.624"
+      ],
+      "Taban Puan": [
+        "291.123",
+        "272.051",
+        "294.082",
+        "279.349"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103190719",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "357.531",
+        "303.600",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "287.902",
+        "289.187",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690496",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "364.761",
+        "412.461",
+        "379.688",
+        "378.104"
+      ],
+      "Taban Puan": [
+        "286.312",
+        "266.543",
+        "287.415",
+        "276.565"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390245",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "374.145",
+        "445.168",
+        "414.067",
+        ""
+      ],
+      "Taban Puan": [
+        "284.274",
+        "261.283",
+        "280.177",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203910106",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "378.663",
+        "28.506",
+        "32.152",
+        "53.639"
+      ],
+      "Taban Puan": [
+        "283.328",
+        "464.792",
+        "480.590",
+        "453.365"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "102270112",
+      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "381.194",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "282.788",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102610167",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "393.488",
+        "468.321",
+        "398.202",
+        "409.375"
+      ],
+      "Taban Puan": [
+        "280.229",
+        "257.937",
+        "283.435",
+        "269.628"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107710072",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "12",
+        "10",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "408.928",
+        "469.458",
+        "407.123",
+        "391.085"
+      ],
+      "Taban Puan": [
+        "277.268",
+        "257.771",
+        "281.576",
+        "273.576"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410136",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "35",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "414.913",
+        "492.596",
+        "407.554",
+        "416.924"
+      ],
+      "Taban Puan": [
+        "276.160",
+        "254.673",
+        "281.487",
+        "268.055"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106190355",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "425.179",
+        "493.577",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "274.278",
+        "254.551",
+        "",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100790574",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "2",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "431.735",
+        "368.434",
+        "526.094",
+        ""
+      ],
+      "Taban Puan": [
+        "273.093",
+        "274.532",
+        "261.142",
+        ""
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108710042",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "438.119",
+        "520.475",
+        "423.661",
+        "421.124"
+      ],
+      "Taban Puan": [
+        "271.977",
+        "251.250",
+        "278.325",
+        "267.206"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105310161",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "438.607",
+        "503.314",
+        "413.213",
+        "378.122"
+      ],
+      "Taban Puan": [
+        "271.890",
+        "253.319",
+        "280.348",
+        "276.561"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190296",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "439.817",
+        "497.088",
+        "411.643",
+        "408.838"
+      ],
+      "Taban Puan": [
+        "271.692",
+        "254.101",
+        "280.667",
+        "269.741"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300190462",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Fen ve Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "5",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "439.936",
+        "351.138",
+        "345.598",
+        "405.373"
+      ],
+      "Taban Puan": [
+        "271.672",
+        "278.068",
+        "295.418",
+        "270.463"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103010073",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "442.596",
+        "467.890",
+        "386.234",
+        "414.206"
+      ],
+      "Taban Puan": [
+        "271.220",
+        "257.997",
+        "285.972",
+        "268.610"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102890193",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "461.349",
+        "504.885",
+        "488.489",
+        ""
+      ],
+      "Taban Puan": [
+        "268.120",
+        "253.118",
+        "266.884",
+        ""
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106010064",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "466.806",
+        "512.427",
+        "454.322",
+        "384.236"
+      ],
+      "Taban Puan": [
+        "267.244",
+        "252.206",
+        "272.688",
+        "275.117"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104310085",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "469.543",
+        "523.482",
+        "423.538",
+        "428.586"
+      ],
+      "Taban Puan": [
+        "266.832",
+        "250.888",
+        "278.352",
+        "265.706"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910125",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "28",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "483.687",
+        "554.385",
+        "451.495",
+        "440.808"
+      ],
+      "Taban Puan": [
+        "264.658",
+        "247.395",
+        "273.191",
+        "263.306"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110210181",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "484.982",
+        "564.452",
+        "429.196",
+        "417.077"
+      ],
+      "Taban Puan": [
+        "264.469",
+        "246.325",
+        "277.270",
+        "268.020"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090256",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "502.690",
+        "546.460",
+        "483.734",
+        ""
+      ],
+      "Taban Puan": [
+        "261.842",
+        "248.261",
+        "267.649",
+        ""
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570704",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "508.140",
+        "569.294",
+        "522.609",
+        ""
+      ],
+      "Taban Puan": [
+        "261.059",
+        "245.809",
+        "261.646",
+        ""
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610164",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "524.458",
+        "570.772",
+        "480.151",
+        "484.720"
+      ],
+      "Taban Puan": [
+        "258.841",
+        "245.658",
+        "268.240",
+        "255.583"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105990214",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "610.488",
+        "657.087",
+        "685.194",
+        ""
+      ],
+      "Taban Puan": [
+        "248.471",
+        "237.404",
+        "241.783",
+        ""
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300190470",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "Fen ve Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "4",
+        "5",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "634.193",
+        "646.176",
+        "770.682",
+        "528.131"
+      ],
+      "Taban Puan": [
+        "245.966",
+        "238.360",
+        "233.544",
+        "248.991"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "109090098",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "652.242",
+        "695.803",
+        "718.967",
+        ""
+      ],
+      "Taban Puan": [
+        "244.151",
+        "234.111",
+        "238.403",
+        ""
+      ],
+      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     }
   ]

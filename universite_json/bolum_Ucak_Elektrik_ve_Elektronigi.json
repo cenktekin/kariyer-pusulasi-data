@@ -2,74 +2,82 @@
   "yks": [
     {
       "Program Kodu": "200290151",
-      "Üniversite": "Atılım Üniversitesi",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sivil Havacılık Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Elektrik ve Elektroniği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+1+0+13+0+1+0+13+0+1+0+14+06+0"
+        "3",
+        "3",
+        "3",
+        "4"
       ],
       "Yerleşen": [
-        "5",
-        "3+0+1+0+1",
-        "546"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "66,082",
-        "80,925",
-        "98,309",
-        "103,824"
+        "62.760",
+        "66.082",
+        "80.925",
+        "98.309"
       ],
       "Taban Puan": [
+        "432.606",
         "416.617",
         "426.368",
-        "407.093",
-        "40.001"
+        "407.090"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "200290250",
-      "Üniversite": "Atılım Üniversitesi",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sivil Havacılık Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "U",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Uçak Elektrik ve Elektroniği (İngilizce) (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "25+0+0+0+025+0+0+0+025+0+0+0+025+0-"
+        "25",
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
-        "25",
-        "25+0+0+0+0",
-        "2525"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "631,728",
-        "350,028",
-        "334,936"
+        "523.106",
+        "631.728",
+        "350.028",
+        ""
       ],
       "Taban Puan": [
+        "259.021",
         "239.694",
         "294.322",
-        "287.638"
+        ""
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "%25 İndirimli"
     }
   ]

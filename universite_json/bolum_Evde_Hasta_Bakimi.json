@@ -2,1121 +2,1482 @@
   "yks": [
     {
       "Program Kodu": "107190051",
-      "Üniversite": "Mardin Artuklu Üniversitesi",
+      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "40+1+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "454,876",
-        "524,166"
+        "571.627",
+        "459.560",
+        "524.166",
+        "911.331"
       ],
       "Taban Puan": [
-        "343.586",
-        "336.209"
+        "326.918",
+        "342.906",
+        "336.209",
+        "290.296"
       ],
-      "Şehir": "Mardin",
+      "Şehir": "MARDİN",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206552317",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+14+0+0+0+13+0+0+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1",
-        "Doldu-4"
-      ],
-      "Taban Sıralama": [
-        "545,889",
-        "798,173"
-      ],
-      "Taban Puan": [
-        "331.724",
-        "307.309"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "105350584",
-      "Üniversite": "İnönü Üniversitesi",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "65+2+0+2+765+2+0+2+1665+2+0+2+16--"
+        "65",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "65+2+0+2+16",
-        "Doldu-85"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "586,095",
-        "747,555"
+        "591.056",
+        "586.095",
+        "747.555",
+        "836.748"
       ],
       "Taban Puan": [
+        "324.741",
         "327.115",
-        "311.975"
+        "311.975",
+        "296.692"
       ],
-      "Şehir": "Malatya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102090133",
-      "Üniversite": "Bingöl Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "591,211",
-        "725,710"
-      ],
-      "Taban Puan": [
-        "326.563",
-        "14.071"
-      ],
-      "Şehir": "Bingöl",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208151152",
-      "Üniversite": "İstanbul Rumeli Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+0+0+14+0+0+0+110+0+0+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1",
-        "Doldu-11"
-      ],
-      "Taban Sıralama": [
-        "622,442",
-        "957,663"
-      ],
-      "Taban Puan": [
-        "323.238",
-        "293.895"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107790318",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Kırıkhan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+220+1+0+1+520+1+0+1+5--"
-      ],
-      "Yerleşen": [
-        "20+1+0+1+5",
-        "Doldu-27"
-      ],
-      "Taban Sıralama": [
-        "636,652",
-        "877,792"
-      ],
-      "Taban Puan": [
-        "321.778",
-        "300.396"
-      ],
-      "Şehir": "Hatay",
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111050337",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "50",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "657,158",
-        "861,014"
+        "635.830",
+        "657.158",
+        "861.014",
+        "957.490"
       ],
       "Taban Puan": [
-        "319.733",
-        "01.809"
+        "319.932",
+        "319.730",
+        "301.809",
+        "286.513"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103990266",
-      "Üniversite": "Fırat Üniversitesi",
-      "Fakülte": "Kovancılar Meslek Yüksekokulu",
+      "Program Kodu": "102090133",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+330+1+0+0+830+1+0+1+8--"
+        "40",
+        "40",
+        "30",
+        "30"
       ],
       "Yerleşen": [
-        "31+0+0+0+8",
-        "Doldu-40"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "657,622",
-        "918,463"
+        "640.723",
+        "591.211",
+        "725.710",
+        "1.058.406"
       ],
       "Taban Puan": [
-        "319.684",
-        "297.049"
+        "319.426",
+        "326.560",
+        "314.071",
+        "278.787"
       ],
-      "Şehir": "Elazığ",
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100390285",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
       "Fakülte": "Söke Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "40+1+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "662,976",
-        "902,516"
+        "678.250",
+        "662.976",
+        "902.516",
+        "1.056.245"
       ],
       "Taban Puan": [
+        "315.610",
         "319.157",
-        "298.334"
+        "298.334",
+        "278.952"
       ],
-      "Şehir": "Aydın",
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100351685",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Nazilli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "107790318",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Kırıkhan Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+2+070+2+0+2+070+2+0+2+0--"
+        "20",
+        "20",
+        "20",
+        "40"
       ],
       "Yerleşen": [
-        "71+1+0+2+0",
-        "72"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "689,228"
+        "687.021",
+        "636.652",
+        "877.792",
+        "1.194.933"
       ],
       "Taban Puan": [
-        "316.615"
+        "314.755",
+        "321.778",
+        "300.396",
+        "269.214"
       ],
-      "Şehir": "Aydın",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105290088",
-      "Üniversite": "Iğdır Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "103990266",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Kovancılar Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "30",
+        "30",
+        ""
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "714,166",
-        "1,005"
+        "688.142",
+        "658.732",
+        "918.463",
+        ""
       ],
       "Taban Puan": [
-        "314.293",
-        "290.18"
-      ],
-      "Şehir": "Iğdır",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103650975",
-      "Üniversite": "Erzincan Binali Yıldırım Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "65+2+0+2+065+2+0+2+065+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "66+1+0+2+0",
-        "Doldu-69"
-      ],
-      "Taban Sıralama": [
-        "731,047",
-        "969,719"
-      ],
-      "Taban Puan": [
-        "312.742",
-        "92.955"
-      ],
-      "Şehir": "Erzincan",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106350281",
-      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "55+2+0+2+055+2+0+2+055+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "57+0+0+2+0",
-        "Doldu-59"
-      ],
-      "Taban Sıralama": [
-        "750,074",
-        "985,856"
-      ],
-      "Taban Puan": [
-        "311.021",
-        "291.701"
-      ],
-      "Şehir": "Karaman",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107890057",
-      "Üniversite": "Muş Alparslan Üniversitesi",
-      "Fakülte": "Malazgirt Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "61+1+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "757,418",
-        "1,036"
-      ],
-      "Taban Puan": [
-        "310.368",
-        "287.82"
-      ],
-      "Şehir": "Muş",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690286",
-      "Üniversite": "Kırıkkale Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "50+2+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "771,352",
-        "1,103"
-      ],
-      "Taban Puan": [
-        "309.177",
-        "282.917"
-      ],
-      "Şehir": "Kırıkkale",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101650248",
-      "Üniversite": "Bartın Üniversitesi",
-      "Fakülte": "Bartın Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+2+0",
-        "53"
-      ],
-      "Taban Sıralama": [
-        "774,183"
-      ],
-      "Taban Puan": [
-        "308.93"
-      ],
-      "Şehir": "Bartın",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105950842",
-      "Üniversite": "Kafkas Üniversitesi",
-      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+2+070+2+0+2+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "72+0+0+2+0",
-        "Doldu-74"
-      ],
-      "Taban Sıralama": [
-        "786,683",
-        "1,070"
-      ],
-      "Taban Puan": [
-        "307.844",
-        "285.325"
-      ],
-      "Şehir": "Kars",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112572408",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Uluborlu Selahattin Karasoy Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "55+2+0+2+055+2+0+2+055+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "57+0+0+2+0",
-        "57"
-      ],
-      "Taban Sıralama": [
-        "788,511"
-      ],
-      "Taban Puan": [
-        "307.688"
-      ],
-      "Şehir": "Isparta",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100590099",
-      "Üniversite": "Ağrı İbrahim Çeçen Üniversitesi",
-      "Fakülte": "Doğubayazıt Ahmed-İ Hani Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "793,257",
-        "1,063"
-      ],
-      "Taban Puan": [
-        "307.286",
-        "285.811"
-      ],
-      "Şehir": "Ağrı",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104390166",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Erbaa Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "824,247",
-        "1,047"
-      ],
-      "Taban Puan": [
-        "304.685",
-        "286.995"
-      ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112190118",
-      "Üniversite": "Trabzon Üniversitesi",
-      "Fakülte": "Tonya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "854,720",
-        "1,154"
-      ],
-      "Taban Puan": [
-        "302.199",
-        "279.303"
-      ],
-      "Şehir": "Trabzon",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101370328",
-      "Üniversite": "Artvin Çoruh Üniversitesi",
-      "Fakülte": "Yusufeli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "856,966",
-        "1,304"
-      ],
-      "Taban Puan": [
-        "302.017",
-        "269.112"
-      ],
-      "Şehir": "Artvin",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101990064",
-      "Üniversite": "Bilecik Şeyh Edebali Üniversitesi",
-      "Fakülte": "Osmaneli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "31"
-      ],
-      "Taban Sıralama": [
-        "862,283"
-      ],
-      "Taban Puan": [
-        "301.591"
-      ],
-      "Şehir": "Bilecik",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101250234",
-      "Üniversite": "Ardahan Üniversitesi",
-      "Fakülte": "Posof Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "873,505",
-        "1,184"
-      ],
-      "Taban Puan": [
-        "300.716",
-        "277.191"
-      ],
-      "Şehir": "Ardahan",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109190031",
-      "Üniversite": "Sinop Üniversitesi",
-      "Fakülte": "Türkeli Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "61+1+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "874,779",
-        "1,216"
-      ],
-      "Taban Puan": [
-        "300.612",
-        "274.945"
-      ],
-      "Şehir": "Sinop",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104351407",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Pazar Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "885,417",
-        "1,192"
-      ],
-      "Taban Puan": [
-        "299.778",
-        "276.607"
-      ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106450465",
-      "Üniversite": "Kastamonu Üniversitesi",
-      "Fakülte": "Tosya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "61+1+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "889,892",
-        "1,279"
-      ],
-      "Taban Puan": [
-        "299.434",
-        "270.772"
-      ],
-      "Şehir": "Kastamonu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102390159",
-      "Üniversite": "Yozgat Bozok Üniversitesi",
-      "Fakülte": "Çekerek Fuat Oktay Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+1+020+1+0+1+0---"
-      ],
-      "Yerleşen": [
-        "21+0+0+1+0"
-      ],
-      "Taban Sıralama": [
-        "891,837"
-      ],
-      "Taban Puan": [
-        "299.284"
-      ],
-      "Şehir": "Yozgat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102890158",
-      "Üniversite": "Çankırı Karatekin Üniversitesi",
-      "Fakülte": "Çerkeş Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
-      ],
-      "Taban Sıralama": [
-        "912,190",
-        "1,266"
-      ],
-      "Taban Puan": [
-        "297.729",
-        "271.64"
-      ],
-      "Şehir": "Çankırı",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206552510",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "37+0+0+0+019+0+0+0+015+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "19+0+0+0+0",
-        "Doldu-15"
-      ],
-      "Taban Sıralama": [
-        "1,069",
-        "621,584"
-      ],
-      "Taban Puan": [
-        "286.319",
-        "251.775"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "208151153",
-      "Üniversite": "İstanbul Rumeli Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "21+0+0+0+021+0+0+0+010+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "21+0+0+0+0",
-        "Doldu-10"
-      ],
-      "Taban Sıralama": [
-        "1,918",
-        "092,329"
-      ],
-      "Taban Puan": [
-        "235.073",
-        "212.373"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "107390420",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Gölhisar Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Burdur",
+        "314.637",
+        "319.574",
+        "297.049",
+        ""
+      ],
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109370195",
-      "Üniversite": "Şırnak Üniversitesi",
+      "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Şırnak",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "713.933",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.173",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ŞIRNAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100390141",
-      "Üniversite": "Aydın Adnan Menderes Üniversitesi",
-      "Fakülte": "Nazilli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "101650248",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "Bartın Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+0----"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Aydın",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "724.242",
+        "774.183",
+        "1.044.324",
+        "1.221.431"
+      ],
+      "Taban Puan": [
+        "311.198",
+        "308.930",
+        "287.259",
+        "267.465"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100351685",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Nazilli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "734.157",
+        "689.228",
+        "891.377",
+        "1.070.521"
+      ],
+      "Taban Puan": [
+        "310.279",
+        "316.615",
+        "299.263",
+        "277.906"
+      ],
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109590055",
-      "Üniversite": "Munzur Üniversitesi",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
       "Fakülte": "Tunceli Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+0----"
+        "30",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "Tunceli",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "735.682",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "310.135",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207590730",
-      "Üniversite": "İstanbul Esenyurt Üniversitesi",
+      "Program Kodu": "106350281",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+1----"
+        "55",
+        "55",
+        "55",
+        "55"
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "745.742",
+        "750.074",
+        "985.856",
+        "1.252.231"
+      ],
+      "Taban Puan": [
+        "309.213",
+        "311.021",
+        "291.701",
+        "265.453"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690286",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "752.872",
+        "771.352",
+        "1.103.651",
+        ""
+      ],
+      "Taban Puan": [
+        "308.570",
+        "309.177",
+        "282.917",
+        ""
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103650975",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "65",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "758.487",
+        "731.047",
+        "969.719",
+        "1.215.694"
+      ],
+      "Taban Puan": [
+        "308.061",
+        "312.740",
+        "292.955",
+        "267.848"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206552317",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Evde Hasta Bakımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "4",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "764.821",
+        "545.889",
+        "798.173",
+        "947.042"
+      ],
+      "Taban Puan": [
+        "307.488",
+        "331.724",
+        "307.309",
+        "287.361"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "207590737",
-      "Üniversite": "İstanbul Esenyurt Üniversitesi",
+      "Program Kodu": "207590730",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "E",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Evde Hasta Bakımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "42+0+0+0+0----"
+        "7",
+        "",
+        "",
+        ""
       ],
-      "Yerleşen": [],
-      "Taban Sıralama": [],
-      "Taban Puan": [],
-      "Şehir": "İstanbul",
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "780.507",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "306.079",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104390166",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Erbaa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "784.794",
+        "824.247",
+        "1.047.892",
+        "1.301.040"
+      ],
+      "Taban Puan": [
+        "305.696",
+        "304.685",
+        "286.995",
+        "262.359"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105950842",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "70",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "793.417",
+        "786.683",
+        "1.070.484",
+        "1.349.033"
+      ],
+      "Taban Puan": [
+        "304.944",
+        "307.844",
+        "285.325",
+        "259.417"
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105290088",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "796.646",
+        "718.022",
+        "1.005.839",
+        "1.316.433"
+      ],
+      "Taban Puan": [
+        "304.664",
+        "313.944",
+        "290.180",
+        "261.404"
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107890057",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Malazgirt Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "807.696",
+        "757.418",
+        "1.036.764",
+        "1.430.425"
+      ],
+      "Taban Puan": [
+        "303.701",
+        "310.368",
+        "287.820",
+        "254.622"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100590099",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "Doğubayazıt Ahmed-i Hani Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "811.990",
+        "793.257",
+        "1.063.915",
+        "1.464.585"
+      ],
+      "Taban Puan": [
+        "303.332",
+        "307.286",
+        "285.811",
+        "252.671"
+      ],
+      "Şehir": "AĞRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390420",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Gölhisar Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "812.071",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "303.325",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112190118",
+      "Üniversite": "TRABZON ÜNİVERSİTESİ",
+      "Fakülte": "Tonya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "817.582",
+        "854.720",
+        "1.154.388",
+        "1.332.695"
+      ],
+      "Taban Puan": [
+        "302.852",
+        "302.199",
+        "279.303",
+        "260.412"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112572408",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Uluborlu Selahattin Karasoy Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "822.148",
+        "789.682",
+        "1.140.796",
+        "1.390.654"
+      ],
+      "Taban Puan": [
+        "302.461",
+        "307.591",
+        "280.255",
+        "256.926"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101370328",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "Yusufeli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "829.599",
+        "856.966",
+        "1.304.183",
+        ""
+      ],
+      "Taban Puan": [
+        "301.833",
+        "302.017",
+        "269.112",
+        ""
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101990064",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "Osmaneli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "849.644",
+        "862.283",
+        "1.150.441",
+        "1.535.124"
+      ],
+      "Taban Puan": [
+        "300.144",
+        "301.591",
+        "279.581",
+        "248.781"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109190031",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "Türkeli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "854.144",
+        "874.779",
+        "1.216.786",
+        "1.561.889"
+      ],
+      "Taban Puan": [
+        "299.773",
+        "300.612",
+        "274.945",
+        "247.343"
+      ],
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390159",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "Çekerek Fuat Oktay Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "859.092",
+        "891.837",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "299.349",
+        "299.284",
+        "",
+        ""
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104351407",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Pazar Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "868.263",
+        "885.417",
+        "1.192.996",
+        "1.482.986"
+      ],
+      "Taban Puan": [
+        "298.594",
+        "299.778",
+        "276.607",
+        "251.640"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101250234",
+      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
+      "Fakülte": "Posof Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "870.405",
+        "873.505",
+        "1.184.725",
+        "1.515.595"
+      ],
+      "Taban Puan": [
+        "298.413",
+        "300.716",
+        "277.191",
+        "249.845"
+      ],
+      "Şehir": "ARDAHAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106450465",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "Tosya Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "873.011",
+        "889.892",
+        "1.279.192",
+        "1.613.536"
+      ],
+      "Taban Puan": [
+        "298.200",
+        "299.434",
+        "270.772",
+        "244.654"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102890158",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Çerkeş Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "885.429",
+        "912.190",
+        "1.266.009",
+        "1.660.333"
+      ],
+      "Taban Puan": [
+        "297.192",
+        "297.729",
+        "271.640",
+        "242.264"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208151152",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Evde Hasta Bakımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "893.715",
+        "622.442",
+        "957.663",
+        "1.064.216"
+      ],
+      "Taban Puan": [
+        "296.513",
+        "323.238",
+        "293.895",
+        "278.361"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206552510",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Evde Hasta Bakımı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "37",
+        "19",
+        "15",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.211.561",
+        "1.069.462",
+        "1.584.188",
+        "2.216.610"
+      ],
+      "Taban Puan": [
+        "199.018",
+        "286.319",
+        "251.775",
+        "217.706"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207590737",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Evde Hasta Bakımı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "100390141",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Nazilli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Evde Hasta Bakımı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208151153",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Evde Hasta Bakımı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "21",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.918.409",
+        "2.329.751",
+        "2.635.659"
+      ],
+      "Taban Puan": [
+        "",
+        "235.073",
+        "212.373",
+        "200.160"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     }
   ]

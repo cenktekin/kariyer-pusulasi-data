@@ -2,1573 +2,2843 @@
   "yks": [
     {
       "Program Kodu": "204750652",
-      "Üniversite": "İstanbul Okan Üniversitesi",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "2+0+0+0+12+0+0+0+13+0+0+0+1--"
+        "2",
+        "2",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "2+0+0+0+1",
-        "Doldu-4"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "590,542",
-        "630,997"
+        "317.591",
+        "590.542",
+        "630.997",
+        "648.504"
       ],
       "Taban Puan": [
+        "363.815",
         "326.632",
-        "323.705"
+        "323.705",
+        "315.253"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104850661",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Başkent Organize Sanayi Bölgesi Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+050+2+0+0+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "51+1+0+0+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "657,508",
-        "682,892"
+        "534.985",
+        "657.508",
+        "682.892",
+        "694.044"
       ],
       "Taban Puan": [
+        "331.227",
         "319.696",
-        "318.274"
+        "318.274",
+        "310.371"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103150114",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "İzmir Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+060+2+0+0+060+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "61+1+0+0+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "739,987",
-        "812,165"
+        "576.972",
+        "739.987",
+        "812.165",
+        "744.882"
       ],
       "Taban Puan": [
+        "326.319",
         "311.923",
-        "306.069"
+        "306.069",
+        "305.279"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100750232",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "609.855",
+        "834.848",
+        "925.857",
+        "870.713"
+      ],
+      "Taban Puan": [
+        "322.709",
+        "303.818",
+        "296.447",
+        "293.733"
+      ],
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "205053147",
-      "Üniversite": "İstanbul Topkapı Üniversitesi",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
       "Fakülte": "Plato Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+110+0+1+0+110+0+1+0+1--"
+        "10",
+        "10",
+        "10",
+        "10"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "768,510"
+        "625.978",
+        "768.510",
+        "804.504",
+        "726.922"
       ],
       "Taban Puan": [
-        "309.417"
+        "320.984",
+        "309.417",
+        "306.746",
+        "307.032"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "100750232",
-      "Üniversite": "Akdeniz Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+070+2+0+2+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "72+0+0+2+0",
-        "Doldu-74"
-      ],
-      "Taban Sıralama": [
-        "834,848",
-        "925,857"
-      ],
-      "Taban Puan": [
-        "303.818",
-        "296.447"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103090233",
-      "Üniversite": "Dicle Üniversitesi",
-      "Fakülte": "Diyarbakır Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+340+1+0+1+1040+1+0+1+10--"
-      ],
-      "Yerleşen": [
-        "40+1+0+1+10",
-        "Doldu-52"
-      ],
-      "Taban Sıralama": [
-        "901,466",
-        "925,975"
-      ],
-      "Taban Puan": [
-        "298.547",
-        "296.439"
-      ],
-      "Şehir": "Diyarbakır",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "107450311",
-      "Üniversite": "Mersin Üniversitesi",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "917,675",
-        "1,025"
+        "726.086",
+        "917.675",
+        "1.025.343",
+        "961.953"
       ],
       "Taban Puan": [
+        "311.020",
         "297.317",
-        "288.695"
+        "288.695",
+        "286.164"
       ],
-      "Şehir": "Mersin",
+      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109750426",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
       "Fakülte": "Gemlik Asım Kocabıyık Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+055+2+0+0+055+2+0+2+0--"
+        "30",
+        "55",
+        "55",
+        "55"
       ],
       "Yerleşen": [
-        "57+0+0+0+0",
-        "Doldu-59"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "933,885",
-        "1,077"
+        "739.319",
+        "933.885",
+        "1.077.343",
+        "986.060"
       ],
       "Taban Puan": [
+        "309.800",
         "296.102",
-        "284.83"
+        "284.830",
+        "284.264"
       ],
-      "Şehir": "Bursa",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106250501",
-      "Üniversite": "Karadeniz Teknik Üniversitesi",
-      "Fakülte": "Trabzon Meslek Yüksekokulu",
+      "Program Kodu": "103090233",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "Diyarbakır Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+060+2+0+0+060+2+0+2+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "62+0+0+0+0",
-        "63"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,041"
+        "781.468",
+        "901.466",
+        "925.975",
+        "970.530"
       ],
       "Taban Puan": [
-        "288.268"
+        "305.987",
+        "298.547",
+        "296.439",
+        "285.481"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111350472",
-      "Üniversite": "Konya Teknik Üniversitesi",
+      "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,058",
-        "371,224"
+        "856.490",
+        "1.066.438",
+        "1.224.261",
+        "1.037.333"
       ],
       "Taban Puan": [
-        "287.093",
-        "274.443"
+        "299.571",
+        "286.529",
+        "274.443",
+        "280.364"
       ],
-      "Şehir": "Konya",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112550519",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Program Kodu": "106250501",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Trabzon Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+065+2+0+2+065+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "67+0+0+1+0",
-        "67"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,156"
+        "860.564",
+        "1.041.617",
+        "1.192.082",
+        "1.034.662"
       ],
       "Taban Puan": [
-        "280.438"
+        "299.226",
+        "288.268",
+        "276.672",
+        "280.563"
       ],
-      "Şehir": "Isparta",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107690184",
-      "Üniversite": "Muğla Sıtkı Koçman Üniversitesi",
-      "Fakülte": "Yatağan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "63"
-      ],
-      "Taban Sıralama": [
-        "1,160"
-      ],
-      "Taban Puan": [
-        "280.143"
-      ],
-      "Şehir": "Muğla",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110290220",
-      "Üniversite": "Van Yüzüncü Yıl Üniversitesi",
-      "Fakülte": "Muradiye Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
-      ],
-      "Taban Sıralama": [
-        "1,165",
-        "381,279"
-      ],
-      "Taban Puan": [
-        "279.807",
-        "270.78"
-      ],
-      "Şehir": "Van",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109750541",
-      "Üniversite": "Bursa Uludağ Üniversitesi",
-      "Fakülte": "İznik Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+055+2+0+0+055+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "57+0+0+0+0",
-        "57"
-      ],
-      "Taban Sıralama": [
-        "1,177"
-      ],
-      "Taban Puan": [
-        "279.059"
-      ],
-      "Şehir": "Bursa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101590103",
-      "Üniversite": "Balıkesir Üniversitesi",
-      "Fakülte": "Bigadiç Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "1,222",
-        "161,385"
-      ],
-      "Taban Puan": [
-        "276.126",
-        "3.84"
-      ],
-      "Şehir": "Balıkesir",
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105350575",
-      "Üniversite": "İnönü Üniversitesi",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
       "Fakülte": "Malatya Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+355+2+0+2+1455+2+0+2+14--"
+        "30",
+        "55",
+        "55",
+        "55"
       ],
       "Yerleşen": [
-        "57+0+0+2+14",
-        "Doldu-73"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,223",
-        "511,276"
+        "866.021",
+        "1.225.257",
+        "1.276.532",
+        "1.066.530"
       ],
       "Taban Puan": [
-        "276.052",
-        "70.94"
+        "298.782",
+        "275.934",
+        "270.940",
+        "278.192"
       ],
-      "Şehir": "Malatya",
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102950296",
-      "Üniversite": "Çukurova Üniversitesi",
-      "Fakülte": "Karaisalı Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+350+2+0+0+1350+2+0+2+13--"
-      ],
-      "Yerleşen": [
-        "52+0+0+0+13",
-        "Doldu-67"
-      ],
-      "Taban Sıralama": [
-        "1,261",
-        "431,253"
-      ],
-      "Taban Puan": [
-        "273.579",
-        "272.468"
-      ],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107790315",
-      "Üniversite": "Hatay Mustafa Kemal Üniversitesi",
-      "Fakülte": "Antakya Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+320+1+0+1+520+1+0+1+5--"
-      ],
-      "Yerleşen": [
-        "21+0+0+1+5",
-        "Doldu-27"
-      ],
-      "Taban Sıralama": [
-        "1,309",
-        "511,389"
-      ],
-      "Taban Puan": [
-        "270.588",
-        "263.594"
-      ],
-      "Şehir": "Hatay",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106390071",
-      "Üniversite": "Karamanoğlu Mehmetbey Üniversitesi",
+      "Program Kodu": "112550519",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+        "30",
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
-        "31+0+0+1+0",
-        "Doldu-32"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,314",
-        "601,398"
+        "908.443",
+        "1.156.358",
+        "1.234.235",
+        "1.178.505"
       ],
       "Taban Puan": [
-        "270.219",
-        "263.064"
+        "295.332",
+        "280.438",
+        "273.765",
+        "270.310"
       ],
-      "Şehir": "Karaman",
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112750504",
-      "Üniversite": "Samsun Üniversitesi",
-      "Fakülte": "Kavak Meslek Yüksekokulu",
+      "Program Kodu": "107690184",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "Yatağan Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,319"
+        "976.001",
+        "1.160.793",
+        "1.316.867",
+        "1.173.632"
       ],
       "Taban Puan": [
-        "269.976"
+        "290.014",
+        "280.143",
+        "268.292",
+        "270.644"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200351824",
-      "Üniversite": "Avrasya Üniversitesi",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+13+0+0+0+1--"
+        "4",
+        "4",
+        "3",
+        "4"
       ],
       "Yerleşen": [
-        "4+0+1+0+1",
-        "Doldu-4"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,338",
-        "850,558"
+        "979.846",
+        "1.338.219",
+        "850.558",
+        "1.000.935"
       ],
       "Taban Puan": [
-        "268.783",
-        "02.71"
+        "289.713",
+        "268.780",
+        "302.710",
+        "283.129"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "TRABZON",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "103350272",
-      "Üniversite": "Düzce Üniversitesi",
-      "Fakülte": "Kaynaşlı Meslek Yüksekokulu",
+      "Program Kodu": "109750541",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "İznik Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "55",
+        "55",
+        "55"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,344",
-        "741,523"
+        "984.142",
+        "1.177.007",
+        "1.362.047",
+        "1.181.992"
       ],
       "Taban Puan": [
-        "268.406",
-        "255.39"
+        "289.388",
+        "279.059",
+        "265.366",
+        "270.080"
       ],
-      "Şehir": "Düzce",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105050127",
-      "Üniversite": "Harran Üniversitesi",
-      "Fakülte": "Şanlıurfa Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+360+2+0+2+1560+2+0+2+15--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+15",
-        "Doldu-79"
-      ],
-      "Taban Sıralama": [
-        "1,362",
-        "291,291"
-      ],
-      "Taban Puan": [
-        "267.293",
-        "269.917"
-      ],
-      "Şehir": "Şanlıurfa",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104350048",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Tokat Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "1,364",
-        "091,485"
-      ],
-      "Taban Puan": [
-        "267.174",
-        "257.651"
-      ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112351117",
-      "Üniversite": "Kayseri Üniversitesi",
-      "Fakülte": "Tomarza Mustafa Akıncıoğlu Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
-      ],
-      "Taban Sıralama": [
-        "1,375",
-        "871,553"
-      ],
-      "Taban Puan": [
-        "266.468",
-        "253.584"
-      ],
-      "Şehir": "Kayseri",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109450165",
-      "Üniversite": "Trakya Üniversitesi",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "Edirne Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+070+2+0+2+070+2+0+2+0--"
+        "30",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "72+0+0+2+0",
-        "72"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,397"
+        "1.019.647",
+        "1.397.945",
+        "1.547.648",
+        "1.456.514"
       ],
       "Taban Puan": [
-        "265.086"
+        "286.686",
+        "265.086",
+        "253.936",
+        "253.128"
       ],
-      "Şehir": "Edirne",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104590456",
-      "Üniversite": "Giresun Üniversitesi",
-      "Fakülte": "Giresun Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+080+2+0+2+080+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "82+0+0+2+0",
-        "Doldu-84"
-      ],
-      "Taban Sıralama": [
-        "1,407",
-        "411,602"
-      ],
-      "Taban Puan": [
-        "264.482",
-        "250.683"
-      ],
-      "Şehir": "Giresun",
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108550052",
-      "Üniversite": "Osmaniye Korkut Ata Üniversitesi",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
       "Fakülte": "Osmaniye Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+360+2+0+2+1560+2+0+2+15--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+15",
-        "Doldu-79"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,409",
-        "151,424"
+        "1.020.789",
+        "1.409.015",
+        "1.424.012",
+        "1.298.131"
       ],
       "Taban Puan": [
+        "286.602",
         "264.411",
-        "261.443"
+        "261.443",
+        "262.538"
       ],
-      "Şehir": "Osmaniye",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110350285",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
-      "Fakülte": "Zonguldak Meslek Yüksekokulu (Kilimli)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "62+0+0+2+0",
-        "63"
-      ],
-      "Taban Sıralama": [
-        "1,423"
-      ],
-      "Taban Puan": [
-        "263.54"
-      ],
-      "Şehir": "Zonguldak",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100950063",
-      "Üniversite": "Amasya Üniversitesi",
-      "Fakülte": "Amasya Teknik Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "52+0+0+2+0",
-        "53"
-      ],
-      "Taban Sıralama": [
-        "1,431"
-      ],
-      "Taban Puan": [
-        "263.007"
-      ],
-      "Şehir": "Amasya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100250194",
-      "Üniversite": "Adıyaman Üniversitesi",
-      "Fakülte": "Kahta Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+330+1+0+1+830+1+0+1+8--"
-      ],
-      "Yerleşen": [
-        "31+0+0+1+8",
-        "Doldu-40"
-      ],
-      "Taban Sıralama": [
-        "1,448",
-        "921,301"
-      ],
-      "Taban Puan": [
-        "262.012",
-        "269.304"
-      ],
-      "Şehir": "Adıyaman",
+      "Şehir": "OSMANİYE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110750245",
-      "Üniversite": "İskenderun Teknik Üniversitesi",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
       "Fakülte": "İskenderun Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+350+2+0+2+1350+2+0+2+13--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+13",
-        "Doldu-67"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,471",
-        "271,582"
+        "1.024.742",
+        "1.471.527",
+        "1.582.125",
+        "1.307.078"
       ],
       "Taban Puan": [
+        "286.297",
         "260.618",
-        "251.896"
+        "251.896",
+        "261.978"
       ],
-      "Şehir": "Hatay",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108150417",
-      "Üniversite": "Niğde Ömer Halisdemir Üniversitesi",
-      "Fakülte": "Bor Meslek Yüksekokulu",
+      "Program Kodu": "101590103",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Bigadiç Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "52+0+0+0+0",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,473"
+        "1.034.271",
+        "1.222.716",
+        "1.385.819",
+        "1.285.297"
       ],
       "Taban Puan": [
-        "260.481"
+        "285.587",
+        "276.100",
+        "263.840",
+        "263.343"
       ],
-      "Şehir": "Niğde",
+      "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107351116",
-      "Üniversite": "Burdur Mehmet Akif Ersoy Üniversitesi",
-      "Fakülte": "Gölhisar Meslek Yüksekokulu",
+      "Program Kodu": "104350048",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Tokat Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,481"
+        "1.056.935",
+        "1.364.209",
+        "1.485.680",
+        "1.397.716"
       ],
       "Taban Puan": [
-        "260.048"
+        "283.893",
+        "267.174",
+        "257.651",
+        "256.521"
       ],
-      "Şehir": "Burdur",
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103250828",
-      "Üniversite": "Kütahya Dumlupınar Üniversitesi",
-      "Fakülte": "Tavşanlı Meslek Yüksekokulu",
+      "Program Kodu": "107790315",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Antakya Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "30",
+        "20",
+        "20",
+        "30"
       ],
       "Yerleşen": [
-        "62+0+0+1+0",
-        "62"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,494"
+        "1.060.278",
+        "1.309.051",
+        "1.389.771",
+        "1.147.484"
       ],
       "Taban Puan": [
-        "259.233"
+        "283.648",
+        "270.588",
+        "263.594",
+        "272.437"
       ],
-      "Şehir": "Kütahya",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102550343",
-      "Üniversite": "Manisa Celâl Bayar Üniversitesi",
-      "Fakülte": "Sarıgöl Meslek Yüksekokulu",
+      "Program Kodu": "102950296",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Karaisalı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+045+2+0+2+045+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "47+0+0+2+0",
-        "47"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,495"
+        "1.063.602",
+        "1.261.743",
+        "1.253.652",
+        "1.207.748"
       ],
       "Taban Puan": [
-        "259.162"
+        "283.402",
+        "273.579",
+        "272.468",
+        "268.364"
       ],
-      "Şehir": "Manisa",
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104590456",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Giresun Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "80",
+        "80",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.065.740",
+        "1.407.841",
+        "1.602.803",
+        "1.493.385"
+      ],
+      "Taban Puan": [
+        "283.243",
+        "264.482",
+        "250.683",
+        "251.057"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290220",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Muradiye Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.067.432",
+        "1.165.738",
+        "1.279.062",
+        "1.300.978"
+      ],
+      "Taban Puan": [
+        "283.117",
+        "279.807",
+        "270.780",
+        "262.364"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105050127",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Şanlıurfa Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.078.766",
+        "1.362.329",
+        "1.291.944",
+        "1.269.931"
+      ],
+      "Taban Puan": [
+        "282.277",
+        "267.293",
+        "269.917",
+        "264.314"
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103950424",
-      "Üniversite": "Fırat Üniversitesi",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
       "Fakülte": "Sivrice Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+360+2+0+0+1560+2+0+2+15--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "61+1+0+0+15",
-        "Doldu-79"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,524",
-        "241,414"
+        "1.092.186",
+        "1.524.024",
+        "1.414.133",
+        "1.396.480"
       ],
       "Taban Puan": [
+        "281.300",
         "257.502",
-        "262.062"
+        "262.062",
+        "256.590"
       ],
-      "Şehir": "Elazığ",
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107190023",
-      "Üniversite": "Mardin Artuklu Üniversitesi",
-      "Fakülte": "Savur Meslek Yüksekokulu",
+      "Program Kodu": "112750504",
+      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
+      "Fakülte": "Kavak Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,538",
-        "121,635"
+        "1.097.960",
+        "1.319.021",
+        "1.412.670",
+        "1.280.413"
       ],
       "Taban Puan": [
-        "256.641",
-        "248.786"
+        "280.883",
+        "269.976",
+        "262.155",
+        "263.650"
       ],
-      "Şehir": "Mardin",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106050654",
-      "Üniversite": "Kahramanmaraş Sütçü İmam Üniversitesi",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
       "Fakülte": "Göksun Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+360+2+0+2+1560+2+0+2+15--"
+        "30",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+15",
-        "Doldu-79"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,542",
-        "921,680"
+        "1.100.649",
+        "1.542.992",
+        "1.680.775",
+        "1.463.593"
       ],
       "Taban Puan": [
+        "280.695",
         "256.386",
-        "246.173"
+        "246.173",
+        "252.727"
       ],
-      "Şehir": "Kahramanmaraş",
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103350272",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "Kaynaşlı Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.118.163",
+        "1.344.374",
+        "1.523.083",
+        "1.424.216"
+      ],
+      "Taban Puan": [
+        "279.423",
+        "268.406",
+        "255.390",
+        "254.984"
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106390071",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.129.722",
+        "1.314.960",
+        "1.398.236",
+        "1.392.324"
+      ],
+      "Taban Puan": [
+        "278.589",
+        "270.219",
+        "263.064",
+        "256.828"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107351116",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Gölhisar Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.133.615",
+        "1.481.033",
+        "1.703.433",
+        "1.589.227"
+      ],
+      "Taban Puan": [
+        "278.309",
+        "260.048",
+        "244.892",
+        "245.918"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100950063",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "Amasya Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.135.099",
+        "1.431.745",
+        "1.506.680",
+        "1.429.860"
+      ],
+      "Taban Puan": [
+        "278.199",
+        "263.007",
+        "256.371",
+        "254.652"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108150417",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Bor Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.145.851",
+        "1.475.543",
+        "1.599.546",
+        "1.478.478"
+      ],
+      "Taban Puan": [
+        "277.433",
+        "260.372",
+        "250.876",
+        "251.894"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112351117",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "Tomarza Mustafa Akıncıoğlu Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.149.837",
+        "1.375.387",
+        "1.553.586",
+        "1.444.609"
+      ],
+      "Taban Puan": [
+        "277.147",
+        "266.468",
+        "253.584",
+        "253.800"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110350285",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Zonguldak Meslek Yüksekokulu (Kilimli)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.153.795",
+        "1.423.100",
+        "1.560.398",
+        "1.516.167"
+      ],
+      "Taban Puan": [
+        "276.863",
+        "263.540",
+        "253.179",
+        "249.814"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103250828",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Tavşanlı Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.170.929",
+        "1.494.729",
+        "1.656.156",
+        "1.602.699"
+      ],
+      "Taban Puan": [
+        "275.632",
+        "259.233",
+        "247.588",
+        "245.214"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100250194",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "Kahta Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.214.414",
+        "1.448.392",
+        "1.301.218",
+        "1.508.896"
+      ],
+      "Taban Puan": [
+        "272.561",
+        "262.012",
+        "269.304",
+        "250.209"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102550343",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "Sarıgöl Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "45",
+        "45",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.224.596",
+        "1.495.942",
+        "1.589.158",
+        "1.470.722"
+      ],
+      "Taban Puan": [
+        "271.856",
+        "259.162",
+        "251.481",
+        "252.328"
+      ],
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105150047",
-      "Üniversite": "Hitit Üniversitesi",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
       "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,552",
-        "221,640"
+        "1.231.448",
+        "1.552.222",
+        "1.640.098",
+        "1.487.750"
       ],
       "Taban Puan": [
+        "271.378",
         "255.848",
-        "248.517"
+        "248.517",
+        "251.372"
       ],
-      "Şehir": "Çorum",
+      "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102050454",
-      "Üniversite": "Bingöl Üniversitesi",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
       "Fakülte": "Bingöl Teknik Bilimler Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+045+2+0+2+045+2+0+2+0--"
+        "30",
+        "45",
+        "45",
+        "45"
       ],
       "Yerleşen": [
-        "47+0+0+2+0",
-        "Doldu-49"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,561",
-        "471,662"
+        "1.232.158",
+        "1.561.747",
+        "1.662.843",
+        "1.514.867"
       ],
       "Taban Puan": [
+        "271.329",
         "255.289",
-        "247.194"
+        "247.194",
+        "249.884"
       ],
-      "Şehir": "Bingöl",
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102550282",
-      "Üniversite": "Manisa Celâl Bayar Üniversitesi",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
       "Fakülte": "Köprübaşı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+070+2+0+2+070+2+0+2+0--"
+        "30",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "72+0+0+2+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,611",
-        "821,677"
+        "1.232.323",
+        "1.611.982",
+        "1.677.778",
+        "1.684.066"
       ],
       "Taban Puan": [
+        "271.318",
         "252.355",
-        "246.341"
+        "246.341",
+        "241.060"
       ],
-      "Şehir": "Manisa",
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204751086",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Harita ve Kadastro (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "13",
+        "15",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.265.383",
+        "1.690.832",
+        "1.931.332",
+        "2.169.035"
+      ],
+      "Taban Puan": [
+        "269.010",
+        "247.810",
+        "232.469",
+        "219.627"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "100450589",
-      "Üniversite": "Afyon Kocatepe Üniversitesi",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
       "Fakülte": "Emirdağ Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,615",
-        "491,758"
+        "1.294.994",
+        "1.618.618",
+        "1.758.801",
+        "1.567.853"
       ],
       "Taban Puan": [
-        "252.171",
-        "241.788"
+        "266.960",
+        "251.965",
+        "241.788",
+        "247.033"
       ],
-      "Şehir": "Afyonkarahisar",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111551158",
-      "Üniversite": "Malatya Turgut Özal Üniversitesi",
-      "Fakülte": "Darende Bekir Ilıcak Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+340+1+0+1+1040+1+0+1+10--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+10",
-        "Doldu-52"
-      ],
-      "Taban Sıralama": [
-        "1,627",
-        "671,723"
-      ],
-      "Taban Puan": [
-        "251.446",
-        "243.743"
-      ],
-      "Şehir": "Malatya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106450677",
-      "Üniversite": "Kastamonu Üniversitesi",
-      "Fakülte": "İhsangazi Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "41"
-      ],
-      "Taban Sıralama": [
-        "1,638"
-      ],
-      "Taban Puan": [
-        "250.838"
-      ],
-      "Şehir": "Kastamonu",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102150198",
-      "Üniversite": "Bitlis Eren Üniversitesi",
-      "Fakülte": "Tatvan Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "1,648",
-        "151,595"
-      ],
-      "Taban Puan": [
-        "250.263",
-        "251.1"
-      ],
-      "Şehir": "Bitlis",
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109150062",
-      "Üniversite": "Sinop Üniversitesi",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
       "Fakülte": "Boyabat Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,651",
-        "351,811"
+        "1.303.529",
+        "1.651.235",
+        "1.811.863",
+        "1.720.255"
       ],
       "Taban Puan": [
+        "266.375",
         "250.082",
-        "238.881"
+        "238.881",
+        "239.283"
       ],
-      "Şehir": "Sinop",
+      "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112551677",
-      "Üniversite": "Isparta Uygulamalı Bilimler Üniversitesi",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
       "Fakülte": "Uluborlu Selahattin Karasoy Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52+0+0+0+0",
-        "53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,658"
+        "1.317.685",
+        "1.658.366",
+        "1.757.366",
+        "1.681.457"
       ],
       "Taban Puan": [
-        "249.674"
+        "265.384",
+        "249.674",
+        "241.868",
+        "241.189"
       ],
-      "Şehir": "Isparta",
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101350109",
-      "Üniversite": "Artvin Çoruh Üniversitesi",
-      "Fakülte": "Artvin Meslek Yüksekokulu",
+      "Program Kodu": "102150198",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "Tatvan Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,662",
-        "581,766"
+        "1.331.962",
+        "1.648.015",
+        "1.595.768",
+        "1.704.166"
       ],
       "Taban Puan": [
-        "249.408",
-        "241.392"
+        "264.401",
+        "250.263",
+        "251.100",
+        "240.066"
       ],
-      "Şehir": "Artvin",
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107190023",
+      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "Fakülte": "Savur Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.342.964",
+        "1.538.712",
+        "1.635.417",
+        "1.618.029"
+      ],
+      "Taban Puan": [
+        "263.646",
+        "256.641",
+        "248.786",
+        "244.423"
+      ],
+      "Şehir": "MARDİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109550322",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "Tunceli Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.342.985",
+        "1.739.910",
+        "1.646.682",
+        "1.659.086"
+      ],
+      "Taban Puan": [
+        "263.645",
+        "245.021",
+        "248.131",
+        "242.326"
+      ],
+      "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "100450702",
-      "Üniversite": "Afyon Kocatepe Üniversitesi",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
       "Fakülte": "Sandıklı Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "H",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+045+2+0+2+045+2+0+2+0--"
+        "30",
+        "45",
+        "45",
+        "45"
       ],
       "Yerleşen": [
-        "47+0+0+2+0",
-        "Doldu-49"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,671",
-        "561,801"
+        "1.353.033",
+        "1.671.356",
+        "1.801.125",
+        "1.718.340"
       ],
       "Taban Puan": [
+        "262.947",
         "248.928",
-        "239.465"
+        "239.465",
+        "239.378"
       ],
-      "Şehir": "Afyonkarahisar",
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101350109",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "Artvin Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.366.848",
+        "1.662.958",
+        "1.766.017",
+        "1.663.795"
+      ],
+      "Taban Puan": [
+        "262.003",
+        "249.408",
+        "241.392",
+        "242.092"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111551158",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "Darende Bekir Ilıcak Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.368.994",
+        "1.627.567",
+        "1.723.804",
+        "1.542.011"
+      ],
+      "Taban Puan": [
+        "261.865",
+        "251.446",
+        "243.743",
+        "248.413"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100650145",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "Kaman Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.379.376",
+        "1.726.992",
+        "1.874.679",
+        "1.727.000"
+      ],
+      "Taban Puan": [
+        "261.156",
+        "245.758",
+        "235.483",
+        "238.958"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108951373",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Kadınhanı Faik İçil Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.392.494",
+        "1.777.507",
+        "1.990.881",
+        "2.002.605"
+      ],
+      "Taban Puan": [
+        "260.258",
+        "242.907",
+        "229.340",
+        "226.494"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103650075",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.392.818",
+        "1.764.549",
+        "1.918.592",
+        "1.740.713"
+      ],
+      "Taban Puan": [
+        "260.238",
+        "243.632",
+        "233.142",
+        "238.298"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108951107",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Güneysınır Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.445.485",
+        "1.766.743",
+        "1.920.528",
+        "1.974.993"
+      ],
+      "Taban Puan": [
+        "256.630",
+        "243.513",
+        "233.043",
+        "227.664"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106450677",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "İhsangazi Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.451.744",
+        "1.638.092",
+        "1.820.322",
+        "1.813.116"
+      ],
+      "Taban Puan": [
+        "256.190",
+        "250.838",
+        "238.424",
+        "234.874"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101451212",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Pasinler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.456.510",
+        "1.677.713",
+        "1.856.286",
+        "1.841.364"
+      ],
+      "Taban Puan": [
+        "255.874",
+        "248.561",
+        "236.475",
+        "233.572"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109090057",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "Eruh Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.490.399",
+        "1.766.480",
+        "1.865.256",
+        "1.890.325"
+      ],
+      "Taban Puan": [
+        "253.580",
+        "243.527",
+        "235.991",
+        "231.357"
+      ],
+      "Şehir": "SİİRT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105150462",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "Osmancık Ömer Derindere Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.492.877",
+        "1.805.744",
+        "1.966.427",
+        "1.965.175"
+      ],
+      "Taban Puan": [
+        "253.416",
+        "241.320",
+        "230.619",
+        "228.090"
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105290063",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "Iğdır Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.515.340",
+        "1.884.442",
+        "1.976.534",
+        "2.081.779"
+      ],
+      "Taban Puan": [
+        "251.877",
+        "236.946",
+        "230.086",
+        "223.179"
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108952847",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Taşkent Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.521.199",
+        "1.878.789",
+        "2.025.430",
+        "2.003.701"
+      ],
+      "Taban Puan": [
+        "251.471",
+        "237.257",
+        "227.560",
+        "226.448"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108951152",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Hadim Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "48"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.522.578",
+        "1.880.151",
+        "2.019.555",
+        "2.047.785"
+      ],
+      "Taban Puan": [
+        "251.373",
+        "237.178",
+        "227.857",
+        "224.597"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104970175",
+      "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
+      "Fakülte": "Çölemerik Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.550.074",
+        "1.673.060",
+        "1.738.092",
+        "1.739.474"
+      ],
+      "Taban Puan": [
+        "249.496",
+        "248.828",
+        "242.944",
+        "238.356"
+      ],
+      "Şehir": "HAKKARİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101850282",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
+      "Fakülte": "Aydıntepe Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.574.984",
+        "1.907.080",
+        "2.024.491",
+        "2.108.380"
+      ],
+      "Taban Puan": [
+        "247.800",
+        "235.696",
+        "227.604",
+        "222.079"
+      ],
+      "Şehir": "BAYBURT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109550304",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "Pertek Sakine Genç Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.637.237",
+        "1.920.087",
+        "2.008.862",
+        "2.061.687"
+      ],
+      "Taban Puan": [
+        "243.571",
+        "234.980",
+        "228.406",
+        "224.010"
+      ],
+      "Şehir": "TUNCELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105150665",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro (Kargı)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.657.990",
+        "1.898.204",
+        "1.990.000",
+        "2.123.047"
+      ],
+      "Taban Puan": [
+        "242.156",
+        "236.182",
+        "229.387",
+        "221.476"
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200390128",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Harita ve Kadastro (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "25",
+        "17",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.925.769",
+        "2.330.651",
+        "2.262.862",
+        "2.671.006"
+      ],
+      "Taban Puan": [
+        "223.500",
+        "212.626",
+        "215.652",
+        "198.399"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "112572417",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106290372",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Trabzon Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita ve Kadastro (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200390644",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Harita ve Kadastro (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205053156",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Harita ve Kadastro (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "64",
+        "64",
+        "64",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.676.740",
+        "2.514.960",
+        "2.881.740"
+      ],
+      "Taban Puan": [
+        "",
+        "188.387",
+        "203.186",
+        "180.380"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

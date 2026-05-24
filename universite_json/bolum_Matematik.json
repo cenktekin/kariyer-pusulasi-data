@@ -2,1837 +2,4963 @@
   "yks": [
     {
       "Program Kodu": "203910115",
-      "Üniversite": "Koç Üniversitesi",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+0+0+14+0+0+0+14+0+0+0+14+010+0"
+        "6",
+        "4",
+        "4",
+        "4"
       ],
       "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "5410"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,234"
+        "1.137",
+        "1.234",
+        "316",
+        "660"
       ],
       "Taban Puan": [
+        "535.061",
         "537.274",
-        "548.885",
-        "42.925",
-        "13.756"
+        "548.880",
+        "542.920"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202110108",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "19+0+1+0+119+0+1+0+119+0+1+0+120+020+0"
+        "19",
+        "19",
+        "19",
+        "20"
       ],
       "Yerleşen": [
-        "21",
-        "19+0+1+0+1",
-        "212020"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "4,270",
-        "6,062",
-        "7,501",
-        "13,949"
+        "5.805",
+        "4.270",
+        "6.062",
+        "7.501"
       ],
       "Taban Puan": [
-        "520.125",
-        "24.435",
-        "18.165",
-        "445.5"
+        "514.150",
+        "520.120",
+        "524.430",
+        "518.165"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105510168",
-      "Üniversite": "İstanbul Teknik Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+040+1+0+0+050+2+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "526262"
-      ],
-      "Taban Sıralama": [
-        "4,910",
-        "6,666",
-        "10,646",
-        "18,238"
-      ],
-      "Taban Puan": [
-        "517.555",
-        "522.968",
-        "511.662",
-        "436.662"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "102270126",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Fen FaküLtesi",
+      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+0----"
-      ],
-      "Yerleşen": [],
-      "Taban Sıralama": [
-        "9,025"
-      ],
-      "Taban Puan": [
-        "504.059"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110110349",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "75+2+0+0+075+2+0+0+070+2+0+0+070+270+2"
+        "50",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "727272"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "9,589",
-        "11,881",
-        "19,614",
-        "34,558"
+        "12.452",
+        "9.025",
+        "",
+        "7.549"
       ],
       "Taban Puan": [
-        "502.438",
-        "511.626",
-        "496.816",
-        "411.223"
+        "497.014",
+        "504.059",
+        "",
+        "518.073"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110110207",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "70+2+0+0+0105+3+0+0+0100+3+0+0+0100+3100+3"
-      ],
-      "Yerleşen": [
-        "108",
-        "105+3+0+0+0",
-        "103103103"
-      ],
-      "Taban Sıralama": [
-        "13,125",
-        "16,507",
-        "30,017",
-        "43,145"
-      ],
-      "Taban Puan": [
-        "493.401",
-        "503.508",
-        "482.208",
-        "400.436"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108410151",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "80+2+0+0+080+2+0+0+080+2+0+2+080+280+2"
+        "80",
+        "80",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "82",
-        "80+2+0+0+0",
-        "828282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "17,018",
-        "21,010",
-        "27,046",
-        "37,136"
+        "19.260",
+        "17.018",
+        "21.010",
+        "27.046"
       ],
       "Taban Puan": [
+        "484.842",
         "485.257",
         "496.318",
-        "486.197",
-        "407.9"
+        "486.197"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104010034",
-      "Üniversite": "Galatasaray Üniversitesi",
+      "Üniversite": "GALATASARAY ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (Fransızca)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+030+130+1"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
-        "32",
-        "30+1+0+1+0",
-        "313131"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "24,510",
-        "26,684",
-        "31,480",
-        "35,245"
+        "28.217",
+        "24.510",
+        "26.684",
+        "31.480"
       ],
       "Taban Puan": [
+        "471.583",
         "471.351",
         "487.915",
-        "480.363",
-        "410.343"
+        "480.363"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202110602",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+0+0+08+0+0+0+08+0+0+0+08+08+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "8+0+0+0+0",
-        "888"
-      ],
-      "Taban Sıralama": [
-        "29,330",
-        "33,492",
-        "40,872",
-        "56,164"
-      ],
-      "Taban Puan": [
-        "463.547",
-        "8.876",
-        "468.541",
-        "385.178"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203910812",
-      "Üniversite": "Koç Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "8+0+0+0+08+0+0+0+09+0+0+0+011+06+0"
-      ],
-      "Yerleşen": [
-        "8",
-        "8+0+0+0+0",
-        "9116"
-      ],
-      "Taban Sıralama": [
-        "36,423",
-        "27,637",
-        "75,693",
-        "17,261"
-      ],
-      "Taban Puan": [
-        "486.579",
-        "429.124",
-        "438.568"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "102210074",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "38,298",
-        "38,835",
-        "31,327",
-        "35,424"
-      ],
-      "Taban Puan": [
-        "450.366",
-        "472.102",
-        "480.564",
-        "10.106"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206110229",
-      "Üniversite": "Yeditepe Üniversitesi",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+1+0+14+0+1+0+14+0+1+0+15+05+0"
+        "3",
+        "4",
+        "4",
+        "5"
       ],
       "Yerleşen": [
-        "6",
-        "4+0+1+0+1",
-        "555"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "48,281",
-        "32,683",
-        "40,992",
-        "50,588"
+        "46.297",
+        "48.281",
+        "32.683",
+        "40.992"
       ],
       "Taban Puan": [
+        "449.841",
         "437.296",
         "479.893",
-        "468.408",
-        "391.566"
+        "468.408"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "108411149",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "48,400",
-        "41,876",
-        "39,723",
-        "39,135"
-      ],
-      "Taban Puan": [
-        "437.133",
-        "468.445",
-        "469.932",
-        "405.397"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104810292",
-      "Üniversite": "Hacettepe Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "63,617",
-        "46,513",
-        "48,303",
-        "45,006"
-      ],
-      "Taban Puan": [
-        "419.351",
-        "463.165",
-        "459.653",
-        "98.248"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "110110094",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
+      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+080+2+0+0+080+2+0+2+080+280+2"
+        "60",
+        "80",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "82",
-        "80+2+0+0+0",
-        "828282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "65,554",
-        "70,496",
-        "85,092",
-        "101,109"
+        "58.241",
+        "65.554",
+        "70.496",
+        "85.092"
       ],
       "Taban Puan": [
+        "437.171",
         "417.201",
         "436.815",
-        "419.607",
-        "342.291"
+        "419.607"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104810371",
-      "Üniversite": "Hacettepe Üniversitesi",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+2+0100+3100+3"
+        "60",
+        "60",
+        "60",
+        "100"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "62103103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "66,397",
-        "69,761",
-        "88,831",
-        "107,878"
+        "63.528",
+        "66.397",
+        "69.761",
+        "88.831"
       ],
       "Taban Puan": [
-        "416.264",
-        "37.573",
-        "415.917",
-        "336.673"
+        "431.857",
+        "416.260",
+        "437.573",
+        "415.917"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108410045",
-      "Üniversite": "Orta Doğu Teknik Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+040+1+0+0+040+1+0+0+050+250+2"
-      ],
-      "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "415252"
-      ],
-      "Taban Sıralama": [
-        "68,682",
-        "53,707",
-        "49,727",
-        "48,671"
-      ],
-      "Taban Puan": [
-        "413.934",
-        "454.843",
-        "457.939",
-        "393.875"
-      ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206710436",
-      "Üniversite": "Ted Üniversitesi",
+      "Üniversite": "TED ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+0+0+13+0+1+0+14+0+0+0+13+05+0"
+        "4",
+        "3",
+        "4",
+        "3"
       ],
       "Yerleşen": [
-        "5",
-        "3+0+1+0+1",
-        "535"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "70,746",
-        "62,847",
-        "77,389",
-        "105,693"
+        "69.856",
+        "70.746",
+        "62.847",
+        "77.389"
       ],
       "Taban Puan": [
+        "425.761",
         "411.766",
         "444.957",
-        "427.395",
-        "338.465"
+        "427.395"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202511641",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "4+0+1+0+14+0+0+0+14+0+0+0+110+010+0"
-      ],
-      "Yerleşen": [
-        "5",
-        "4+0+0+0+1",
-        "51010"
-      ],
-      "Taban Sıralama": [
-        "70,857",
-        "56,244",
-        "80,177",
-        "89,256"
-      ],
-      "Taban Puan": [
-        "411.621",
-        "452.046",
-        "424.562",
-        "352.339"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104810265",
-      "Üniversite": "Hacettepe Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+045+2+0+0+040+1+0+0+060+260+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "416262"
-      ],
-      "Taban Sıralama": [
-        "76,169",
-        "54,491",
-        "54,599",
-        "50,914"
-      ],
-      "Taban Puan": [
-        "406.268",
-        "453.962",
-        "452.309",
-        "391.206"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102210047",
-      "Üniversite": "Boğaziçi Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+045+2+0+0+040+1+0+0+050+250+2"
-      ],
-      "Yerleşen": [
-        "47",
-        "45+2+0+0+0",
-        "415252"
-      ],
-      "Taban Sıralama": [
-        "79,045",
-        "58,409",
-        "50,928",
-        "45,075"
-      ],
-      "Taban Puan": [
-        "403.416",
-        "449.779",
-        "456.518",
-        "398.16"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104110324",
-      "Üniversite": "Gazi Üniversitesi",
-      "Fakülte": "Gazi Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+0+030+1+0+0+030+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "312121"
-      ],
-      "Taban Sıralama": [
-        "84,114",
-        "57,418",
-        "56,137",
-        "51,635"
-      ],
-      "Taban Puan": [
-        "398.628",
-        "450.814",
-        "450.512",
-        "390.279"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203510085",
-      "Üniversite": "İzmir Ekonomi Üniversitesi",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+0+0+13+0+0+0+13+0+0+0+13+03+0"
+        "3",
+        "3",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "4",
-        "3+0+0+0+1",
-        "433"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "87,475",
-        "72,182",
-        "64,292",
-        "113,533"
+        "75.554",
+        "87.475",
+        "72.182",
+        "64.292"
       ],
       "Taban Puan": [
+        "420.401",
         "395.411",
         "435.009",
-        "441.422",
-        "332.172"
+        "441.422"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "103110124",
-      "Üniversite": "Dokuz Eylül Üniversitesi",
-      "Fakülte": "Buca Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "88,267",
-        "66,511",
-        "62,345",
-        "58,963"
-      ],
-      "Taban Puan": [
-        "394.714",
-        "441.034",
-        "443.519",
-        "382.135"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104110299",
-      "Üniversite": "Gazi Üniversitesi",
-      "Fakülte": "Gazi Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+050+2+0+0+080+2+0+0+070+270+2"
-      ],
-      "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "827272"
-      ],
-      "Taban Sıralama": [
-        "90,718",
-        "61,713",
-        "59,843",
-        "54,459"
-      ],
-      "Taban Puan": [
-        "392.515",
-        "446.152",
-        "446.371",
-        "387.047"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107210129",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Atatürk Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "93,106",
-        "62,536",
-        "56,579",
-        "55,068"
-      ],
-      "Taban Puan": [
-        "390.337",
-        "445.324",
-        "50.014",
-        "386.378"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206111687",
-      "Üniversite": "Yeditepe Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
+      "Program Kodu": "202110602",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+0+0+12+0+0+0+13+0+0+0+14+04+0"
+        "8",
+        "8",
+        "8",
+        "8"
       ],
       "Yerleşen": [
-        "3",
-        "2+0+0+0+1",
-        "444"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "95,255",
-        "82,786",
-        "75,194",
-        "64,927"
+        "84.480",
+        "29.330",
+        "33.492",
+        "40.872"
       ],
       "Taban Puan": [
-        "388.525",
-        "424.583",
-        "429.628",
-        "375.8"
+        "412.412",
+        "463.500",
+        "478.876",
+        "468.541"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "110110322",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
+      "Program Kodu": "105810102",
+      "Üniversite": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+      "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+0+030+1+0+0+060+2+0+0+060+260+2"
+        "40",
+        "40",
+        "40",
+        "60"
       ],
       "Yerleşen": [
-        "31",
-        "30+1+0+0+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "99,182",
-        "78,355",
-        "68,151",
-        "67,138"
+        "89.697",
+        "109.831",
+        "128.708",
+        "187.257"
       ],
       "Taban Puan": [
-        "385.075",
-        "428.869",
-        "437.168",
-        "373.528"
+        "407.719",
+        "376.340",
+        "386.195",
+        "343.852"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101111367",
-      "Üniversite": "Ankara Üniversitesi",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+2+060+260+2"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "104,356",
-        "100,605",
-        "130,401",
-        "164,571"
+        "93.463",
+        "104.356",
+        "100.605",
+        "130.401"
       ],
       "Taban Puan": [
+        "404.486",
         "380.781",
         "408.369",
-        "379.929",
-        "299.437"
+        "379.929"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101110509",
-      "Üniversite": "Ankara Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+0+060+2+0+0+060+2+0+2+060+260+2"
-      ],
-      "Yerleşen": [
-        "62",
-        "60+2+0+0+0",
-        "626262"
-      ],
-      "Taban Sıralama": [
-        "105,009",
-        "94,439",
-        "114,723",
-        "139,741"
-      ],
-      "Taban Puan": [
-        "380.234",
-        "13.684",
-        "392.536",
-        "313.928"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105810102",
-      "Üniversite": "İzmir Yüksek Teknoloji Enstitüsü",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+040+1+0+0+040+1+0+1+060+260+2"
-      ],
-      "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "416262"
-      ],
-      "Taban Sıralama": [
-        "109,831",
-        "128,708",
-        "187,257",
-        "230,590"
-      ],
-      "Taban Puan": [
-        "376.343",
-        "86.195",
-        "343.852",
-        "269.761"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110190085",
-      "Üniversite": "Yıldız Teknik Üniversitesi",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "1+0+0+0+01+0+0+0+01+0+0+0+01+01+0"
-      ],
-      "Yerleşen": [
-        "1",
-        "1+0+0+0+0",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "111,380",
-        "94,505",
-        "48,118"
-      ],
-      "Taban Puan": [
-        "375.109",
-        "413.639",
-        "459.859"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201110756",
-      "Üniversite": "Çankaya Üniversitesi",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Program Kodu": "202511641",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+0+0+16+0+1+0+19+0+1+0+111+010+0"
+        "4",
+        "4",
+        "4",
+        "10"
       ],
       "Yerleşen": [
-        "7",
-        "6+0+0+0+1",
-        "111110"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "113,381",
-        "113,816",
-        "137,917",
-        "143,134"
+        "95.216",
+        "70.857",
+        "56.244",
+        "80.177"
       ],
       "Taban Puan": [
-        "373.524",
-        "397.526",
-        "374.461",
-        "311.796"
+        "403.035",
+        "411.621",
+        "452.046",
+        "424.562"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "108210135",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "20+1+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "117,869",
-        "79,295",
-        "75,098",
-        "72,924"
-      ],
-      "Taban Puan": [
-        "370.097",
-        "427.953",
-        "429.736",
-        "367.726"
-      ],
-      "Şehir": "Samsun",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202190191",
-      "Üniversite": "İhsan Doğramacı Bilkent Üniversitesi",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+0+0+010+0+0+0+010+0+0+0+010+010+0"
-      ],
-      "Yerleşen": [
-        "10",
-        "10+0+0+0+0",
-        "101010"
-      ],
-      "Taban Sıralama": [
-        "122,819",
-        "96,549",
-        "108,640",
-        "98,779"
-      ],
-      "Taban Puan": [
-        "366.473",
-        "411.879",
-        "397.765",
-        "344.219"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "107210298",
-      "Üniversite": "Marmara Üniversitesi",
+      "Program Kodu": "101110509",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "75+2+0+0+075+2+0+0+080+2+0+2+080+280+2"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "77",
-        "75+2+0+0+0",
-        "828282"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "124,738",
-        "106,443",
-        "112,356",
-        "127,589"
+        "102.467",
+        "105.009",
+        "94.439",
+        "114.723"
       ],
       "Taban Puan": [
-        "365.153",
-        "403.429",
-        "394.549",
-        "321.995"
+        "397.091",
+        "380.230",
+        "413.684",
+        "392.536"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200210052",
-      "Üniversite": "Atılım Üniversitesi",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "3+0+0+0+13+0+0+0+13+0+0+0+13+04+0"
+        "3",
+        "3",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "4",
-        "3+0+0+0+1",
-        "434"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "129,057",
-        "124,393",
-        "145,938",
-        "163,624"
+        "102.605",
+        "129.057",
+        "124.393",
+        "145.938"
       ],
       "Taban Puan": [
+        "396.985",
         "362.168",
         "389.436",
-        "368.778",
-        "299.948"
+        "368.778"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "208450828",
-      "Üniversite": "İstinye Üniversitesi",
-      "Fakülte": "Mühendislik Ve Doğa Bilimleri Fakültesi",
+      "Program Kodu": "201110756",
+      "Üniversite": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+14+0+1+0+14+0+1+0+15+011+0"
+        "6",
+        "6",
+        "9",
+        "11"
       ],
       "Yerleşen": [
-        "4",
-        "4+0+0+0+0",
-        "5511"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "129,078",
-        "122,777",
-        "157,664",
-        "224,782"
+        "113.561",
+        "113.381",
+        "113.816",
+        "137.917"
       ],
       "Taban Puan": [
-        "362.154",
-        "390.584",
-        "360.924",
-        "272.007"
+        "388.428",
+        "373.524",
+        "397.526",
+        "374.461"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105610379",
-      "Üniversite": "İstanbul Üniversitesi",
+      "Program Kodu": "203910812",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "80+2+0+0+080+2+0+0+0110+3+0+3+0110+3110+3"
+        "8",
+        "8",
+        "9",
+        "11"
       ],
       "Yerleşen": [
-        "82",
-        "80+2+0+0+0",
-        "113113113"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "129,166",
-        "117,788",
-        "133,085",
-        "155,294"
+        "116.919",
+        "36.423",
+        "27.637",
+        "75.693"
       ],
       "Taban Puan": [
-        "362.089",
-        "394.394",
-        "377.924",
-        "304.622"
+        "385.926",
+        "453.000",
+        "486.579",
+        "429.124"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107010131",
-      "Üniversite": "Necmettin Erbakan Üniversitesi",
-      "Fakülte": "Ahmet Keleşoğlu Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+1+0+0+020+1+0+0+020+1+0+0+020+120+1"
-      ],
-      "Yerleşen": [
-        "21",
-        "21+0+0+0+0",
-        "212121"
-      ],
-      "Taban Sıralama": [
-        "129,176",
-        "78,484",
-        "79,977",
-        "70,798"
-      ],
-      "Taban Puan": [
-        "362.078",
-        "428.739",
-        "424.765",
-        "369.795"
-      ],
-      "Şehir": "Konya",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102990258",
-      "Üniversite": "Çukurova Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "45+2+0+0+545+2+0+0+1140+1+0+0+1040+140+1"
-      ],
-      "Yerleşen": [
-        "58",
-        "47+0+0+0+11",
-        "514141"
-      ],
-      "Taban Sıralama": [
-        "129,751",
-        "66,792",
-        "64,092",
-        "60,445"
-      ],
-      "Taban Puan": [
-        "361.668",
-        "440.724",
-        "41.647",
-        "380.519"
-      ],
-      "Şehir": "Adana",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100710612",
-      "Üniversite": "Akdeniz Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+1+0+0+040+1+0+0+050+2+0+0+050+250+2"
-      ],
-      "Yerleşen": [
-        "41",
-        "41+0+0+0+0",
-        "525252"
-      ],
-      "Taban Sıralama": [
-        "130,728",
-        "74,459",
-        "65,675",
-        "59,948"
-      ],
-      "Taban Puan": [
-        "361.004",
-        "432.677",
-        "439.921",
-        "381.044"
-      ],
-      "Şehir": "Antalya",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "104410127",
-      "Üniversite": "Gebze Teknik Üniversitesi",
+      "Üniversite": "GEBZE TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "Temel Bilimler Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+0+050+2+0+0+050+2+0+2+050+250+2"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "52",
-        "50+2+0+0+0",
-        "525252"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "132,407",
-        "125,423",
-        "158,726",
-        "195,219"
+        "119.074",
+        "132.407",
+        "125.423",
+        "158.726"
       ],
       "Taban Puan": [
+        "384.333",
         "359.847",
         "388.638",
-        "360.243",
-        "284.337"
+        "360.243"
       ],
-      "Şehir": "Kocaeli",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107210095",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Atatürk Eğitim Fakültesi",
+      "Program Kodu": "107210298",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+0+040+1+0+0+060+2+0+0+060+260+2"
+        "75",
+        "75",
+        "80",
+        "80"
       ],
       "Yerleşen": [
-        "41",
-        "40+1+0+0+0",
-        "626262"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "132,715",
-        "72,557",
-        "65,030",
-        "57,386"
+        "123.273",
+        "124.738",
+        "106.443",
+        "112.356"
       ],
       "Taban Puan": [
-        "359.647",
-        "434.617",
-        "440.634",
-        "383.861"
+        "381.243",
+        "365.153",
+        "403.429",
+        "394.549"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105610379",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "80",
+        "80",
+        "110",
+        "110"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "123.516",
+        "129.166",
+        "117.788",
+        "133.085"
+      ],
+      "Taban Puan": [
+        "381.063",
+        "362.089",
+        "394.394",
+        "377.924"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104110139",
-      "Üniversite": "Gazi Üniversitesi",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "70+2+0+0+070+2+0+0+090+3+0+3+090+390+3"
+        "70",
+        "70",
+        "90",
+        "90"
       ],
       "Yerleşen": [
-        "72",
-        "70+2+0+0+0",
-        "949393"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "135,518",
-        "134,061",
-        "159,518",
-        "202,457"
+        "128.151",
+        "135.518",
+        "134.061",
+        "159.518"
       ],
       "Taban Puan": [
+        "377.786",
         "357.793",
         "382.485",
-        "359.734",
-        "281.145"
+        "359.734"
       ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104210095",
-      "Üniversite": "Gaziantep Üniversitesi",
-      "Fakülte": "Gaziantep Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "50+2+0+0+550+2+0+0+1350+2+0+0+1350+250+2"
-      ],
-      "Yerleşen": [
-        "65",
-        "52+0+0+0+13",
-        "655252"
-      ],
-      "Taban Sıralama": [
-        "138,403",
-        "76,270",
-        "75,045",
-        "71,968"
-      ],
-      "Taban Puan": [
-        "355.943",
-        "430.901",
-        "429.793",
-        "368.694"
-      ],
-      "Şehir": "Gaziantep",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "103410245",
-      "Üniversite": "Ege Üniversitesi",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "Fen Fakültesi",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "80+2+0+0+080+2+0+0+0100+3+0+3+0100+3100+3"
+        "80",
+        "80",
+        "100",
+        "100"
       ],
       "Yerleşen": [
-        "82",
-        "80+2+0+0+0",
-        "104103103"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "139,452",
-        "133,084",
-        "148,797",
-        "189,856"
+        "135.590",
+        "139.452",
+        "133.084",
+        "148.797"
       ],
       "Taban Puan": [
+        "372.657",
         "355.295",
         "383.139",
-        "366.836",
-        "286.742"
+        "366.836"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204110438",
-      "Üniversite": "Maltepe Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
+      "Program Kodu": "208450828",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "2+0+0+0+12+0+0+0+13+0+0+0+17+06+0"
+        "4",
+        "4",
+        "4",
+        "5"
       ],
       "Yerleşen": [
-        "2",
-        "2+0+0+0+0",
-        "476"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "142,187",
-        "108,468",
-        "98,267",
-        "90,276"
+        "139.122",
+        "129.078",
+        "122.777",
+        "157.664"
       ],
       "Taban Puan": [
-        "353.628",
-        "401.785",
-        "407.132",
-        "351.438"
+        "370.317",
+        "362.154",
+        "390.584",
+        "360.924"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "203090170",
-      "Üniversite": "İstanbul Kültür Üniversitesi",
+      "Program Kodu": "110090036",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "144.857",
+        "159.040",
+        "152.760",
+        "188.519"
+      ],
+      "Taban Puan": [
+        "366.625",
+        "343.623",
+        "370.038",
+        "343.143"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107510038",
+      "Üniversite": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "147.350",
+        "157.176",
+        "142.435",
+        "161.875"
+      ],
+      "Taban Puan": [
+        "365.080",
+        "344.705",
+        "376.675",
+        "358.271"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103110257",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "147.465",
+        "158.706",
+        "149.844",
+        "175.956"
+      ],
+      "Taban Puan": [
+        "365.002",
+        "343.818",
+        "371.859",
+        "349.996"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201910103",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Fen-Edebiyat Fakültesi",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "M",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Matematik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+110+0+1+0+18+0+1+0+17+010+0"
+        "4",
+        "6",
+        "5",
+        "5"
       ],
       "Yerleşen": [
-        "11",
-        "10+0+1+0+0",
-        "9710"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "142,988",
-        "110,161",
-        "115,725",
-        "144,233"
+        "153.452",
+        "164.564",
+        "147.439",
+        "159.946"
       ],
       "Taban Puan": [
-        "353.136",
-        "400.388",
-        "391.658",
-        "311.15"
+        "361.436",
+        "340.594",
+        "373.444",
+        "359.476"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "207650944",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İ",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "105490033",
+      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+14+0+1+0+17+0+1+0+18+05+0"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
-        "4",
-        "4+0+0+0+0",
-        "885"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "143,928",
-        "107,169",
-        "91,023",
-        "88,793"
+        "159.046",
+        "171.678",
+        "158.160",
+        "189.963"
       ],
       "Taban Puan": [
-        "352.584",
-        "402.816",
-        "413.903",
-        "352.781"
+        "358.194",
+        "336.907",
+        "366.739",
+        "342.345"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210301235",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "7",
+        "6",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "164.035",
+        "173.073",
+        "160.584",
+        "176.373"
+      ],
+      "Taban Puan": [
+        "355.455",
+        "336.171",
+        "365.295",
+        "349.761"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203410041",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "169.543",
+        "171.781",
+        "155.774",
+        "165.923"
+      ],
+      "Taban Puan": [
+        "352.481",
+        "336.854",
+        "368.189",
+        "355.841"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112410246",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "55",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "169.805",
+        "181.477",
+        "178.095",
+        "220.615"
+      ],
+      "Taban Puan": [
+        "352.349",
+        "331.970",
+        "355.453",
+        "327.649"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109710154",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "180.583",
+        "186.525",
+        "169.667",
+        "203.447"
+      ],
+      "Taban Puan": [
+        "346.778",
+        "329.619",
+        "360.052",
+        "335.618"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100710109",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "188.229",
+        "193.892",
+        "182.455",
+        "208.504"
+      ],
+      "Taban Puan": [
+        "343.026",
+        "326.254",
+        "353.188",
+        "333.190"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106910143",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "211.473",
+        "233.686",
+        "227.601",
+        "265.059"
+      ],
+      "Taban Puan": [
+        "332.651",
+        "310.432",
+        "332.555",
+        "309.753"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910182",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "220.161",
+        "221.615",
+        "210.145",
+        "226.220"
+      ],
+      "Taban Puan": [
+        "329.028",
+        "314.851",
+        "339.902",
+        "325.160"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202190191",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "230.228",
+        "122.819",
+        "96.549",
+        "108.640"
+      ],
+      "Taban Puan": [
+        "325.133",
+        "366.473",
+        "411.879",
+        "397.765"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "102410193",
+      "Üniversite": "BURSA TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "236.588",
+        "249.928",
+        "248.209",
+        "279.491"
+      ],
+      "Taban Puan": [
+        "322.815",
+        "304.770",
+        "324.625",
+        "304.693"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102710193",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "244.182",
+        "253.730",
+        "240.747",
+        "270.158"
+      ],
+      "Taban Puan": [
+        "320.014",
+        "303.530",
+        "327.400",
+        "307.935"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108810165",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "247.059",
+        "270.905",
+        "250.260",
+        "278.559"
+      ],
+      "Taban Puan": [
+        "318.984",
+        "298.269",
+        "323.880",
+        "305.031"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111110078",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "259.981",
+        "259.215",
+        "237.909",
+        "273.256"
+      ],
+      "Taban Puan": [
+        "314.578",
+        "301.780",
+        "328.515",
+        "306.848"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107410154",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "265.435",
+        "274.734",
+        "239.673",
+        "247.065"
+      ],
+      "Taban Puan": [
+        "312.796",
+        "297.150",
+        "327.817",
+        "316.589"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108210259",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "269.565",
+        "284.768",
+        "242.222",
+        "273.433"
+      ],
+      "Taban Puan": [
+        "311.495",
+        "294.289",
+        "326.832",
+        "306.783"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107610152",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "271.406",
+        "289.127",
+        "272.844",
+        "297.734"
+      ],
+      "Taban Puan": [
+        "310.928",
+        "293.058",
+        "316.068",
+        "298.650"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111711534",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Polatlı Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "275.464",
+        "288.957",
+        "275.782",
+        "302.369"
+      ],
+      "Taban Puan": [
+        "309.619",
+        "293.108",
+        "315.125",
+        "297.183"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610149",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "286.570",
+        "292.790",
+        "260.724",
+        "289.201"
+      ],
+      "Taban Puan": [
+        "306.274",
+        "292.029",
+        "320.160",
+        "301.428"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910331",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "293.510",
+        "297.450",
+        "260.283",
+        "274.996"
+      ],
+      "Taban Puan": [
+        "304.260",
+        "290.810",
+        "320.320",
+        "306.214"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101510056",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "299.513",
+        "306.191",
+        "286.265",
+        "306.629"
+      ],
+      "Taban Puan": [
+        "302.564",
+        "288.535",
+        "311.771",
+        "295.890"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104210041",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "300.784",
+        "303.006",
+        "259.039",
+        "283.747"
+      ],
+      "Taban Puan": [
+        "302.198",
+        "289.343",
+        "320.735",
+        "303.227"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102590594",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "300.799",
+        "312.857",
+        "296.269",
+        "311.146"
+      ],
+      "Taban Puan": [
+        "302.194",
+        "286.869",
+        "308.760",
+        "294.516"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310113",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "301.395",
+        "308.587",
+        "281.517",
+        "303.785"
+      ],
+      "Taban Puan": [
+        "302.031",
+        "287.911",
+        "313.254",
+        "296.755"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100110142",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "302.060",
+        "319.613",
+        "303.180",
+        "320.520"
+      ],
+      "Taban Puan": [
+        "301.839",
+        "285.248",
+        "306.741",
+        "291.719"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106210202",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "307.885",
+        "312.361",
+        "291.753",
+        "315.165"
+      ],
+      "Taban Puan": [
+        "300.222",
+        "286.989",
+        "310.079",
+        "293.302"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107910131",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "307.932",
+        "329.601",
+        "316.247",
+        "335.565"
+      ],
+      "Taban Puan": [
+        "300.208",
+        "282.854",
+        "303.104",
+        "287.474"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109290564",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "310.785",
+        "321.415",
+        "297.179",
+        "309.958"
+      ],
+      "Taban Puan": [
+        "299.444",
+        "284.818",
+        "308.490",
+        "294.878"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103510183",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "314.439",
+        "315.373",
+        "288.828",
+        "308.594"
+      ],
+      "Taban Puan": [
+        "298.476",
+        "286.267",
+        "310.977",
+        "295.276"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110090179",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "316.464",
+        "316.036",
+        "470.718",
+        ""
+      ],
+      "Taban Puan": [
+        "297.935",
+        "286.106",
+        "269.830",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109410112",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "317.640",
+        "329.132",
+        "309.531",
+        "333.979"
+      ],
+      "Taban Puan": [
+        "297.631",
+        "282.971",
+        "304.944",
+        "287.906"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690510",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "320.782",
+        "337.140",
+        "317.396",
+        "336.581"
+      ],
+      "Taban Puan": [
+        "296.781",
+        "281.147",
+        "302.782",
+        "287.201"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103010082",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "323.984",
+        "331.127",
+        "302.876",
+        "324.517"
+      ],
+      "Taban Puan": [
+        "295.940",
+        "282.493",
+        "306.830",
+        "290.576"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109890300",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "325.966",
+        "350.298",
+        "316.256",
+        "327.266"
+      ],
+      "Taban Puan": [
+        "295.433",
+        "278.247",
+        "303.099",
+        "289.811"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103310122",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "335.118",
+        "358.208",
+        "328.992",
+        "338.961"
+      ],
+      "Taban Puan": [
+        "293.165",
+        "276.606",
+        "299.640",
+        "286.531"
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107310216",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "335.438",
+        "355.612",
+        "324.060",
+        "336.902"
+      ],
+      "Taban Puan": [
+        "293.092",
+        "277.128",
+        "300.981",
+        "287.117"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107710284",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "20",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "335.472",
+        "346.170",
+        "347.259",
+        "327.684"
+      ],
+      "Taban Puan": [
+        "293.084",
+        "279.142",
+        "294.992",
+        "289.690"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910134",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "338.226",
+        "344.850",
+        "312.727",
+        "331.612"
+      ],
+      "Taban Puan": [
+        "292.412",
+        "279.436",
+        "304.072",
+        "288.590"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103210105",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "339.274",
+        "357.325",
+        "319.677",
+        "336.883"
+      ],
+      "Taban Puan": [
+        "292.169",
+        "276.782",
+        "302.152",
+        "287.121"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108310028",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "353.026",
+        "376.428",
+        "335.153",
+        "368.945"
+      ],
+      "Taban Puan": [
+        "288.922",
+        "272.944",
+        "298.038",
+        "278.767"
+      ],
+      "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100410112",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "353.218",
+        "377.003",
+        "330.917",
+        "341.293"
+      ],
+      "Taban Puan": [
+        "288.876",
+        "272.832",
+        "299.141",
+        "285.873"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105310179",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "353.301",
+        "369.731",
+        "329.157",
+        "323.910"
+      ],
+      "Taban Puan": [
+        "288.854",
+        "274.271",
+        "299.587",
+        "290.744"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106010073",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.623",
+        "369.644",
+        "327.034",
+        "320.062"
+      ],
+      "Taban Puan": [
+        "288.342",
+        "274.290",
+        "300.196",
+        "291.848"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203510597",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "19",
+        "19",
+        "19",
+        "19"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "358.294",
+        "309.461",
+        "269.795",
+        "324.463"
+      ],
+      "Taban Puan": [
+        "287.735",
+        "287.696",
+        "317.083",
+        "290.592"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "110310047",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "369.764",
+        "403.928",
+        "351.152",
+        "373.360"
+      ],
+      "Taban Puan": [
+        "285.232",
+        "267.974",
+        "294.052",
+        "277.700"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106710199",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "374.255",
+        "395.781",
+        "372.288",
+        "399.862"
+      ],
+      "Taban Puan": [
+        "284.250",
+        "269.396",
+        "289.108",
+        "271.646"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105010058",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "377.238",
+        "381.586",
+        "286.507",
+        "318.198"
+      ],
+      "Taban Puan": [
+        "283.629",
+        "271.962",
+        "311.698",
+        "292.404"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108010119",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "379.417",
+        "396.905",
+        "336.891",
+        "345.965"
+      ],
+      "Taban Puan": [
+        "283.165",
+        "269.204",
+        "297.586",
+        "284.612"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510198",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "381.655",
+        "400.020",
+        "347.730",
+        "373.157"
+      ],
+      "Taban Puan": [
+        "282.692",
+        "268.654",
+        "294.878",
+        "277.754"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105810156",
+      "Üniversite": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "388.537",
+        "411.127",
+        "309.319",
+        "217.798"
+      ],
+      "Taban Puan": [
+        "281.231",
+        "266.769",
+        "305.007",
+        "328.905"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100910143",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "390.003",
+        "404.376",
+        "351.912",
+        "369.723"
+      ],
+      "Taban Puan": [
+        "280.922",
+        "267.896",
+        "293.856",
+        "278.580"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109110054",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "392.875",
+        "440.425",
+        "354.285",
+        "376.874"
+      ],
+      "Taban Puan": [
+        "280.351",
+        "262.013",
+        "293.286",
+        "276.848"
+      ],
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111110112",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "393.324",
+        "608.911",
+        "632.676",
+        ""
+      ],
+      "Taban Puan": [
+        "280.264",
+        "241.830",
+        "247.442",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101910104",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "395.236",
+        "428.741",
+        "363.482",
+        "384.093"
+      ],
+      "Taban Puan": [
+        "279.891",
+        "263.862",
+        "291.120",
+        "275.153"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410145",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "65",
+        "65",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "396.846",
+        "411.721",
+        "342.893",
+        "349.434"
+      ],
+      "Taban Puan": [
+        "279.588",
+        "266.664",
+        "296.069",
+        "283.680"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190303",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "398.405",
+        "418.602",
+        "340.500",
+        "351.430"
+      ],
+      "Taban Puan": [
+        "279.278",
+        "265.525",
+        "296.664",
+        "283.176"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570718",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "400.808",
+        "424.002",
+        "339.868",
+        "333.163"
+      ],
+      "Taban Puan": [
+        "278.803",
+        "264.630",
+        "296.828",
+        "288.139"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102610176",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "401.375",
+        "427.029",
+        "348.388",
+        "369.273"
+      ],
+      "Taban Puan": [
+        "278.693",
+        "264.133",
+        "294.720",
+        "278.692"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108710051",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "402.996",
+        "424.760",
+        "384.108",
+        "404.466"
+      ],
+      "Taban Puan": [
+        "278.373",
+        "264.505",
+        "286.435",
+        "270.650"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101610197",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "408.351",
+        "445.218",
+        "366.836",
+        "386.009"
+      ],
+      "Taban Puan": [
+        "277.367",
+        "261.275",
+        "290.344",
+        "274.717"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110210199",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "411.756",
+        "424.521",
+        "334.427",
+        "347.793"
+      ],
+      "Taban Puan": [
+        "276.745",
+        "264.543",
+        "298.231",
+        "284.128"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102810086",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "419.593",
+        "447.368",
+        "386.064",
+        "398.818"
+      ],
+      "Taban Puan": [
+        "275.295",
+        "260.952",
+        "286.014",
+        "271.857"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100210053",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "32",
+        "32",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "425.215",
+        "442.119",
+        "360.073",
+        "339.066"
+      ],
+      "Taban Puan": [
+        "274.269",
+        "261.747",
+        "291.921",
+        "286.503"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100810162",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "430.771",
+        "471.239",
+        "362.805",
+        "372.436"
+      ],
+      "Taban Puan": [
+        "273.269",
+        "257.521",
+        "291.284",
+        "277.918"
+      ],
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610067",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "432.587",
+        "444.532",
+        "381.187",
+        "400.236"
+      ],
+      "Taban Puan": [
+        "272.944",
+        "261.382",
+        "287.073",
+        "271.566"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102810192",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "437.257",
+        "449.230",
+        "404.451",
+        "412.524"
+      ],
+      "Taban Puan": [
+        "272.125",
+        "260.667",
+        "282.136",
+        "268.965"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104310094",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "437.667",
+        "452.733",
+        "370.151",
+        "396.127"
+      ],
+      "Taban Puan": [
+        "272.053",
+        "260.156",
+        "289.583",
+        "272.459"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100610085",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "42",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "439.826",
+        "487.596",
+        "368.971",
+        "386.389"
+      ],
+      "Taban Puan": [
+        "271.690",
+        "255.322",
+        "289.865",
+        "274.635"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106410184",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "441.320",
+        "491.288",
+        "384.767",
+        "402.499"
+      ],
+      "Taban Puan": [
+        "271.435",
+        "254.841",
+        "286.299",
+        "271.072"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106310113",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "Kamil Özdağ Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "449.316",
+        "491.848",
+        "372.397",
+        "393.418"
+      ],
+      "Taban Puan": [
+        "270.096",
+        "254.769",
+        "289.085",
+        "273.057"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102310046",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "450.171",
+        "487.246",
+        "388.501",
+        "404.112"
+      ],
+      "Taban Puan": [
+        "269.952",
+        "255.363",
+        "285.504",
+        "270.729"
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103710021",
+      "Üniversite": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "452.796",
+        "521.723",
+        "384.602",
+        "402.901"
+      ],
+      "Taban Puan": [
+        "269.515",
+        "251.098",
+        "286.334",
+        "270.988"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108790154",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "453.336",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "269.428",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101710099",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "469.172",
+        "495.966",
+        "360.477",
+        "379.174"
+      ],
+      "Taban Puan": [
+        "266.884",
+        "254.251",
+        "291.815",
+        "276.306"
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102010119",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "469.235",
+        "534.411",
+        "398.108",
+        "406.443"
+      ],
+      "Taban Puan": [
+        "266.877",
+        "249.624",
+        "283.454",
+        "270.238"
+      ],
+      "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106870383",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "478.702",
+        "535.787",
+        "405.433",
+        "394.366"
+      ],
+      "Taban Puan": [
+        "265.407",
+        "249.465",
+        "281.934",
+        "272.854"
+      ],
+      "Şehir": "KİLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190236",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "480.378",
+        "536.295",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "265.150",
+        "249.411",
+        "",
+        ""
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106190362",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "492.574",
+        "697.563",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.336",
+        "233.961",
+        "",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105910137",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "515.660",
+        "576.875",
+        "420.224",
+        "491.673"
+      ],
+      "Taban Puan": [
+        "260.032",
+        "245.019",
+        "278.975",
+        "254.494"
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102110039",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "538.936",
+        "626.405",
+        "401.654",
+        "433.780"
+      ],
+      "Taban Puan": [
+        "256.913",
+        "240.181",
+        "282.724",
+        "264.674"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107810123",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "550.648",
+        "683.888",
+        "418.091",
+        "447.375"
+      ],
+      "Taban Puan": [
+        "255.446",
+        "235.110",
+        "279.395",
+        "262.076"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100510174",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "551.872",
+        "598.288",
+        "419.177",
+        "453.740"
+      ],
+      "Taban Puan": [
+        "255.297",
+        "242.871",
+        "279.182",
+        "260.926"
+      ],
+      "Şehir": "AĞRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105210153",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "588.736",
+        "644.280",
+        "441.865",
+        "504.526"
+      ],
+      "Taban Puan": [
+        "250.890",
+        "238.526",
+        "274.940",
+        "252.483"
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300511779",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "12",
+        "12",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "681.361",
+        "529.665",
+        "500.393",
+        "536.576"
+      ],
+      "Taban Puan": [
+        "241.332",
+        "250.162",
+        "265.006",
+        "247.813"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106290386",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "691.585",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "240.379",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "405210026",
+      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
+      "Fakülte": "Fen Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "2",
+        "3",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "699.912",
+        "340.949",
+        "495.660",
+        "448.706"
+      ],
+      "Taban Puan": [
+        "239.613",
+        "280.297",
+        "265.758",
+        "261.833"
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203410323",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "23",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "815.371",
+        "480.744",
+        "380.957",
+        "394.229"
+      ],
+      "Taban Puan": [
+        "229.661",
+        "256.229",
+        "287.124",
+        "272.881"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210301242",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "42",
+        "43",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "546.209",
+        "486.291"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "258.288",
+        "255.338"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201910527",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "33",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "206111121",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "31",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "372.144",
+        "362.976"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "289.138",
+        "280.216"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200290161",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "20",
+        "17",
+        "17",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "543.811",
+        "425.391",
+        "420.538"
+      ],
+      "Taban Puan": [
+        "",
+        "248.551",
+        "277.985",
+        "267.312"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201110765",
+      "Üniversite": "ÇANKAYA ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "14",
+        "23",
+        "18",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "438.977",
+        "431.950"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "275.462",
+        "265.037"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206710449",
+      "Üniversite": "TED ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "21",
+        "22",
+        "19",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "364.983",
+        "400.596"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "290.775",
+        "271.488"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202590274",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "21",
+        "21",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "481.853",
+        "346.194"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "267.957",
+        "284.558"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203490377",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "İnsan ve Toplum Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "4",
+        "7",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208450829",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "429.530",
+        "527.317"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "277.209",
+        "249.103"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300590441",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "13",
+        "13",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

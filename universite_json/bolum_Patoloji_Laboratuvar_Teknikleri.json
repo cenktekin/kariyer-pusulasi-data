@@ -1,1557 +1,2763 @@
 {
   "yks": [
     {
-      "Program Kodu": "200150061",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+14+0+1+0+14+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+0+0+1",
-        "5"
-      ],
-      "Taban Sıralama": [
-        "464,417"
-      ],
-      "Taban Puan": [
-        "342.228"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200950308",
-      "Üniversite": "Bezm-İ Âlem",
-      "Fakülte": "ÜniversitesiVakıfSağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+14+0+1+0+14+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "4+0+1+0+1",
-        "5"
-      ],
-      "Taban Sıralama": [
-        "499,944"
-      ],
-      "Taban Puan": [
-        "337.441"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "104150756",
-      "Üniversite": "Gazi Üniversitesi",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+0+070+2+0+0+070+2+0+2+0--"
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "70+2+0+0+0",
-        "Doldu-74"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "526,970",
-        "586,763"
+        "445.656",
+        "526.970",
+        "586.763",
+        "571.990"
       ],
       "Taban Puan": [
-        "333.983",
-        "28.686"
+        "342.891",
+        "333.980",
+        "328.686",
+        "324.131"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200150061",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "4",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "451.011",
+        "464.417",
+        "444.536",
+        "427.542"
+      ],
+      "Taban Puan": [
+        "342.152",
+        "342.228",
+        "347.033",
+        "344.502"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111050197",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Gülhane Sağlık Meslek Yüksekokulu (Ankara)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Ankara)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "61+1+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "558,861",
-        "629,434"
+        "486.189",
+        "558.861",
+        "629.434",
+        "606.777"
       ],
       "Taban Puan": [
+        "337.380",
         "330.198",
-        "323.88"
+        "323.880",
+        "319.951"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209610044",
-      "Üniversite": "İzmir Tınaztepe Üniversitesi",
+      "Program Kodu": "200950308",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+18+0+1+0+18+0+1+0+1--"
+        "5",
+        "4",
+        "4",
+        "4"
       ],
       "Yerleşen": [
-        "8+0+0+0+1",
-        "Doldu-9"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "575,520",
-        "643,384"
+        "489.302",
+        "499.944",
+        "547.309",
+        "452.407"
       ],
       "Taban Puan": [
-        "328.285",
-        "322.384"
+        "336.968",
+        "337.441",
+        "333.377",
+        "340.580"
       ],
-      "Şehir": "İzmir",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "107250464",
-      "Üniversite": "Marmara Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+0+070+2+0+0+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "71+1+0+0+0",
-        "Doldu-74"
-      ],
-      "Taban Sıralama": [
-        "576,129",
-        "612,345"
-      ],
-      "Taban Puan": [
-        "328.218",
-        "325.762"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200650735",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "207650635",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+1+0+17+0+1+0+18+0+1+0+1--"
+        "5",
+        "5",
+        "5",
+        "6"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "Doldu-9"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "578,026",
-        "666,519"
+        "490.608",
+        "625.262",
+        "652.931",
+        "637.649"
       ],
       "Taban Puan": [
-        "328.013",
-        "19.962"
+        "336.804",
+        "322.941",
+        "321.367",
+        "316.453"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "205850384",
-      "Üniversite": "Ufuk Üniversitesi",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "4+0+1+0+15+0+1+0+15+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+1",
+        "4",
+        "5",
+        "5",
         "6"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "578,894"
+        "499.685",
+        "578.894",
+        "649.420",
+        "612.006"
       ],
       "Taban Puan": [
-        "327.913"
+        "335.623",
+        "327.913",
+        "321.740",
+        "319.349"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "108251035",
-      "Üniversite": "Ondokuz Mayıs Üniversitesi",
+      "Program Kodu": "107250464",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
-        "60+2+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "584,213",
-        "661,344"
+        "500.996",
+        "576.129",
+        "612.345",
+        "579.310"
       ],
       "Taban Puan": [
-        "327.323",
-        "320.499"
+        "335.456",
+        "328.218",
+        "325.762",
+        "323.225"
       ],
-      "Şehir": "Samsun",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203150679",
-      "Üniversite": "İstanbul Medipol Üniversitesi",
+      "Program Kodu": "108251035",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "8+0+1+0+17+0+1+0+17+0+1+0+1--"
+        "50",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "7"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "591,071"
+        "511.717",
+        "584.213",
+        "661.344",
+        "641.113"
       ],
       "Taban Puan": [
-        "326.574"
+        "334.085",
+        "327.323",
+        "320.499",
+        "316.070"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200650735",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "7",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "519.980",
+        "578.026",
+        "666.519",
+        "607.623"
+      ],
+      "Taban Puan": [
+        "333.055",
+        "328.010",
+        "319.962",
+        "319.853"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111050107",
-      "Üniversite": "Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+060+2+0+2+060+2+0+2+0--"
+        "40",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "614,139",
-        "675,438"
+        "523.403",
+        "614.139",
+        "675.438",
+        "646.081"
       ],
       "Taban Puan": [
+        "332.625",
         "324.098",
-        "319.036"
+        "319.036",
+        "315.526"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207650635",
-      "Üniversite": "Biruni Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "209610044",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+1--"
+        "9",
+        "8",
+        "8",
+        "7"
       ],
       "Yerleşen": [
-        "5+0+0+0+1",
-        "6"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "611,873"
+        "526.590",
+        "575.520",
+        "643.384",
+        "592.643"
       ],
       "Taban Puan": [
-        "324.334"
+        "332.239",
+        "328.285",
+        "322.384",
+        "321.614"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203150679",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "8",
+        "7",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "530.313",
+        "591.071",
+        "613.415",
+        "534.528"
+      ],
+      "Taban Puan": [
+        "331.787",
+        "326.574",
+        "325.646",
+        "328.895"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "105390339",
-      "Üniversite": "İnönü Üniversitesi",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+440+1+0+1+1040+1+0+1+10--"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+10",
-        "Doldu-52"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "650,382",
-        "729,536"
+        "551.638",
+        "650.382",
+        "729.536",
+        "614.221"
       ],
       "Taban Puan": [
+        "329.253",
         "320.407",
-        "313.703"
+        "313.703",
+        "319.093"
       ],
-      "Şehir": "Malatya",
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209010104",
-      "Üniversite": "Fenerbahçe Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+17+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+0",
-        "7"
-      ],
-      "Taban Sıralama": [
-        "655,562"
-      ],
-      "Taban Puan": [
-        "319.884"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "100250616",
-      "Üniversite": "Adıyaman Üniversitesi",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+330+1+0+1+830+1+0+1+8--"
+        "30",
+        "30",
+        "30",
+        "60"
       ],
       "Yerleşen": [
-        "31+0+0+1+8",
-        "Doldu-40"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "657,808",
-        "716,548"
+        "559.221",
+        "664.880",
+        "716.548",
+        "714.967"
       ],
       "Taban Puan": [
-        "319.667",
-        "314.957"
+        "328.351",
+        "318.974",
+        "314.957",
+        "308.226"
       ],
-      "Şehir": "Adıyaman",
+      "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202551507",
-      "Üniversite": "İstanbul Bilgi Üniversitesi",
+      "Program Kodu": "204752427",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "5+0+1+0+17+0+1+0+16+0+1+0+1--"
+        "2",
+        "2",
+        "3",
+        "3"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "6"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "669,271"
+        "566.463",
+        "676.026",
+        "795.056",
+        "732.505"
       ],
       "Taban Puan": [
-        "318.541"
+        "327.518",
+        "317.884",
+        "307.592",
+        "306.474"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "204752427",
-      "Üniversite": "İstanbul Okan Üniversitesi",
+      "Program Kodu": "208451071",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "2+0+0+0+12+0+0+0+13+0+0+0+1--"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
-        "2+0+0+0+0",
-        "3"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "676,026"
+        "576.629",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "317.884"
+        "326.360",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209010104",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "594.409",
+        "655.639",
+        "773.871",
+        "760.882"
+      ],
+      "Taban Puan": [
+        "324.375",
+        "319.876",
+        "309.513",
+        "303.744"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202456746",
-      "Üniversite": "İstanbul Aydın Üniversitesi",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+2+0+1--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "679,032"
+        "596.513",
+        "679.032",
+        "743.355",
+        "773.677"
       ],
       "Taban Puan": [
-        "317.595"
+        "324.150",
+        "317.595",
+        "312.380",
+        "302.524"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206552062",
-      "Üniversite": "Üsküdar Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+1+0+110+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+1+0+1",
-        "10"
-      ],
-      "Taban Sıralama": [
-        "687,135"
-      ],
-      "Taban Puan": [
-        "316.81"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203851634",
-      "Üniversite": "Kapadokya Üniversitesi",
-      "Fakülte": "Kapadokya Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "10+0+2+0+110+0+2+0+110+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "10+0+0+0+1",
-        "11"
-      ],
-      "Taban Sıralama": [
-        "704,398"
-      ],
-      "Taban Puan": [
-        "315.192"
-      ],
-      "Şehir": "Nevşehir",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "200351896",
-      "Üniversite": "Avrasya Üniversitesi",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "6+0+1+0+16+0+1+0+15+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "6+0+0+0+1",
+        "6",
+        "6",
+        "5",
         "6"
       ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Taban Sıralama": [
-        "724,444"
+        "603.726",
+        "724.444",
+        "796.314",
+        "770.464"
       ],
       "Taban Puan": [
-        "313.35"
+        "323.360",
+        "313.350",
+        "307.476",
+        "302.839"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "TRABZON",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201290309",
-      "Üniversite": "Doğuş Üniversitesi",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "202551507",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+1+0+110+0+1+0+110+0+1+0+1--"
+        "5",
+        "7",
+        "6",
+        "6"
       ],
       "Yerleşen": [
-        "10+0+1+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "741,140"
+        "607.572",
+        "672.585",
+        "684.281",
+        "651.608"
       ],
       "Taban Puan": [
-        "311.82"
+        "322.952",
+        "318.221",
+        "318.130",
+        "314.921"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "104390081",
-      "Üniversite": "Tokat Gaziosmanpaşa Üniversitesi",
-      "Fakülte": "Tokat Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "206552062",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+050+2+0+2+050+2+0+2+0--"
+        "10",
+        "10",
+        "10",
+        "12"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "53"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "744,520"
+        "614.148",
+        "687.135",
+        "775.865",
+        "694.896"
       ],
       "Taban Puan": [
-        "311.523"
+        "322.249",
+        "316.810",
+        "309.327",
+        "310.286"
       ],
-      "Şehir": "Tokat",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "208750247",
-      "Üniversite": "İstanbul Kent Üniversitesi",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "7+0+1+0+17+0+1+0+17+0+1+0+1--"
+        "7",
+        "7",
+        "7",
+        "6"
       ],
       "Yerleşen": [
-        "7+0+0+0+1",
-        "7"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "746,412"
+        "614.585",
+        "746.412",
+        "883.583",
+        "734.863"
       ],
       "Taban Puan": [
-        "311.351"
+        "322.202",
+        "311.351",
+        "299.919",
+        "306.249"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202752636",
-      "Üniversite": "İstanbul Gelişim Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "6+0+1+0+17+0+1+0+111+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "7+0+0+0+1",
-        "12"
-      ],
-      "Taban Sıralama": [
-        "759,350"
-      ],
-      "Taban Puan": [
-        "310.202"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110351326",
-      "Üniversite": "Zonguldak Bülent Ecevit Üniversitesi",
-      "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "60+2+0+2+070+2+0+2+070+2+0+2+0--"
-      ],
-      "Yerleşen": [
-        "72+0+0+2+0",
-        "Doldu-74"
-      ],
-      "Taban Sıralama": [
-        "762,752",
-        "861,612"
-      ],
-      "Taban Puan": [
-        "309.909",
-        "301.758"
-      ],
-      "Şehir": "Zonguldak",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112690244",
-      "Üniversite": "Afyonkarahisar Sağlık Bilimleri Üniversitesi",
+      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
       "Fakülte": "Şuhut Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
+        "30",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "765,388",
-        "867,596"
+        "622.332",
+        "765.388",
+        "867.596",
+        "782.244"
       ],
       "Taban Puan": [
+        "321.370",
         "309.681",
-        "301.261"
+        "301.261",
+        "301.716"
       ],
-      "Şehir": "Afyonkarahisar",
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110351326",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "60",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "627.074",
+        "762.752",
+        "861.612",
+        "825.618"
+      ],
+      "Taban Puan": [
+        "320.862",
+        "309.909",
+        "301.758",
+        "297.710"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390081",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "Tokat Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "629.016",
+        "745.044",
+        "839.614",
+        "769.208"
+      ],
+      "Taban Puan": [
+        "320.656",
+        "311.475",
+        "303.659",
+        "302.954"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109451727",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "50",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "637.787",
+        "780.693",
+        "884.301",
+        "801.703"
+      ],
+      "Taban Puan": [
+        "319.736",
+        "308.366",
+        "299.862",
+        "299.900"
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210300871",
-      "Üniversite": "İstanbul Beykent Üniversitesi",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "9+0+1+0+19+0+1+0+19+0+1+0+1--"
+        "9",
+        "9",
+        "9",
+        ""
       ],
       "Yerleşen": [
-        "9+0+0+0+1",
-        "10"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "774,060"
+        "639.936",
+        "774.060",
+        "804.657",
+        "773.346"
       ],
       "Taban Puan": [
-        "308.942"
+        "319.513",
+        "308.942",
+        "306.733",
+        "302.554"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "109451727",
-      "Üniversite": "Trakya Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Kodu": "201290309",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "50+2+0+2+065+2+0+2+065+2+0+2+0--"
+        "10",
+        "10",
+        "10",
+        "11"
       ],
       "Yerleşen": [
-        "66+1+0+2+0",
-        "68"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "780,693"
+        "645.691",
+        "741.140",
+        "827.441",
+        "738.024"
       ],
       "Taban Puan": [
-        "308.366"
+        "318.911",
+        "311.820",
+        "304.735",
+        "305.944"
       ],
-      "Şehir": "Edirne",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203851634",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "655.742",
+        "704.398",
+        "851.149",
+        "843.883"
+      ],
+      "Taban Puan": [
+        "317.872",
+        "315.192",
+        "302.663",
+        "296.070"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202752636",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "6",
+        "7",
+        "11",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "655.775",
+        "759.350",
+        "864.882",
+        "783.278"
+      ],
+      "Taban Puan": [
+        "317.868",
+        "310.202",
+        "301.487",
+        "301.622"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205090688",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "656.131",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "317.833",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107890058",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "665.348",
+        "863.493",
+        "950.070",
+        "916.388"
+      ],
+      "Taban Puan": [
+        "316.900",
+        "301.493",
+        "294.500",
+        "289.875"
+      ],
+      "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210400430",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "10+0+2+0+110+0+2+0+111+0+2+0+1--"
+        "10",
+        "10",
+        "11",
+        ""
       ],
       "Yerleşen": [
-        "10+0+0+0+1",
-        "12"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "777,225"
+        "666.808",
+        "785.172",
+        "842.575",
+        "822.531"
       ],
       "Taban Puan": [
-        "308.667"
+        "316.746",
+        "307.972",
+        "303.409",
+        "297.993"
       ],
-      "Şehir": "İstanbul",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208150028",
-      "Üniversite": "İstanbul Rumeli Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+1+0+15+0+1+0+15+0+1+0+1--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+1",
-        "6"
-      ],
-      "Taban Sıralama": [
-        "792,120"
-      ],
-      "Taban Puan": [
-        "307.385"
-      ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104790082",
-      "Üniversite": "Gümüşhane Üniversitesi",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
       "Fakülte": "Gümüşhane Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "30+1+0+1+030+1+0+1+030+1+0+1+0--"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
-        "31+0+0+1+0",
-        "31"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "810,193"
+        "676.141",
+        "812.423",
+        "911.335",
+        "850.253"
       ],
       "Taban Puan": [
-        "305.859"
+        "315.818",
+        "305.667",
+        "297.633",
+        "295.501"
       ],
-      "Şehir": "Gümüşhane",
+      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102050206",
-      "Üniversite": "Bingöl Üniversitesi",
+      "Program Kodu": "208150028",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "40+1+0+1+050+2+0+2+050+2+0+2+0--"
+        "5",
+        "5",
+        "5",
+        "8"
       ],
       "Yerleşen": [
-        "52+0+0+2+0",
-        "Doldu-54"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "831,605",
-        "915,914"
+        "684.243",
+        "792.120",
+        "803.946",
+        "901.253"
       ],
       "Taban Puan": [
-        "304.086",
-        "297.258"
+        "315.026",
+        "307.385",
+        "306.793",
+        "291.143"
       ],
-      "Şehir": "Bingöl",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102050206",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "700.446",
+        "832.223",
+        "915.914",
+        "873.660"
+      ],
+      "Taban Puan": [
+        "313.453",
+        "304.035",
+        "297.258",
+        "293.481"
+      ],
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102150514",
-      "Üniversite": "Bitlis Eren Üniversitesi",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "60+2+0+2+060+2+0+2+060+2+0+2+0--"
+        "60",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
-        "62+0+0+2+0",
-        "Doldu-64"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "858,728",
-        "966,472"
+        "711.244",
+        "858.728",
+        "966.472",
+        "900.661"
       ],
       "Taban Puan": [
+        "312.436",
         "301.871",
-        "293.207"
+        "293.207",
+        "291.189"
       ],
-      "Şehir": "Bitlis",
+      "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107890058",
-      "Üniversite": "Muş Alparslan Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "30+1+0+1+040+1+0+1+040+1+0+1+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+1+0",
-        "Doldu-42"
-      ],
-      "Taban Sıralama": [
-        "862,307",
-        "950,070"
-      ],
-      "Taban Puan": [
-        "301.589",
-        "294.5"
-      ],
-      "Şehir": "Muş",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200950317",
-      "Üniversite": "Bezm-İ Âlem",
-      "Fakülte": "ÜniversitesiVakıfSağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "28+0+0+0+020+0+0+0+020+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "20+0+0+0+0",
-        "Doldu-20"
-      ],
-      "Taban Sıralama": [
-        "1,182",
-        "791,463"
-      ],
-      "Taban Puan": [
-        "278.726",
-        "259.039"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "205850521",
-      "Üniversite": "Ufuk Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "11+0+0+0+09+0+0+0+012+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "9+0+0+0+0",
-        "Doldu-12"
-      ],
-      "Taban Sıralama": [
-        "1,186",
-        "451,341"
-      ],
-      "Taban Puan": [
-        "278.437",
-        "266.72"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300350922",
-      "Üniversite": "Lefke Avrupa ÜniversitesiKKTCSağlık Hizmetleri Meslek Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "15+0+0+0+015+0+0+0+015+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "15+0+0+0+0",
-        "Doldu-15"
-      ],
-      "Taban Sıralama": [
-        "1,416",
-        "021,564"
-      ],
-      "Taban Puan": [
-        "263.962",
-        "252.96"
-      ],
-      "Şehir": "Karavostasi",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209610045",
-      "Üniversite": "İzmir Tınaztepe Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "55+0+0+0+054+0+0+0+049+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "54+0+0+0+0",
-        "Doldu-49"
-      ],
-      "Taban Sıralama": [
-        "1,486",
-        "011,673"
-      ],
-      "Taban Puan": [
-        "259.742",
-        "246.564"
-      ],
-      "Şehir": "İzmir",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300551284",
-      "Üniversite": "Yakın Doğu ÜniversitesiKKTCSağlık Hizmetleri Meslek Yüksekokulu",
-      "Fakülte": "",
-      "Üniversite Türü": "",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "20+0+0+0+015+0+0+0+017+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "15+0+0+0+0",
-        "Doldu-17"
-      ],
-      "Taban Sıralama": [
-        "1,537",
-        "311,691"
-      ],
-      "Taban Puan": [
-        "256.705",
-        "245.587"
-      ],
-      "Şehir": "Nicosia",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200651284",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "40+0+0+0+041+0+0+0+049+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "41+0+0+0+0",
-        "Doldu-49"
-      ],
-      "Taban Sıralama": [
-        "1,636",
-        "581,750"
-      ],
-      "Taban Puan": [
-        "250.905",
-        "242.232"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200650726",
-      "Üniversite": "Başkent Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "5+0+0+0+05+0+0+0+02+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "5+0+0+0+0",
-        "Doldu-2"
-      ],
-      "Taban Sıralama": [
-        "1,742",
-        "711,808"
-      ],
-      "Taban Puan": [
-        "244.847",
-        "239.083"
-      ],
-      "Şehir": "Ankara",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "204752436",
-      "Üniversite": "İstanbul Okan Üniversitesi",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022",
-        "2021"
-      ],
-      "Kontenjan": [
-        "13+0+0+0+013+0+0+0+015+0+0+0+0--"
-      ],
-      "Yerleşen": [
-        "13+0+0+0+0",
-        "Doldu-15"
-      ],
-      "Taban Sıralama": [
-        "1,776",
-        "562,099"
-      ],
-      "Taban Puan": [
-        "242.952",
-        "223.754"
-      ],
-      "Şehir": "İstanbul",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "104190561",
-      "Üniversite": "Gazi Üniversitesi",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+01+0+0+0+01+0+0+0+0--"
+        "1",
+        "1",
+        "1",
+        "2"
       ],
       "Yerleşen": [
-        "1+0+0+0+0",
-        "0"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "1,807"
+        "936.626",
+        "1.807.000",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "241.251"
+        "293.089",
+        "241.251",
+        "",
+        ""
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200150307",
-      "Üniversite": "Acıbadem Mehmet Ali Aydınlar Üniversitesi",
+      "Program Kodu": "300350922",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+031+0+0+0+031+0+0+0+0--"
+        "15",
+        "15",
+        "15",
+        "15"
       ],
       "Yerleşen": [
-        "31+0+0+0+0",
-        "Doldu-31"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,107",
-        "592,201"
+        "1.138.313",
+        "1.416.202",
+        "1.564.160",
+        "1.746.191"
       ],
       "Taban Puan": [
-        "224.827",
-        "218.674"
+        "277.974",
+        "263.962",
+        "252.960",
+        "238.041"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200390110",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "12",
+        "38",
+        "34",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.234.060",
+        "2.335.749",
+        "2.120.711",
+        "2.535.021"
+      ],
+      "Taban Puan": [
+        "271.195",
+        "212.340",
+        "222.702",
+        "204.749"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200950317",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "28",
+        "20",
+        "20",
+        "21"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.261.693",
+        "1.182.179",
+        "1.463.099",
+        "1.205.875"
+      ],
+      "Taban Puan": [
+        "269.266",
+        "278.726",
+        "259.039",
+        "268.490"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "210400437",
-      "Üniversite": "İstanbul Nişantaşı Üniversitesi",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "1+0+0+0+01+0+0+0+01+0+0+0+0--"
+        "1",
+        "1",
+        "1",
+        ""
       ],
       "Yerleşen": [
-        "1+0+0+0+0",
-        "Doldu-1"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,123",
-        "392,115"
+        "1.277.150",
+        "2.123.539",
+        "2.115.247",
+        "1.828.121"
       ],
       "Taban Puan": [
+        "268.204",
         "223.964",
-        "222.972"
+        "222.972",
+        "234.181"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "206552089",
-      "Üniversite": "Üsküdar Üniversitesi",
+      "Program Kodu": "300551284",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "67+0+0+0+061+0+0+0+061+0+0+0+0--"
+        "20",
+        "15",
+        "17",
+        "21"
       ],
       "Yerleşen": [
-        "61+0+0+0+0",
-        "Doldu-61"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,177",
-        "592,065"
+        "1.295.282",
+        "1.537.631",
+        "1.691.259",
+        "2.082.593"
       ],
       "Taban Puan": [
-        "221.051",
-        "225.464"
+        "266.938",
+        "256.705",
+        "245.587",
+        "223.146"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205850521",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "11",
+        "9",
+        "12",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.319.547",
+        "1.217.889",
+        "1.341.199",
+        "1.260.876"
+      ],
+      "Taban Puan": [
+        "265.253",
+        "276.418",
+        "266.720",
+        "264.896"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200150307",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "31",
+        "31",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.642.397",
+        "2.107.659",
+        "2.201.404",
+        "1.951.004"
+      ],
+      "Taban Puan": [
+        "243.220",
+        "224.827",
+        "218.674",
+        "228.694"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205090695",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.872.019",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "227.387",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209010103",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "37",
+        "37",
+        "42",
+        "39"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.959.794",
+        "2.384.695",
+        "2.582.751",
+        ""
+      ],
+      "Taban Puan": [
+        "221.022",
+        "209.565",
+        "199.662",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200950715",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "2",
+        "5",
+        "5",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.063.825",
+        "2.521.070",
+        "2.711.628",
+        ""
+      ],
+      "Taban Puan": [
+        "213.003",
+        "201.228",
+        "192.168",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300350931",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "15",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.120.780",
+        "2.378.317",
+        "2.454.455",
+        ""
+      ],
+      "Taban Puan": [
+        "208.196",
+        "209.937",
+        "206.217",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200351887",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "26",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202551491",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "42",
+        "43",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "2.466.012",
+        "2.461.337"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "205.639",
+        "207.852"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202752654",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "38",
+        "48",
+        "60",
+        "54"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "2.091.856"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "222.763"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210400444",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "71",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.528.790",
+        "2.237.603",
+        "2.167.130"
+      ],
+      "Taban Puan": [
+        "",
+        "200.717",
+        "216.896",
+        "219.703"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "207650918",
-      "Üniversite": "Biruni Üniversitesi",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "34+0+0+0+034+0+0+0+034+0+0+0+0--"
+        "34",
+        "34",
+        "34",
+        "34"
       ],
       "Yerleşen": [
-        "34+0+0+0+0",
-        "19"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,184"
+        "",
+        "2.184.625",
+        "",
+        "1.583.306"
       ],
       "Taban Puan": [
-        "220.656"
+        "",
+        "220.656",
+        "",
+        "246.232"
       ],
-      "Şehir": "İstanbul",
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209610045",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "55",
+        "54",
+        "49",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.486.301",
+        "1.673.960",
+        "1.782.869"
+      ],
+      "Taban Puan": [
+        "",
+        "259.742",
+        "246.564",
+        "236.284"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203851826",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "64",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.356.372",
+        "2.180.137",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "211.193",
+        "219.722",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210300878",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "59",
+        "55",
+        "55",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.723.566",
+        "2.795.194",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "181.030",
+        "185.755",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208451078",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203150688",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "51",
+        "",
+        "42",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.197.222"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "269.063"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201290310",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "63",
+        "63",
+        "63",
+        "59"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.681.995",
+        "2.822.575",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "187.753",
+        "182.890",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202456764",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "68",
+        "68",
+        "73",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "2.474.453",
+        "1.750.324"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "205.212",
+        "237.844"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208750248",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "46",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.673.663",
+        "",
+        "2.113.886"
+      ],
+      "Taban Puan": [
+        "",
+        "188.747",
+        "",
+        "221.847"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204752436",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "13",
+        "13",
+        "15",
+        "17"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.776.756",
+        "2.099.625",
+        "2.168.839"
+      ],
+      "Taban Puan": [
+        "",
+        "242.952",
+        "223.754",
+        "219.635"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "205850375",
-      "Üniversite": "Ufuk Üniversitesi",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "20+0+0+0+021+0+0+0+018+0+0+0+0--"
+        "20",
+        "21",
+        "18",
+        "18"
       ],
       "Yerleşen": [
-        "21+0+0+0+0",
-        "Doldu-18"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,301",
-        "732,156"
+        "",
+        "2.301.273",
+        "2.156.227",
+        "1.879.961"
       ],
       "Taban Puan": [
+        "",
         "214.261",
-        "220.919"
+        "220.919",
+        "231.822"
       ],
-      "Şehir": "Ankara",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "200390110",
-      "Üniversite": "Avrasya Üniversitesi",
+      "Program Kodu": "206552089",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "P",
-      "Öğretim Türü": "Örgün",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
       "Yıl": [
         "2025",
         "2024",
         "2023",
-        "2022",
-        "2021"
+        "2022"
       ],
       "Kontenjan": [
-        "12+0+0+0+038+0+0+0+034+0+0+0+0--"
+        "67",
+        "61",
+        "61",
+        "68"
       ],
       "Yerleşen": [
-        "38+0+0+0+0",
-        "Doldu-34"
+        "",
+        "",
+        "",
+        ""
       ],
       "Taban Sıralama": [
-        "2,335",
-        "492,120"
+        "",
+        "2.177.359",
+        "2.065.960",
+        "1.791.519"
       ],
       "Taban Puan": [
-        "212.342",
-        "22.702"
+        "",
+        "221.051",
+        "225.464",
+        "235.879"
       ],
-      "Şehir": "Trabzon",
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300590416",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "22",
+        "27",
+        "25",
+        "21"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200650726",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "2",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.742.971",
+        "1.808.185",
+        "1.441.099"
+      ],
+      "Taban Puan": [
+        "",
+        "244.847",
+        "239.083",
+        "254.002"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200651284",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "40",
+        "41",
+        "49",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.636.958",
+        "1.750.787",
+        "1.337.165"
+      ],
+      "Taban Puan": [
+        "",
+        "250.905",
+        "242.232",
+        "260.137"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208150037",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Patoloji Laboratuvar Teknikleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Yıl": [
+        "2025",
+        "2024",
+        "2023",
+        "2022"
+      ],
+      "Kontenjan": [
+        "34",
+        "34",
+        "33",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.708.699",
+        "2.663.733",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "183.934",
+        "195.134",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     }
   ]
