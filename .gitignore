@@ -10,3 +10,19 @@ build/
 Thumbs.db
 *.swp
 *.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Yerel / kişisel dosyalar — bu depoya girmez
+NEXT_ACTIONS.md
+scratch/
+.omo/
+archive/
+📄*.md
+📝*.md
+🧠*.md
