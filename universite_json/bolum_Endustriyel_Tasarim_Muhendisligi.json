@@ -3,20 +3,21 @@
     {
       "Program Kodu": "104111852",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Teknoloji Fakültesi",
+      "Fakülte": "TEKNOLOJİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Endüstriyel Tasarım Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "60",
         "61",
         "61",
-        "56",
         "56"
       ],
       "Yerleşen": [
@@ -43,21 +44,22 @@
     {
       "Program Kodu": "209410047",
       "Üniversite": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Endüstriyel Tasarım Mühendisliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "29",
         "29",
-        "29",
-        "20"
+        "29"
       ],
       "Yerleşen": [
         "",
@@ -83,21 +85,22 @@
     {
       "Program Kodu": "103510914",
       "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Endüstriyel Tasarım Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
         "45",
-        "40",
-        "30"
+        "45",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -123,20 +126,21 @@
     {
       "Program Kodu": "104111861",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Teknoloji Fakültesi",
+      "Fakülte": "TEKNOLOJİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Endüstriyel Tasarım Mühendisliği (M.T.O.K.)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "19",
         "19",
-        "14",
+        "19",
         "14"
       ],
       "Yerleşen": [
@@ -163,19 +167,20 @@
     {
       "Program Kodu": "103290380",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Simav Teknoloji Fakültesi",
+      "Fakülte": "SİMAV TEKNOLOJİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Endüstriyel Tasarım Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "",
+        "30",
         "",
         ""
       ],
@@ -199,6 +204,47 @@
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209410189",
+      "Üniversite": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Endüstriyel Tasarım Mühendisliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "9",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

@@ -1,63 +1,24 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190340",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Özel Eğitim Öğretmenliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "5",
-        "2",
-        "3",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "949",
-        "662",
-        "1.142",
-        "2.114"
-      ],
-      "Taban Puan": [
-        "444.425",
-        "483.331",
-        "462.052",
-        "454.659"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "104811033",
       "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
         "40",
-        "60"
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -83,21 +44,22 @@
     {
       "Program Kodu": "203211129",
       "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "6",
         "5",
-        "3",
-        "5"
+        "3"
       ],
       "Yerleşen": [
         "",
@@ -123,20 +85,21 @@
     {
       "Program Kodu": "101111394",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Bilimleri Fakültesi",
+      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "45",
         "45",
-        "80",
         "80"
       ],
       "Yerleşen": [
@@ -163,20 +126,21 @@
     {
       "Program Kodu": "104112153",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Gazi Eğitim Fakültesi",
+      "Fakülte": "GAZİ EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "100",
+        "50",
         "100"
       ],
       "Yerleşen": [
@@ -203,20 +167,21 @@
     {
       "Program Kodu": "107211206",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Atatürk Eğitim Fakültesi",
+      "Fakülte": "ATATÜRK EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "100",
+        "50",
         "100"
       ],
       "Yerleşen": [
@@ -243,20 +208,21 @@
     {
       "Program Kodu": "103410915",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "60",
+        "50",
         "60"
       ],
       "Yerleşen": [
@@ -283,20 +249,21 @@
     {
       "Program Kodu": "101011305",
       "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "70",
         "70",
-        "130",
+        "70",
         "130"
       ],
       "Yerleşen": [
@@ -323,20 +290,21 @@
     {
       "Program Kodu": "110290255",
       "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "",
+        "25",
         ""
       ],
       "Yerleşen": [
@@ -363,20 +331,21 @@
     {
       "Program Kodu": "103111079",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Buca Eğitim Fakültesi",
+      "Fakülte": "BUCA EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "80",
+        "40",
         "80"
       ],
       "Yerleşen": [
@@ -403,20 +372,21 @@
     {
       "Program Kodu": "100790319",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "40",
         "40",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -443,15 +413,16 @@
     {
       "Program Kodu": "104290304",
       "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "Gaziantep Eğitim Fakültesi",
+      "Fakülte": "GAZİANTEP EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -483,20 +454,21 @@
     {
       "Program Kodu": "103810577",
       "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "90",
+        "50",
         "90"
       ],
       "Yerleşen": [
@@ -523,20 +495,21 @@
     {
       "Program Kodu": "107490422",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "",
+        "25",
         ""
       ],
       "Yerleşen": [
@@ -563,20 +536,21 @@
     {
       "Program Kodu": "111611553",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Hasan Ali Yücel Eğitim Fakültesi",
+      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "50",
         "50",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -603,20 +577,21 @@
     {
       "Program Kodu": "109710718",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "60",
+        "50",
         "60"
       ],
       "Yerleşen": [
@@ -643,20 +618,21 @@
     {
       "Program Kodu": "108211106",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "90",
+        "50",
         "90"
       ],
       "Yerleşen": [
@@ -683,15 +659,16 @@
     {
       "Program Kodu": "105490176",
       "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Bilimleri Fakültesi",
+      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -723,20 +700,21 @@
     {
       "Program Kodu": "107010731",
       "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ahmet Keleşoğlu Eğitim Fakültesi",
+      "Fakülte": "AHMET KELEŞOĞLU EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "120",
+        "50",
         "120"
       ],
       "Yerleşen": [
@@ -763,20 +741,21 @@
     {
       "Program Kodu": "102790236",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
+        "30",
         "40",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -803,20 +782,21 @@
     {
       "Program Kodu": "101411267",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Kazım Karabekir Eğitim Fakültesi",
+      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "60",
+        "40",
         "60"
       ],
       "Yerleşen": [
@@ -843,20 +823,21 @@
     {
       "Program Kodu": "108690096",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "50",
         "50",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -883,21 +864,22 @@
     {
       "Program Kodu": "202210372",
       "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "8",
+        "8",
         "7",
-        "9",
-        "6"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -923,20 +905,21 @@
     {
       "Program Kodu": "100390177",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "40",
         "50",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -963,20 +946,21 @@
     {
       "Program Kodu": "107690230",
       "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "50",
+        "40",
         "50"
       ],
       "Yerleşen": [
@@ -1003,20 +987,21 @@
     {
       "Program Kodu": "105310734",
       "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "50",
         "50",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -1043,21 +1028,22 @@
     {
       "Program Kodu": "203090189",
       "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "4",
         "4",
         "4",
-        "5"
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -1083,20 +1069,21 @@
     {
       "Program Kodu": "100110672",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "60",
+        "50",
         "60"
       ],
       "Yerleşen": [
@@ -1123,21 +1110,22 @@
     {
       "Program Kodu": "203111236",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "11",
         "7",
         "7",
-        "7",
-        "8"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -1163,21 +1151,22 @@
     {
       "Program Kodu": "100290069",
       "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "30",
-        "60"
+        "25",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -1203,20 +1192,21 @@
     {
       "Program Kodu": "111110052",
       "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "40",
         "40",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -1243,21 +1233,22 @@
     {
       "Program Kodu": "201490108",
       "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
+        "7",
         "5",
-        "5",
-        "6"
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -1283,21 +1274,22 @@
     {
       "Program Kodu": "201610866",
       "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
         "7",
         "8",
-        "9"
+        "7",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -1323,20 +1315,21 @@
     {
       "Program Kodu": "108810977",
       "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "80",
+        "40",
         "80"
       ],
       "Yerleşen": [
@@ -1363,20 +1356,21 @@
     {
       "Program Kodu": "108090077",
       "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "60",
+        "40",
         "60"
       ],
       "Yerleşen": [
@@ -1403,21 +1397,22 @@
     {
       "Program Kodu": "207610433",
       "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "8",
-        "7",
         "8",
-        "9"
+        "7",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -1443,20 +1438,21 @@
     {
       "Program Kodu": "100490256",
       "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "40",
+        "25",
         "40"
       ],
       "Yerleşen": [
@@ -1483,19 +1479,20 @@
     {
       "Program Kodu": "108390245",
       "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
-        "",
+        "20",
         "",
         ""
       ],
@@ -1523,21 +1520,22 @@
     {
       "Program Kodu": "202412658",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
         "7",
-        "8",
-        "9"
+        "7",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -1563,20 +1561,21 @@
     {
       "Program Kodu": "102690364",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
-        "",
+        "30",
         ""
       ],
       "Yerleşen": [
@@ -1603,21 +1602,22 @@
     {
       "Program Kodu": "107710406",
       "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
         "30",
-        "50"
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -1643,21 +1643,22 @@
     {
       "Program Kodu": "204112222",
       "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "7",
-        "8",
-        "9"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -1683,20 +1684,21 @@
     {
       "Program Kodu": "112111087",
       "Üniversite": "TRABZON ÜNİVERSİTESİ",
-      "Fakülte": "Fatih Eğitim Fakültesi",
+      "Fakülte": "FATİH EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "90",
+        "50",
         "90"
       ],
       "Yerleşen": [
@@ -1723,20 +1725,21 @@
     {
       "Program Kodu": "109890125",
       "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "20",
         "40",
         "40",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -1763,21 +1766,22 @@
     {
       "Program Kodu": "204712904",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
         "7",
-        "6",
-        "7"
+        "7",
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -1803,20 +1807,21 @@
     {
       "Program Kodu": "100890064",
       "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "40",
         "40",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -1843,20 +1848,21 @@
     {
       "Program Kodu": "107390150",
       "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "60",
+        "40",
         "60"
       ],
       "Yerleşen": [
@@ -1883,15 +1889,16 @@
     {
       "Program Kodu": "104390118",
       "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
@@ -1923,20 +1930,21 @@
     {
       "Program Kodu": "103390121",
       "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "50",
         "50",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -1963,21 +1971,22 @@
     {
       "Program Kodu": "106870376",
       "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
-      "Fakülte": "Kilisli Muallim Rıfat Eğitim Fakültesi",
+      "Fakülte": "KİLİSLİ MUALLİM RIFAT EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
+        "30",
         "40",
-        "50",
-        "40"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -2003,19 +2012,20 @@
     {
       "Program Kodu": "109190171",
       "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
-        "",
+        "20",
         "",
         ""
       ],
@@ -2043,20 +2053,21 @@
     {
       "Program Kodu": "106690209",
       "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "50",
         "50",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -2083,20 +2094,21 @@
     {
       "Program Kodu": "104590122",
       "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "40",
         "40",
-        "50",
         "50"
       ],
       "Yerleşen": [
@@ -2123,20 +2135,21 @@
     {
       "Program Kodu": "109410845",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "60",
+        "50",
         "60"
       ],
       "Yerleşen": [
@@ -2163,19 +2176,20 @@
     {
       "Program Kodu": "108190401",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
-        "",
+        "20",
         "",
         ""
       ],
@@ -2203,18 +2217,19 @@
     {
       "Program Kodu": "106390115",
       "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "30",
         "40",
         "40",
         "40"
@@ -2243,20 +2258,21 @@
     {
       "Program Kodu": "101690141",
       "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
-        "",
+        "30",
         ""
       ],
       "Yerleşen": [
@@ -2283,15 +2299,16 @@
     {
       "Program Kodu": "104970208",
       "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -2323,20 +2340,21 @@
     {
       "Program Kodu": "110310647",
       "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "Ereğli Eğitim Fakültesi",
+      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "70",
+        "50",
         "70"
       ],
       "Yerleşen": [
@@ -2363,19 +2381,20 @@
     {
       "Program Kodu": "106490220",
       "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "24",
-        "",
+        "24",
         "",
         ""
       ],
@@ -2403,19 +2422,20 @@
     {
       "Program Kodu": "101370398",
       "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
-        "",
+        "20",
         "",
         ""
       ],
@@ -2443,21 +2463,22 @@
     {
       "Program Kodu": "300311436",
       "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
-      "Fakülte": "Dr. Fazıl Küçük Eğitim Fakültesi",
+      "Fakülte": "DR. FAZIL KÜÇÜK EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "12",
+        "12",
         "11",
-        "13",
-        "10"
+        "13"
       ],
       "Yerleşen": [
         "",
@@ -2483,20 +2504,21 @@
     {
       "Program Kodu": "300112675",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
-        "8",
         "9",
+        "8",
+        "8",
         "9"
       ],
       "Yerleşen": [
@@ -2523,21 +2545,22 @@
     {
       "Program Kodu": "300512971",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Atatürk Eğitim Fakültesi",
+      "Fakülte": "ATATÜRK EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "8",
         "8",
-        "12",
-        "15"
+        "8",
+        "12"
       ],
       "Yerleşen": [
         "",
@@ -2563,21 +2586,22 @@
     {
       "Program Kodu": "300710294",
       "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
         "5",
         "5",
-        "6"
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -2603,20 +2627,21 @@
     {
       "Program Kodu": "300411789",
       "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "8",
         "8",
-        "9",
+        "8",
         "9"
       ],
       "Yerleşen": [
@@ -2643,20 +2668,21 @@
     {
       "Program Kodu": "110910182",
       "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Fakülte": "ASBÜ-KUZEY KIBRIS YERLEŞKESİ (KKTC-LEFKOŞA)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "6",
         "6",
-        "10",
         "10"
       ],
       "Yerleşen": [
@@ -2683,21 +2709,22 @@
     {
       "Program Kodu": "301390040",
       "Üniversite": "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Eğitim Bilimleri Fakültesi",
+      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
+        "10",
         "8",
-        "9",
-        "8"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -2723,21 +2750,22 @@
     {
       "Program Kodu": "202210379",
       "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "51",
-        "42",
         "51",
-        "34"
+        "42",
+        "51"
       ],
       "Yerleşen": [
         "",
@@ -2763,21 +2791,22 @@
     {
       "Program Kodu": "300311727",
       "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
-      "Fakülte": "Dr. Fazıl Küçük Eğitim Fakültesi",
+      "Fakülte": "DR. FAZIL KÜÇÜK EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "38",
+        "38",
         "39",
-        "47",
-        "48"
+        "47"
       ],
       "Yerleşen": [
         "",
@@ -2803,21 +2832,22 @@
     {
       "Program Kodu": "110910189",
       "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Fakülte": "ASBÜ-KUZEY KIBRIS YERLEŞKESİ (KKTC-LEFKOŞA)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "27",
         "27",
-        "35",
-        "30"
+        "27",
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -2843,21 +2873,22 @@
     {
       "Program Kodu": "300112666",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "26",
         "21",
         "21",
-        "25",
-        "24"
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -2883,20 +2914,21 @@
     {
       "Program Kodu": "300411805",
       "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "42",
         "42",
-        "51",
+        "42",
         "51"
       ],
       "Yerleşen": [
@@ -2923,21 +2955,22 @@
     {
       "Program Kodu": "300512998",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Atatürk Eğitim Fakültesi",
+      "Fakülte": "ATATÜRK EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "42",
         "42",
-        "48",
-        "45"
+        "42",
+        "48"
       ],
       "Yerleşen": [
         "",
@@ -2963,21 +2996,22 @@
     {
       "Program Kodu": "103190705",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Buca Eğitim Fakültesi",
+      "Fakülte": "BUCA EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
         "1",
-        ""
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -3003,20 +3037,21 @@
     {
       "Program Kodu": "203090196",
       "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "22",
         "21",
         "23",
-        "22",
         "22"
       ],
       "Yerleşen": [
@@ -3043,20 +3078,21 @@
     {
       "Program Kodu": "207650852",
       "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "51",
-        "42",
         "51",
+        "42",
         "51"
       ],
       "Yerleşen": [
@@ -3083,21 +3119,22 @@
     {
       "Program Kodu": "201610884",
       "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "32",
         "25",
         "22",
-        "29",
-        "36"
+        "29"
       ],
       "Yerleşen": [
         "",
@@ -3123,21 +3160,22 @@
     {
       "Program Kodu": "300710319",
       "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
         "25",
-        "24"
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -3163,20 +3201,21 @@
     {
       "Program Kodu": "201490213",
       "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "23",
         "22",
         "14",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -3203,21 +3242,22 @@
     {
       "Program Kodu": "301390041",
       "Üniversite": "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Eğitim Bilimleri Fakültesi",
+      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "48",
         "49",
         "36",
-        "45",
-        "36"
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -3243,18 +3283,19 @@
     {
       "Program Kodu": "301390042",
       "Üniversite": "ULUSLARARASI FİNAL ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Eğitim Bilimleri Fakültesi",
+      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "6",
+        "7",
         "6",
         "6",
         "6"
@@ -3283,21 +3324,22 @@
     {
       "Program Kodu": "110910175",
       "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ASBÜ-Kuzey Kıbrıs Yerleşkesi (KKTC-Lefkoşa)",
+      "Fakülte": "ASBÜ-KUZEY KIBRIS YERLEŞKESİ (KKTC-LEFKOŞA)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "7",
-        "15",
-        "10"
+        "15"
       ],
       "Yerleşen": [
         "",
@@ -3323,21 +3365,22 @@
     {
       "Program Kodu": "203211354",
       "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "21",
         "19",
-        "22",
-        ""
+        "22"
       ],
       "Yerleşen": [
         "",
@@ -3363,21 +3406,22 @@
     {
       "Program Kodu": "300190316",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "21",
         "21",
-        "26",
-        "27"
+        "26"
       ],
       "Yerleşen": [
         "",
@@ -3403,19 +3447,20 @@
     {
       "Program Kodu": "203090182",
       "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "4",
         "3",
+        "4",
         "3",
         "3"
       ],
@@ -3443,20 +3488,21 @@
     {
       "Program Kodu": "201490206",
       "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "19",
         "20",
         "20",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -3483,20 +3529,21 @@
     {
       "Program Kodu": "202412667",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "48",
+        "48",
         "42",
-        "51",
         "51"
       ],
       "Yerleşen": [
@@ -3521,20 +3568,21 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "203191002",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
+      "Program Kodu": "101500374",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "NECATİBEY EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Özel Eğitim Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "42",
+        "40",
         "",
         "",
         ""
@@ -3546,76 +3594,37 @@
         ""
       ],
       "Taban Sıralama": [
-        "279.877",
+        "",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "294.455",
+        "",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204190406",
-      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
+      "Program Kodu": "107690281",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Özel Eğitim Öğretmenliği (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "15",
-        "34",
-        "28",
-        "29"
-      ],
-      "Yerleşen": [
+        "1",
         "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "138.536",
-        "182.060",
-        "171.606"
-      ],
-      "Taban Puan": [
-        "",
-        "350.426",
-        "330.000",
-        "332.703"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "204112231",
-      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "27",
-        "8",
         "",
         ""
       ],
@@ -3627,37 +3636,38 @@
       ],
       "Taban Sıralama": [
         "",
-        "68.519",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "377.016",
+        "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "201610857",
       "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "26",
         "20",
-        "22",
-        "15"
+        "22"
       ],
       "Yerleşen": [
         "",
@@ -3681,23 +3691,24 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "206190341",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Program Kodu": "203100801",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Özel Eğitim Öğretmenliği (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "12",
-        "14",
-        "25",
-        "25"
+        "72",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -3707,37 +3718,38 @@
       ],
       "Taban Sıralama": [
         "",
-        "153.277",
-        "176.832",
-        "137.568"
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
         "",
-        "346.170",
-        "331.231",
-        "341.666"
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "204712913",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "42",
         "42",
-        "43",
-        "42"
+        "42",
+        "43"
       ],
       "Yerleşen": [
         "",
@@ -3763,21 +3775,22 @@
     {
       "Program Kodu": "203211347",
       "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "21",
         "18",
-        "4",
-        ""
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -3799,6 +3812,88 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204190406",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Özel Eğitim Öğretmenliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "15",
+        "34",
+        "28"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "138.536",
+        "182.060",
+        "171.606"
+      ],
+      "Taban Puan": [
+        "",
+        "350.426",
+        "330.000",
+        "332.703"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204112231",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Özel Eğitim Öğretmenliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "27",
+        "8",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "68.519",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "377.016",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

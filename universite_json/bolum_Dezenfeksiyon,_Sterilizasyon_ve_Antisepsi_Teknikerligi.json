@@ -3,15 +3,16 @@
     {
       "Program Kodu": "104890455",
       "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Dezenfeksiyon, Sterilizasyon ve Antisepsi Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -43,18 +44,19 @@
     {
       "Program Kodu": "111490201",
       "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-      "Fakülte": "Tavşanlı Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "TAVŞANLI SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Dezenfeksiyon, Sterilizasyon ve Antisepsi Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -79,6 +81,88 @@
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209600143",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dezenfeksiyon, Sterilizasyon ve Antisepsi Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209600150",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dezenfeksiyon, Sterilizasyon ve Antisepsi Teknikerliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

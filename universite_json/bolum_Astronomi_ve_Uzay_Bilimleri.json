@@ -3,20 +3,21 @@
     {
       "Program Kodu": "101110457",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
-        "45",
         "40",
+        "45",
+        "45",
         "40"
       ],
       "Yerleşen": [
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "105610343",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "50",
         "80",
         "80",
-        "75",
         "75"
       ],
       "Yerleşen": [
@@ -83,20 +85,21 @@
     {
       "Program Kodu": "103410184",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
-        "55",
         "50",
+        "55",
+        "55",
         "50"
       ],
       "Yerleşen": [
@@ -123,20 +126,21 @@
     {
       "Program Kodu": "105690743",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
-        "2",
+        "1",
         "2"
       ],
       "Yerleşen": [
@@ -163,15 +167,16 @@
     {
       "Program Kodu": "103510102",
       "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -203,21 +208,22 @@
     {
       "Program Kodu": "101190626",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "1",
         "2",
         "1",
-        "1",
-        ""
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -243,21 +249,22 @@
     {
       "Program Kodu": "101490406",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Astronomi ve Uzay Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "30",
-        "20"
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -278,6 +285,88 @@
         "264.270"
       ],
       "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101400521",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Astronomi ve Uzay Bilimleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103410969",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Astronomi ve Uzay Bilimleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     }
   ]

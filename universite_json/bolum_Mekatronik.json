@@ -1,60 +1,21 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190357",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Mekatronik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "6",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "235.935",
-        "266.463",
-        "235.011",
-        "227.363"
-      ],
-      "Taban Puan": [
-        "381.113",
-        "378.601",
-        "387.821",
-        "387.436"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "103451657",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Ege Meslek Yüksekokulu",
+      "Fakülte": "EGE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik (Erkek)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "20",
         "25",
         "25",
         "25"
@@ -83,21 +44,22 @@
     {
       "Program Kodu": "209110024",
       "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "11",
         "10",
         "7",
-        "7",
-        "6"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -123,21 +85,22 @@
     {
       "Program Kodu": "204950147",
       "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "10",
         "11",
         "11",
-        "9",
-        "11"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -163,21 +126,22 @@
     {
       "Program Kodu": "204752896",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
+        "5",
         "6",
-        "7",
-        "8"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -203,18 +167,19 @@
     {
       "Program Kodu": "104151048",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "70",
+        "65",
         "70",
         "70",
         "70"
@@ -243,18 +208,19 @@
     {
       "Program Kodu": "103150177",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İzmir Meslek Yüksekokulu",
+      "Fakülte": "İZMİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
+        "50",
         "55",
         "55",
         "55"
@@ -283,21 +249,22 @@
     {
       "Program Kodu": "204090115",
       "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ticaret ve Sanayi Meslek Yüksekokulu",
+      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "8",
         "9",
-        "8",
-        "10"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -323,19 +290,20 @@
     {
       "Program Kodu": "112490545",
       "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "50",
         "60",
-        "",
         "",
         ""
       ],
@@ -363,21 +331,22 @@
     {
       "Program Kodu": "202790370",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "11"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -403,18 +372,19 @@
     {
       "Program Kodu": "101190563",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "1. Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "1. ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -443,21 +413,22 @@
     {
       "Program Kodu": "201290274",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -483,18 +454,19 @@
     {
       "Program Kodu": "103850267",
       "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "Eskişehir Meslek Yüksekokulu",
+      "Fakülte": "ESKİŞEHİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "35",
         "60",
         "60",
         "60"
@@ -523,20 +495,21 @@
     {
       "Program Kodu": "201750052",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "9",
-        "10",
         "9",
+        "10",
         "9"
       ],
       "Yerleşen": [
@@ -563,20 +536,21 @@
     {
       "Program Kodu": "210402642",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
+        "10",
         "4",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -603,20 +577,21 @@
     {
       "Program Kodu": "207450028",
       "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
-      "Fakülte": "Ataşehir Adıgüzel Meslek Yüksekokulu",
+      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "4",
         "4",
-        "6",
+        "4",
         "6"
       ],
       "Yerleşen": [
@@ -643,19 +618,20 @@
     {
       "Program Kodu": "210302292",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
-        "",
+        "5",
         "",
         ""
       ],
@@ -683,18 +659,19 @@
     {
       "Program Kodu": "111850146",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Sakarya Meslek Yüksekokulu",
+      "Fakülte": "SAKARYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -723,18 +700,19 @@
     {
       "Program Kodu": "103451684",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Ege Meslek Yüksekokulu",
+      "Fakülte": "EGE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik (Kız)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "20",
         "25",
         "25",
         "25"
@@ -763,18 +741,19 @@
     {
       "Program Kodu": "202390193",
       "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
+        "5",
         "8",
         "8",
         "8"
@@ -803,18 +782,19 @@
     {
       "Program Kodu": "102551395",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Manisa Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "MANİSA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -843,18 +823,19 @@
     {
       "Program Kodu": "106950575",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Hereke Asım Kocabıyık Meslek Yüksekokulu",
+      "Fakülte": "HEREKE ASIM KOCABIYIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "65",
         "60",
         "60",
         "60"
@@ -883,20 +864,21 @@
     {
       "Program Kodu": "102790378",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -923,20 +905,21 @@
     {
       "Program Kodu": "205590057",
       "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "6",
         "6",
-        "4",
         "4"
       ],
       "Yerleşen": [
@@ -963,20 +946,21 @@
     {
       "Program Kodu": "106990855",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Karamürsel Denizcilik Meslek Yüksekokulu",
+      "Fakülte": "KARAMÜRSEL DENİZCİLİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "60",
         "60",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -989,13 +973,13 @@
         "674.345",
         "801.989",
         "898.096",
-        "857.110"
+        ""
       ],
       "Taban Puan": [
         "316.001",
         "306.541",
         "298.703",
-        "294.905"
+        ""
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -1003,19 +987,20 @@
     {
       "Program Kodu": "111890385",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Hendek Meslek Yüksekokulu",
+      "Fakülte": "HENDEK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "40",
-        "",
         "",
         ""
       ],
@@ -1043,18 +1028,19 @@
     {
       "Program Kodu": "107950112",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "50",
         "60",
         "60",
         "60"
@@ -1083,18 +1069,19 @@
     {
       "Program Kodu": "112370786",
       "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -1123,18 +1110,19 @@
     {
       "Program Kodu": "104290353",
       "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "Naci Topçuoğlu Meslek Yüksekokulu",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1163,18 +1151,19 @@
     {
       "Program Kodu": "101550461",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Edremit Meslek Yüksekokulu",
+      "Fakülte": "EDREMİT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1203,18 +1192,19 @@
     {
       "Program Kodu": "108350636",
       "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1243,18 +1233,19 @@
     {
       "Program Kodu": "103251535",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Kütahya Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "KÜTAHYA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1283,18 +1274,19 @@
     {
       "Program Kodu": "102750323",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Çan Meslek Yüksekokulu",
+      "Fakülte": "ÇAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1323,21 +1315,22 @@
     {
       "Program Kodu": "204950156",
       "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "38",
         "38",
-        "45",
-        "55"
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -1363,18 +1356,19 @@
     {
       "Program Kodu": "112070693",
       "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Mersin Tarsus Organize Sanayi Bölgesi Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1403,15 +1397,16 @@
     {
       "Program Kodu": "106250819",
       "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Sürmene Abdullah Kanca Meslek Yüksekokulu",
+      "Fakülte": "SÜRMENE ABDULLAH KANCA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
@@ -1443,18 +1438,19 @@
     {
       "Program Kodu": "102550485",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Soma Meslek Yüksekokulu",
+      "Fakülte": "SOMA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1483,18 +1479,19 @@
     {
       "Program Kodu": "109890133",
       "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1523,18 +1520,19 @@
     {
       "Program Kodu": "102652002",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Sivas Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SİVAS TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -1563,18 +1561,19 @@
     {
       "Program Kodu": "101990029",
       "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1586,7 +1585,7 @@
         ""
       ],
       "Taban Sıralama": [
-        "955.088",
+        "955.086",
         "1.071.924",
         "1.191.925",
         "1.159.140"
@@ -1603,18 +1602,19 @@
     {
       "Program Kodu": "112572425",
       "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Isparta Osb Meslek Yüksekokulu",
+      "Fakülte": "ISPARTA OSB MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -1643,18 +1643,19 @@
     {
       "Program Kodu": "103350678",
       "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "Dr. Engin Pak Cumayeri Meslek Yüksekokulu",
+      "Fakülte": "DR. ENGİN PAK CUMAYERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1683,18 +1684,19 @@
     {
       "Program Kodu": "103951361",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -1723,18 +1725,19 @@
     {
       "Program Kodu": "108690282",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Çardak Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "ÇARDAK ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1763,18 +1766,19 @@
     {
       "Program Kodu": "110750306",
       "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "İskenderun Meslek Yüksekokulu",
+      "Fakülte": "İSKENDERUN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1803,18 +1807,19 @@
     {
       "Program Kodu": "109150202",
       "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -1843,21 +1848,22 @@
     {
       "Program Kodu": "209110025",
       "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "56",
         "47",
-        "42",
-        "34"
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -1883,15 +1889,16 @@
     {
       "Program Kodu": "106750532",
       "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "55",
@@ -1923,20 +1930,21 @@
     {
       "Program Kodu": "108750535",
       "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "40",
         "40",
-        "30",
         "30"
       ],
       "Yerleşen": [
@@ -1963,19 +1971,20 @@
     {
       "Program Kodu": "101790240",
       "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "Beşiri Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "BEŞİRİ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "20",
-        "",
         "",
         ""
       ],
@@ -2003,18 +2012,19 @@
     {
       "Program Kodu": "107350939",
       "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2043,18 +2053,19 @@
     {
       "Program Kodu": "108150956",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Niğde Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "NİĞDE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
+        "35",
         "45",
         "45",
         "45"
@@ -2083,18 +2094,19 @@
     {
       "Program Kodu": "100650472",
       "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2123,18 +2135,19 @@
     {
       "Program Kodu": "100950275",
       "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "Merzifon Meslek Yüksekokulu",
+      "Fakülte": "MERZİFON MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2163,18 +2176,19 @@
     {
       "Program Kodu": "109451957",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "İpsala Meslek Yüksekokulu",
+      "Fakülte": "İPSALA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2203,18 +2217,19 @@
     {
       "Program Kodu": "108951407",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Kadınhanı Faik İçil Meslek Yüksekokulu",
+      "Fakülte": "KADINHANI FAİK İÇİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "40",
         "35",
         "35",
         "35"
@@ -2243,21 +2258,22 @@
     {
       "Program Kodu": "106450129",
       "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "65",
         "60",
         "60",
-        "50",
-        "51"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -2283,21 +2299,22 @@
     {
       "Program Kodu": "300290409",
       "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "10",
         "8",
-        "8",
-        "10"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -2323,18 +2340,19 @@
     {
       "Program Kodu": "103290225",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Gediz Meslek Yüksekokulu",
+      "Fakülte": "GEDİZ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2363,18 +2381,19 @@
     {
       "Program Kodu": "102850225",
       "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2403,18 +2422,19 @@
     {
       "Program Kodu": "103251792",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Simav Meslek Yüksekokulu",
+      "Fakülte": "SİMAV MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2443,20 +2463,21 @@
     {
       "Program Kodu": "102050348",
       "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "Bingöl Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "BİNGÖL TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "25",
         "25",
-        "20",
         "20"
       ],
       "Yerleşen": [
@@ -2483,21 +2504,22 @@
     {
       "Program Kodu": "204753301",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "36",
+        "36",
         "35",
-        "41",
-        "46"
+        "41"
       ],
       "Yerleşen": [
         "",
@@ -2523,18 +2545,19 @@
     {
       "Program Kodu": "105150374",
       "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
+        "50",
         "45",
         "45",
         "45"
@@ -2563,18 +2586,19 @@
     {
       "Program Kodu": "108953078",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ilgın Meslek Yüksekokulu",
+      "Fakülte": "ILGIN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2603,18 +2627,19 @@
     {
       "Program Kodu": "100290137",
       "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "Besni Ali Erdemoğlu Meslek Yüksekokulu",
+      "Fakülte": "BESNİ ALİ ERDEMOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2643,18 +2668,19 @@
     {
       "Program Kodu": "100850567",
       "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "Ortaköy Meslek Yüksekokulu",
+      "Fakülte": "ORTAKÖY MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "40",
         "35",
         "35",
         "35"
@@ -2683,18 +2709,19 @@
     {
       "Program Kodu": "107890043",
       "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2723,18 +2750,19 @@
     {
       "Program Kodu": "107050166",
       "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Seydişehir Meslek Yüksekokulu",
+      "Fakülte": "SEYDİŞEHİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -2763,18 +2791,19 @@
     {
       "Program Kodu": "104750283",
       "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "Gümüşhane Meslek Yüksekokulu",
+      "Fakülte": "GÜMÜŞHANE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2803,18 +2832,19 @@
     {
       "Program Kodu": "104350499",
       "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "Turhal Meslek Yüksekokulu",
+      "Fakülte": "TURHAL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -2843,15 +2873,16 @@
     {
       "Program Kodu": "104351143",
       "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "Niksar Meslek Yüksekokulu",
+      "Fakülte": "NİKSAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -2883,18 +2914,19 @@
     {
       "Program Kodu": "102150498",
       "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2923,18 +2955,19 @@
     {
       "Program Kodu": "111570300",
       "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "Arapgir Meslek Yüksekokulu",
+      "Fakülte": "ARAPGİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2963,18 +2996,19 @@
     {
       "Program Kodu": "101890049",
       "Üniversite": "BAYBURT ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3003,21 +3037,22 @@
     {
       "Program Kodu": "204090117",
       "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ticaret ve Sanayi Meslek Yüksekokulu",
+      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "24",
         "26",
         "24",
-        "22",
-        "24"
+        "22"
       ],
       "Yerleşen": [
         "",
@@ -3043,20 +3078,21 @@
     {
       "Program Kodu": "101350506",
       "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "Borçka Acarlar Meslek Yüksekokulu",
+      "Fakülte": "BORÇKA ACARLAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "25",
         "25"
       ],
       "Yerleşen": [
@@ -3083,18 +3119,19 @@
     {
       "Program Kodu": "100550013",
       "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3123,21 +3160,22 @@
     {
       "Program Kodu": "201750061",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "62",
         "65",
         "64",
-        "60",
-        "51"
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -3163,15 +3201,16 @@
     {
       "Program Kodu": "201290275",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "67",
@@ -3203,19 +3242,20 @@
     {
       "Program Kodu": "210302299",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "34",
-        "",
+        "34",
         "",
         ""
       ],
@@ -3243,20 +3283,21 @@
     {
       "Program Kodu": "210402649",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
-        "",
+        "1",
         ""
       ],
       "Yerleşen": [
@@ -3281,141 +3322,22 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "202790372",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Mekatronik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "67",
-        "71",
-        "73",
-        "64"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.125.361",
-        "1.715.815",
-        "1.328.608"
-      ],
-      "Taban Puan": [
-        "",
-        "223.865",
-        "244.191",
-        "260.661"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202390423",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Mekatronik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "2",
-        "4",
-        "12",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.520.948",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "201.234",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "202390194",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Mekatronik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "49",
-        "47",
-        "",
-        "42"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "112370924",
       "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Mekatronik (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "2",
-        "",
+        "2",
         "",
         ""
       ],
@@ -3441,22 +3363,474 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210402656",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "207450046",
+      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
+      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.262.101",
+        "2.684.806",
+        "1.926.494"
+      ],
+      "Taban Puan": [
+        "",
+        "216.420",
+        "193.858",
+        "229.754"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200300122",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200300115",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201900206",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201900199",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201900213",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202390194",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "49",
+        "47",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201750043",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202790372",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "67",
+        "67",
+        "71",
+        "73"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.125.361",
+        "1.715.815",
+        "1.328.608"
+      ],
+      "Taban Puan": [
+        "",
+        "223.865",
+        "244.191",
+        "260.661"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100437",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203100430",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402656",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Mekatronik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "60",
+        "60",
         "24",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -3483,21 +3857,22 @@
     {
       "Program Kodu": "204090118",
       "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ticaret ve Sanayi Meslek Yüksekokulu",
+      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "18",
         "28",
         "34",
-        "32",
-        "24"
+        "32"
       ],
       "Yerleşen": [
         "",
@@ -3523,21 +3898,22 @@
     {
       "Program Kodu": "204950413",
       "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Denizcilik Meslek Yüksekokulu",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "18",
         "33",
         "33",
-        "23",
-        "5"
+        "23"
       ],
       "Yerleşen": [
         "",
@@ -3563,20 +3939,21 @@
     {
       "Program Kodu": "205590251",
       "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "42",
         "37",
         "42",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -3589,115 +3966,36 @@
         "",
         "",
         "108.099",
-        "69.606"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "242.946",
-        "283.685"
+        ""
       ],
       "Şehir": "MERSİN",
       "Ücret": "%25 İndirimli"
     },
     {
-      "Program Kodu": "207450046",
-      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
-      "Fakülte": "Ataşehir Adıgüzel Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Mekatronik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "42",
-        "34"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.262.101",
-        "2.684.806",
-        "1.926.494"
-      ],
-      "Taban Puan": [
-        "",
-        "216.420",
-        "193.858",
-        "229.754"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "206190358",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Mekatronik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "37",
-        "42"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.314.861",
-        "1.108.489",
-        "1.020.488"
-      ],
-      "Taban Puan": [
-        "",
-        "270.224",
-        "282.562",
-        "281.615"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "300290410",
       "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Mekatronik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "20",
         "15",
-        "11",
-        "10"
+        "11"
       ],
       "Yerleşen": [
         "",

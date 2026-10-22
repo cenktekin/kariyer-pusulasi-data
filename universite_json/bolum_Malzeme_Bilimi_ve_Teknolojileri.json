@@ -3,20 +3,21 @@
     {
       "Program Kodu": "109610128",
       "Üniversite": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Malzeme Bilimi ve Teknolojileri (Almanca)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
-        "45",
         "40",
+        "45",
+        "45",
         "40"
       ],
       "Yerleşen": [
@@ -43,18 +44,19 @@
     {
       "Program Kodu": "109610191",
       "Üniversite": "TÜRK-ALMAN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Malzeme Bilimi ve Teknolojileri (Almanca)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
+        "8",
         "10",
         "10",
         "10"
@@ -79,6 +81,88 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210000703",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "MÜHENDİSLİK, MİMARLIK VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Malzeme Bilimi ve Teknolojileri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210000710",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "MÜHENDİSLİK, MİMARLIK VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Malzeme Bilimi ve Teknolojileri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

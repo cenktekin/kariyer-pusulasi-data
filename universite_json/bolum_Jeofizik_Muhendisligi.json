@@ -3,21 +3,22 @@
     {
       "Program Kodu": "105510398",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Maden Fakültesi",
+      "Fakülte": "MADEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Jeofizik Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
-        "40",
-        "60"
+        "30",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -43,21 +44,22 @@
     {
       "Program Kodu": "101190416",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Jeofizik Mühendisliği (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "20",
-        "15"
+        "25",
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -83,20 +85,21 @@
     {
       "Program Kodu": "111610722",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Jeofizik Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "20",
+        "25",
         "20"
       ],
       "Yerleşen": [
@@ -123,20 +126,21 @@
     {
       "Program Kodu": "103110496",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Jeofizik Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "20",
+        "10",
         "20"
       ],
       "Yerleşen": [
@@ -161,23 +165,65 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111611571",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Program Kodu": "103110821",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Jeofizik Mühendisliği (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111611571",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Jeofizik Mühendisliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
         "1",
-        "2"
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -198,6 +244,47 @@
         ""
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106290323",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Jeofizik Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     }
   ]

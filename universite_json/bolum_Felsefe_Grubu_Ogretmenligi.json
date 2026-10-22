@@ -3,15 +3,16 @@
     {
       "Program Kodu": "104110245",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Gazi Eğitim Fakültesi",
+      "Fakülte": "GAZİ EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Felsefe Grubu Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
@@ -41,22 +42,64 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102910058",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Program Kodu": "101410321",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Felsefe Grubu Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "10",
+        "10",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910058",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Felsefe Grubu Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "20",
+        "10",
         "20"
       ],
       "Yerleşen": [
@@ -78,46 +121,6 @@
         ""
       ],
       "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410321",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Kazım Karabekir Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Felsefe Grubu Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "20",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     }
   ]

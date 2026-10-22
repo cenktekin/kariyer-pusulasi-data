@@ -3,18 +3,19 @@
     {
       "Program Kodu": "102550697",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Akhisar Meslek Yüksekokulu",
+      "Fakülte": "AKHİSAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Zeytincilik ve Zeytin İşleme Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "20",
+        "25",
         "20",
         "20",
         "20"
@@ -43,18 +44,19 @@
     {
       "Program Kodu": "101551105",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Edremit Meslek Yüksekokulu",
+      "Fakülte": "EDREMİT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Zeytincilik ve Zeytin İşleme Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "40",
         "35",
         "35",
         "35"
@@ -78,6 +80,47 @@
         "232.017"
       ],
       "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107700318",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "ALTINÖZÜ TARIM BİLİMLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Zeytincilik ve Zeytin İşleme Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     }
   ]

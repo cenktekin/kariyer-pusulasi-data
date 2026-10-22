@@ -1,63 +1,24 @@
 {
   "yks": [
     {
-      "Program Kodu": "111091386",
-      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Gülhane Sağlık Meslek Yüksekokulu (Ankara)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Anestezi (Ankara) (Erkek) (Milli Savunma Bakanlığı Adına)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "2",
-        "2",
-        "3",
-        "2"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "146.215",
-        "210.568",
-        "228.663",
-        "173.778"
-      ],
-      "Taban Puan": [
-        "406.787",
-        "393.845",
-        "389.516",
-        "405.054"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "200150025",
       "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "6",
+        "6",
         "4",
-        "4",
-        "5"
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -83,19 +44,20 @@
     {
       "Program Kodu": "103450023",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "35",
-        "70",
         "70",
         "70"
       ],
@@ -123,19 +85,20 @@
     {
       "Program Kodu": "101150156",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "65",
+        "50",
         "65",
         "65"
       ],
@@ -163,20 +126,21 @@
     {
       "Program Kodu": "200950053",
       "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "8",
         "9",
         "8",
-        "7",
         "7"
       ],
       "Yerleşen": [
@@ -203,21 +167,22 @@
     {
       "Program Kodu": "200551204",
       "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "4",
         "5",
         "5",
-        "5",
-        "9"
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -243,21 +208,22 @@
     {
       "Program Kodu": "209210017",
       "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "8",
         "8",
-        "8",
-        "7"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -283,19 +249,20 @@
     {
       "Program Kodu": "103150353",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "60",
         "60",
         "60"
       ],
@@ -323,19 +290,20 @@
     {
       "Program Kodu": "109750011",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -363,19 +331,20 @@
     {
       "Program Kodu": "103050169",
       "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -403,19 +372,20 @@
     {
       "Program Kodu": "111050125",
       "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Gülhane Sağlık Meslek Yüksekokulu (Ankara)",
+      "Fakülte": "GÜLHANE SAĞLIK MESLEK YÜKSEKOKULU (ANKARA)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi (Ankara)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "50",
-        "60",
         "60",
         "60"
       ],
@@ -443,19 +413,20 @@
     {
       "Program Kodu": "108250364",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "45",
-        "65",
         "65",
         "65"
       ],
@@ -483,19 +454,20 @@
     {
       "Program Kodu": "107250022",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -523,21 +495,22 @@
     {
       "Program Kodu": "102950136",
       "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "Abdi Sütcü Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ABDİ SÜTCÜ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
         "50",
-        "50",
-        "75"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -563,21 +536,22 @@
     {
       "Program Kodu": "200650259",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "7",
-        "7",
-        "8"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -603,21 +577,22 @@
     {
       "Program Kodu": "207710110",
       "Üniversite": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
+        "7",
         "6",
-        "6",
-        "7"
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -643,21 +618,22 @@
     {
       "Program Kodu": "203151217",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -683,19 +659,20 @@
     {
       "Program Kodu": "108950233",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -723,18 +700,19 @@
     {
       "Program Kodu": "208810023",
       "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
+        "7",
         "8",
         "8",
         "8"
@@ -763,21 +741,22 @@
     {
       "Program Kodu": "207650035",
       "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -803,19 +782,20 @@
     {
       "Program Kodu": "103550155",
       "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "Halil Bayraktar Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "HALİL BAYRAKTAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "50",
-        "70",
         "70",
         "70"
       ],
@@ -843,20 +823,21 @@
     {
       "Program Kodu": "111050028",
       "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Hamidiye Sağlık Hizmetleri Meslek Yüksekokulu (İstanbul)",
+      "Fakülte": "HAMİDİYE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU (İSTANBUL)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "40",
         "50",
-        "65",
         "65"
       ],
       "Yerleşen": [
@@ -883,19 +864,20 @@
     {
       "Program Kodu": "107450126",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "50",
-        "70",
         "70",
         "70"
       ],
@@ -923,21 +905,22 @@
     {
       "Program Kodu": "203150052",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -963,19 +946,20 @@
     {
       "Program Kodu": "102751287",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Çanakkale Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ÇANAKKALE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "70",
+        "50",
         "70",
         "70"
       ],
@@ -1003,21 +987,22 @@
     {
       "Program Kodu": "204050192",
       "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "11"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -1043,19 +1028,20 @@
     {
       "Program Kodu": "103950106",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -1083,19 +1069,20 @@
     {
       "Program Kodu": "105350293",
       "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -1123,19 +1110,20 @@
     {
       "Program Kodu": "110250568",
       "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "Van Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "VAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
-        "65",
+        "45",
         "65",
         "65"
       ],
@@ -1163,21 +1151,22 @@
     {
       "Program Kodu": "203152021",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "9",
         "10",
         "10",
-        "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -1203,19 +1192,20 @@
     {
       "Program Kodu": "108650112",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Denizli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "DENİZLİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "50",
-        "70",
         "70",
         "70"
       ],
@@ -1243,18 +1233,19 @@
     {
       "Program Kodu": "205850048",
       "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "7",
+        "6",
         "7",
         "7",
         "7"
@@ -1283,19 +1274,20 @@
     {
       "Program Kodu": "209610010",
       "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
         "9",
+        "10",
         "9",
         "9"
       ],
@@ -1323,19 +1315,20 @@
     {
       "Program Kodu": "100351322",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Aydın Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "AYDIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "80",
+        "50",
         "80",
         "80"
       ],
@@ -1363,21 +1356,22 @@
     {
       "Program Kodu": "200290180",
       "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "6",
         "6",
         "6",
-        "7"
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -1403,18 +1397,19 @@
     {
       "Program Kodu": "207950069",
       "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
+        "9",
         "10",
         "10",
         "10"
@@ -1443,21 +1438,22 @@
     {
       "Program Kodu": "208450034",
       "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -1483,21 +1479,22 @@
     {
       "Program Kodu": "206410633",
       "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "8",
         "8",
-        "8",
-        "9"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -1523,19 +1520,20 @@
     {
       "Program Kodu": "106951722",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Kocaeli Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "KOCAELİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "65",
+        "50",
         "65",
         "65"
       ],
@@ -1563,20 +1561,21 @@
     {
       "Program Kodu": "204610499",
       "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "6",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -1603,20 +1602,21 @@
     {
       "Program Kodu": "209210250",
       "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
+        "10",
         "44",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -1643,21 +1643,22 @@
     {
       "Program Kodu": "201650105",
       "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "11",
-        "12"
+        "10",
+        "11"
       ],
       "Yerleşen": [
         "",
@@ -1683,19 +1684,20 @@
     {
       "Program Kodu": "102650484",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "36",
         "35",
-        "70",
         "70",
         "70"
       ],
@@ -1723,19 +1725,20 @@
     {
       "Program Kodu": "108890179",
       "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "Sakarya Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAKARYA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "40",
-        "60",
         "60",
         "60"
       ],
@@ -1763,19 +1766,20 @@
     {
       "Program Kodu": "101450417",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "75",
+        "50",
         "75",
         "75"
       ],
@@ -1803,21 +1807,22 @@
     {
       "Program Kodu": "202455042",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "11",
-        "12"
+        "10",
+        "11"
       ],
       "Yerleşen": [
         "",
@@ -1843,21 +1848,22 @@
     {
       "Program Kodu": "210000101",
       "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "9",
-        "9",
-        "8"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -1883,21 +1889,22 @@
     {
       "Program Kodu": "201990503",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "6",
-        "6",
         "5",
-        "8"
+        "6",
+        "6",
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -1923,20 +1930,21 @@
     {
       "Program Kodu": "109250661",
       "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
-      "Fakülte": "Isparta Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ISPARTA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "50",
         "80",
-        "85",
         "85"
       ],
       "Yerleşen": [
@@ -1963,20 +1971,21 @@
     {
       "Program Kodu": "105050984",
       "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "Şanlıurfa Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ŞANLIURFA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "32",
         "30",
         "40",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -2003,18 +2012,19 @@
     {
       "Program Kodu": "109190087",
       "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "32",
         "30",
         "30",
         "30"
@@ -2043,21 +2053,22 @@
     {
       "Program Kodu": "111490258",
       "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-      "Fakülte": "Kütahya Meslek Yüksekokulu",
+      "Fakülte": "KÜTAHYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "40",
         "40",
-        "40",
-        ""
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -2083,21 +2094,22 @@
     {
       "Program Kodu": "206551346",
       "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -2123,21 +2135,22 @@
     {
       "Program Kodu": "200650453",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Adana Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ADANA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "7",
-        "8",
-        "7"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -2163,21 +2176,22 @@
     {
       "Program Kodu": "203851379",
       "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -2203,19 +2217,20 @@
     {
       "Program Kodu": "106050636",
       "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "Kahramanmaraş Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "KAHRAMANMARAŞ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "70",
+        "50",
         "70",
         "70"
       ],
@@ -2243,21 +2258,22 @@
     {
       "Program Kodu": "210300171",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        ""
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -2283,19 +2299,20 @@
     {
       "Program Kodu": "106650648",
       "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -2323,19 +2340,20 @@
     {
       "Program Kodu": "104551053",
       "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "65",
         "65",
         "65"
       ],
@@ -2363,15 +2381,16 @@
     {
       "Program Kodu": "206250184",
       "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
@@ -2403,19 +2422,20 @@
     {
       "Program Kodu": "109450253",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "40",
-        "70",
         "70",
         "70"
       ],
@@ -2443,18 +2463,19 @@
     {
       "Program Kodu": "202550775",
       "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
+        "8",
         "10",
         "10",
         "10"
@@ -2483,21 +2504,22 @@
     {
       "Program Kodu": "107750759",
       "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Hatay Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "HATAY SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "32",
         "30",
         "20",
-        "20",
-        "65"
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -2523,18 +2545,19 @@
     {
       "Program Kodu": "209310031",
       "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "9",
+        "8",
         "9",
         "9",
         "9"
@@ -2563,19 +2586,20 @@
     {
       "Program Kodu": "102150683",
       "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "55",
         "55",
         "55"
       ],
@@ -2603,18 +2627,19 @@
     {
       "Program Kodu": "205590092",
       "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
+        "7",
         "8",
         "8",
         "8"
@@ -2643,21 +2668,22 @@
     {
       "Program Kodu": "209010062",
       "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "8",
         "8",
-        "8",
-        "9"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -2683,19 +2709,20 @@
     {
       "Program Kodu": "107390096",
       "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "Burdur Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "BURDUR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "60",
+        "50",
         "60",
         "60"
       ],
@@ -2723,19 +2750,20 @@
     {
       "Program Kodu": "110350364",
       "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "Ahmet Erdoğan Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "AHMET ERDOĞAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "70",
+        "50",
         "70",
         "70"
       ],
@@ -2763,19 +2791,20 @@
     {
       "Program Kodu": "108750492",
       "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "65",
+        "50",
         "65",
         "65"
       ],
@@ -2803,21 +2832,22 @@
     {
       "Program Kodu": "204752278",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "8",
         "8",
-        "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -2843,19 +2873,20 @@
     {
       "Program Kodu": "103690084",
       "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "41",
         "40",
-        "50",
         "50",
         "50"
       ],
@@ -2881,63 +2912,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208910016",
-      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
-      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "10",
-        "7",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "399.643",
-        "383.033",
-        "386.419",
-        "423.072"
-      ],
-      "Taban Puan": [
-        "349.718",
-        "354.780",
-        "356.119",
-        "345.229"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "204190367",
       "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
+        "7",
         "5",
-        "8",
-        "10"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -2963,21 +2955,22 @@
     {
       "Program Kodu": "209710024",
       "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -3003,21 +2996,22 @@
     {
       "Program Kodu": "209910014",
       "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
         "7",
         "8",
-        "10"
+        "7",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -3043,21 +3037,22 @@
     {
       "Program Kodu": "202950286",
       "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "8",
         "9",
         "9",
-        "10",
-        "11"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -3083,21 +3078,22 @@
     {
       "Program Kodu": "210401634",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "11",
-        ""
+        "10",
+        "11"
       ],
       "Yerleşen": [
         "",
@@ -3123,19 +3119,20 @@
     {
       "Program Kodu": "102350503",
       "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "80",
+        "50",
         "80",
         "80"
       ],
@@ -3163,21 +3160,22 @@
     {
       "Program Kodu": "200351269",
       "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -3203,21 +3201,22 @@
     {
       "Program Kodu": "202751832",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "11",
-        "12"
+        "10",
+        "11"
       ],
       "Yerleşen": [
         "",
@@ -3243,21 +3242,22 @@
     {
       "Program Kodu": "208750167",
       "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -3283,18 +3283,19 @@
     {
       "Program Kodu": "101890098",
       "Üniversite": "BAYBURT ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -3323,20 +3324,21 @@
     {
       "Program Kodu": "202352297",
       "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "12",
+        "10",
         "12"
       ],
       "Yerleşen": [
@@ -3363,18 +3365,19 @@
     {
       "Program Kodu": "209810019",
       "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
+        "7",
         "8",
         "8",
         "8"
@@ -3403,21 +3406,22 @@
     {
       "Program Kodu": "201250806",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -3443,15 +3447,16 @@
     {
       "Program Kodu": "205053817",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
@@ -3483,18 +3488,19 @@
     {
       "Program Kodu": "201790187",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "8",
+        "7",
         "8",
         "8",
         "8"
@@ -3523,18 +3529,19 @@
     {
       "Program Kodu": "104790103",
       "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "Kelkit Sema Doğan Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "KELKİT SEMA DOĞAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
+        "54",
         "55",
         "55",
         "55"
@@ -3563,19 +3570,20 @@
     {
       "Program Kodu": "105950463",
       "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "Atatürk Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "75",
+        "50",
         "75",
         "75"
       ],
@@ -3603,20 +3611,21 @@
     {
       "Program Kodu": "206851458",
       "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "11",
+        "10",
         "11"
       ],
       "Yerleşen": [
@@ -3643,20 +3652,21 @@
     {
       "Program Kodu": "202090324",
       "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
+        "10",
         "9",
-        "8",
         "8"
       ],
       "Yerleşen": [
@@ -3683,20 +3693,21 @@
     {
       "Program Kodu": "204050217",
       "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "12",
         "13",
         "12",
-        "17",
         "17"
       ],
       "Yerleşen": [
@@ -3723,21 +3734,22 @@
     {
       "Program Kodu": "208150285",
       "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
         "10",
-        "12"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -3763,21 +3775,22 @@
     {
       "Program Kodu": "202650041",
       "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "9",
         "7",
         "7",
-        "7",
-        "8"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -3803,19 +3816,20 @@
     {
       "Program Kodu": "209910046",
       "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu) (Bursa Yerleşkesi)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "8",
-        "",
         "",
         ""
       ],
@@ -3843,21 +3857,22 @@
     {
       "Program Kodu": "207550054",
       "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
+        "10",
         "9",
-        "8",
-        "9"
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -3883,21 +3898,22 @@
     {
       "Program Kodu": "300150633",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "9",
         "9",
         "9",
-        "8"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -3923,21 +3939,22 @@
     {
       "Program Kodu": "207950146",
       "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "44",
         "50",
         "50",
-        "50",
-        "46"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -3963,21 +3980,22 @@
     {
       "Program Kodu": "200950062",
       "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "38",
         "33",
         "36",
-        "37",
-        "38"
+        "37"
       ],
       "Yerleşen": [
         "",
@@ -4003,21 +4021,22 @@
     {
       "Program Kodu": "300550771",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "12",
         "16",
         "17",
-        "19",
-        "23"
+        "19"
       ],
       "Yerleşen": [
         "",
@@ -4041,60 +4060,21 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209210018",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "49",
-        "",
-        "49",
-        "43"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "703.018",
-        "",
-        "",
-        "569.545"
-      ],
-      "Taban Puan": [
-        "313.220",
-        "",
-        "",
-        "324.438"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "206410634",
       "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "51",
+        "46",
         "51",
         "51",
         "51"
@@ -4123,21 +4103,22 @@
     {
       "Program Kodu": "300350588",
       "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
         "40",
-        "35"
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -4163,19 +4144,20 @@
     {
       "Program Kodu": "200150255",
       "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "39",
         "42",
-        "31",
         "31",
         "31"
       ],
@@ -4203,21 +4185,22 @@
     {
       "Program Kodu": "300450357",
       "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Bilimleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK BİLİMLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "9",
         "8",
         "9",
-        "8"
+        "8",
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -4243,15 +4226,16 @@
     {
       "Program Kodu": "300750099",
       "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
@@ -4283,21 +4267,22 @@
     {
       "Program Kodu": "210000115",
       "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "38",
         "42",
         "40",
-        "30",
-        "12"
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -4323,21 +4308,22 @@
     {
       "Program Kodu": "300250632",
       "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "12",
         "10",
         "10",
-        "14",
-        "12"
+        "14"
       ],
       "Yerleşen": [
         "",
@@ -4363,21 +4349,22 @@
     {
       "Program Kodu": "208810024",
       "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "46",
         "51",
         "51",
-        "51",
-        "42"
+        "51"
       ],
       "Yerleşen": [
         "",
@@ -4403,21 +4390,22 @@
     {
       "Program Kodu": "201650123",
       "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "19",
+        "19",
         "16",
-        "17",
-        "13"
+        "17"
       ],
       "Yerleşen": [
         "",
@@ -4443,21 +4431,22 @@
     {
       "Program Kodu": "206551364",
       "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "21",
         "23",
         "18",
-        "18",
-        "34"
+        "18"
       ],
       "Yerleşen": [
         "",
@@ -4483,15 +4472,16 @@
     {
       "Program Kodu": "300950025",
       "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
@@ -4523,21 +4513,22 @@
     {
       "Program Kodu": "209610011",
       "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "53",
         "59",
         "55",
-        "55",
-        "51"
+        "55"
       ],
       "Yerleşen": [
         "",
@@ -4563,20 +4554,21 @@
     {
       "Program Kodu": "207710111",
       "Üniversite": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "21",
         "20",
         "18",
-        "22",
         "22"
       ],
       "Yerleşen": [
@@ -4603,21 +4595,22 @@
     {
       "Program Kodu": "200290181",
       "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "37",
         "42",
         "42",
-        "42",
-        "41"
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -4643,18 +4636,19 @@
     {
       "Program Kodu": "207650883",
       "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "68",
+        "61",
         "68",
         "68",
         "68"
@@ -4683,18 +4677,19 @@
     {
       "Program Kodu": "209010063",
       "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "51",
+        "46",
         "51",
         "51",
         "51"
@@ -4723,20 +4718,21 @@
     {
       "Program Kodu": "204610513",
       "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "30",
         "21",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -4763,21 +4759,22 @@
     {
       "Program Kodu": "204752287",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "36",
         "41",
         "40",
-        "48",
-        "55"
+        "48"
       ],
       "Yerleşen": [
         "",
@@ -4803,18 +4800,19 @@
     {
       "Program Kodu": "203851812",
       "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "34",
+        "30",
         "34",
         "34",
         "34"
@@ -4843,21 +4841,22 @@
     {
       "Program Kodu": "207950072",
       "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "9",
         "10",
         "10",
-        "10",
-        "9"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -4883,18 +4882,19 @@
     {
       "Program Kodu": "208450573",
       "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "68",
+        "61",
         "68",
         "68",
         "68"
@@ -4923,21 +4923,22 @@
     {
       "Program Kodu": "204050183",
       "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "48",
         "54",
         "56",
-        "54",
-        "47"
+        "54"
       ],
       "Yerleşen": [
         "",
@@ -4963,20 +4964,21 @@
     {
       "Program Kodu": "205850633",
       "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "21",
         "11",
         "15",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -5001,63 +5003,24 @@
       "Ücret": "%25 İndirimli"
     },
     {
-      "Program Kodu": "203150061",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "68",
-        "",
-        "68",
-        "68"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.102.966",
-        "",
-        "",
-        "666.948"
-      ],
-      "Taban Puan": [
-        "280.531",
-        "",
-        "",
-        "313.266"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "205053808",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "61",
         "68",
         "64",
-        "64",
-        "60"
+        "64"
       ],
       "Yerleşen": [
         "",
@@ -5083,20 +5046,21 @@
     {
       "Program Kodu": "206851467",
       "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "54",
         "61",
         "60",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -5123,21 +5087,22 @@
     {
       "Program Kodu": "205590091",
       "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "48",
         "54",
         "54",
-        "54",
-        "47"
+        "54"
       ],
       "Yerleşen": [
         "",
@@ -5163,20 +5128,21 @@
     {
       "Program Kodu": "204610506",
       "Üniversite": "NUH NACİ YAZGAN ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "13",
         "12",
         "12",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -5203,21 +5169,22 @@
     {
       "Program Kodu": "300350597",
       "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
         "40",
-        "35"
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -5243,21 +5210,22 @@
     {
       "Program Kodu": "202390605",
       "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "21",
         "20",
         "12",
-        "40",
-        ""
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -5283,20 +5251,21 @@
     {
       "Program Kodu": "201990608",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "32",
         "32",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -5323,21 +5292,22 @@
     {
       "Program Kodu": "201290348",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "61",
         "68",
         "68",
-        "58",
-        "39"
+        "58"
       ],
       "Yerleşen": [
         "",
@@ -5363,21 +5333,22 @@
     {
       "Program Kodu": "201790327",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "39",
         "49",
         "51",
-        "51",
-        "42"
+        "51"
       ],
       "Yerleşen": [
         "",
@@ -5403,21 +5374,22 @@
     {
       "Program Kodu": "209310032",
       "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "53",
         "59",
         "59",
-        "59",
-        "51"
+        "59"
       ],
       "Yerleşen": [
         "",
@@ -5441,61 +5413,22 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "208910067",
-      "Üniversite": "İZMİR KAVRAM MESLEK YÜKSEKOKULU",
-      "Fakülte": "İzmir Kavram Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "59",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.323.197",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "264.999",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "202650627",
       "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "22",
-        "45",
         "45",
         "45"
       ],
@@ -5523,21 +5456,22 @@
     {
       "Program Kodu": "209810018",
       "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "3",
         "1",
         "14",
-        "10",
-        "9"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -5563,18 +5497,19 @@
     {
       "Program Kodu": "200351251",
       "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "68",
+        "61",
         "68",
         "68",
         "68"
@@ -5603,21 +5538,22 @@
     {
       "Program Kodu": "206250793",
       "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "59",
         "66",
         "66",
-        "66",
-        "58"
+        "66"
       ],
       "Yerleşen": [
         "",
@@ -5643,20 +5579,21 @@
     {
       "Program Kodu": "210302075",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "60",
         "67",
         "67",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -5683,21 +5620,22 @@
     {
       "Program Kodu": "200950673",
       "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "14",
         "18",
         "15",
-        "10",
-        ""
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -5723,21 +5661,22 @@
     {
       "Program Kodu": "207550063",
       "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "53",
         "57",
         "42",
-        "42",
-        "40"
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -5763,21 +5702,22 @@
     {
       "Program Kodu": "209810020",
       "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "42",
         "49",
         "36",
-        "40",
-        "33"
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -5803,21 +5743,22 @@
     {
       "Program Kodu": "208750168",
       "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "61",
         "68",
         "67",
-        "66",
-        "67"
+        "66"
       ],
       "Yerleşen": [
         "",
@@ -5841,63 +5782,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "203151226",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "68",
-        "",
-        "68",
-        "68"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.440.535",
-        "",
-        "",
-        "727.086"
-      ],
-      "Taban Puan": [
-        "256.960",
-        "",
-        "",
-        "307.016"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "200690706",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Adana Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ADANA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "39",
         "39",
-        "44",
-        "38"
+        "44"
       ],
       "Yerleşen": [
         "",
@@ -5923,21 +5825,22 @@
     {
       "Program Kodu": "205850039",
       "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "17",
         "31",
         "42",
-        "42",
-        "38"
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -5963,21 +5866,22 @@
     {
       "Program Kodu": "300150624",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "26",
         "26",
-        "28",
-        "33"
+        "26",
+        "28"
       ],
       "Yerleşen": [
         "",
@@ -6003,21 +5907,22 @@
     {
       "Program Kodu": "201650098",
       "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "42",
         "49",
         "52",
-        "55",
-        "50"
+        "55"
       ],
       "Yerleşen": [
         "",
@@ -6043,20 +5948,21 @@
     {
       "Program Kodu": "200650859",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "38",
         "42",
         "42",
-        "47",
         "47"
       ],
       "Yerleşen": [
@@ -6083,21 +5989,22 @@
     {
       "Program Kodu": "207710100",
       "Üniversite": "SANKO ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "21",
         "28",
         "24",
-        "20",
-        "17"
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -6123,21 +6030,22 @@
     {
       "Program Kodu": "209710072",
       "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "Avrupa Meslek Yüksekokulu",
+      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "61",
         "68",
         "61",
-        "61",
-        "68"
+        "61"
       ],
       "Yerleşen": [
         "",
@@ -6163,20 +6071,21 @@
     {
       "Program Kodu": "201990601",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "4",
         "6",
         "6",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -6203,21 +6112,22 @@
     {
       "Program Kodu": "200650444",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Adana Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "ADANA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "7",
-        "7",
-        "5"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -6243,21 +6153,22 @@
     {
       "Program Kodu": "300150642",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Sağlık Hizmetleri Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "23",
-        "10"
+        "25",
+        "23"
       ],
       "Yerleşen": [
         "",
@@ -6283,21 +6194,22 @@
     {
       "Program Kodu": "210401641",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
         "1",
-        ""
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -6323,21 +6235,22 @@
     {
       "Program Kodu": "300450436",
       "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Bilimleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK BİLİMLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "38",
         "37",
         "41",
-        "46",
-        "37"
+        "46"
       ],
       "Yerleşen": [
         "",
@@ -6363,21 +6276,22 @@
     {
       "Program Kodu": "202090325",
       "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "39",
         "37",
         "27",
-        "32",
-        "27"
+        "32"
       ],
       "Yerleşen": [
         "",
@@ -6403,21 +6317,22 @@
     {
       "Program Kodu": "300550356",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "54",
         "50",
         "49",
-        "47",
-        "42"
+        "47"
       ],
       "Yerleşen": [
         "",
@@ -6443,21 +6358,22 @@
     {
       "Program Kodu": "300250835",
       "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "16",
         "16",
-        "14",
-        "12"
+        "14"
       ],
       "Yerleşen": [
         "",
@@ -6483,15 +6399,16 @@
     {
       "Program Kodu": "300750106",
       "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
@@ -6523,21 +6440,22 @@
     {
       "Program Kodu": "202550784",
       "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "51",
         "68",
         "64",
-        "64",
-        "55"
+        "64"
       ],
       "Yerleşen": [
         "",
@@ -6563,21 +6481,22 @@
     {
       "Program Kodu": "100390225",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Aydın Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "AYDIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
         "1",
-        "3"
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -6603,18 +6522,19 @@
     {
       "Program Kodu": "203851361",
       "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "Kapadokya Meslek Yüksekokulu",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "34",
+        "31",
         "34",
         "34",
         "34"
@@ -6643,20 +6563,21 @@
     {
       "Program Kodu": "207550045",
       "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "8",
         "11",
         "10",
-        "11",
         "11"
       ],
       "Yerleşen": [
@@ -6683,21 +6604,22 @@
     {
       "Program Kodu": "210401648",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "60",
         "67",
         "67",
-        "71",
-        ""
+        "71"
       ],
       "Yerleşen": [
         "",
@@ -6723,20 +6645,21 @@
     {
       "Program Kodu": "300450348",
       "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Bilimleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK BİLİMLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "9",
+        "9",
         "6",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -6763,21 +6686,22 @@
     {
       "Program Kodu": "204190370",
       "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "11",
         "15",
         "24",
-        "33",
-        "37"
+        "33"
       ],
       "Yerleşen": [
         "",
@@ -6803,21 +6727,22 @@
     {
       "Program Kodu": "202455033",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "53",
         "68",
         "61",
-        "67",
-        "60"
+        "67"
       ],
       "Yerleşen": [
         "",
@@ -6843,19 +6768,20 @@
     {
       "Program Kodu": "201790186",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "2",
-        "",
         "",
         ""
       ],
@@ -6883,20 +6809,21 @@
     {
       "Program Kodu": "206851449",
       "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Şişli Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
+        "7",
         "8",
-        "9",
         "9"
       ],
       "Yerleşen": [
@@ -6923,21 +6850,22 @@
     {
       "Program Kodu": "202352288",
       "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "47",
         "48",
         "56",
-        "36",
-        "18"
+        "36"
       ],
       "Yerleşen": [
         "",
@@ -6963,21 +6891,22 @@
     {
       "Program Kodu": "200551213",
       "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "31",
         "34",
         "35",
-        "35",
-        "54"
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -7003,15 +6932,16 @@
     {
       "Program Kodu": "300990060",
       "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
@@ -7043,20 +6973,21 @@
     {
       "Program Kodu": "204752269",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "10",
         "11",
         "12",
-        "13",
         "13"
       ],
       "Yerleşen": [
@@ -7083,21 +7014,22 @@
     {
       "Program Kodu": "206551337",
       "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "45",
         "43",
-        "43",
-        "34"
+        "43"
       ],
       "Yerleşen": [
         "",
@@ -7121,60 +7053,21 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "209910015",
-      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "51",
-        "48",
-        "54",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.162.537",
-        "908.629",
-        "1.031.986",
-        "1.088.363"
-      ],
-      "Taban Puan": [
-        "204.302",
-        "297.995",
-        "288.187",
-        "276.607"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "208151190",
       "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "32",
+        "57",
         "32",
         "32",
         "32"
@@ -7203,21 +7096,22 @@
     {
       "Program Kodu": "204190567",
       "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "31",
         "33",
         "11",
-        "16",
-        "23"
+        "16"
       ],
       "Yerleşen": [
         "",
@@ -7243,21 +7137,22 @@
     {
       "Program Kodu": "202090323",
       "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "22",
         "31",
         "27",
-        "23",
-        "19"
+        "23"
       ],
       "Yerleşen": [
         "",
@@ -7281,23 +7176,24 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "202751859",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%25 İndirimli)",
+      "Program Kodu": "106690335",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Anestezi (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "68",
-        "68",
-        "76",
-        "35"
+        "1",
+        "1",
+        "1",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -7307,35 +7203,36 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.513.743",
-        "1.882.909",
-        "1.107.364"
+        "1.200.801",
+        "",
+        ""
       ],
       "Taban Puan": [
         "",
-        "258.101",
-        "235.043",
-        "275.241"
+        "277.518",
+        "",
+        ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%25 İndirimli"
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108290565",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Anestezi (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
-        "",
+        "1",
         "",
         ""
       ],
@@ -7361,103 +7258,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108790161",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Anestezi (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690335",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Anestezi (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.200.801",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "277.518",
-        "",
-        ""
-      ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203152039",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "202950868",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Anestezi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "68",
+        "53",
         "",
-        "67",
-        "68"
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -7469,32 +7287,320 @@
         "",
         "",
         "",
-        "973.342"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "285.257"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202650032",
-      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "209200241",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "44",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209200234",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "61",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202650032",
+      "Üniversite": "DEMİROĞLU BİLİM ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
         "23",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202455078",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "665.256",
+        "650.505"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "320.091",
+        "315.038"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "202751841",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "61",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100290",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "61",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203100570",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "61",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203100563",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "59",
         "",
         "",
         ""
@@ -7523,18 +7629,19 @@
     {
       "Program Kodu": "208150276",
       "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "36",
+        "4",
         "36",
         "36",
         "36"
@@ -7561,23 +7668,24 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "202950295",
-      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "209900122",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%25 İndirimli)",
+      "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "59",
-        "59",
-        "59",
-        "59"
+        "46",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -7587,35 +7695,36 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.475.303",
-        "1.166.004",
-        "1.018.323"
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
         "",
-        "260.386",
-        "278.487",
-        "281.781"
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%25 İndirimli"
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "209210257",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Program Kodu": "209900129",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Anestezi (Ücretli) (Bursa Yerleşkesi)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "68",
-        "52",
+        "46",
+        "",
         "",
         ""
       ],
@@ -7637,27 +7746,110 @@
         "",
         ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210500129",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210500136",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Anestezi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "53",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300250623",
       "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "16",
         "17",
         "17",
-        "15",
-        "11"
+        "15"
       ],
       "Yerleşen": [
         "",
@@ -7683,15 +7875,16 @@
     {
       "Program Kodu": "300950016",
       "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Sağlık Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Anestezi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
@@ -7719,46 +7912,6 @@
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "209910053",
-      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Fakülte": "İstanbul Sağlık ve Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Anestezi (%50 İndirimli) (Bursa Yerleşkesi)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "51",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     }
   ]
 }

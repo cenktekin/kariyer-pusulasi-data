@@ -3,18 +3,19 @@
     {
       "Program Kodu": "100150035",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Bolu Meslek Yüksekokulu",
+      "Fakülte": "BOLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kooperatifçilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -43,18 +44,19 @@
     {
       "Program Kodu": "107950484",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Çorlu Meslek Yüksekokulu",
+      "Fakülte": "ÇORLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kooperatifçilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "20",
+        "25",
         "20",
         "20",
         "20"
@@ -83,18 +85,19 @@
     {
       "Program Kodu": "102750226",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Biga Meslek Yüksekokulu",
+      "Fakülte": "BİGA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kooperatifçilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "30",
         "25",
         "25",
         "25"
@@ -123,18 +126,19 @@
     {
       "Program Kodu": "102550749",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Alaşehir Meslek Yüksekokulu",
+      "Fakülte": "ALAŞEHİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kooperatifçilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -163,21 +167,22 @@
     {
       "Program Kodu": "100250034",
       "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kooperatifçilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "30",
-        "37"
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -198,6 +203,47 @@
         "226.263"
       ],
       "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101100577",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "BALA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kooperatifçilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     }
   ]

@@ -3,20 +3,21 @@
     {
       "Program Kodu": "203410129",
       "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
-      "Fakülte": "İletişim Fakültesi",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "8",
         "8",
-        "7",
         "7"
       ],
       "Yerleşen": [
@@ -43,21 +44,22 @@
     {
       "Program Kodu": "210301683",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "İletişim Fakültesi",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "3",
         "4",
-        "6",
-        ""
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -83,15 +85,16 @@
     {
       "Program Kodu": "105710193",
       "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
-      "Fakülte": "Sosyal ve Beşeri Bilimler Fakültesi",
+      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "80",
@@ -121,22 +124,64 @@
       "Ücret": "Ücretsiz"
     },
     {
+      "Program Kodu": "408811016",
+      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
+      "Fakülte": "Sanat ve Sosyal Bilimler Fakültesi",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Medya ve İletişim (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "Burslu"
+    },
+    {
       "Program Kodu": "408810785",
       "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
       "Fakülte": "Sanat ve Sosyal Bilimler Fakültesi",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "10",
         "7",
         "5",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -161,63 +206,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "408810792",
-      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
-      "Fakülte": "Sanat ve Sosyal Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Medya ve İletişim (%25 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "5",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "",
-      "Ücret": "%25 İndirimli"
-    },
-    {
       "Program Kodu": "210301690",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "İletişim Fakültesi",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "34",
         "25",
         "30",
-        "43",
-        ""
+        "43"
       ],
       "Yerleşen": [
         "",
@@ -243,20 +249,21 @@
     {
       "Program Kodu": "203490363",
       "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
-      "Fakülte": "İletişim Fakültesi",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "3",
+        "3",
         "8",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -283,21 +290,22 @@
     {
       "Program Kodu": "203410402",
       "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
-      "Fakülte": "İletişim Fakültesi",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "31",
         "48",
         "43",
-        "43",
-        "38"
+        "43"
       ],
       "Yerleşen": [
         "",
@@ -323,19 +331,20 @@
     {
       "Program Kodu": "203590287",
       "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "3",
-        "",
+        "3",
         "",
         ""
       ],
@@ -363,21 +372,22 @@
     {
       "Program Kodu": "201790453",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
+        "5",
         "4",
-        "4",
-        ""
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -403,21 +413,22 @@
     {
       "Program Kodu": "100751645",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "90",
         "80",
         "80",
-        "80",
-        "78"
+        "80"
       ],
       "Yerleşen": [
         "",
@@ -443,20 +454,21 @@
     {
       "Program Kodu": "105650951",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "Açık ve Uzaktan Eğitim Fakültesi",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim (Uzaktan Öğretim)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "150",
-        "300",
         "150",
+        "300",
         "150"
       ],
       "Yerleşen": [
@@ -483,20 +495,21 @@
     {
       "Program Kodu": "101050872",
       "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "Açıköğretim Fakültesi",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim (Açıköğretim)",
-      "Öğretim Türü": "Açık Öğretim",
+      "Öğretim Türü": "UOLP",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "300",
         "150",
         "1000",
-        "500",
         "500"
       ],
       "Yerleşen": [
@@ -523,21 +536,22 @@
     {
       "Program Kodu": "110670204",
       "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
-      "Fakülte": "Bandırma Meslek Yüksekokulu",
+      "Fakülte": "BANDIRMA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "45",
-        "47"
+        "50",
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -563,15 +577,16 @@
     {
       "Program Kodu": "109970289",
       "Üniversite": "YALOVA ÜNİVERSİTESİ",
-      "Fakülte": "Çınarcık Meslek Yüksekokulu",
+      "Fakülte": "ÇINARCIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
@@ -603,15 +618,16 @@
     {
       "Program Kodu": "111890176",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Sapanca Meslek Yüksekokulu",
+      "Fakülte": "SAPANCA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "60",
@@ -643,20 +659,21 @@
     {
       "Program Kodu": "108251229",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Samsun Meslek Yüksekokulu",
+      "Fakülte": "SAMSUN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim (Uzaktan Öğretim)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "100",
         "100",
-        "50",
+        "100",
         "50"
       ],
       "Yerleşen": [
@@ -683,21 +700,22 @@
     {
       "Program Kodu": "108570613",
       "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "Osmaniye Meslek Yüksekokulu",
+      "Fakülte": "OSMANİYE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
         "30",
-        ""
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -723,19 +741,20 @@
     {
       "Program Kodu": "107790416",
       "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Antakya Meslek Yüksekokulu",
+      "Fakülte": "ANTAKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "20",
-        "",
         "",
         ""
       ],
@@ -763,20 +782,21 @@
     {
       "Program Kodu": "108390132",
       "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "Ulubey Meslek Yüksekokulu",
+      "Fakülte": "ULUBEY MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
         "35",
-        "30",
+        "35",
         "30"
       ],
       "Yerleşen": [
@@ -803,20 +823,21 @@
     {
       "Program Kodu": "106750798",
       "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "Pınarhisar Meslek Yüksekokulu",
+      "Fakülte": "PINARHİSAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
-        "25",
+        "30",
         "25"
       ],
       "Yerleşen": [
@@ -843,20 +864,21 @@
     {
       "Program Kodu": "105150586",
       "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "35",
+        "40",
         "35"
       ],
       "Yerleşen": [
@@ -883,15 +905,16 @@
     {
       "Program Kodu": "102050296",
       "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "Bingöl Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "BİNGÖL SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -923,20 +946,21 @@
     {
       "Program Kodu": "104550955",
       "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "Alucra Turan Bulutçu Meslek Yüksekokulu",
+      "Fakülte": "ALUCRA TURAN BULUTÇU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Medya ve İletişim",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
-        "",
+        "30",
         ""
       ],
       "Yerleşen": [
@@ -963,19 +987,20 @@
     {
       "Program Kodu": "203590294",
       "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
-        "",
+        "25",
         "",
         ""
       ],
@@ -1003,21 +1028,22 @@
     {
       "Program Kodu": "201790460",
       "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "Gedik Meslek Yüksekokulu",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Medya ve İletişim (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "37",
+        "37",
         "28",
-        "23",
-        ""
+        "23"
       ],
       "Yerleşen": [
         "",
@@ -1035,6 +1061,129 @@
         "179.073",
         "222.043",
         "215.165",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "111800108",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "SAKARYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Medya ve İletişim",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206800101",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Medya ve İletişim (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206800108",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Medya ve İletişim (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "66",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
         ""
       ],
       "Şehir": "İSTANBUL",

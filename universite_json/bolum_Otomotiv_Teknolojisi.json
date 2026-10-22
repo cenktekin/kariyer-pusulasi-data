@@ -1,61 +1,22 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190346",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Otomotiv Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "221.481",
-        "261.967",
-        "269.759",
-        "282.004"
-      ],
-      "Taban Puan": [
-        "384.644",
-        "379.708",
-        "379.133",
-        "373.034"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "109751318",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "60",
         "60",
         "60"
       ],
@@ -83,20 +44,21 @@
     {
       "Program Kodu": "200651751",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Kahramankazan Meslek Yüksekokulu",
+      "Fakülte": "KAHRAMANKAZAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "6",
+        "6",
         "4",
-        "5",
         "5"
       ],
       "Yerleşen": [
@@ -123,19 +85,20 @@
     {
       "Program Kodu": "103451057",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Ege Meslek Yüksekokulu",
+      "Fakülte": "EGE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "80",
         "80",
         "80"
       ],
@@ -163,20 +126,21 @@
     {
       "Program Kodu": "210000416",
       "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "4",
         "4",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -203,18 +167,19 @@
     {
       "Program Kodu": "106952041",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Ford Otosan İhsaniye Otomotiv Meslek Yüksekokulu",
+      "Fakülte": "FORD OTOSAN İHSANİYE OTOMOTİV MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -243,19 +208,20 @@
     {
       "Program Kodu": "111650536",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "60",
         "60",
         "60"
       ],
@@ -283,21 +249,22 @@
     {
       "Program Kodu": "208450819",
       "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "7",
         "6",
-        "6",
-        "7"
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -323,21 +290,22 @@
     {
       "Program Kodu": "202453213",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "13",
+        "13",
         "11",
-        "9",
-        "10"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -363,19 +331,20 @@
     {
       "Program Kodu": "100750911",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "65",
+        "30",
         "65",
         "65"
       ],
@@ -403,21 +372,22 @@
     {
       "Program Kodu": "210401340",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "12",
         "12",
-        "11",
-        ""
+        "12",
+        "11"
       ],
       "Yerleşen": [
         "",
@@ -443,20 +413,21 @@
     {
       "Program Kodu": "205090268",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
+        "5",
         "4",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -483,19 +454,20 @@
     {
       "Program Kodu": "111851692",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Arifiye Meslek Yüksekokulu",
+      "Fakülte": "ARİFİYE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -523,19 +495,20 @@
     {
       "Program Kodu": "210302306",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "5",
-        "",
         "",
         ""
       ],
@@ -563,19 +536,20 @@
     {
       "Program Kodu": "102950754",
       "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "Adana Meslek Yüksekokulu",
+      "Fakülte": "ADANA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -603,21 +577,22 @@
     {
       "Program Kodu": "109790591",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Orhangazi Yeniköy Asil Çelik Meslek Yüksekokulu",
+      "Fakülte": "ORHANGAZİ YENİKÖY ASİL ÇELİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "50",
         "50",
-        "50",
-        ""
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -643,19 +618,20 @@
     {
       "Program Kodu": "100390178",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Aydın Meslek Yüksekokulu",
+      "Fakülte": "AYDIN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -683,19 +659,20 @@
     {
       "Program Kodu": "107451266",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -723,20 +700,21 @@
     {
       "Program Kodu": "108650827",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Denizli Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "DENİZLİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "70",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -763,19 +741,20 @@
     {
       "Program Kodu": "106951413",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Gölcük Meslek Yüksekokulu",
+      "Fakülte": "GÖLCÜK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "75",
         "90",
-        "120",
         "120",
         "120"
       ],
@@ -801,60 +780,21 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209710311",
-      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "Gebze Organize Sanayi Bölgesi Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Otomotiv Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "749.909",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "308.838",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "106690223",
       "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "Kırıkkale Meslek Yüksekokulu",
+      "Fakülte": "KIRIKKALE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -883,18 +823,19 @@
     {
       "Program Kodu": "107990092",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -923,19 +864,20 @@
     {
       "Program Kodu": "101551423",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Balıkesir Meslek Yüksekokulu",
+      "Fakülte": "BALIKESİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -963,19 +905,20 @@
     {
       "Program Kodu": "100150468",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Bolu Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "BOLU TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
         "35",
+        "30",
         "35",
         "35"
       ],
@@ -1003,19 +946,20 @@
     {
       "Program Kodu": "102750808",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Biga Meslek Yüksekokulu",
+      "Fakülte": "BİGA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
         "35",
+        "30",
         "35",
         "35"
       ],
@@ -1043,19 +987,20 @@
     {
       "Program Kodu": "100350924",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Söke Meslek Yüksekokulu",
+      "Fakülte": "SÖKE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1083,19 +1028,20 @@
     {
       "Program Kodu": "108350275",
       "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1123,19 +1069,20 @@
     {
       "Program Kodu": "103350378",
       "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1163,19 +1110,20 @@
     {
       "Program Kodu": "107950748",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Çorlu Meslek Yüksekokulu",
+      "Fakülte": "ÇORLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "60",
         "60",
         "60"
       ],
@@ -1203,18 +1151,19 @@
     {
       "Program Kodu": "109850601",
       "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1243,19 +1192,20 @@
     {
       "Program Kodu": "103090173",
       "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "Diyarbakır Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "DİYARBAKIR TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "60",
         "60",
         "60"
       ],
@@ -1283,19 +1233,20 @@
     {
       "Program Kodu": "101450938",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "45",
+        "30",
         "45",
         "45"
       ],
@@ -1323,18 +1274,19 @@
     {
       "Program Kodu": "108750332",
       "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1363,18 +1315,19 @@
     {
       "Program Kodu": "110750333",
       "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "İskenderun Meslek Yüksekokulu",
+      "Fakülte": "İSKENDERUN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1403,19 +1356,20 @@
     {
       "Program Kodu": "100850355",
       "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "Aksaray Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "AKSARAY TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1443,19 +1397,20 @@
     {
       "Program Kodu": "101950633",
       "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
         "35",
+        "30",
         "35",
         "35"
       ],
@@ -1483,18 +1438,19 @@
     {
       "Program Kodu": "110250956",
       "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "Van Meslek Yüksekokulu",
+      "Fakülte": "VAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1523,20 +1479,21 @@
     {
       "Program Kodu": "107350445",
       "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "45",
-        "40",
         "40"
       ],
       "Yerleşen": [
@@ -1563,19 +1520,20 @@
     {
       "Program Kodu": "200390420",
       "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "5",
-        "",
         "",
         ""
       ],
@@ -1603,19 +1561,20 @@
     {
       "Program Kodu": "100150477",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Gerede Meslek Yüksekokulu",
+      "Fakülte": "GEREDE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1643,18 +1602,19 @@
     {
       "Program Kodu": "100950406",
       "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "Amasya Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "AMASYA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1683,19 +1643,20 @@
     {
       "Program Kodu": "102651588",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Sivas Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SİVAS TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1723,20 +1684,21 @@
     {
       "Program Kodu": "104290451",
       "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "Naci Topçuoğlu Meslek Yüksekokulu",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "50",
         "60",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -1749,13 +1711,13 @@
         "1.114.434",
         "1.295.040",
         "1.148.511",
-        "1.184.399"
+        ""
       ],
       "Taban Puan": [
         "279.691",
         "271.471",
         "279.715",
-        "269.922"
+        ""
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -1763,19 +1725,20 @@
     {
       "Program Kodu": "103951343",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1803,18 +1766,19 @@
     {
       "Program Kodu": "108150665",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Niğde Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "NİĞDE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1843,19 +1807,20 @@
     {
       "Program Kodu": "106050751",
       "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1883,19 +1848,20 @@
     {
       "Program Kodu": "109451472",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "Keşan Meslek Yüksekokulu",
+      "Fakülte": "KEŞAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
         "35",
+        "30",
         "35",
         "35"
       ],
@@ -1923,19 +1889,20 @@
     {
       "Program Kodu": "112552075",
       "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Keçiborlu Meslek Yüksekokulu",
+      "Fakülte": "KEÇİBORLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -1963,19 +1930,20 @@
     {
       "Program Kodu": "103251474",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Tavşanlı Meslek Yüksekokulu",
+      "Fakülte": "TAVŞANLI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -2003,19 +1971,20 @@
     {
       "Program Kodu": "105150223",
       "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
         "35",
+        "30",
         "35",
         "35"
       ],
@@ -2041,21 +2010,22 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111570291",
+      "Program Kodu": "111500192",
       "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "Yeşilyurt Meslek Yüksekokulu",
+      "Fakülte": "YEŞİLYURT TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "40",
+        "30",
         "40",
         "40"
       ],
@@ -2083,19 +2053,20 @@
     {
       "Program Kodu": "101750195",
       "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "45",
         "45",
         "45"
       ],
@@ -2123,19 +2094,20 @@
     {
       "Program Kodu": "106750611",
       "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "Lüleburgaz Meslek Yüksekokulu",
+      "Fakülte": "LÜLEBURGAZ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -2163,19 +2135,20 @@
     {
       "Program Kodu": "107950757",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Hayrabolu Meslek Yüksekokulu",
+      "Fakülte": "HAYRABOLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "45",
         "45",
         "45"
       ],
@@ -2203,19 +2176,20 @@
     {
       "Program Kodu": "108990373",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Cihanbeyli Meslek Yüksekokulu",
+      "Fakülte": "CİHANBEYLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -2243,18 +2217,19 @@
     {
       "Program Kodu": "106350157",
       "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2283,19 +2258,20 @@
     {
       "Program Kodu": "106150229",
       "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
         "35",
+        "30",
         "35",
         "35"
       ],
@@ -2323,21 +2299,22 @@
     {
       "Program Kodu": "300550692",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "8",
         "7",
         "7",
-        "7",
-        "10"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -2363,21 +2340,22 @@
     {
       "Program Kodu": "210401347",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
         "1",
-        ""
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -2403,19 +2381,20 @@
     {
       "Program Kodu": "100451339",
       "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "Çay Meslek Yüksekokulu",
+      "Fakülte": "ÇAY MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -2443,20 +2422,21 @@
     {
       "Program Kodu": "210000423",
       "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "34",
         "25",
         "25",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -2481,21 +2461,22 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "105050736",
+      "Program Kodu": "105000353",
       "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "Şanlıurfa Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "35",
+        "30",
         "35",
         "35"
       ],
@@ -2523,20 +2504,21 @@
     {
       "Program Kodu": "102390142",
       "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "Yozgat Meslek Yüksekokulu",
+      "Fakülte": "YOZGAT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "40",
-        "35",
         "35"
       ],
       "Yerleşen": [
@@ -2563,18 +2545,19 @@
     {
       "Program Kodu": "112250769",
       "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
-      "Fakülte": "Elbistan Meslek Yüksekokulu",
+      "Fakülte": "ELBİSTAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2603,19 +2586,20 @@
     {
       "Program Kodu": "102090079",
       "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "Bingöl Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "BİNGÖL TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "25",
         "25",
         "25"
       ],
@@ -2643,19 +2627,20 @@
     {
       "Program Kodu": "102350627",
       "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "Sorgun Meslek Yüksekokulu",
+      "Fakülte": "SORGUN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "40",
         "40",
         "40"
       ],
@@ -2683,21 +2668,22 @@
     {
       "Program Kodu": "202490655",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "86",
+        "86",
         "73",
-        "65",
-        "56"
+        "65"
       ],
       "Yerleşen": [
         "",
@@ -2723,19 +2709,20 @@
     {
       "Program Kodu": "111550681",
       "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "Arapgir Meslek Yüksekokulu",
+      "Fakülte": "ARAPGİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -2763,20 +2750,21 @@
     {
       "Program Kodu": "109370153",
       "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
-      "Fakülte": "Şırnak Meslek Yüksekokulu",
+      "Fakülte": "ŞIRNAK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "30",
         "30",
-        "20",
         "20"
       ],
       "Yerleşen": [
@@ -2803,18 +2791,19 @@
     {
       "Program Kodu": "102190050",
       "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2843,20 +2832,21 @@
     {
       "Program Kodu": "105290054",
       "Üniversite": "IĞDIR ÜNİVERSİTESİ",
-      "Fakülte": "Iğdır Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "IĞDIR TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "25",
         "25",
-        "20",
         "20"
       ],
       "Yerleşen": [
@@ -2883,20 +2873,21 @@
     {
       "Program Kodu": "205090275",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "34",
+        "34",
         "25",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -2923,21 +2914,22 @@
     {
       "Program Kodu": "200651778",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Kahramankazan Meslek Yüksekokulu",
+      "Fakülte": "KAHRAMANKAZAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "24",
+        "24",
         "26",
-        "29",
-        "25"
+        "29"
       ],
       "Yerleşen": [
         "",
@@ -2963,21 +2955,22 @@
     {
       "Program Kodu": "210401354",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "78",
         "78",
-        "74",
-        ""
+        "78",
+        "74"
       ],
       "Yerleşen": [
         "",
@@ -3003,21 +2996,22 @@
     {
       "Program Kodu": "208450820",
       "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "42",
+        "42",
         "38",
-        "38",
-        "39"
+        "38"
       ],
       "Yerleşen": [
         "",
@@ -3041,97 +3035,18 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206190347",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "33",
-        "37"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.299.470",
-        "1.548.855",
-        "1.637.318",
-        "1.369.067"
-      ],
-      "Taban Puan": [
-        "180.366",
-        "256.044",
-        "248.675",
-        "258.216"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200390427",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Otomotiv Teknolojisi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "34",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretli"
-    },
-    {
       "Program Kodu": "108690089",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Denizli Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "DENİZLİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Otomotiv Teknolojisi (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
@@ -3161,20 +3076,185 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210302313",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "112000108",
+      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Otomotiv Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200390427",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Otomotiv Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "17",
+        "34",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200300129",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "34",
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201200101",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Otomotiv Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201200108",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
         "",
         "",
         ""
@@ -3201,21 +3281,22 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209710318",
-      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "Gebze Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Program Kodu": "210302313",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Otomotiv Teknolojisi (%25 İndirimli)",
+      "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "42",
         "34",
-        "",
         "",
         ""
       ],
@@ -3237,27 +3318,28 @@
         "",
         ""
       ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "%25 İndirimli"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300590407",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Otomotiv Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "12",
         "13",
         "13",
-        "13",
-        "10"
+        "13"
       ],
       "Yerleşen": [
         "",

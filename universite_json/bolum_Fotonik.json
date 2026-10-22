@@ -3,21 +3,22 @@
     {
       "Program Kodu": "105810160",
       "Üniversite": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Fotonik (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
         "35",
-        "30",
-        "40"
+        "35",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "104190552",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Fotonik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "45",
         "45",
-        "40",
         "40"
       ],
       "Yerleşen": [
@@ -78,6 +80,47 @@
         "284.591"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103700101",
+      "Üniversite": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fotonik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     }
   ]

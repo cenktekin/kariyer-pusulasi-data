@@ -3,20 +3,21 @@
     {
       "Program Kodu": "101111385",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gayrimenkul Geliştirme ve Yönetimi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "60",
         "75",
         "75",
-        "70",
         "70"
       ],
       "Yerleşen": [
@@ -41,17 +42,59 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109190049",
-      "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Boyabat İktisadi ve İdari Bilimler Fakültesi",
+      "Program Kodu": "111700108",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "TAPU KADASTRO YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gayrimenkul Geliştirme ve Yönetimi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "500.619",
+        "582.044",
+        "631.542",
+        "689.169"
+      ],
+      "Taban Puan": [
+        "280.034",
+        "271.960",
+        "273.582",
+        "266.632"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109190049",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "BOYABAT İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gayrimenkul Geliştirme ve Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -79,6 +122,47 @@
       ],
       "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101100654",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gayrimenkul Geliştirme ve Yönetimi (UOLP-Azerbaycan Mimarlık ve İnşaat Üniversitesi) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
     }
   ]
 }

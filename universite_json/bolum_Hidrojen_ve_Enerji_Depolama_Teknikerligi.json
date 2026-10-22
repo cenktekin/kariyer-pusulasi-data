@@ -3,19 +3,20 @@
     {
       "Program Kodu": "112490573",
       "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Porsuk Meslek Yüksekokulu",
+      "Fakülte": "PORSUK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Hidrojen ve Enerji Depolama Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "",
         "",
         ""
       ],
@@ -43,19 +44,20 @@
     {
       "Program Kodu": "111890378",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Hendek Meslek Yüksekokulu",
+      "Fakülte": "HENDEK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Hidrojen ve Enerji Depolama Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "25",
-        "",
         "",
         ""
       ],
@@ -83,19 +85,20 @@
     {
       "Program Kodu": "108190443",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Bor Meslek Yüksekokulu",
+      "Fakülte": "BOR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Hidrojen ve Enerji Depolama Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "",
         "",
         ""
       ],
@@ -118,6 +121,47 @@
         ""
       ],
       "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108500101",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "OSMANİYE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Hidrojen ve Enerji Depolama Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "OSMANİYE",
       "Ücret": "Ücretsiz"
     }
   ]

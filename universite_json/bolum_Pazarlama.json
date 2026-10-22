@@ -3,21 +3,22 @@
     {
       "Program Kodu": "202511932",
       "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "İşletme Fakültesi",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "7",
         "7",
-        "7",
-        "6"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "209110061",
       "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "9",
         "7",
         "6",
-        "5",
         "5"
       ],
       "Yerleşen": [
@@ -81,22 +83,23 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202990337",
+      "Program Kodu": "202900136",
       "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İşletme Fakültesi",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Pazarlama (İngilizce) (Burslu)",
+      "Program Adı": "Pazarlama (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "3",
         "4",
         "4",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -123,21 +126,22 @@
     {
       "Program Kodu": "300190432",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "İşletme ve Ekonomi Fakültesi",
+      "Fakülte": "İŞLETME VE EKONOMİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
+        "7",
         "6",
-        "10",
-        "5"
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -163,20 +167,21 @@
     {
       "Program Kodu": "100110654",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Gerede Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "GEREDE UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
+        "30",
         "45",
-        "40",
         "40"
       ],
       "Yerleşen": [
@@ -203,15 +208,16 @@
     {
       "Program Kodu": "300510445",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
@@ -241,22 +247,64 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202990344",
-      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İşletme Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Pazarlama (İngilizce) (%50 İndirimli)",
+      "Program Kodu": "100100255",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "GEREDE UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Pazarlama (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202900143",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Pazarlama (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
         "21",
         "25",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -281,63 +329,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202590421",
-      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "İşletme Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Pazarlama (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "845.834",
-        "740.940",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "248.876",
-        "262.783",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
       "Program Kodu": "202511941",
       "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "İşletme Fakültesi",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "34",
         "42",
         "42",
-        "37",
-        "34"
+        "37"
       ],
       "Yerleşen": [
         "",
@@ -361,63 +370,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "300210942",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Uygulamalı Sosyal Bilimler Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Pazarlama (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "10",
-        "8",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.565.062",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "194.960",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "300290763",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "Uygulamalı Sosyal Bilimler Yüksekokulu",
+      "Program Kodu": "209110062",
+      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
-        "12",
-        "10",
-        "10"
+        "25",
+        "34",
+        "34",
+        "34"
       ],
       "Yerleşen": [
         "",
@@ -428,35 +398,36 @@
       "Taban Sıralama": [
         "",
         "",
-        "",
+        "1.302.929",
         ""
       ],
       "Taban Puan": [
         "",
         "",
-        "",
+        "218.809",
         ""
       ],
-      "Şehir": "KIBRIS",
+      "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300190643",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "İşletme ve Ekonomi Fakültesi",
+      "Fakülte": "İŞLETME VE EKONOMİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "11",
         "4",
         "9",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -483,19 +454,20 @@
     {
       "Program Kodu": "300190741",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "İşletme ve Ekonomi Fakültesi",
+      "Fakülte": "İŞLETME VE EKONOMİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "4",
-        "",
         "",
         ""
       ],
@@ -521,23 +493,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209110215",
-      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Program Kodu": "300210942",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "UYGULAMALI SOSYAL BİLİMLER YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Pazarlama (İngilizce) (Ücretli)",
+      "Program Adı": "Pazarlama (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "5",
-        "4",
-        "",
-        ""
+        "15",
+        "10",
+        "8",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -547,37 +520,38 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
+        "1.565.062",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
+        "194.960",
         "",
         ""
       ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209110062",
-      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Program Kodu": "300290763",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "UYGULAMALI SOSYAL BİLİMLER YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "34",
-        "34",
-        "34",
-        "25"
+        "5",
+        "10",
+        "12",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -588,30 +562,31 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.302.929",
+        "",
         ""
       ],
       "Taban Puan": [
         "",
         "",
-        "218.809",
+        "",
         ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300590567",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
@@ -643,19 +618,20 @@
     {
       "Program Kodu": "107250119",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "70",
         "70",
         "70"
       ],
@@ -683,21 +659,22 @@
     {
       "Program Kodu": "209210090",
       "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "4",
         "4",
-        "3",
-        "4"
+        "4",
+        "3"
       ],
       "Yerleşen": [
         "",
@@ -723,19 +700,20 @@
     {
       "Program Kodu": "111650175",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "65",
         "65",
         "65"
       ],
@@ -763,19 +741,20 @@
     {
       "Program Kodu": "202450643",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "11",
-        "9",
+        "11",
         "9",
         "9"
       ],
@@ -803,19 +782,20 @@
     {
       "Program Kodu": "103150195",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İzmir Meslek Yüksekokulu",
+      "Fakülte": "İZMİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "70",
+        "30",
         "70",
         "70"
       ],
@@ -841,63 +821,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101050403",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "Eskişehir Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Pazarlama",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "30",
-        "65",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "631.778",
-        "835.063",
-        "899.815",
-        "895.007"
-      ],
-      "Taban Puan": [
-        "320.358",
-        "303.800",
-        "298.551",
-        "291.659"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "100750108",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
+        "30",
         "75",
-        "75",
-        "76"
+        "75"
       ],
       "Yerleşen": [
         "",
@@ -923,19 +864,20 @@
     {
       "Program Kodu": "109750108",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "65",
         "65",
         "65"
       ],
@@ -963,19 +905,20 @@
     {
       "Program Kodu": "107450223",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "60",
         "60",
         "60"
       ],
@@ -1003,19 +946,20 @@
     {
       "Program Kodu": "107650115",
       "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "Muğla Meslek Yüksekokulu",
+      "Fakülte": "MUĞLA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "45",
         "45",
         "45"
       ],
@@ -1043,21 +987,22 @@
     {
       "Program Kodu": "106951291",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Ali Rıza Veziroğlu Meslek Yüksekokulu",
+      "Fakülte": "ALİ RIZA VEZİROĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "50",
-        "50",
-        "52"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -1083,19 +1028,20 @@
     {
       "Program Kodu": "108950348",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "100",
         "100",
         "100"
       ],
@@ -1123,19 +1069,20 @@
     {
       "Program Kodu": "109751072",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "İnegöl Meslek Yüksekokulu",
+      "Fakülte": "İNEGÖL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1163,20 +1110,21 @@
     {
       "Program Kodu": "111690699",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama (Uzaktan Öğretim)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "100",
-        "200",
         "100",
+        "200",
         "100"
       ],
       "Yerleşen": [
@@ -1203,15 +1151,16 @@
     {
       "Program Kodu": "100750708",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Manavgat Meslek Yüksekokulu",
+      "Fakülte": "MANAVGAT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -1243,18 +1192,19 @@
     {
       "Program Kodu": "101550134",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Balıkesir Meslek Yüksekokulu",
+      "Fakülte": "BALIKESİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -1283,19 +1233,20 @@
     {
       "Program Kodu": "109451603",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "Edirne Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "EDİRNE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1323,19 +1274,20 @@
     {
       "Program Kodu": "111851771",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Sapanca Meslek Yüksekokulu",
+      "Fakülte": "SAPANCA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1363,18 +1315,19 @@
     {
       "Program Kodu": "112050798",
       "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1403,18 +1356,19 @@
     {
       "Program Kodu": "107650399",
       "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "Milas Meslek Yüksekokulu",
+      "Fakülte": "MİLAS MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1443,21 +1397,22 @@
     {
       "Program Kodu": "101550204",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Ayvalık Meslek Yüksekokulu",
+      "Fakülte": "AYVALIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "50",
-        "45",
-        "44"
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -1483,19 +1438,20 @@
     {
       "Program Kodu": "112550573",
       "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Isparta Meslek Yüksekokulu",
+      "Fakülte": "ISPARTA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "70",
         "70",
         "70"
       ],
@@ -1523,15 +1479,16 @@
     {
       "Program Kodu": "100750814",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Korkuteli Meslek Yüksekokulu",
+      "Fakülte": "KORKUTELİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
@@ -1563,18 +1520,19 @@
     {
       "Program Kodu": "100450138",
       "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "Afyon Meslek Yüksekokulu",
+      "Fakülte": "AFYON MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1603,19 +1561,20 @@
     {
       "Program Kodu": "107950236",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Çorlu Meslek Yüksekokulu",
+      "Fakülte": "ÇORLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1643,15 +1602,16 @@
     {
       "Program Kodu": "102750271",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Biga Meslek Yüksekokulu",
+      "Fakülte": "BİGA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
@@ -1683,18 +1643,19 @@
     {
       "Program Kodu": "109750726",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Mustafakemalpaşa Meslek Yüksekokulu",
+      "Fakülte": "MUSTAFAKEMALPAŞA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1723,18 +1684,19 @@
     {
       "Program Kodu": "100350845",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Sultanhisar Meslek Yüksekokulu",
+      "Fakülte": "SULTANHİSAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1763,18 +1725,19 @@
     {
       "Program Kodu": "103250361",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Kütahya Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "KÜTAHYA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1803,19 +1766,20 @@
     {
       "Program Kodu": "102550325",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Salihli Meslek Yüksekokulu",
+      "Fakülte": "SALİHLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "50",
         "50",
         "50"
       ],
@@ -1843,18 +1807,19 @@
     {
       "Program Kodu": "112351153",
       "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "Pınarbaşı Meslek Yüksekokulu",
+      "Fakülte": "PINARBAŞI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "30",
         "25",
         "25",
         "25"
@@ -1883,18 +1848,19 @@
     {
       "Program Kodu": "102950233",
       "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "Ceyhan Meslek Yüksekokulu",
+      "Fakülte": "CEYHAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1923,18 +1889,19 @@
     {
       "Program Kodu": "101550734",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Burhaniye Meslek Yüksekokulu",
+      "Fakülte": "BURHANİYE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1963,18 +1930,19 @@
     {
       "Program Kodu": "108151045",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Niğde Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "NİĞDE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "20",
+        "25",
         "20",
         "20",
         "20"
@@ -2003,21 +1971,22 @@
     {
       "Program Kodu": "107750089",
       "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Antakya Meslek Yüksekokulu",
+      "Fakülte": "ANTAKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "20",
         "20",
-        "20",
-        "40"
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -2043,21 +2012,22 @@
     {
       "Program Kodu": "103950699",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "45",
-        "45",
-        "47"
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -2083,18 +2053,19 @@
     {
       "Program Kodu": "102550846",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Akhisar Meslek Yüksekokulu",
+      "Fakülte": "AKHİSAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2123,19 +2094,20 @@
     {
       "Program Kodu": "106050151",
       "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
-        "60",
         "60",
         "60"
       ],
@@ -2163,20 +2135,21 @@
     {
       "Program Kodu": "107450392",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "Anamur Meslek Yüksekokulu",
+      "Fakülte": "ANAMUR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "25",
         "25"
       ],
       "Yerleşen": [
@@ -2203,18 +2176,19 @@
     {
       "Program Kodu": "108250691",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Terme Meslek Yüksekokulu",
+      "Fakülte": "TERME MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2241,60 +2215,21 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105050206",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "Şanlıurfa Sosyal Bilimler Meslek Yüksekokulu",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Pazarlama",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.539.132",
-        "1.870.796",
-        "1.747.543",
-        "1.861.817"
-      ],
-      "Taban Puan": [
-        "250.238",
-        "237.708",
-        "242.414",
-        "232.634"
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "100950099",
       "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "Amasya Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "AMASYA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "30",
         "25",
         "25",
         "25"
@@ -2323,18 +2258,19 @@
     {
       "Program Kodu": "100250079",
       "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "Sosyal Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2363,18 +2299,19 @@
     {
       "Program Kodu": "106650269",
       "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "Keskin Meslek Yüksekokulu",
+      "Fakülte": "KESKİN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "20",
+        "25",
         "20",
         "20",
         "20"
@@ -2403,18 +2340,19 @@
     {
       "Program Kodu": "110290211",
       "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "Erciş Meslek Yüksekokulu",
+      "Fakülte": "ERCİŞ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2443,20 +2381,21 @@
     {
       "Program Kodu": "102790434",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Ezine Gıda İhtisas Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "EZİNE GIDA İHTİSAS ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "25",
         "25",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -2469,13 +2408,13 @@
         "1.576.921",
         "1.844.458",
         "1.942.763",
-        "2.033.722"
+        ""
       ],
       "Taban Puan": [
         "247.673",
         "239.164",
         "231.867",
-        "225.188"
+        ""
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -2483,20 +2422,21 @@
     {
       "Program Kodu": "106750153",
       "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "Lüleburgaz Meslek Yüksekokulu",
+      "Fakülte": "LÜLEBURGAZ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "25",
         "25",
-        "20",
         "20"
       ],
       "Yerleşen": [
@@ -2523,20 +2463,21 @@
     {
       "Program Kodu": "112150688",
       "Üniversite": "TRABZON ÜNİVERSİTESİ",
-      "Fakülte": "Beşikdüzü Meslek Yüksekokulu",
+      "Fakülte": "BEŞİKDÜZÜ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Pazarlama",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "25",
         "25"
       ],
       "Yerleşen": [
@@ -2561,23 +2502,65 @@
       "Ücret": "Ücretsiz"
     },
     {
+      "Program Kodu": "209200164",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Pazarlama (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
       "Program Kodu": "202490657",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Pazarlama (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "76",
+        "76",
         "65",
-        "58",
-        "50"
+        "58"
       ],
       "Yerleşen": [
         "",
@@ -2598,46 +2581,6 @@
         "231.486"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209210091",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Pazarlama (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "25",
-        "21"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        "2.231.669"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        "217.098"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
     }
   ]

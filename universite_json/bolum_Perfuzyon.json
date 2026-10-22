@@ -3,21 +3,22 @@
     {
       "Program Kodu": "206511417",
       "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Perfüzyon (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "8",
+        "8",
         "6",
-        "5",
-        "6"
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -43,21 +44,22 @@
     {
       "Program Kodu": "202790545",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Perfüzyon (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "6",
+        "6",
         "4",
-        "5",
-        "9"
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -83,19 +85,20 @@
     {
       "Program Kodu": "105090396",
       "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Perfüzyon",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "",
+        "30",
         "",
         ""
       ],
@@ -121,22 +124,64 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206552524",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Program Kodu": "202790546",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Perfüzyon (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "39",
+        "39",
+        "31",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "978.496",
+        "1.110.797",
+        "662.969"
+      ],
+      "Taban Puan": [
+        "",
+        "211.797",
+        "206.339",
+        "232.873"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206552524",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Perfüzyon (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "50",
+        "50",
         "38",
-        "34",
         "34"
       ],
       "Yerleşen": [
@@ -156,46 +201,6 @@
         "234.360",
         "251.286",
         "236.437"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202790546",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Perfüzyon (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "39",
-        "31",
-        "34",
-        "21"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "978.496",
-        "1.110.797",
-        "662.969"
-      ],
-      "Taban Puan": [
-        "",
-        "211.797",
-        "206.339",
-        "232.873"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

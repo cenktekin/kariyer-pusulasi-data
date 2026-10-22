@@ -3,18 +3,19 @@
     {
       "Program Kodu": "107050281",
       "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Meram Meslek Yüksekokulu",
+      "Fakülte": "MERAM MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Un ve Unlu Mamuller Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -43,18 +44,19 @@
     {
       "Program Kodu": "104251171",
       "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "Naci Topçuoğlu Meslek Yüksekokulu",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Un ve Unlu Mamuller Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -78,6 +80,47 @@
         "220.951"
       ],
       "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106400150",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "DADAY NAFİ VE ÜMİT ÇERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Un ve Unlu Mamuller Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     }
   ]

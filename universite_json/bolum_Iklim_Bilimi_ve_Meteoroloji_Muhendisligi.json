@@ -3,20 +3,21 @@
     {
       "Program Kodu": "105590272",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Uçak ve Uzay Bilimleri Fakültesi",
+      "Fakülte": "UÇAK VE UZAY BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
         "45",
-        "",
+        "45",
         ""
       ],
       "Yerleşen": [
@@ -29,13 +30,13 @@
         "56.627",
         "64.918",
         "",
-        "86.223"
+        ""
       ],
       "Taban Puan": [
         "438.783",
         "417.863",
         "",
-        "418.512"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -43,19 +44,20 @@
     {
       "Program Kodu": "112771309",
       "Üniversite": "SAMSUN ÜNİVERSİTESİ",
-      "Fakülte": "Özdemir Bayraktar Havacılık ve Uzay Bilimleri Fakültesi",
+      "Fakülte": "ÖZDEMİR BAYRAKTAR HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
-        "",
+        "50",
         "",
         ""
       ],
@@ -83,19 +85,20 @@
     {
       "Program Kodu": "110410419",
       "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "Havacılık ve Uzay Bilimleri Fakültesi",
+      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
-        "",
+        "30",
         "",
         ""
       ],
@@ -121,57 +124,18 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112771316",
-      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
-      "Fakülte": "Özdemir Bayraktar Havacılık ve Uzay Bilimleri Fakültesi",
+      "Program Kodu": "110400101",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği (KKTC Uyruklu)",
+      "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği (İngilizce) (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "3",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105590321",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Uçak ve Uzay Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "2",
@@ -197,7 +161,89 @@
         "",
         ""
       ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105590321",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "UÇAK VE UZAY BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "2",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112771316",
+      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
+      "Fakülte": "ÖZDEMİR BAYRAKTAR HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İklim Bilimi ve Meteoroloji Mühendisliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "3",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     }
   ]

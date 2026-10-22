@@ -1,63 +1,24 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190344",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "3",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "219.378",
-        "248.391",
-        "204.665",
-        "259.211"
-      ],
-      "Taban Puan": [
-        "385.164",
-        "383.139",
-        "396.472",
-        "378.710"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "209110012",
       "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "11",
         "10",
         "7",
-        "7",
-        "6"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -83,18 +44,19 @@
     {
       "Program Kodu": "107250401",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -123,18 +85,19 @@
     {
       "Program Kodu": "104151039",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "70",
+        "75",
         "70",
         "70",
         "70"
@@ -163,20 +126,21 @@
     {
       "Program Kodu": "200651715",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Kahramankazan Meslek Yüksekokulu",
+      "Fakülte": "KAHRAMANKAZAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "6",
         "6",
-        "8",
+        "6",
         "8"
       ],
       "Yerleşen": [
@@ -203,21 +167,22 @@
     {
       "Program Kodu": "201950147",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
         "7",
-        "6",
-        "9"
+        "7",
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -243,18 +208,19 @@
     {
       "Program Kodu": "111650572",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "40",
         "60",
         "60",
         "60"
@@ -283,20 +249,21 @@
     {
       "Program Kodu": "201290558",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "4",
         "4",
-        "",
+        "4",
         ""
       ],
       "Yerleşen": [
@@ -323,20 +290,21 @@
     {
       "Program Kodu": "202454477",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "14",
         "12",
-        "11",
         "11"
       ],
       "Yerleşen": [
@@ -363,21 +331,22 @@
     {
       "Program Kodu": "208450973",
       "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "6",
         "5",
-        "5",
-        ""
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -403,18 +372,19 @@
     {
       "Program Kodu": "109751487",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "50",
         "60",
         "60",
         "60"
@@ -443,18 +413,19 @@
     {
       "Program Kodu": "103451163",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Ege Meslek Yüksekokulu",
+      "Fakülte": "EGE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "80",
+        "70",
         "80",
         "80",
         "80"
@@ -483,21 +454,22 @@
     {
       "Program Kodu": "203050423",
       "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "7",
+        "7",
         "9",
-        "9",
-        "8"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -523,18 +495,19 @@
     {
       "Program Kodu": "101150562",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Elmadağ Meslek Yüksekokulu",
+      "Fakülte": "ELMADAĞ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "40",
         "50",
         "50",
         "50"
@@ -563,19 +536,20 @@
     {
       "Program Kodu": "210402873",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
-        "",
+        "5",
         "",
         ""
       ],
@@ -603,21 +577,22 @@
     {
       "Program Kodu": "202790388",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "7",
         "9",
         "10",
-        "9",
-        "10"
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -643,15 +618,16 @@
     {
       "Program Kodu": "103150565",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İzmir Meslek Yüksekokulu",
+      "Fakülte": "İZMİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "65",
@@ -683,21 +659,22 @@
     {
       "Program Kodu": "202351466",
       "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "3",
         "6",
         "6",
-        "6",
-        "5"
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -723,18 +700,19 @@
     {
       "Program Kodu": "100751009",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "50",
         "60",
         "60",
         "60"
@@ -763,18 +741,19 @@
     {
       "Program Kodu": "106951537",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Kocaeli Meslek Yüksekokulu",
+      "Fakülte": "KOCAELİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
+        "60",
         "55",
         "55",
         "55"
@@ -803,18 +782,19 @@
     {
       "Program Kodu": "107650796",
       "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "Muğla Meslek Yüksekokulu",
+      "Fakülte": "MUĞLA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -843,18 +823,19 @@
     {
       "Program Kodu": "111851392",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Sakarya Meslek Yüksekokulu",
+      "Fakülte": "SAKARYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -883,18 +864,19 @@
     {
       "Program Kodu": "108650527",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Denizli Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "DENİZLİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
+        "50",
         "45",
         "45",
         "45"
@@ -923,18 +905,19 @@
     {
       "Program Kodu": "102950781",
       "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "Adana Meslek Yüksekokulu",
+      "Fakülte": "ADANA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -963,18 +946,19 @@
     {
       "Program Kodu": "107451106",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1003,18 +987,19 @@
     {
       "Program Kodu": "106951555",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Hereke Asım Kocabıyık Meslek Yüksekokulu",
+      "Fakülte": "HEREKE ASIM KOCABIYIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -1043,18 +1028,19 @@
     {
       "Program Kodu": "106650472",
       "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "Kırıkkale Meslek Yüksekokulu",
+      "Fakülte": "KIRIKKALE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "35",
         "50",
         "50",
         "50"
@@ -1083,18 +1069,19 @@
     {
       "Program Kodu": "108250797",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Yeşilyurt Demir Çelik Meslek Yüksekokulu",
+      "Fakülte": "YEŞİLYURT DEMİR ÇELİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -1123,18 +1110,19 @@
     {
       "Program Kodu": "101551168",
       "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Balıkesir Meslek Yüksekokulu",
+      "Fakülte": "BALIKESİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1163,20 +1151,21 @@
     {
       "Program Kodu": "101150792",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Nallıhan Meslek Yüksekokulu",
+      "Fakülte": "NALLIHAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "65",
         "60",
         "60",
-        "55",
         "55"
       ],
       "Yerleşen": [
@@ -1203,18 +1192,19 @@
     {
       "Program Kodu": "111352414",
       "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "55",
         "50",
         "50",
         "50"
@@ -1243,18 +1233,19 @@
     {
       "Program Kodu": "107950854",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1283,20 +1274,21 @@
     {
       "Program Kodu": "106990834",
       "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "Karamürsel Denizcilik Meslek Yüksekokulu",
+      "Fakülte": "KARAMÜRSEL DENİZCİLİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "45",
         "45",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -1309,13 +1301,13 @@
         "904.562",
         "1.140.388",
         "1.292.363",
-        "1.244.044"
+        ""
       ],
       "Taban Puan": [
         "295.644",
         "281.508",
         "269.889",
-        "265.993"
+        ""
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -1323,18 +1315,19 @@
     {
       "Program Kodu": "100451506",
       "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "Afyon Meslek Yüksekokulu",
+      "Fakülte": "AFYON MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1363,18 +1356,19 @@
     {
       "Program Kodu": "102590342",
       "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "Turgutlu Meslek Yüksekokulu",
+      "Fakülte": "TURGUTLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1403,15 +1397,16 @@
     {
       "Program Kodu": "100150829",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Bolu Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "BOLU TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -1441,20 +1436,21 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101690114",
+      "Program Kodu": "101600101",
       "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "Bartın Meslek Yüksekokulu",
+      "Fakülte": "BARTIN ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1483,18 +1479,19 @@
     {
       "Program Kodu": "112552224",
       "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1523,18 +1520,19 @@
     {
       "Program Kodu": "111851408",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Hendek Meslek Yüksekokulu",
+      "Fakülte": "HENDEK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1563,20 +1561,21 @@
     {
       "Program Kodu": "100390313",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Germencik Yamantürk Meslek Yüksekokulu",
+      "Fakülte": "GERMENCİK YAMANTÜRK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "40",
         "40",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -1589,13 +1588,13 @@
         "959.588",
         "1.187.827",
         "1.193.664",
-        "1.149.767"
+        ""
       ],
       "Taban Puan": [
         "291.275",
         "278.361",
         "276.564",
-        "272.276"
+        ""
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -1603,21 +1602,22 @@
     {
       "Program Kodu": "109790577",
       "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "Orhangazi Yeniköy Asil Çelik Meslek Yüksekokulu",
+      "Fakülte": "ORHANGAZİ YENİKÖY ASİL ÇELİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "50",
         "50",
-        "50",
-        ""
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -1643,18 +1643,19 @@
     {
       "Program Kodu": "112370778",
       "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "70",
+        "55",
         "70",
         "70",
         "70"
@@ -1683,18 +1684,19 @@
     {
       "Program Kodu": "103050609",
       "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "Diyarbakır Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "DİYARBAKIR TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "50",
         "60",
         "60",
         "60"
@@ -1723,18 +1725,19 @@
     {
       "Program Kodu": "106250934",
       "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Trabzon Meslek Yüksekokulu",
+      "Fakülte": "TRABZON MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -1763,18 +1766,19 @@
     {
       "Program Kodu": "102951019",
       "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "Adana Organize Sanayi Bölgesi Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "ADANA ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -1803,18 +1807,19 @@
     {
       "Program Kodu": "103950839",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -1843,18 +1848,19 @@
     {
       "Program Kodu": "102651728",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Sivas Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "SİVAS TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -1883,18 +1889,19 @@
     {
       "Program Kodu": "101750238",
       "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1923,18 +1930,19 @@
     {
       "Program Kodu": "107950872",
       "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Çorlu Meslek Yüksekokulu",
+      "Fakülte": "ÇORLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -1963,18 +1971,19 @@
     {
       "Program Kodu": "103350421",
       "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -2003,15 +2012,16 @@
     {
       "Program Kodu": "100751036",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Elmalı Meslek Yüksekokulu",
+      "Fakülte": "ELMALI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -2043,18 +2053,19 @@
     {
       "Program Kodu": "110251018",
       "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "Van Meslek Yüksekokulu",
+      "Fakülte": "VAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
+        "50",
         "45",
         "45",
         "45"
@@ -2083,18 +2094,19 @@
     {
       "Program Kodu": "112070733",
       "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "Mersin Tarsus Organize Sanayi Bölgesi Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2123,18 +2135,19 @@
     {
       "Program Kodu": "103251305",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Kütahya Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "KÜTAHYA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2163,18 +2176,19 @@
     {
       "Program Kodu": "108350293",
       "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2203,18 +2217,19 @@
     {
       "Program Kodu": "102751066",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Çan Meslek Yüksekokulu",
+      "Fakülte": "ÇAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "30",
         "25",
         "25",
         "25"
@@ -2243,18 +2258,19 @@
     {
       "Program Kodu": "104290325",
       "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "Naci Topçuoğlu Meslek Yüksekokulu",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2283,18 +2299,19 @@
     {
       "Program Kodu": "105350769",
       "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "Malatya Osb Meslek Yüksekokulu",
+      "Fakülte": "MALATYA OSB MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -2323,21 +2340,22 @@
     {
       "Program Kodu": "107751015",
       "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "Antakya Meslek Yüksekokulu",
+      "Fakülte": "ANTAKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "20",
         "20",
-        "20",
-        "25"
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -2363,18 +2381,19 @@
     {
       "Program Kodu": "109451533",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "Edirne Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "50",
         "60",
         "60",
         "60"
@@ -2403,18 +2422,19 @@
     {
       "Program Kodu": "101950545",
       "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "40",
         "35",
         "35",
         "35"
@@ -2443,18 +2463,19 @@
     {
       "Program Kodu": "106050875",
       "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "35",
         "50",
         "50",
         "50"
@@ -2483,18 +2504,19 @@
     {
       "Program Kodu": "108350433",
       "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "Ünye Meslek Yüksekokulu",
+      "Fakülte": "ÜNYE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -2523,21 +2545,22 @@
     {
       "Program Kodu": "209110013",
       "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "56",
         "47",
-        "42",
-        "34"
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -2563,18 +2586,19 @@
     {
       "Program Kodu": "106251005",
       "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Sürmene Abdullah Kanca Meslek Yüksekokulu",
+      "Fakülte": "SÜRMENE ABDULLAH KANCA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2603,18 +2627,19 @@
     {
       "Program Kodu": "103950857",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "Elazığ Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "ELAZIĞ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "25",
+        "30",
         "25",
         "25",
         "25"
@@ -2643,15 +2668,16 @@
     {
       "Program Kodu": "100950196",
       "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "Amasya Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "AMASYA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -2683,18 +2709,19 @@
     {
       "Program Kodu": "110350867",
       "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "Alaplı Meslek Yüksekokulu",
+      "Fakülte": "ALAPLI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2723,18 +2750,19 @@
     {
       "Program Kodu": "108750314",
       "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2763,20 +2791,21 @@
     {
       "Program Kodu": "300550629",
       "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "3",
+        "3",
         "4",
-        "5",
         "5"
       ],
       "Yerleşen": [
@@ -2803,18 +2832,19 @@
     {
       "Program Kodu": "104350984",
       "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "Tokat Meslek Yüksekokulu",
+      "Fakülte": "TOKAT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -2843,18 +2873,19 @@
     {
       "Program Kodu": "108952468",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Silifke Taşucu Meslek Yüksekokulu",
+      "Fakülte": "SİLİFKE TAŞUCU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -2883,18 +2914,19 @@
     {
       "Program Kodu": "102850173",
       "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "40",
         "35",
         "35",
         "35"
@@ -2923,15 +2955,16 @@
     {
       "Program Kodu": "108550334",
       "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "Kadirli Meslek Yüksekokulu",
+      "Fakülte": "KADİRLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
@@ -2963,21 +2996,22 @@
     {
       "Program Kodu": "104590197",
       "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "Bulancak Meslek Yüksekokulu",
+      "Fakülte": "BULANCAK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "40",
         "40",
-        "40",
-        ""
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -3003,15 +3037,16 @@
     {
       "Program Kodu": "106750383",
       "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "55",
@@ -3043,19 +3078,20 @@
     {
       "Program Kodu": "107190179",
       "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
-      "Fakülte": "Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "40",
-        "",
         "",
         ""
       ],
@@ -3081,62 +3117,23 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201950138",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Teknolojisi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "4",
-        "7",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.365.049",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "262.122",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
       "Program Kodu": "106450226",
       "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "50",
         "50",
-        "40",
         "40"
       ],
       "Yerleşen": [
@@ -3163,15 +3160,16 @@
     {
       "Program Kodu": "107850255",
       "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
@@ -3203,18 +3201,19 @@
     {
       "Program Kodu": "108150717",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Bor Meslek Yüksekokulu",
+      "Fakülte": "BOR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -3243,18 +3242,19 @@
     {
       "Program Kodu": "103690103",
       "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3283,18 +3283,19 @@
     {
       "Program Kodu": "109451542",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "İpsala Meslek Yüksekokulu",
+      "Fakülte": "İPSALA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -3323,19 +3324,20 @@
     {
       "Program Kodu": "210402880",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
-        "",
+        "1",
         "",
         ""
       ],
@@ -3363,20 +3365,21 @@
     {
       "Program Kodu": "100850407",
       "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "Ortaköy Meslek Yüksekokulu",
+      "Fakülte": "ORTAKÖY MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "25",
         "25"
       ],
       "Yerleşen": [
@@ -3403,18 +3406,19 @@
     {
       "Program Kodu": "102390134",
       "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "Yozgat Meslek Yüksekokulu",
+      "Fakülte": "YOZGAT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3443,18 +3447,19 @@
     {
       "Program Kodu": "112250884",
       "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
-      "Fakülte": "Elbistan Meslek Yüksekokulu",
+      "Fakülte": "ELBİSTAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3483,18 +3488,19 @@
     {
       "Program Kodu": "106150698",
       "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "Türkiye Odalar ve Borsalar Birliği Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "60",
+        "65",
         "60",
         "60",
         "60"
@@ -3523,15 +3529,16 @@
     {
       "Program Kodu": "108952441",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ilgın Meslek Yüksekokulu",
+      "Fakülte": "ILGIN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
@@ -3563,20 +3570,21 @@
     {
       "Program Kodu": "105090193",
       "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "40",
         "40",
-        "25",
         "25"
       ],
       "Yerleşen": [
@@ -3603,18 +3611,19 @@
     {
       "Program Kodu": "108952432",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Akören Ali Rıza Ercan Meslek Yüksekokulu",
+      "Fakülte": "AKÖREN ALİ RIZA ERCAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -3643,18 +3652,19 @@
     {
       "Program Kodu": "106450262",
       "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "Cide Rıfat Ilgaz Meslek Yüksekokulu",
+      "Fakülte": "CİDE RIFAT ILGAZ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "45",
         "40",
         "40",
         "40"
@@ -3683,20 +3693,21 @@
     {
       "Program Kodu": "104790057",
       "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "Kelkit Aydın Doğan Meslek Yüksekokulu",
+      "Fakülte": "KELKİT AYDIN DOĞAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "30",
         "30",
-        "20",
         "20"
       ],
       "Yerleşen": [
@@ -3723,18 +3734,19 @@
     {
       "Program Kodu": "105150259",
       "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "Osmancık Ömer Derindere Meslek Yüksekokulu",
+      "Fakülte": "OSMANCIK ÖMER DERİNDERE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3763,18 +3775,19 @@
     {
       "Program Kodu": "102350584",
       "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "Boğazlıyan Meslek Yüksekokulu",
+      "Fakülte": "BOĞAZLIYAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "35",
         "30",
         "30",
         "30"
@@ -3803,15 +3816,16 @@
     {
       "Program Kodu": "200651733",
       "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Kahramankazan Meslek Yüksekokulu",
+      "Fakülte": "KAHRAMANKAZAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "17",
@@ -3843,20 +3857,21 @@
     {
       "Program Kodu": "201290565",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "",
+        "25",
         ""
       ],
       "Yerleşen": [
@@ -3883,19 +3898,20 @@
     {
       "Program Kodu": "210402887",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "33",
-        "",
+        "33",
         "",
         ""
       ],
@@ -3921,102 +3937,23 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202790390",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İstanbul Gelişim Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "59",
-        "65",
-        "66",
-        "59"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.608.316",
-        "2.788.008",
-        "2.055.566"
-      ],
-      "Taban Puan": [
-        "",
-        "194.914",
-        "186.406",
-        "224.266"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "208450980",
-      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "38",
-        "30",
-        "25",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "2.274.197",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "215.094",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "103290254",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Kütahya Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "KÜTAHYA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Teknolojisi (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
-        "",
+        "1",
         ""
       ],
       "Yerleşen": [
@@ -4041,23 +3978,188 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202352022",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "107600332",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "MUĞLA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektronik Teknolojisi (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209500101",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektronik Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209500108",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201990519",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "47",
+        "",
+        "",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "1.973.892"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "227.712"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202352022",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "22",
         "38",
         "35",
-        "35",
-        "27"
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -4083,21 +4185,22 @@
     {
       "Program Kodu": "202490642",
       "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "92",
         "93",
         "77",
-        "73",
-        "65"
+        "73"
       ],
       "Yerleşen": [
         "",
@@ -4121,23 +4224,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "300590401",
-      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "202790390",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "7",
-        "6",
-        "5",
-        "5"
+        "48",
+        "59",
+        "65",
+        "66"
       ],
       "Yerleşen": [
         "",
@@ -4147,77 +4251,38 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.647.710",
-        "",
-        ""
+        "2.608.316",
+        "2.788.008",
+        "2.055.566"
       ],
       "Taban Puan": [
         "",
-        "191.459",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201950605",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Teknolojisi (%25 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "43",
-        "40",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
+        "194.914",
+        "186.406",
+        "224.266"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%25 İndirimli"
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "203050432",
       "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "42",
+        "42",
         "59",
-        "54",
-        "46"
+        "54"
       ],
       "Yerleşen": [
         "",
@@ -4241,23 +4306,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206190345",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Program Kodu": "208450980",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "29",
-        "29",
-        "27",
-        "30"
+        "37",
+        "38",
+        "30",
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -4267,17 +4333,58 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.833.800",
-        "1.931.135",
-        "1.826.389"
+        "",
+        "2.274.197",
+        ""
       ],
       "Taban Puan": [
         "",
-        "239.758",
-        "232.479",
-        "234.263"
+        "",
+        "215.094",
+        ""
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300590401",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektronik Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "6",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.647.710",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "191.459",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     }
   ]

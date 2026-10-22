@@ -3,21 +3,22 @@
     {
       "Program Kodu": "202790373",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "4",
-        "4",
         "3",
-        "8"
+        "4",
+        "4",
+        "3"
       ],
       "Yerleşen": [
         "",
@@ -41,60 +42,21 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "200690422",
-      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Kahramankazan Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Kalite Kontrolü ve Analizi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "837.973",
-        "962.646",
-        "1.221.604",
-        "1.267.134"
-      ],
-      "Taban Puan": [
-        "301.124",
-        "293.961",
-        "274.623",
-        "264.493"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "102751542",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Çanakkale Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "ÇANAKKALE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "40",
         "50",
         "50",
         "50"
@@ -123,18 +85,19 @@
     {
       "Program Kodu": "104290332",
       "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "Naci Topçuoğlu Meslek Yüksekokulu",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "23",
         "35",
         "35",
         "35"
@@ -163,18 +126,19 @@
     {
       "Program Kodu": "107651334",
       "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "Ula Ali Koçman Meslek Yüksekokulu",
+      "Fakülte": "ULA ALİ KOÇMAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "30",
         "50",
         "50",
         "50"
@@ -203,15 +167,16 @@
     {
       "Program Kodu": "101451284",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -243,19 +208,20 @@
     {
       "Program Kodu": "210100367",
       "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "5",
-        "",
+        "5",
         "",
         ""
       ],
@@ -283,18 +249,19 @@
     {
       "Program Kodu": "111851647",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Pamukova Meslek Yüksekokulu",
+      "Fakülte": "PAMUKOVA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -323,18 +290,19 @@
     {
       "Program Kodu": "101990054",
       "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "20",
         "30",
         "30",
         "30"
@@ -363,18 +331,19 @@
     {
       "Program Kodu": "112553179",
       "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Eğirdir Meslek Yüksekokulu",
+      "Fakülte": "EĞİRDİR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -403,18 +372,19 @@
     {
       "Program Kodu": "109950318",
       "Üniversite": "YALOVA ÜNİVERSİTESİ",
-      "Fakülte": "Armutlu Meslek Yüksekokulu",
+      "Fakülte": "ARMUTLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -443,18 +413,19 @@
     {
       "Program Kodu": "108251326",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Terme Meslek Yüksekokulu",
+      "Fakülte": "TERME MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "30",
         "40",
         "40",
         "40"
@@ -481,23 +452,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110670267",
-      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
-      "Fakülte": "Susurluk Tarım ve Orman Meslek Yüksekokulu",
+      "Program Kodu": "101500325",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "SUSURLUK TARIM VE ORMAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "50",
         "50",
-        "50",
-        ""
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -523,18 +495,19 @@
     {
       "Program Kodu": "100150635",
       "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "Yeniçağa Yaşar Çelik Meslek Yüksekokulu",
+      "Fakülte": "YENİÇAĞA YAŞAR ÇELİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -563,20 +536,21 @@
     {
       "Program Kodu": "102790406",
       "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "Ezine Gıda İhtisas Organize Sanayi Bölgesi Meslek Yüksekokulu",
+      "Fakülte": "EZİNE GIDA İHTİSAS ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
         "45",
-        "",
+        "45",
         ""
       ],
       "Yerleşen": [
@@ -589,13 +563,13 @@
         "1.431.301",
         "1.666.508",
         "1.723.997",
-        "1.565.829"
+        ""
       ],
       "Taban Puan": [
         "257.605",
         "249.207",
         "243.733",
-        "247.140"
+        ""
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -603,18 +577,19 @@
     {
       "Program Kodu": "106251165",
       "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "Maçka Meslek Yüksekokulu",
+      "Fakülte": "MAÇKA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -643,18 +618,19 @@
     {
       "Program Kodu": "108150938",
       "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "Bor Meslek Yüksekokulu",
+      "Fakülte": "BOR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
+        "23",
         "35",
         "35",
         "35"
@@ -683,18 +659,19 @@
     {
       "Program Kodu": "100351658",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Köşk Meslek Yüksekokulu",
+      "Fakülte": "KÖŞK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "75",
+        "65",
         "75",
         "75",
         "75"
@@ -723,21 +700,22 @@
     {
       "Program Kodu": "100351816",
       "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "Çine Meslek Yüksekokulu",
+      "Fakülte": "ÇİNE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "55",
         "55",
-        "55",
-        "54"
+        "55"
       ],
       "Yerleşen": [
         "",
@@ -763,18 +741,19 @@
     {
       "Program Kodu": "104550901",
       "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "Espiye Meslek Yüksekokulu",
+      "Fakülte": "ESPİYE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -803,18 +782,19 @@
     {
       "Program Kodu": "103251702",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Altıntaş Meslek Yüksekokulu",
+      "Fakülte": "ALTINTAŞ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "20",
         "30",
         "30",
         "30"
@@ -843,18 +823,19 @@
     {
       "Program Kodu": "110351441",
       "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "Çaycuma Gıda ve Tarım Meslek Yüksekokulu",
+      "Fakülte": "ÇAYCUMA GIDA VE TARIM MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "25",
         "40",
         "40",
         "40"
@@ -883,15 +864,16 @@
     {
       "Program Kodu": "108952777",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Karapınar Aydoğanlar Meslek Yüksekokulu",
+      "Fakülte": "KARAPINAR AYDOĞANLAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -923,20 +905,21 @@
     {
       "Program Kodu": "100950487",
       "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "Suluova Meslek Yüksekokulu",
+      "Fakülte": "SULUOVA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "30",
         "50",
         "50",
-        "45",
         "45"
       ],
       "Yerleşen": [
@@ -963,18 +946,19 @@
     {
       "Program Kodu": "107890042",
       "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "20",
+        "15",
         "20",
         "20",
         "20"
@@ -1003,20 +987,21 @@
     {
       "Program Kodu": "101290310",
       "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "20",
         "20",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -1043,15 +1028,16 @@
     {
       "Program Kodu": "101490362",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Oltu Meslek Yüksekokulu",
+      "Fakülte": "OLTU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -1083,19 +1069,20 @@
     {
       "Program Kodu": "112270936",
       "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
-      "Fakülte": "Türkoğlu Meslek Yüksekokulu",
+      "Fakülte": "TÜRKOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "20",
         "30",
-        "",
         "",
         ""
       ],
@@ -1123,18 +1110,19 @@
     {
       "Program Kodu": "102690277",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Suşehri Timur Karabal Meslek Yüksekokulu",
+      "Fakülte": "SUŞEHRİ TİMUR KARABAL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "20",
         "30",
         "30",
         "30"
@@ -1163,21 +1151,22 @@
     {
       "Program Kodu": "105990133",
       "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "Kars Meslek Yüksekokulu",
+      "Fakülte": "KARS MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "40",
         "40",
-        "35",
-        "37"
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -1203,18 +1192,19 @@
     {
       "Program Kodu": "106190087",
       "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "Eflani Meslek Yüksekokulu",
+      "Fakülte": "EFLANİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "20",
         "30",
         "30",
         "30"
@@ -1243,20 +1233,21 @@
     {
       "Program Kodu": "102690280",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "Zara Ahmet Çuhadaroğlu Meslek Yüksekokulu",
+      "Fakülte": "ZARA AHMET ÇUHADAROĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
-        "40",
         "30",
+        "40",
+        "40",
         "30"
       ],
       "Yerleşen": [
@@ -1283,20 +1274,21 @@
     {
       "Program Kodu": "104790055",
       "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "Şiran Mustafa Beyaz Meslek Yüksekokulu",
+      "Fakülte": "ŞİRAN MUSTAFA BEYAZ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "23",
         "35",
         "35",
-        "30",
         "30"
       ],
       "Yerleşen": [
@@ -1323,18 +1315,19 @@
     {
       "Program Kodu": "102090107",
       "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "Gıda, Tarım ve Hayvancılık Meslek Yüksekokulu",
+      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "30",
+        "20",
         "30",
         "30",
         "30"
@@ -1361,61 +1354,22 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202790375",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Hizmetleri Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Kalite Kontrolü ve Analizi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "26",
-        "12"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.702.739",
-        "",
-        "2.029.057"
-      ],
-      "Taban Puan": [
-        "",
-        "184.918",
-        "",
-        "225.386"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "210100374",
       "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "15",
         "34",
-        "",
         "",
         ""
       ],
@@ -1441,23 +1395,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "200690423",
-      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Kahramankazan Meslek Yüksekokulu",
+      "Program Kodu": "202790375",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Gıda Kalite Kontrolü ve Analizi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "9",
-        "9",
-        "9",
-        "9"
+        "15",
+        "30",
+        "25",
+        "26"
       ],
       "Yerleşen": [
         "",
@@ -1467,17 +1422,140 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.299.524",
-        "2.321.846",
-        "2.269.359"
+        "2.702.739",
+        "",
+        "2.029.057"
       ],
       "Taban Puan": [
         "",
-        "214.356",
-        "212.763",
-        "215.569"
+        "184.918",
+        "",
+        "225.386"
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208300129",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Kalite Kontrolü ve Analizi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "208300122",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Kalite Kontrolü ve Analizi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208300136",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Kalite Kontrolü ve Analizi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "23",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
     }
   ]

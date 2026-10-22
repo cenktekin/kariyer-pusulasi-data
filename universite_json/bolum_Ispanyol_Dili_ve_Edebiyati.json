@@ -3,18 +3,19 @@
     {
       "Program Kodu": "101110209",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Dil ve Tarih Coğrafya Fakültesi",
+      "Fakülte": "DİL VE TARİH COĞRAFYA FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İspanyol Dili ve Edebiyatı (İspanyolca)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "45",
+        "35",
         "45",
         "45",
         "45"
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "105690744",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İspanyol Dili ve Edebiyatı (İspanyolca)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
-        "55",
         "50",
+        "55",
+        "55",
         "50"
       ],
       "Yerleşen": [
@@ -83,19 +85,20 @@
     {
       "Program Kodu": "105490232",
       "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İspanyol Dili ve Edebiyatı",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
-        "",
+        "35",
         "",
         ""
       ],
@@ -123,20 +126,21 @@
     {
       "Program Kodu": "107390301",
       "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İspanyol Dili ve Edebiyatı",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
         "30",
-        "",
+        "30",
         ""
       ],
       "Yerleşen": [
@@ -158,6 +162,47 @@
         ""
       ],
       "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105400353",
+      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İspanyol Dili ve Edebiyatı (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     }
   ]

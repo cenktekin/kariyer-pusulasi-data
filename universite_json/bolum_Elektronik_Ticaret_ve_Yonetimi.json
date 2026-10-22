@@ -1,22 +1,23 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190400",
+      "Program Kodu": "206100465",
       "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "6",
         "8",
         "7",
-        "6",
         "6"
       ],
       "Yerleşen": [
@@ -43,21 +44,22 @@
     {
       "Program Kodu": "202790551",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "4",
         "7",
         "6",
-        "4",
-        "7"
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -83,21 +85,22 @@
     {
       "Program Kodu": "207590408",
       "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "İşletme ve Yönetim Bilimleri Fakültesi",
+      "Fakülte": "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "6",
+        "6",
         "4",
-        "5",
-        ""
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -123,19 +126,20 @@
     {
       "Program Kodu": "103290373",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Kütahya Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "KÜTAHYA UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Ticaret ve Yönetimi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
-        "",
+        "40",
         "",
         ""
       ],
@@ -161,23 +165,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206190407",
+      "Program Kodu": "206100479",
       "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "35",
         "39",
         "33",
-        "32",
-        "31"
+        "32"
       ],
       "Yerleşen": [
         "",
@@ -203,20 +208,21 @@
     {
       "Program Kodu": "101190520",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Açık ve Uzaktan Eğitim Fakültesi",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (Açıköğretim)",
-      "Öğretim Türü": "Açık Öğretim",
+      "Öğretim Türü": "UOLP",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1000",
         "1000",
-        "400",
+        "1000",
         "400"
       ],
       "Yerleşen": [
@@ -243,20 +249,21 @@
     {
       "Program Kodu": "105990153",
       "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Ticaret ve Yönetimi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
-        "55",
         "50",
+        "55",
+        "55",
         "50"
       ],
       "Yerleşen": [
@@ -281,23 +288,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206190393",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Ticaret ve Yönetimi (İngilizce) (Ücretli)",
+      "Program Kodu": "104300283",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "TURHAL UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektronik Ticaret ve Yönetimi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "15",
-        "15",
-        "10",
-        "5"
+        "40",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -307,37 +315,79 @@
       ],
       "Taban Sıralama": [
         "",
-        "852.083",
-        "864.624",
-        "478.937"
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
         "",
-        "248.400",
-        "251.769",
-        "290.227"
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207590415",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektronik Ticaret ve Yönetimi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "25",
+        "19"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "1.700.285",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "189.700",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "202790552",
       "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "31",
         "47",
         "9",
-        "25",
-        "13"
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -361,23 +411,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "207590415",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "İşletme ve Yönetim Bilimleri Fakültesi",
+      "Program Kodu": "206100472",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Ticaret ve Yönetimi (%50 İndirimli)",
+      "Program Adı": "Elektronik Ticaret ve Yönetimi (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
-        "25",
-        "19",
-        ""
+        "3",
+        "15",
+        "15",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -387,18 +438,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "1.700.285",
-        ""
+        "852.083",
+        "864.624",
+        "478.937"
       ],
       "Taban Puan": [
         "",
-        "",
-        "189.700",
-        ""
+        "248.400",
+        "251.769",
+        "290.227"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
     }
   ]
 }

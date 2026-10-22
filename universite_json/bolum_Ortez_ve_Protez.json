@@ -3,20 +3,21 @@
     {
       "Program Kodu": "203190104",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ortez ve Protez (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "3",
-        "4",
         "3",
+        "4",
         "3"
       ],
       "Yerleşen": [
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "101190424",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Ortez ve Protez",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "54",
         "60",
         "60",
-        "55",
         "55"
       ],
       "Yerleşen": [
@@ -83,20 +85,21 @@
     {
       "Program Kodu": "111091393",
       "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Gülhane Sağlık Bilimleri Fakültesi",
+      "Fakülte": "GÜLHANE SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Ortez ve Protez (Ankara)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "55",
-        "55",
         "50",
+        "55",
+        "55",
         "50"
       ],
       "Yerleşen": [
@@ -123,18 +126,19 @@
     {
       "Program Kodu": "108290278",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Ortez ve Protez",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "50",
+        "45",
         "50",
         "50",
         "50"
@@ -161,23 +165,24 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203190105",
+      "Program Kodu": "203101207",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "Sağlık Bilimleri Fakültesi",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ortez ve Protez (%50 İndirimli)",
+      "Program Adı": "Ortez ve Protez (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "17",
+        "15",
         "",
-        "17",
-        "12"
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -189,16 +194,16 @@
         "",
         "",
         "",
-        "612.702"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "238.293"
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
     }
   ]
 }

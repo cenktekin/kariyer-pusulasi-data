@@ -3,20 +3,21 @@
     {
       "Program Kodu": "108690259",
       "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi (Çivril)",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ (Çivril)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Organik Tarım İşletmeciliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
         "35",
-        "30",
+        "35",
         "30"
       ],
       "Yerleşen": [
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "108911514",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Çumra Uygulamalı Bilimler Yüksekokulu",
+      "Fakülte": "ÇUMRA UYGULAMALI BİLİMLER YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Organik Tarım İşletmeciliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "35",
-        "35",
         "30",
+        "35",
+        "35",
         "30"
       ],
       "Yerleşen": [
@@ -83,21 +85,22 @@
     {
       "Program Kodu": "108570528",
       "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "Kadirli Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "KADİRLİ UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Organik Tarım İşletmeciliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "45",
         "45",
-        "40",
-        "25"
+        "45",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -118,6 +121,47 @@
         "227.038"
       ],
       "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105200108",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Organik Tarım İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "IĞDIR",
       "Ücret": "Ücretsiz"
     }
   ]

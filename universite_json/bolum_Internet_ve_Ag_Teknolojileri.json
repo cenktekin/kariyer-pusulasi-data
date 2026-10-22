@@ -1,102 +1,23 @@
 {
   "yks": [
     {
-      "Program Kodu": "206190359",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İnternet ve Ağ Teknolojileri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "7",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "272.071",
-        "243.352",
-        "248.978",
-        "257.190"
-      ],
-      "Taban Puan": [
-        "372.928",
-        "384.477",
-        "384.201",
-        "379.218"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202490744",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İnternet ve Ağ Teknolojileri (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "8",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "372.724",
-        "438.090",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "354.038",
-        "346.024",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "201290572",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "5",
         "4",
         "4",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -123,20 +44,21 @@
     {
       "Program Kodu": "210402600",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "9",
         "8",
         "4",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -163,21 +85,22 @@
     {
       "Program Kodu": "205090098",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Uzaktan Öğretim) (Burslu)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "10",
         "8",
         "8",
-        "7",
-        "6"
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -203,21 +126,22 @@
     {
       "Program Kodu": "205050523",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "11",
         "11",
         "11",
-        "12"
+        "11"
       ],
       "Yerleşen": [
         "",
@@ -243,19 +167,20 @@
     {
       "Program Kodu": "207590660",
       "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "3",
-        "",
+        "3",
         "",
         ""
       ],
@@ -283,21 +208,22 @@
     {
       "Program Kodu": "101190426",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Açık ve Uzaktan Eğitim Fakültesi",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Uzaktan Öğretim)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "105",
         "105",
         "105",
-        "103"
+        "105"
       ],
       "Yerleşen": [
         "",
@@ -323,21 +249,22 @@
     {
       "Program Kodu": "108851577",
       "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "Adapazarı Meslek Yüksekokulu",
+      "Fakülte": "ADAPAZARI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Uzaktan Öğretim)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "90",
         "90",
         "90",
-        "91"
+        "90"
       ],
       "Yerleşen": [
         "",
@@ -363,20 +290,21 @@
     {
       "Program Kodu": "108251371",
       "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Vezirköprü Meslek Yüksekokulu",
+      "Fakülte": "VEZİRKÖPRÜ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Uzaktan Öğretim)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "60",
         "50",
         "50",
-        "30",
         "30"
       ],
       "Yerleşen": [
@@ -403,15 +331,16 @@
     {
       "Program Kodu": "103251605",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "Tavşanlı Meslek Yüksekokulu",
+      "Fakülte": "TAVŞANLI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
@@ -443,21 +372,22 @@
     {
       "Program Kodu": "112190172",
       "Üniversite": "TRABZON ÜNİVERSİTESİ",
-      "Fakülte": "Çarşıbaşı Meslek Yüksekokulu",
+      "Fakülte": "ÇARŞIBAŞI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "40",
-        ""
+        "50",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -483,20 +413,21 @@
     {
       "Program Kodu": "109190038",
       "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Ayancık Meslek Yüksekokulu",
+      "Fakülte": "AYANCIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "40",
+        "50",
         "40"
       ],
       "Yerleşen": [
@@ -523,20 +454,21 @@
     {
       "Program Kodu": "101990056",
       "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "Pazaryeri Meslek Yüksekokulu",
+      "Fakülte": "PAZARYERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "50",
         "50",
-        "30",
         "30"
       ],
       "Yerleşen": [
@@ -563,20 +495,21 @@
     {
       "Program Kodu": "107350966",
       "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "Gölhisar Meslek Yüksekokulu",
+      "Fakülte": "GÖLHİSAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "50",
         "50",
-        "40",
         "40"
       ],
       "Yerleşen": [
@@ -603,20 +536,21 @@
     {
       "Program Kodu": "112572416",
       "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Uluborlu Selahattin Karasoy Meslek Yüksekokulu",
+      "Fakülte": "ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "40",
+        "50",
         "40"
       ],
       "Yerleşen": [
@@ -643,20 +577,21 @@
     {
       "Program Kodu": "110351398",
       "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "Devrek Meslek Yüksekokulu",
+      "Fakülte": "DEVREK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "40",
+        "50",
         "40"
       ],
       "Yerleşen": [
@@ -683,20 +618,21 @@
     {
       "Program Kodu": "100490227",
       "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "Sinanpaşa Meslek Yüksekokulu",
+      "Fakülte": "SİNANPAŞA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "55",
         "50",
         "50",
-        "30",
         "30"
       ],
       "Yerleşen": [
@@ -723,20 +659,21 @@
     {
       "Program Kodu": "108570507",
       "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "Kadirli Meslek Yüksekokulu",
+      "Fakülte": "KADİRLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İnternet ve Ağ Teknolojileri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "30",
+        "50",
         "30"
       ],
       "Yerleşen": [
@@ -763,20 +700,21 @@
     {
       "Program Kodu": "210402607",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
-        "",
+        "1",
         ""
       ],
       "Yerleşen": [
@@ -803,21 +741,22 @@
     {
       "Program Kodu": "205090099",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (Uzaktan Öğretim) (%50 İndirimli)",
       "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "67",
         "51",
         "51",
-        "42",
-        "39"
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -841,21 +780,186 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "207590667",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu",
+      "Program Kodu": "101100591",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İnternet ve Ağ Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201290579",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "25",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.387.137",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "209.423",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202400241",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İnternet ve Ağ Teknolojileri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202400248",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "207590667",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "25",
         "",
         ""
       ],
@@ -883,20 +987,21 @@
     {
       "Program Kodu": "210402614",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "64",
         "50",
         "24",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -921,103 +1026,24 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "201290579",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.387.137",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "209.423",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202490751",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "Anadolu Bil Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İnternet ve Ağ Teknolojileri (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "53",
-        "25",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.431.246",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "206.840",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "205050859",
       "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "Plato Meslek Yüksekokulu",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "72",
         "72",
         "72",
-        "63"
+        "72"
       ],
       "Yerleşen": [
         "",
@@ -1036,46 +1062,6 @@
         "",
         "235.663",
         "234.690"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "206190360",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İnternet ve Ağ Teknolojileri (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "48",
-        "48",
-        "42",
-        "48"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.848.104",
-        "1.730.628",
-        "1.251.288"
-      ],
-      "Taban Puan": [
-        "",
-        "238.961",
-        "243.357",
-        "265.513"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

@@ -3,21 +3,22 @@
     {
       "Program Kodu": "105510168",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "Fen-Edebiyat Fakültesi",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Matematik Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "50",
-        "60"
+        "40",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "110110349",
       "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
+      "Fakülte": "KİMYA-METALURJİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Matematik Mühendisliği (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "75",
         "75",
-        "70",
+        "75",
         "70"
       ],
       "Yerleşen": [
@@ -83,20 +85,21 @@
     {
       "Program Kodu": "110110207",
       "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
+      "Fakülte": "KİMYA-METALURJİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Matematik Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "70",
+        "70",
         "105",
-        "100",
         "100"
       ],
       "Yerleşen": [
@@ -123,18 +126,19 @@
     {
       "Program Kodu": "110190085",
       "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Kimya-Metalurji Fakültesi",
+      "Fakülte": "KİMYA-METALURJİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Matematik Mühendisliği (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "1",
+        "2",
         "1",
         "1",
         "1"
@@ -156,6 +160,47 @@
         "375.109",
         "413.639",
         "459.859"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110100101",
+      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "KİMYA-METALURJİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik Mühendisliği (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"

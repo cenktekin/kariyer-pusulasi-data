@@ -3,21 +3,22 @@
     {
       "Program Kodu": "105690851",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Müzecilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "35",
         "35",
-        "30",
-        ""
+        "35",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -43,15 +44,16 @@
     {
       "Program Kodu": "103110796",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Müzecilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
@@ -81,21 +83,22 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103111025",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Edebiyat Fakültesi",
+      "Program Kodu": "102700325",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "ÇANAKKALE UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Müzecilik (KKTC Uyruklu)",
+      "Program Adı": "Müzecilik",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
+        "20",
+        "",
         "",
         ""
       ],
@@ -107,17 +110,58 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.264.453",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "218.750",
+        "",
         "",
         ""
       ],
-      "Şehir": "İZMİR",
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105600514",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Müzecilik (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     }
   ]

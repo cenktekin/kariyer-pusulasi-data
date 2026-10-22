@@ -3,15 +3,16 @@
     {
       "Program Kodu": "104810229",
       "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
@@ -43,15 +44,16 @@
     {
       "Program Kodu": "107210032",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Atatürk Eğitim Fakültesi",
+      "Fakülte": "ATATÜRK EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
@@ -83,21 +85,22 @@
     {
       "Program Kodu": "104110227",
       "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Gazi Eğitim Fakültesi",
+      "Fakülte": "GAZİ EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "30",
-        "20"
+        "25",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -121,102 +124,23 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108210047",
-      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Biyoloji Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "10",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "285.388",
-        "294.394"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "312.043",
-        "299.715"
-      ],
-      "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110290234",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Biyoloji Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "101490502",
       "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "Kazım Karabekir Eğitim Fakültesi",
+      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "10",
-        "10",
         "20",
+        "10",
+        "10",
         "20"
       ],
       "Yerleşen": [
@@ -241,21 +165,63 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103110036",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Buca Eğitim Fakültesi",
+      "Program Kodu": "101510171",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "NECATİBEY EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "15",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103110036",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "BUCA EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
       ],
       "Kontenjan": [
         "15",
-        "20",
+        "15",
         "20",
         "20"
       ],
@@ -283,20 +249,21 @@
     {
       "Program Kodu": "103190656",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Buca Eğitim Fakültesi",
+      "Fakülte": "BUCA EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
         "1",
-        "2",
+        "1",
         "2"
       ],
       "Yerleşen": [
@@ -321,62 +288,23 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101510171",
-      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "Necatibey Eğitim Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Biyoloji Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "10",
-        "15",
-        "25",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "107010043",
       "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Ahmet Keleşoğlu Eğitim Fakültesi",
+      "Fakülte": "AHMET KELEŞOĞLU EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Biyoloji Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "10",
         "10",
-        "20",
+        "10",
         "20"
       ],
       "Yerleşen": [
@@ -398,6 +326,88 @@
         ""
       ],
       "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108210047",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "285.388",
+        "294.394"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "312.043",
+        "299.715"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290234",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Biyoloji Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     }
   ]

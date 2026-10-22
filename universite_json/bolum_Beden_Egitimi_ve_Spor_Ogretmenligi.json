@@ -3,20 +3,21 @@
     {
       "Program Kodu": "108470124",
       "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Beden Eğitimi ve Spor Öğretmenliği (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "",
+        "25",
         ""
       ],
       "Yerleşen": [
@@ -41,102 +42,23 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109890112",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "Spor Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Beden Eğitimi ve Spor Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "259.143",
-        "267.523",
-        "254.374"
-      ],
-      "Taban Puan": [
-        "",
-        "315.209",
-        "324.267",
-        "328.878"
-      ],
-      "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101690117",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "Spor Bilimleri Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Beden Eğitimi ve Spor Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "280.609",
-        "261.399"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "321.681",
-        "327.261"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "100990017",
       "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "Eğitim Fakültesi",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Beden Eğitimi ve Spor Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "20",
         "20",
-        "",
+        "20",
         ""
       ],
       "Yerleşen": [
@@ -158,6 +80,47 @@
         ""
       ],
       "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109890112",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "SPOR BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Beden Eğitimi ve Spor Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "259.143",
+        "267.523",
+        "254.374"
+      ],
+      "Taban Puan": [
+        "",
+        "315.209",
+        "324.267",
+        "328.878"
+      ],
+      "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
     }
   ]

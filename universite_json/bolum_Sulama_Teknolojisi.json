@@ -3,18 +3,19 @@
     {
       "Program Kodu": "111650051",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "Ormancılık Meslek Yüksekokulu",
+      "Fakülte": "ORMANCILIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Sulama Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
-        "40",
+        "35",
         "40",
         "40",
         "40"
@@ -43,21 +44,22 @@
     {
       "Program Kodu": "102090224",
       "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "Gıda, Tarım ve Hayvancılık Meslek Yüksekokulu",
+      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Sulama Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "25",
         "20",
         "20",
-        "20",
-        ""
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -78,6 +80,47 @@
         ""
       ],
       "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109000101",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "KURTALAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sulama Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     }
   ]

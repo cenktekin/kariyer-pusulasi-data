@@ -3,21 +3,22 @@
     {
       "Program Kodu": "104810592",
       "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Nükleer Enerji Mühendisliği (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "55",
         "55",
-        "50",
-        "60"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -43,15 +44,16 @@
     {
       "Program Kodu": "109110203",
       "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Nükleer Enerji Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -83,19 +85,61 @@
     {
       "Program Kodu": "109190136",
       "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Nükleer Enerji Mühendisliği (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "2",
         "1",
         "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109100129",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Nükleer Enerji Mühendisliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
         "",
         ""
       ],

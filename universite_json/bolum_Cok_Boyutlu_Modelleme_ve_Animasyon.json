@@ -1,57 +1,18 @@
 {
   "yks": [
     {
-      "Program Kodu": "210300346",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Çok Boyutlu Modelleme ve Animasyon (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "7",
-        "8",
-        "8",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "548.181",
-        "513.308",
-        "598.903",
-        "525.045"
-      ],
-      "Taban Puan": [
-        "329.658",
-        "335.711",
-        "327.282",
-        "330.158"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "110090120",
       "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
-      "Fakülte": "Teknik Bilimler Meslek Yüksekokulu",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çok Boyutlu Modelleme ve Animasyon",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
@@ -83,20 +44,21 @@
     {
       "Program Kodu": "111890287",
       "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "Bilişim Teknolojileri Meslek Yüksekokulu (Karasu)",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU (Karasu)",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çok Boyutlu Modelleme ve Animasyon",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "45",
         "40",
         "40",
-        "",
         ""
       ],
       "Yerleşen": [
@@ -109,56 +71,16 @@
         "938.630",
         "1.004.875",
         "1.264.189",
-        "1.273.737"
+        ""
       ],
       "Taban Puan": [
         "292.930",
         "290.878",
         "271.761",
-        "264.075"
+        ""
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "210300353",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "Meslek Yüksekokulu",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Çok Boyutlu Modelleme ve Animasyon (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "48",
-        "51",
-        "51",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "2.629.899",
-        "2.389.427"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "197.090",
-        "210.787"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     }
   ]
 }

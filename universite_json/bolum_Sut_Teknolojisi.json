@@ -3,15 +3,16 @@
     {
       "Program Kodu": "101111004",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Ziraat Fakültesi",
+      "Fakülte": "ZİRAAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Süt Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "30",
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "103410651",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "Ziraat Fakültesi",
+      "Fakülte": "ZİRAAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Süt Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "25",
         "25",
-        "30",
+        "25",
         "30"
       ],
       "Yerleşen": [
@@ -78,6 +80,47 @@
         "243.220"
       ],
       "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310582",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "ZİRAAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Süt Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     }
   ]

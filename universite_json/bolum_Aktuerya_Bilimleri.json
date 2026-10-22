@@ -3,21 +3,22 @@
     {
       "Program Kodu": "104810335",
       "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "40",
         "60",
         "60",
-        "50",
-        "70"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -43,20 +44,21 @@
     {
       "Program Kodu": "107290457",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Finansal Bilimler Fakültesi",
+      "Fakülte": "FİNANSAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "65",
         "65",
-        "60",
+        "65",
         "60"
       ],
       "Yerleşen": [
@@ -83,20 +85,21 @@
     {
       "Program Kodu": "101190340",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "Uygulamalı Bilimler Fakültesi",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
+        "50",
         "65",
         "65",
-        "60",
         "60"
       ],
       "Yerleşen": [
@@ -123,20 +126,21 @@
     {
       "Program Kodu": "108990446",
       "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "Fen Fakültesi",
+      "Fakülte": "FEN FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "40",
         "40",
-        "30",
+        "40",
         "30"
       ],
       "Yerleşen": [
@@ -163,20 +167,21 @@
     {
       "Program Kodu": "300190312",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Fen ve Edebiyat Fakültesi",
+      "Fakülte": "FEN VE EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Aktüerya Bilimleri (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "8",
         "8",
-        "10",
+        "8",
         "10"
       ],
       "Yerleşen": [
@@ -203,20 +208,21 @@
     {
       "Program Kodu": "106690363",
       "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "",
+        "50",
         ""
       ],
       "Yerleşen": [
@@ -229,74 +235,35 @@
         "538.396",
         "647.239",
         "543.243",
-        "681.261"
+        ""
       ],
       "Taban Puan": [
         "256.981",
         "238.264",
         "258.701",
-        "231.039"
+        ""
       ],
       "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104810865",
-      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "Fen Fakültesi",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Aktüerya Bilimleri (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "683.635",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "241.119",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "106190105",
       "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "İşletme Fakültesi",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "50",
         "50",
-        "40",
+        "50",
         "40"
       ],
       "Yerleşen": [
@@ -321,97 +288,18 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "300190314",
-      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Fen ve Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Aktüerya Bilimleri (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300190664",
-      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "Fen ve Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Aktüerya Bilimleri (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Yıl": [
-        "2025",
-        "2024",
-        "2023",
-        "2022"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "107290464",
       "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "Finansal Bilimler Fakültesi",
+      "Fakülte": "FİNANSAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Aktüerya Bilimleri (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
       "Yıl": [
+        "2026",
         "2025",
         "2024",
-        "2023",
-        "2022"
+        "2023"
       ],
       "Kontenjan": [
         "1",
@@ -439,6 +327,129 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108900395",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Aktüerya Bilimleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300190314",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "FEN VE EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Aktüerya Bilimleri (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300190664",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "FEN VE EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Aktüerya Bilimleri (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }
