@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YÖK Atlas Hızlı Analiz & Filtreleme</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>YÖK Atlas Analiz Karargahı</h1>
+                <p style="color: var(--text-secondary); margin-top: 0.25rem;">Seçtiğiniz tüm bölümleri tek tabloda karşılaştırın, filtreleyin ve sıralayın.</p>
+            </div>
+            <div style="display: flex; align-items: center;">
+                <div class="stats-badge">
+                    Sistemdeki Toplam Bölüm: <strong id="total-departments-count">Yükleniyor...</strong>
+                </div>
+                <div class="stats-badge" style="margin-left: 0.75rem;" id="data-freshness-badge" title="Veri setinin çekildiği tarih">
+                    Veri: <strong id="data-freshness">—</strong>
+                </div>
+                <button class="btn-clear" onclick="clearAllFiltersAndSelection()">
+                    <svg style="width: 1.2rem; height: 1.2rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                    Tümünü Temizle
+                </button>
+                <button class="btn-export" onclick="exportToMarkdown()">
+                    <svg style="width: 1.2rem; height: 1.2rem;" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin='round' stroke-width='2' d='M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4'></path></svg>
+                    Markdown İndir
+                </button>
+            </div>
+        </header>
+
+        <div class="workspace">
+            <!-- Column 1: Filters -->
+            <aside class="panel sticky-panel">
+                <div class="panel-title">1. Filtreler</div>
+                <div class="filter-group">
+                    <label class="filter-label">Puan Türü</label>
+                    <select id="filter-puan-turu" class="input-field">
+                        <option value="all">Tümü (SAY, EA, SÖZ, DİL, TYT)</option>
+                        <option value="SAY">SAY (Sayısal)</option>
+                        <option value="EA">EA (Eşit Ağırlık)</option>
+                        <option value="SÖZ">SÖZ (Sözel)</option>
+                        <option value="DİL">DİL (Yabancı Dil)</option>
+                        <option value="TYT">TYT (Önlisans)</option>
+                    </select>
+
+                    <label class="filter-label">Öğrenim Süresi</label>
+                    <select id="filter-duration" class="input-field">
+                        <option value="all">Tümü (Lisans + Önlisans)</option>
+                        <option value="4">4 Yıllık (Lisans)</option>
+                        <option value="2">2 Yıllık (Önlisans)</option>
+                    </select>
+
+                    <label class="filter-label">Üniversite Türü</label>
+                    <select id="filter-type" class="input-field">
+                        <option value="all">Tümü (Devlet + Vakıf)</option>
+                        <option value="Devlet">Sadece Devlet</option>
+                        <option value="Vakıf">Sadece Vakıf</option>
+                    </select>
+
+                    <label class="filter-label">Şehir</label>
+                    <select id="filter-city" class="input-field">
+                        <option value="all">Tüm Şehirler</option>
+                    </select>
+
+                    <label class="filter-label">Ücret/Burs Türü</label>
+                    <select id="filter-ucret" class="input-field">
+                        <option value="all">Tümü</option>
+                        <option value="Burslu">Burslu</option>
+                        <option value="%50 İndirimli">%50 İndirimli</option>
+                        <option value="Ücretli">Ücretli / İndirimsiz</option>
+                        <option value="Ücretsiz">Ücretsiz</option>
+                    </select>
+
+                    <label class="filter-label">Öğrencinin Başarı Sırası (taban sırası daha geride olan bölümler listelenir)</label>
+                    <input type="number" id="filter-sira-max" class="input-field" placeholder="Örn: 100000">
+
+                    <label class="filter-label">Öğrencinin Puanı (taban puanı daha düşük bölümler listelenir)</label>
+                    <input type="number" id="filter-puan-min" class="input-field" placeholder="Örn: 400" step="0.1">
+
+                    <label class="filter-label">Üniversite Filtresi</label>
+                    <input type="text" id="search-uni" class="input-field" placeholder="Üniversite adı ara...">
+                </div>
+            </aside>
+
+            <!-- Column 2: Department Selection List -->
+            <aside class="panel sticky-panel">
+                <div class="panel-title" style="display: flex; justify-content: space-between; align-items: center;">
+                    <span>2. Bölümler</span>
+                    <span id="filtered-ratio-badge" style="font-size: 0.8rem; background-color: var(--accent); color: white; padding: 0.1rem 0.5rem; border-radius: 20px;">0 / 0</span>
+                </div>
+                <div class="search-box">
+                    <input type="text" id="search-dep" class="input-field" placeholder="Bölüm adı ara...">
+                </div>
+                <div class="dep-list" id="dep-list-container">
+                </div>
+            </aside>
+
+            <!-- Column 3: Results Dashboard Table -->
+            <main class="main-panel">
+                <div class="active-deps-bar" id="active-deps-bar">
+                    <span class="active-deps-label">Karşılaştırılan Bölümler:</span>
+                    <span style="color: var(--text-secondary); font-size: 0.9rem;" id="no-selected-hint">Henüz bölüm seçilmedi. Soldan aratıp ekleyebilirsiniz.</span>
+                </div>
+
+                <div class="card">
+                    <div class="table-container">
+                        <table id="results-table">
+                            <thead>
+                                <tr>
+                                    <th>Kod</th>
+                                    <th>Üniversite / Bölüm</th>
+                                    <th>Tür</th>
+                                    <th>Süre</th>
+                                    <th>Türü</th>
+                                    <th>Şehir</th>
+                                    <th>Burs/Ücret</th>
+                                    <th id="th-kontenjan">Kontenjan (26/25/24)</th>
+                                    <th id="th-siralama" style="cursor: pointer;" onclick="changeSort('basari')">Başarı Sırası (2026) ↕</th>
+                                    <th id="th-puan" style="cursor: pointer;" onclick="changeSort('puan')">Taban Puan (2026) ↕</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body">
+                                <tr>
+                                    <td colspan="10" class="no-data">Analiz etmek istediğiniz bölümleri seçerek ekleyin. Aynı anda dilediğiniz kadar bölüm ekleyebilirsiniz!</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <script src="/app.js"></script>
+</body>
+</html>
+

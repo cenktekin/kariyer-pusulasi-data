@@ -206,6 +206,7 @@ def convert_program(p):
         "Üniversite Türü": "Devlet" if (p.get("universiteTuru") or "").strip().upper() == "DEVLET" else "Vakıf",
         "Program Adı": program_adi.strip(),
         "Öğretim Türü": (p.get("ogrenimTuruAdi") or "").strip(),
+        "Puan Türü": (p.get("puanTuru") or "").strip().upper(),
         "Yıl": list(YEARS),
         "Kontenjan": kontenjan_values,
         "Yerleşen": [""] * 4,  # Not available from search API
@@ -213,7 +214,6 @@ def convert_program(p):
         "Taban Puan": puan_values,
         "Şehir": (p.get("uniIlAdi") or "").strip(),
         "Ücret": ucret,
-        "Puan Türü": (p.get("puanTuru") or "").strip().upper(),
     }
 
 
@@ -263,14 +263,28 @@ def write_metadata(department_files, total_programs, fetched_at=None):
         "department_files": department_files,
         "categories": [label for _, _, label in CATEGORIES],
     }
-    with open(os.path.join(OUTPUT_DIR, "metadata.json"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUTPUT_DIR, "metadata.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
     print(f"  metadata.json yazıldı: {meta['total_programs']} program / {meta['department_files']} bölüm")
     return meta
 
 
+def read_existing_metadata():
+    """Mevcut metadata.json'u okur; yoksa veya bozuksa None döner."""
+    path = os.path.join(OUTPUT_DIR, "metadata.json")
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return None
+
+
 def rebuild_metadata():
-    """Recompute metadata.json from the existing department files (no network)."""
+    """Recompute metadata.json from the existing department files (no network).
+
+    Veri kümesi değişmediyse mevcut fetched_at korunur; böylece yalnızca dosya
+    mtime'ı değiştiği için veri tazeliği yanlışlıkla güncellenmiş görünmez.
+    """
     paths = sorted(glob.glob(os.path.join(OUTPUT_DIR, "bolum_*.json")))
     if not paths:
         print("HATA: universite_json/ altında bolum_*.json yok.")
@@ -279,8 +293,20 @@ def rebuild_metadata():
     for path in paths:
         with open(path, "r", encoding="utf-8") as f:
             total += len(json.load(f).get("yks", []))
-    fetched_at = datetime.fromtimestamp(max(os.path.getmtime(p) for p in paths), timezone.utc)
-    return write_metadata(len(paths), total, fetched_at.isoformat(timespec="seconds"))
+
+    existing = read_existing_metadata() or {}
+    unchanged = (
+        existing.get("guide_year") == GUIDE_YEAR
+        and existing.get("total_programs") == total
+        and existing.get("department_files") == len(paths)
+    )
+    if unchanged and existing.get("fetched_at"):
+        fetched_at = existing["fetched_at"]
+    else:
+        fetched_at = datetime.fromtimestamp(
+            max(os.path.getmtime(p) for p in paths), timezone.utc
+        ).isoformat(timespec="seconds")
+    return write_metadata(len(paths), total, fetched_at)
 
 
 def parse_args():
@@ -365,7 +391,7 @@ def main():
         file_name = f"bolum_{norm_name}.json"
         file_path = os.path.join(OUTPUT_DIR, file_name)
 
-        with open(file_path, "w", encoding="utf-8") as f:
+        with open(file_path, "w", encoding="utf-8", newline="\n") as f:
             json.dump(file_data, f, ensure_ascii=False, indent=2)
 
         written_names.add(file_name)
