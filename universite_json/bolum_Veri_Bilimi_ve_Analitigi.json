@@ -27,15 +27,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "9.840",
         "7.542",
         "8.932",
-        "",
         ""
       ],
       "Taban Puan": [
+        "515.235",
         "508.716",
         "504.335",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -68,18 +68,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "67.180",
         "67.432",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "446.378",
+        "427.999",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101000122",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veri Bilimi ve Analitiği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "123.430",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "427.999",
+        "394.764",
         "",
         "",
         ""
       ],
-      "Şehir": "KOCAELİ",
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -109,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "128.442",
         "116.892",
         "111.607",
-        "",
         ""
       ],
       "Taban Puan": [
+        "390.800",
         "385.943",
         "374.913",
-        "",
         ""
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108890323",
-      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "123.867",
-        "132.664",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "380.827",
-        "359.680",
-        "",
-        ""
-      ],
-      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,14 +191,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "130.316",
         "126.902",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "389.372",
         "378.656",
-        "",
         "",
         ""
       ],
@@ -232,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "149.975",
         "137.602",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "375.127",
         "371.306",
-        "",
         "",
         ""
       ],
@@ -247,8 +247,8 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102590636",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Program Kodu": "108890323",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
       "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Veri Bilimi ve Analitiği",
@@ -263,6 +263,47 @@
       "Kontenjan": [
         "40",
         "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "150.813",
+        "123.867",
+        "132.664",
+        ""
+      ],
+      "Taban Puan": [
+        "374.537",
+        "380.827",
+        "359.680",
+        ""
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209000164",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
         "",
         ""
       ],
@@ -273,19 +314,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "158.735",
-        "164.822",
+        "152.257",
+        "173.233",
         "",
         ""
       ],
       "Taban Puan": [
-        "358.364",
-        "340.460",
+        "373.548",
+        "350.557",
         "",
         ""
       ],
-      "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203400101",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "164.997",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "365.277",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202791236",
@@ -314,14 +396,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "171.062",
         "171.465",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "361.541",
         "351.462",
-        "",
         "",
         ""
       ],
@@ -329,8 +411,8 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209000164",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "209810395",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
       "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
@@ -344,8 +426,8 @@
       ],
       "Kontenjan": [
         "3",
-        "4",
-        "8",
+        "5",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -355,18 +437,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "173.233",
+        "172.258",
+        "202.967",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "360.760",
+        "336.304",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209100164",
+      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "39",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "179.831",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "350.557",
+        "356.291",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
@@ -396,96 +519,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "182.124",
         "189.766",
         "",
-        "",
         ""
       ],
       "Taban Puan": [
+        "354.990",
         "342.294",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110410321",
-      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "BİLGİSAYAR VE BİLİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "199.345",
-        "206.909",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "337.930",
-        "320.656",
-        "",
-        ""
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209810395",
-      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "202.967",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "336.304",
-        "",
         "",
         ""
       ],
@@ -519,19 +560,224 @@
         ""
       ],
       "Taban Sıralama": [
+        "184.406",
         "215.565",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "353.680",
         "330.908",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102590636",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veri Bilimi ve Analitiği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "191.110",
+        "158.735",
+        "164.822",
+        ""
+      ],
+      "Taban Puan": [
+        "350.081",
+        "358.364",
+        "340.460",
+        ""
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110410321",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "BİLGİSAYAR VE BİLİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veri Bilimi ve Analitiği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "220.690",
+        "199.345",
+        "206.909",
+        ""
+      ],
+      "Taban Puan": [
+        "335.211",
+        "337.930",
+        "320.656",
+        ""
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112300136",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veri Bilimi ve Analitiği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "250.815",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "322.159",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207500143",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "254.251",
+        "374.798",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "320.759",
+        "284.137",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100400122",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veri Bilimi ve Analitiği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "271.780",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "313.910",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101490936",
@@ -560,15 +806,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "299.019",
         "318.289",
         "339.930",
-        "",
         ""
       ],
       "Taban Puan": [
+        "304.114",
         "297.461",
         "280.522",
-        "",
         ""
       ],
       "Şehir": "ERZURUM",
@@ -601,14 +847,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "301.620",
         "318.966",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "303.260",
         "297.276",
-        "",
         "",
         ""
       ],
@@ -642,14 +888,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "303.062",
         "331.539",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "302.783",
         "294.036",
-        "",
         "",
         ""
       ],
@@ -683,14 +929,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "316.344",
         "335.676",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "298.487",
         "293.033",
-        "",
         "",
         ""
       ],
@@ -724,14 +970,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "323.049",
         "339.080",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "296.400",
         "292.215",
-        "",
         "",
         ""
       ],
@@ -739,11 +985,11 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207500143",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
+      "Program Kodu": "108100143",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veri Bilimi ve Analitiği",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -753,8 +999,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "5",
-        "9",
+        "30",
+        "",
         "",
         ""
       ],
@@ -765,19 +1011,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "374.798",
+        "327.374",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "284.137",
+        "295.051",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106390262",
@@ -806,14 +1052,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "337.382",
         "377.618",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "292.095",
         "283.551",
-        "",
         "",
         ""
       ],
@@ -847,15 +1093,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "393.524",
         "388.739",
         "339.930",
-        "",
         ""
       ],
       "Taban Puan": [
+        "277.276",
         "281.184",
         "280.522",
-        "",
         ""
       ],
       "Şehir": "ERZURUM",
@@ -888,59 +1134,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "397.185",
         "398.605",
         "410.527",
-        "",
         ""
       ],
       "Taban Puan": [
+        "276.403",
         "279.242",
         "266.864",
-        "",
         ""
       ],
       "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105761263",
-      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "1",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "753.885",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "234.840",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,101 +1175,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "718.110",
         "866.409",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "225.680",
         "225.517",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "100400122",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101000122",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101490943",
@@ -1108,11 +1231,11 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112300136",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "105761263",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği",
+      "Program Adı": "Veri Bilimi ve Analitiği (İngilizce) (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -1122,8 +1245,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "20",
-        "",
+        "3",
+        "1",
         "",
         ""
       ],
@@ -1135,58 +1258,17 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108100143",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veri Bilimi ve Analitiği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
+        "753.885",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
+        "234.840",
         "",
         ""
       ],
-      "Şehir": "NİĞDE",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1205,8 +1287,8 @@
       ],
       "Kontenjan": [
         "25",
-        "25",
-        "51",
+        "",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -1287,7 +1369,7 @@
       ],
       "Kontenjan": [
         "20",
-        "40",
+        "",
         "",
         ""
       ],
@@ -1477,47 +1559,6 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "203400101",
-      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "203400108",
       "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
       "Fakülte": "İŞLETME FAKÜLTESİ",
@@ -1639,47 +1680,6 @@
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209100164",
-      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Veri Bilimi ve Analitiği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "39",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300300143",

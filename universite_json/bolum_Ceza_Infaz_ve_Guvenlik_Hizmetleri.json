@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "105600486",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "618.447",
-        "696.986",
-        "695.853",
-        ""
-      ],
-      "Taban Puan": [
-        "321.781",
-        "315.885",
-        "316.970",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "105390447",
       "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
       "Fakülte": "MALATYA MESLEK YÜKSEKOKULU",
@@ -68,24 +27,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "592.452",
         "655.691",
         "749.029",
-        "840.816",
-        ""
+        "840.816"
       ],
       "Taban Puan": [
+        "325.278",
         "317.877",
         "311.116",
-        "303.558",
-        ""
+        "303.558"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111790395",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "105600486",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
       "Öğretim Türü": "Örgün Öğretim",
@@ -97,9 +56,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "55",
-        "50",
-        "50",
+        "45",
+        "",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -109,18 +68,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "679.365",
-        "762.058",
-        "763.195",
-        ""
+        "597.245",
+        "618.447",
+        "696.986",
+        "695.853"
       ],
       "Taban Puan": [
-        "315.502",
-        "309.970",
-        "310.512",
-        ""
+        "324.715",
+        "321.781",
+        "315.885",
+        "316.970"
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "598.240",
         "694.569",
         "768.991",
-        "844.970",
-        "726.441"
+        "844.970"
       ],
       "Taban Puan": [
+        "324.603",
         "314.016",
         "309.378",
-        "303.197",
-        "307.077"
+        "303.197"
       ],
       "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111790395",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "609.467",
+        "679.365",
+        "762.058",
+        "763.195"
+      ],
+      "Taban Puan": [
+        "323.313",
+        "315.502",
+        "309.970",
+        "310.512"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "628.570",
         "709.704",
         "807.567",
-        "831.950",
-        ""
+        "831.950"
       ],
       "Taban Puan": [
+        "321.153",
         "312.582",
         "306.080",
-        "304.335",
-        ""
+        "304.335"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -232,182 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "637.423",
         "710.689",
         "816.459",
-        "857.243",
-        ""
+        "857.243"
       ],
       "Taban Puan": [
+        "320.168",
         "312.490",
         "305.329",
-        "302.130",
-        ""
+        "302.130"
       ],
       "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101100570",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "AYAŞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "85",
-        "80",
-        "80",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "713.326",
-        "771.524",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "312.232",
-        "309.160",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108690289",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "HONAZ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "722.175",
-        "828.291",
-        "909.626",
-        "939.605"
-      ],
-      "Taban Puan": [
-        "311.397",
-        "304.356",
-        "297.769",
-        "287.969"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203851785",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "723.574",
-        "899.096",
-        "993.420",
-        "961.212"
-      ],
-      "Taban Puan": [
-        "311.265",
-        "298.725",
-        "291.126",
-        "286.223"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107090403",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "KONYA EREĞLİ KEMAL AKMAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "739.970",
-        "842.973",
-        "888.842",
-        ""
-      ],
-      "Taban Puan": [
-        "309.740",
-        "303.157",
-        "299.484",
-        ""
-      ],
-      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,19 +273,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "656.800",
         "742.209",
         "914.573",
-        "968.522",
-        ""
+        "968.522"
       ],
       "Taban Puan": [
+        "318.067",
         "309.529",
         "297.546",
-        "293.051",
-        ""
+        "293.051"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108690289",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "HONAZ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "658.987",
+        "722.175",
+        "828.291",
+        "909.626"
+      ],
+      "Taban Puan": [
+        "317.835",
+        "311.397",
+        "304.356",
+        "297.769"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104390183",
@@ -478,18 +355,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "666.817",
         "748.027",
         "844.731",
-        "935.563",
+        "935.563"
+      ],
+      "Taban Puan": [
+        "316.997",
+        "309.005",
+        "303.015",
+        "295.674"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101100570",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "AYAŞ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "85",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "670.399",
+        "713.326",
+        "771.524",
         ""
       ],
       "Taban Puan": [
-        "309.005",
-        "303.015",
-        "295.674",
+        "316.616",
+        "312.232",
+        "309.160",
         ""
       ],
-      "Şehir": "TOKAT",
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107090403",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "KONYA EREĞLİ KEMAL AKMAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "677.704",
+        "739.970",
+        "842.973",
+        "888.842"
+      ],
+      "Taban Puan": [
+        "315.861",
+        "309.740",
+        "303.157",
+        "299.484"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203851785",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "680.210",
+        "723.574",
+        "899.096",
+        "993.420"
+      ],
+      "Taban Puan": [
+        "315.599",
+        "311.265",
+        "298.725",
+        "291.126"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101490859",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "697.836",
+        "783.400",
+        "876.359",
+        "983.342"
+      ],
+      "Taban Puan": [
+        "313.769",
+        "305.817",
+        "300.491",
+        "291.887"
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,59 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "702.041",
         "772.098",
         "867.217",
-        "932.562",
-        "937.821"
+        "932.562"
       ],
       "Taban Puan": [
+        "313.341",
         "306.834",
         "301.206",
-        "295.906",
-        "288.110"
+        "295.906"
       ],
       "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101490859",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "50",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "783.400",
-        "876.359",
-        "983.342",
-        ""
-      ],
-      "Taban Puan": [
-        "305.817",
-        "300.491",
-        "291.887",
-        ""
-      ],
-      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "704.275",
         "818.975",
         "891.321",
-        "950.978",
-        ""
+        "950.978"
       ],
       "Taban Puan": [
+        "313.114",
         "302.734",
         "299.323",
-        "294.429",
-        ""
+        "294.429"
       ],
       "Şehir": "RİZE",
       "Ücret": "Ücretsiz"
@@ -642,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "731.420",
         "840.291",
         "982.427",
-        "1.025.999",
-        ""
+        "1.025.999"
       ],
       "Taban Puan": [
+        "310.401",
         "300.921",
         "292.490",
-        "288.643",
-        ""
+        "288.643"
       ],
       "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
@@ -683,16 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "769.495",
         "845.879",
         "939.483",
-        "1.017.222",
-        "947.362"
+        "1.017.222"
       ],
       "Taban Puan": [
+        "306.733",
         "300.453",
         "295.685",
-        "289.310",
-        "287.334"
+        "289.310"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
@@ -724,59 +724,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "819.084",
         "906.928",
         "1.020.705",
-        "1.133.439",
-        "1.015.570"
+        "1.133.439"
       ],
       "Taban Puan": [
+        "302.178",
         "295.458",
         "289.744",
-        "280.777",
-        "281.991"
+        "280.777"
       ],
       "Şehir": "GÜMÜŞHANE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105990270",
-      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "926.739",
-        "1.081.838",
-        "1.145.849",
-        ""
-      ],
-      "Taban Puan": [
-        "293.880",
-        "285.462",
-        "279.904",
-        ""
-      ],
-      "Şehir": "KARS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,18 +765,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "819.615",
         "928.791",
         "1.042.987",
-        "1.124.395",
-        ""
+        "1.124.395"
       ],
       "Taban Puan": [
+        "302.131",
         "293.715",
         "288.171",
-        "281.416",
-        ""
+        "281.416"
       ],
       "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105990270",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ceza İnfaz ve Güvenlik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "833.844",
+        "926.739",
+        "1.081.838",
+        "1.145.849"
+      ],
+      "Taban Puan": [
+        "300.855",
+        "293.880",
+        "285.462",
+        "279.904"
+      ],
+      "Şehir": "KARS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "840.625",
         "943.378",
         "1.063.785",
-        "1.108.127",
-        ""
+        "1.108.127"
       ],
       "Taban Puan": [
+        "300.262",
         "292.549",
         "286.713",
-        "282.588",
-        ""
+        "282.588"
       ],
       "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
@@ -888,16 +888,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.631.204",
         "1.809.314",
         "2.011.511",
-        "2.222.630",
-        ""
+        "2.222.630"
       ],
       "Taban Puan": [
+        "240.752",
         "231.776",
         "230.024",
-        "217.632",
-        ""
+        "217.632"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -929,16 +929,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.113.480",
         "2.187.065",
         "2.196.210",
-        "2.138.746",
-        "2.263.450"
+        "2.138.746"
       ],
       "Taban Puan": [
+        "200.892",
         "201.781",
         "220.025",
-        "221.786",
-        "215.808"
+        "221.786"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%50 İndirimli"

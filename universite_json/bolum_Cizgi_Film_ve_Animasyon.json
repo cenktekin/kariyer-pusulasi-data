@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "4.620",
         "3.411",
         "3.634",
-        "8.146",
-        "10.923"
+        "8.146"
       ],
       "Taban Puan": [
+        "427.358",
         "417.769",
         "448.717",
-        "421.763",
-        "417.681"
+        "421.763"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.709",
         "11.410",
         "6.295",
-        "5.492",
-        "10.382"
+        "5.492"
       ],
       "Taban Puan": [
+        "413.559",
         "392.254",
         "437.429",
-        "429.981",
-        "418.911"
+        "429.981"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.810",
         "15.871",
         "14.540",
-        "13.007",
-        "14.113"
+        "13.007"
       ],
       "Taban Puan": [
+        "404.557",
         "384.393",
         "419.326",
-        "411.650",
-        "411.733"
+        "411.650"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "28.567",
         "26.239",
         "27.780",
-        "22.279",
-        "29.350"
+        "22.279"
       ],
       "Taban Puan": [
+        "383.714",
         "372.000",
         "403.691",
-        "398.866",
-        "393.112"
+        "398.866"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "32.440",
         "29.250",
         "19.599",
-        "14.852",
-        "20.895"
+        "14.852"
       ],
       "Taban Puan": [
+        "380.057",
         "369.183",
         "412.365",
-        "408.644",
-        "402.087"
+        "408.644"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -232,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "40.185",
         "46.646",
         "50.630",
-        "51.059",
-        "49.379"
+        "51.059"
       ],
       "Taban Puan": [
+        "373.646",
         "356.348",
         "386.805",
-        "375.805",
-        "377.838"
+        "375.805"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210100171",
+      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Çizgi Film ve Animasyon (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "76.190",
+        "137.045",
+        "104.566",
+        "180.081"
+      ],
+      "Taban Puan": [
+        "352.814",
+        "322.044",
+        "361.645",
+        "330.453"
+      ],
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
@@ -273,26 +314,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "82.337",
         "78.520",
         "93.089",
-        "104.915",
-        "141.990"
+        "104.915"
       ],
       "Taban Puan": [
+        "350.061",
         "340.732",
         "366.019",
-        "351.734",
-        "340.467"
+        "351.734"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210100171",
-      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Program Kodu": "201990755",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Çizgi Film ve Animasyon (Burslu)",
+      "Program Adı": "Çizgi Film ve Animasyon (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -302,10 +343,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "4",
-        "3",
-        "3"
+        "1",
+        "",
+        "7",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -314,19 +355,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "137.045",
-        "104.566",
-        "180.081",
-        "269.673"
+        "181.775",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "322.044",
-        "361.645",
-        "330.453",
-        "313.004"
+        "319.204",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "106690321",
@@ -355,15 +396,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "211.771",
         "243.583",
         "247.144",
-        "",
         ""
       ],
       "Taban Puan": [
+        "312.395",
         "300.248",
         "324.355",
-        "",
         ""
       ],
       "Şehir": "KIRIKKALE",
@@ -396,60 +437,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "224.093",
         "273.456",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "309.781",
         "295.453",
-        "",
         "",
         ""
       ],
       "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203090145",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Çizgi Film ve Animasyon (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "5",
-        "6",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "298.264",
-        "",
-        "501.295",
-        "168.205"
-      ],
-      "Taban Puan": [
-        "291.654",
-        "",
-        "280.788",
-        "333.527"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210100178",
@@ -520,15 +520,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.220.055",
         "",
-        "325.102"
+        "1.220.055",
+        ""
       ],
       "Taban Puan": [
         "",
-        "213.433",
         "",
-        "304.191"
+        "213.433",
+        ""
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretli"
@@ -561,59 +561,18 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "805.567",
-        "829.228",
-        "302.057"
+        "829.228"
       ],
       "Taban Puan": [
         "",
+        "",
         "255.122",
-        "248.527",
-        "307.733"
+        "248.527"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201990755",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Çizgi Film ve Animasyon (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "7",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "201990512",
@@ -645,13 +604,13 @@
         "",
         "",
         "",
-        "433.595"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "289.431"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -686,16 +645,57 @@
         "",
         "",
         "",
-        "973.848"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "236.443"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203090145",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Çizgi Film ve Animasyon (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "5",
+        "6",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "298.264",
+        "",
+        "501.295"
+      ],
+      "Taban Puan": [
+        "",
+        "291.654",
+        "",
+        "280.788"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "203090123",
@@ -727,13 +727,13 @@
         "",
         "",
         "",
-        "677.977"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "262.948"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -767,14 +767,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "565.870",
-        "530.224"
+        "",
+        "565.870"
       ],
       "Taban Puan": [
         "",
         "",
-        "273.736",
-        "278.114"
+        "",
+        "273.736"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -807,15 +807,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "718.657",
-        "354.703",
-        "490.580"
+        "354.703"
       ],
       "Taban Puan": [
         "",
+        "",
         "263.427",
-        "299.191",
-        "282.577"
+        "299.191"
       ],
       "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"

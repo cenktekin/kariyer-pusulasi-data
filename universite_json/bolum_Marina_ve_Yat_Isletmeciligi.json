@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "358.928",
         "398.637",
         "480.537",
-        "455.137",
-        "430.962"
+        "455.137"
       ],
       "Taban Puan": [
+        "359.197",
         "349.869",
         "340.002",
-        "345.513",
-        "343.952"
+        "345.513"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,18 +68,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "554.499",
         "602.832",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "329.883",
+        "323.462",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210100437",
+      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Marina ve Yat İşletmeciliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "787.481",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "323.462",
+        "305.068",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
@@ -109,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "851.693",
         "836.395",
         "969.407",
-        "1.102.983",
-        "1.013.319"
+        "1.102.983"
       ],
       "Taban Puan": [
+        "299.287",
         "301.254",
         "293.449",
-        "282.966",
-        "282.166"
+        "282.966"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
@@ -150,18 +191,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "882.352",
         "862.285",
         "1.242.809",
-        "1.315.675",
-        "1.190.418"
+        "1.315.675"
       ],
       "Taban Puan": [
+        "296.619",
         "299.086",
         "274.794",
-        "268.369",
-        "269.515"
+        "268.369"
       ],
       "Şehir": "YALOVA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690095",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "BARTIN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Marina ve Yat İşletmeciliği (Kurucaşile)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.131.842",
+        "1.212.932",
+        "1.526.353",
+        "1.652.863"
+      ],
+      "Taban Puan": [
+        "276.531",
+        "272.665",
+        "257.364",
+        "247.772"
+      ],
+      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.290.091",
         "991.993",
         "1.241.770",
-        "1.541.152",
-        "1.607.818"
+        "1.541.152"
       ],
       "Taban Puan": [
+        "264.846",
         "288.776",
         "274.861",
-        "254.317",
-        "244.950"
+        "254.317"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -232,142 +314,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.725.726",
         "1.176.848",
         "",
-        "",
         ""
       ],
       "Taban Puan": [
+        "234.107",
         "275.214",
         "",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "101690095",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "BARTIN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Marina ve Yat İşletmeciliği (Kurucaşile)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.212.932",
-        "1.526.353",
-        "1.652.863",
-        "1.634.940"
-      ],
-      "Taban Puan": [
-        "272.665",
-        "257.364",
-        "247.772",
-        "243.559"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204950452",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Marina ve Yat İşletmeciliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "19",
-        "24",
-        "22",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.280.019",
-        "1.959.844",
-        "2.039.529",
-        ""
-      ],
-      "Taban Puan": [
-        "187.724",
-        "232.814",
-        "226.827",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "210100437",
-      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Marina ve Yat İşletmeciliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210100444",
@@ -450,6 +409,47 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204950452",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Marina ve Yat İşletmeciliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "19",
+        "24",
+        "22",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.280.019",
+        "1.959.844",
+        "2.039.529"
+      ],
+      "Taban Puan": [
+        "",
+        "187.724",
+        "232.814",
+        "226.827"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     }
   ]
 }

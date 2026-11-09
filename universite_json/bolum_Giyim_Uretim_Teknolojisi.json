@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "419.901",
         "514.306",
         "523.789",
-        "500.463",
-        "570.607"
+        "500.463"
       ],
       "Taban Puan": [
+        "348.731",
         "333.760",
         "334.376",
-        "339.305",
-        "324.306"
+        "339.305"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "567.594",
         "684.579",
         "758.731",
-        "773.689",
-        "803.934"
+        "773.689"
       ],
       "Taban Puan": [
+        "328.280",
         "314.992",
         "310.255",
-        "309.531",
-        "299.698"
+        "309.531"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "736.023",
         "888.321",
         "937.124",
-        "997.665",
-        "1.059.050"
+        "997.665"
       ],
       "Taban Puan": [
+        "309.948",
         "296.956",
         "295.864",
-        "290.809",
-        "278.739"
+        "290.809"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.032.942",
         "1.151.904",
         "1.245.220",
-        "1.347.545",
-        "1.333.726"
+        "1.347.545"
       ],
       "Taban Puan": [
+        "284.213",
         "276.997",
         "274.635",
-        "266.316",
-        "260.350"
+        "266.316"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -191,100 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.092.215",
         "1.178.840",
         "1.318.477",
-        "1.552.963",
-        "1.587.943"
+        "1.552.963"
       ],
       "Taban Puan": [
+        "279.556",
         "275.070",
         "270.010",
-        "253.622",
-        "245.986"
+        "253.622"
       ],
       "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111750986",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.284.332",
-        "1.462.529",
-        "1.637.309",
-        "1.626.977"
-      ],
-      "Taban Puan": [
-        "267.700",
-        "261.157",
-        "248.675",
-        "243.968"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111353306",
-      "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.290.433",
-        "1.507.805",
-        "1.675.342",
-        "1.771.247"
-      ],
-      "Taban Puan": [
-        "267.274",
-        "258.458",
-        "246.485",
-        "236.833"
-      ],
-      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.127.605",
         "1.354.735",
         "1.555.351",
-        "1.795.574",
-        "1.907.583"
+        "1.795.574"
       ],
       "Taban Puan": [
+        "276.855",
         "262.828",
         "255.664",
-        "239.767",
-        "230.587"
+        "239.767"
       ],
       "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111750986",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.134.475",
+        "1.284.332",
+        "1.462.529",
+        "1.637.309"
+      ],
+      "Taban Puan": [
+        "276.336",
+        "267.700",
+        "261.157",
+        "248.675"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,182 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.189.197",
         "1.366.241",
         "1.503.466",
-        "",
         ""
       ],
       "Taban Puan": [
+        "272.215",
         "262.044",
         "258.713",
-        "",
         ""
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101490369",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.388.841",
-        "1.652.964",
-        "1.796.019",
-        "1.686.661"
-      ],
-      "Taban Puan": [
-        "260.503",
-        "249.982",
-        "239.742",
-        "240.932"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107690193",
-      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "MİLAS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.458.973",
-        "1.634.450",
-        "1.738.308",
-        "1.701.065"
-      ],
-      "Taban Puan": [
-        "255.707",
-        "251.048",
-        "242.930",
-        "240.220"
-      ],
-      "Şehir": "MUĞLA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109451984",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.489.571",
-        "1.671.957",
-        "1.910.568",
-        "1.927.678"
-      ],
-      "Taban Puan": [
-        "253.637",
-        "248.894",
-        "233.568",
-        "229.703"
-      ],
-      "Şehir": "EDİRNE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109850567",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.497.837",
-        "1.761.246",
-        "1.925.938",
-        "1.962.762"
-      ],
-      "Taban Puan": [
-        "253.076",
-        "243.820",
-        "232.752",
-        "228.193"
-      ],
-      "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,18 +355,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.216.089",
         "1.505.990",
         "1.800.071",
-        "1.840.268",
-        "1.829.029"
+        "1.840.268"
       ],
       "Taban Puan": [
+        "270.230",
         "252.518",
         "241.627",
-        "237.338",
-        "234.140"
+        "237.338"
       ],
       "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111353306",
+      "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.219.786",
+        "1.290.433",
+        "1.507.805",
+        "1.675.342"
+      ],
+      "Taban Puan": [
+        "269.954",
+        "267.274",
+        "258.458",
+        "246.485"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109850567",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.250.049",
+        "1.497.837",
+        "1.761.246",
+        "1.925.938"
+      ],
+      "Taban Puan": [
+        "267.746",
+        "253.076",
+        "243.820",
+        "232.752"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109451984",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.271.085",
+        "1.489.571",
+        "1.671.957",
+        "1.910.568"
+      ],
+      "Taban Puan": [
+        "266.214",
+        "253.637",
+        "248.894",
+        "233.568"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107690193",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "MİLAS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.290.747",
+        "1.458.973",
+        "1.634.450",
+        "1.738.308"
+      ],
+      "Taban Puan": [
+        "264.801",
+        "255.707",
+        "251.048",
+        "242.930"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490369",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.313.575",
+        "1.388.841",
+        "1.652.964",
+        "1.796.019"
+      ],
+      "Taban Puan": [
+        "263.152",
+        "260.503",
+        "249.982",
+        "239.742"
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.344.150",
         "1.528.410",
         "1.829.319",
-        "1.648.489",
-        "1.738.233"
+        "1.648.489"
       ],
       "Taban Puan": [
+        "260.951",
         "250.980",
         "240.006",
-        "248.025",
-        "238.417"
+        "248.025"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -642,59 +642,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.435.838",
         "1.551.266",
         "1.675.783",
-        "1.738.715",
-        "1.898.354"
+        "1.738.715"
       ],
       "Taban Puan": [
+        "254.442",
         "249.414",
         "248.669",
-        "242.904",
-        "231.000"
+        "242.904"
       ],
       "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108350663",
-      "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "FATSA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.626.048",
-        "1.980.853",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "244.334",
-        "231.681",
-        "",
-        ""
-      ],
-      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,182 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.478.595",
         "1.635.248",
         "1.971.733",
-        "2.031.475",
-        "1.859.318"
+        "2.031.475"
       ],
       "Taban Puan": [
+        "251.442",
         "243.704",
         "232.174",
-        "227.246",
-        "232.749"
+        "227.246"
       ],
       "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100250634",
-      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.669.435",
-        "1.894.869",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "241.370",
-        "236.365",
-        "",
-        ""
-      ],
-      "Şehir": "ADIYAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112572455",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "YALVAÇ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "18",
-        "25",
-        "25",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.695.306",
-        "2.004.627",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "239.614",
-        "230.393",
-        "",
-        ""
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105090178",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "40",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.698.043",
-        "2.078.644",
-        "1.843.820",
-        "2.013.888"
-      ],
-      "Taban Puan": [
-        "239.430",
-        "226.393",
-        "237.145",
-        "226.016"
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108150762",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "BOR HALİL-ZÖHRE ATAMAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "20",
-        "20",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.710.059",
-        "1.988.772",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "238.607",
-        "231.246",
-        "",
-        ""
-      ],
-      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,18 +724,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.482.282",
         "1.722.280",
         "1.819.361",
-        "1.843.855",
-        "1.991.943"
+        "1.843.855"
       ],
       "Taban Puan": [
+        "251.181",
         "237.775",
         "240.562",
-        "237.143",
-        "226.943"
+        "237.143"
       ],
       "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108350663",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "FATSA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.501.114",
+        "1.626.048",
+        "1.980.853",
+        ""
+      ],
+      "Taban Puan": [
+        "249.856",
+        "244.334",
+        "231.681",
+        ""
+      ],
+      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -959,9 +795,9 @@
       ],
       "Kontenjan": [
         "15",
-        "20",
-        "20",
-        "20"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -970,59 +806,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.510.970",
         "1.741.521",
         "1.906.945",
-        "2.103.488",
-        "1.878.025"
+        "2.103.488"
       ],
       "Taban Puan": [
+        "249.165",
         "236.457",
         "235.703",
-        "223.555",
-        "231.907"
+        "223.555"
       ],
       "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101650354",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "ULUS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Giyim Üretim Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.752.082",
-        "1.993.890",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "235.735",
-        "230.973",
-        "",
-        ""
-      ],
-      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1052,18 +847,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.511.639",
         "1.775.704",
         "",
-        "2.069.181",
+        "2.069.181"
+      ],
+      "Taban Puan": [
+        "249.117",
+        "234.104",
+        "",
+        "225.299"
+      ],
+      "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100250634",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.512.235",
+        "1.669.435",
+        "1.894.869",
         ""
       ],
       "Taban Puan": [
-        "234.104",
-        "",
-        "225.299",
+        "249.073",
+        "241.370",
+        "236.365",
         ""
       ],
-      "Şehir": "BİNGÖL",
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090178",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.529.192",
+        "1.698.043",
+        "2.078.644",
+        "1.843.820"
+      ],
+      "Taban Puan": [
+        "247.893",
+        "239.430",
+        "226.393",
+        "237.145"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112572455",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "YALVAÇ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "18",
+        "25",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.534.895",
+        "1.695.306",
+        "2.004.627",
+        ""
+      ],
+      "Taban Puan": [
+        "247.494",
+        "239.614",
+        "230.393",
+        ""
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108150762",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "BOR HALİL-ZÖHRE ATAMAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "20",
+        "20",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.543.282",
+        "1.710.059",
+        "1.988.772",
+        ""
+      ],
+      "Taban Puan": [
+        "246.904",
+        "238.607",
+        "231.246",
+        ""
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101650354",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "ULUS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Giyim Üretim Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.543.873",
+        "1.752.082",
+        "1.993.890",
+        ""
+      ],
+      "Taban Puan": [
+        "246.864",
+        "235.735",
+        "230.973",
+        ""
+      ],
+      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {

@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "206551197",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "4",
-        "3"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "764.472",
-        "837.055",
-        "900.100",
-        "829.577"
-      ],
-      "Taban Puan": [
-        "307.520",
-        "303.640",
-        "298.530",
-        "297.346"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "103451666",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
@@ -68,19 +27,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "660.396",
         "782.147",
         "859.224",
-        "892.909",
-        "860.510"
+        "892.909"
       ],
       "Taban Puan": [
+        "317.689",
         "305.927",
         "301.833",
-        "299.136",
-        "294.612"
+        "299.136"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206551197",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "4",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "681.968",
+        "764.472",
+        "837.055",
+        "900.100"
+      ],
+      "Taban Puan": [
+        "315.416",
+        "307.520",
+        "303.640",
+        "298.530"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110251381",
@@ -109,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "779.630",
         "859.832",
         "971.948",
-        "1.034.974",
-        "1.007.314"
+        "1.034.974"
       ],
       "Taban Puan": [
+        "305.794",
         "299.286",
         "293.265",
-        "287.957",
-        "282.630"
+        "287.957"
       ],
       "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108953245",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "70",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "889.231",
-        "995.703",
-        "1.097.579",
-        "1.055.170"
-      ],
-      "Taban Puan": [
-        "296.882",
-        "291.531",
-        "283.359",
-        "279.031"
-      ],
-      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,24 +150,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "783.847",
         "891.978",
         "1.004.477",
-        "1.135.723",
-        "1.070.819"
+        "1.135.723"
       ],
       "Taban Puan": [
+        "305.400",
         "296.656",
         "290.904",
-        "280.614",
-        "277.884"
+        "280.614"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112370875",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "İNCESU AYŞE VE SAFFET ARSLAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "108953245",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
       "Öğretim Türü": "Örgün Öğretim",
@@ -220,10 +179,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
+        "60",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -232,18 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "934.622",
-        "1.162.423",
-        "",
-        ""
+        "785.749",
+        "889.231",
+        "995.703",
+        "1.097.579"
       ],
       "Taban Puan": [
-        "293.248",
-        "280.034",
-        "",
-        ""
+        "305.227",
+        "296.882",
+        "291.531",
+        "283.359"
       ],
-      "Şehir": "KAYSERİ",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "829.644",
         "971.394",
         "1.095.057",
-        "1.222.828",
-        "1.164.054"
+        "1.222.828"
       ],
       "Taban Puan": [
+        "301.237",
         "290.361",
         "284.566",
-        "274.544",
-        "271.298"
+        "274.544"
       ],
       "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370875",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "İNCESU AYŞE VE SAFFET ARSLAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "869.554",
+        "934.622",
+        "1.162.423",
+        ""
+      ],
+      "Taban Puan": [
+        "297.720",
+        "293.248",
+        "280.034",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,100 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "910.353",
         "1.012.537",
         "1.141.600",
-        "1.301.735",
-        "1.468.233"
+        "1.301.735"
       ],
       "Taban Puan": [
+        "294.242",
         "287.219",
         "281.428",
-        "269.271",
-        "252.468"
+        "269.271"
       ],
       "Şehir": "BİNGÖL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102150692",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.043.751",
-        "1.238.350",
-        "1.464.793",
-        "1.464.490"
-      ],
-      "Taban Puan": [
-        "284.882",
-        "275.088",
-        "258.934",
-        "252.677"
-      ],
-      "Şehir": "BİTLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100550191",
-      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.044.760",
-        "1.206.623",
-        "1.430.478",
-        "1.381.576"
-      ],
-      "Taban Puan": [
-        "284.811",
-        "277.144",
-        "261.039",
-        "257.468"
-      ],
-      "Şehir": "AĞRI",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "920.435",
         "1.055.726",
         "1.218.008",
-        "1.448.290",
-        "1.428.077"
+        "1.448.290"
       ],
       "Taban Puan": [
+        "293.394",
         "283.988",
         "276.410",
-        "259.945",
-        "254.758"
+        "259.945"
       ],
       "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
@@ -478,141 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "939.995",
         "1.066.773",
         "1.255.312",
-        "1.449.963",
-        "1.416.993"
+        "1.449.963"
       ],
       "Taban Puan": [
+        "291.766",
         "283.162",
         "273.990",
-        "259.842",
-        "255.403"
+        "259.842"
       ],
       "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107890040",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.070.427",
-        "1.246.667",
-        "1.414.455",
-        "1.431.746"
-      ],
-      "Taban Puan": [
-        "282.890",
-        "274.543",
-        "262.041",
-        "254.549"
-      ],
-      "Şehir": "MUŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101690107",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "BARTIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.071.434",
-        "1.291.466",
-        "1.495.442",
-        "1.570.993"
-      ],
-      "Taban Puan": [
-        "282.816",
-        "271.695",
-        "257.058",
-        "246.870"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105190098",
-      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.077.133",
-        "1.276.324",
-        "1.485.056",
-        "1.456.397"
-      ],
-      "Taban Puan": [
-        "282.401",
-        "272.641",
-        "257.689",
-        "253.134"
-      ],
-      "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -642,18 +437,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "941.410",
         "1.089.841",
         "1.330.297",
-        "1.536.385",
-        "1.494.493"
+        "1.536.385"
       ],
       "Taban Puan": [
+        "291.644",
         "281.470",
         "269.276",
-        "254.599",
-        "250.998"
+        "254.599"
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690107",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "BARTIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "962.256",
+        "1.071.434",
+        "1.291.466",
+        "1.495.442"
+      ],
+      "Taban Puan": [
+        "289.916",
+        "282.816",
+        "271.695",
+        "257.058"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102150692",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "968.671",
+        "1.043.751",
+        "1.238.350",
+        "1.464.793"
+      ],
+      "Taban Puan": [
+        "289.386",
+        "284.882",
+        "275.088",
+        "258.934"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190098",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "971.901",
+        "1.077.133",
+        "1.276.324",
+        "1.485.056"
+      ],
+      "Taban Puan": [
+        "289.117",
+        "282.401",
+        "272.641",
+        "257.689"
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107890040",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "973.250",
+        "1.070.427",
+        "1.246.667",
+        "1.414.455"
+      ],
+      "Taban Puan": [
+        "289.006",
+        "282.890",
+        "274.543",
+        "262.041"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100550191",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "985.523",
+        "1.044.760",
+        "1.206.623",
+        "1.430.478"
+      ],
+      "Taban Puan": [
+        "287.993",
+        "284.811",
+        "277.144",
+        "261.039"
+      ],
+      "Şehir": "AĞRI",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,16 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "985.609",
         "1.126.834",
         "1.394.144",
-        "1.594.362",
-        "1.582.144"
+        "1.594.362"
       ],
       "Taban Puan": [
+        "287.987",
         "278.800",
         "265.325",
-        "251.185",
-        "246.295"
+        "251.185"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
@@ -724,16 +724,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.018.843",
         "1.127.028",
         "1.384.128",
-        "1.596.635",
-        "1.588.010"
+        "1.596.635"
       ],
       "Taban Puan": [
+        "285.340",
         "278.788",
         "265.941",
-        "251.049",
-        "245.982"
+        "251.049"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
@@ -765,59 +765,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.062.733",
         "1.165.039",
         "1.435.250",
-        "1.649.600",
-        "1.659.018"
+        "1.649.600"
       ],
       "Taban Puan": [
+        "281.868",
         "276.066",
         "262.800",
-        "247.960",
-        "242.330"
+        "247.960"
       ],
       "Şehir": "KASTAMONU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101370268",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "ARTVİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon (Ardanuç)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.190.625",
-        "1.476.202",
-        "1.663.049",
-        "1.815.283"
-      ],
-      "Taban Puan": [
-        "274.223",
-        "260.333",
-        "247.183",
-        "234.774"
-      ],
-      "Şehir": "ARTVİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,16 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.063.319",
         "1.217.084",
         "1.506.743",
-        "1.709.513",
-        "1.933.470"
+        "1.709.513"
       ],
       "Taban Puan": [
+        "281.823",
         "272.378",
         "258.519",
-        "244.545",
-        "229.454"
+        "244.545"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
@@ -888,18 +847,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.075.010",
         "1.221.519",
         "1.519.055",
-        "1.716.580",
-        ""
+        "1.716.580"
       ],
       "Taban Puan": [
+        "280.895",
         "272.069",
         "257.789",
-        "244.148",
-        ""
+        "244.148"
       ],
       "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101370268",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "ARTVİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon (Ardanuç)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.077.711",
+        "1.190.625",
+        "1.476.202",
+        "1.663.049"
+      ],
+      "Taban Puan": [
+        "280.687",
+        "274.223",
+        "260.333",
+        "247.183"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101051385",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Engelli Bakımı ve Rehabilitasyon (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1700",
+        "1700",
+        "1700",
+        "1700"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.113.144",
+        "1.246.149",
+        "1.571.037",
+        "1.529.354"
+      ],
+      "Taban Puan": [
+        "277.947",
+        "270.359",
+        "254.748",
+        "255.013"
+      ],
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,59 +970,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.130.722",
         "1.244.080",
         "1.504.660",
-        "1.711.572",
-        "1.859.629"
+        "1.711.572"
       ],
       "Taban Puan": [
+        "276.615",
         "270.502",
         "258.643",
-        "244.428",
-        "232.734"
+        "244.428"
       ],
       "Şehir": "IĞDIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101051385",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Engelli Bakımı ve Rehabilitasyon (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1700",
-        "1700",
-        "1700",
-        "1700"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.246.149",
-        "1.571.037",
-        "1.529.354",
-        "1.544.152"
-      ],
-      "Taban Puan": [
-        "270.359",
-        "254.748",
-        "255.013",
-        "248.294"
-      ],
-      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1053,15 +1053,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.396.083",
-        "2.339.852",
-        ""
+        "2.339.852"
       ],
       "Taban Puan": [
         "",
+        "",
         "208.900",
-        "211.872",
-        ""
+        "211.872"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

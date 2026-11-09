@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "424.188",
         "438.622",
         "580.582",
-        "507.286",
-        "490.593"
+        "507.286"
       ],
       "Taban Puan": [
+        "348.059",
         "343.872",
         "327.723",
-        "338.395",
-        "334.933"
+        "338.395"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,15 +68,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "501.314",
         "603.584",
         "551.706",
-        "",
         ""
       ],
       "Taban Puan": [
+        "336.787",
         "323.376",
         "331.033",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -109,100 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "598.919",
         "649.085",
         "709.439",
-        "",
         ""
       ],
       "Taban Puan": [
+        "324.529",
         "318.548",
         "314.732",
-        "",
         ""
       ],
       "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105051197",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ŞANLIURFA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Podoloji",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "653.644",
-        "690.033",
-        "725.331",
-        "660.556"
-      ],
-      "Taban Puan": [
-        "318.081",
-        "316.537",
-        "314.108",
-        "313.952"
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106951988",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "KOCAELİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Podoloji",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "668.040",
-        "714.148",
-        "773.536",
-        "705.783"
-      ],
-      "Taban Puan": [
-        "316.628",
-        "314.294",
-        "309.543",
-        "309.169"
-      ],
-      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,19 +150,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "608.979",
         "693.865",
         "682.800",
-        "697.788",
-        "588.387"
+        "697.788"
       ],
       "Taban Puan": [
+        "323.370",
         "314.083",
         "317.223",
-        "316.779",
-        "322.129"
+        "316.779"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106951988",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "KOCAELİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "623.661",
+        "668.040",
+        "714.148",
+        "773.536"
+      ],
+      "Taban Puan": [
+        "321.703",
+        "316.628",
+        "314.294",
+        "309.543"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105051197",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "ŞANLIURFA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Podoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "636.506",
+        "653.644",
+        "690.033",
+        "725.331"
+      ],
+      "Taban Puan": [
+        "320.263",
+        "318.081",
+        "316.537",
+        "314.108"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101190668",
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "639.325",
         "707.655",
         "774.671",
-        "904.145",
-        ""
+        "904.145"
       ],
       "Taban Puan": [
+        "319.965",
         "312.781",
         "308.890",
-        "298.208",
-        ""
+        "298.208"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -314,60 +314,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "698.797",
         "779.476",
         "852.623",
-        "951.577",
-        "836.968"
+        "951.577"
       ],
       "Taban Puan": [
+        "313.671",
         "306.171",
         "302.377",
-        "294.380",
-        "296.675"
+        "294.380"
       ],
       "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206552607",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Podoloji (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "25",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.262.684",
-        "2.271.977",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "191.524",
-        "215.877",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "200150537",
@@ -396,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.989.982",
         "2.299.603",
         "2.148.278",
-        "2.149.580",
-        "1.470.751"
+        "2.149.580"
       ],
       "Taban Puan": [
+        "213.951",
         "180.285",
         "222.634",
-        "221.250",
-        "252.326"
+        "221.250"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -438,14 +397,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.339.126",
         "",
+        "1.339.126",
         ""
       ],
       "Taban Puan": [
         "",
-        "268.725",
         "",
+        "268.725",
         ""
       ],
       "Şehir": "KOCAELİ",
@@ -480,14 +439,55 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.498.252",
-        "1.158.640"
+        "",
+        "2.498.252"
       ],
       "Taban Puan": [
         "",
         "",
-        "204.031",
-        "271.669"
+        "",
+        "204.031"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206552607",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Podoloji (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.262.684",
+        "2.271.977",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "191.524",
+        "215.877",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

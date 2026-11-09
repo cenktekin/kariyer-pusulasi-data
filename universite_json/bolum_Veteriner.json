@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "45.090",
         "48.566",
         "57.953",
-        "53.240",
-        "49.281"
+        "53.240"
       ],
       "Taban Puan": [
+        "469.782",
         "447.303",
         "425.778",
-        "455.365",
-        "458.458"
+        "455.365"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "58.581",
         "59.397",
         "69.737",
-        "66.274",
-        "62.045"
+        "66.274"
       ],
       "Taban Puan": [
+        "455.363",
         "435.971",
         "412.827",
-        "441.322",
-        "443.835"
+        "441.322"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,15 +109,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "60.301",
         "65.896",
         "74.688",
-        "",
         ""
       ],
       "Taban Puan": [
+        "453.570",
         "429.559",
         "407.725",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "63.196",
         "70.808",
         "86.569",
-        "81.790",
-        "70.985"
+        "81.790"
       ],
       "Taban Puan": [
+        "450.504",
         "424.863",
         "396.236",
-        "425.520",
-        "434.090"
+        "425.520"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "67.551",
         "72.664",
         "86.759",
-        "82.213",
-        "73.004"
+        "82.213"
       ],
       "Taban Puan": [
+        "446.006",
         "423.110",
         "396.073",
-        "425.134",
-        "431.915"
+        "425.134"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "70.557",
         "79.873",
         "91.934",
-        "87.710",
-        "81.515"
+        "87.710"
       ],
       "Taban Puan": [
+        "442.866",
         "416.562",
         "391.400",
-        "419.841",
-        "423.283"
+        "419.841"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "76.307",
         "84.637",
         "100.737",
-        "92.890",
-        "81.564"
+        "92.890"
       ],
       "Taban Puan": [
+        "437.073",
         "412.268",
         "383.723",
-        "415.059",
-        "423.243"
+        "415.059"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "76.769",
         "87.677",
         "111.402",
-        "109.015",
-        "92.568"
+        "109.015"
       ],
       "Taban Puan": [
+        "436.594",
         "409.512",
         "375.084",
-        "401.330",
-        "412.452"
+        "401.330"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -355,100 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "84.063",
         "94.733",
         "117.230",
-        "105.894",
-        "92.052"
+        "105.894"
       ],
       "Taban Puan": [
+        "429.484",
         "403.412",
         "370.577",
-        "403.891",
-        "412.961"
+        "403.891"
       ],
       "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103510429",
-      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "70",
-        "80",
-        "100",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "104.800",
-        "122.640",
-        "114.951",
-        "97.765"
-      ],
-      "Taban Puan": [
-        "395.195",
-        "366.588",
-        "396.642",
-        "407.587"
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107690152",
-      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "MİLAS VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "107.077",
-        "124.866",
-        "115.814",
-        "104.902"
-      ],
-      "Taban Puan": [
-        "393.379",
-        "365.059",
-        "395.932",
-        "401.034"
-      ],
-      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,18 +396,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "84.885",
         "107.523",
         "137.984",
-        "121.803",
-        "105.680"
+        "121.803"
       ],
       "Taban Puan": [
+        "428.701",
         "393.016",
         "356.208",
-        "391.295",
-        "400.382"
+        "391.295"
       ],
       "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103510429",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "70",
+        "80",
+        "100",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "89.047",
+        "104.800",
+        "122.640",
+        "114.951"
+      ],
+      "Taban Puan": [
+        "424.599",
+        "395.195",
+        "366.588",
+        "396.642"
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "95.096",
         "109.248",
         "132.624",
-        "122.297",
-        "108.555"
+        "122.297"
       ],
       "Taban Puan": [
+        "419.108",
         "391.744",
         "359.708",
-        "390.938",
-        "397.842"
+        "390.938"
       ],
       "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
@@ -560,18 +519,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "95.929",
         "110.264",
         "133.070",
-        "122.261",
-        "106.439"
+        "122.261"
       ],
       "Taban Puan": [
+        "418.383",
         "390.931",
         "359.394",
-        "390.961",
-        "399.650"
+        "390.961"
       ],
       "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107690152",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "MİLAS VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "95.992",
+        "107.077",
+        "124.866",
+        "115.814"
+      ],
+      "Taban Puan": [
+        "418.330",
+        "393.379",
+        "365.059",
+        "395.932"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910897",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "CEYHAN VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "99.715",
+        "121.981",
+        "151.069",
+        "134.726"
+      ],
+      "Taban Puan": [
+        "414.856",
+        "382.192",
+        "348.233",
+        "382.003"
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "100.171",
         "113.089",
         "134.578",
-        "127.807",
-        "112.279"
+        "127.807"
       ],
       "Taban Puan": [
+        "414.448",
         "388.792",
         "358.398",
-        "386.863",
-        "394.605"
+        "386.863"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
@@ -642,100 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "105.455",
         "119.724",
         "145.818",
-        "132.542",
-        "115.615"
+        "132.542"
       ],
       "Taban Puan": [
+        "409.674",
         "383.852",
         "351.406",
-        "383.532",
-        "391.769"
+        "383.532"
       ],
       "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102910897",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "CEYHAN VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "121.981",
-        "151.069",
-        "134.726",
-        "117.428"
-      ],
-      "Taban Puan": [
-        "382.192",
-        "348.233",
-        "382.003",
-        "390.270"
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100810408",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "127.721",
-        "157.417",
-        "143.132",
-        "123.216"
-      ],
-      "Taban Puan": [
-        "378.079",
-        "344.553",
-        "376.217",
-        "385.573"
-      ],
-      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -765,18 +724,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "108.190",
         "128.519",
         "160.510",
-        "145.502",
-        "125.201"
+        "145.502"
       ],
       "Taban Puan": [
+        "407.295",
         "377.568",
         "342.825",
-        "374.687",
-        "383.998"
+        "374.687"
       ],
       "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100810408",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "112.317",
+        "127.721",
+        "157.417",
+        "143.132"
+      ],
+      "Taban Puan": [
+        "403.751",
+        "378.079",
+        "344.553",
+        "376.217"
+      ],
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910373",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "72",
+        "80",
+        "125",
+        "120"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "112.325",
+        "137.646",
+        "175.149",
+        "155.166"
+      ],
+      "Taban Puan": [
+        "403.745",
+        "371.271",
+        "335.092",
+        "368.553"
+      ],
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,18 +847,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "113.580",
         "133.097",
         "169.288",
-        "151.953",
-        "133.663"
+        "151.953"
       ],
       "Taban Puan": [
+        "402.727",
         "374.416",
         "338.154",
-        "370.541",
-        "377.484"
+        "370.541"
       ],
       "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101190514",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "2",
+        "1",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "115.585",
+        "389.800",
+        "115.029",
+        "723.066"
+      ],
+      "Taban Puan": [
+        "401.114",
+        "280.960",
+        "372.251",
+        "237.996"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,60 +929,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "116.328",
         "136.276",
         "166.590",
-        "143.083",
-        "128.212"
+        "143.083"
       ],
       "Taban Puan": [
+        "400.498",
         "372.190",
         "339.552",
-        "376.242",
-        "381.630"
+        "376.242"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103910373",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "72",
-        "80",
-        "125",
-        "120"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "137.646",
-        "175.149",
-        "155.166",
-        "134.129"
-      ],
-      "Taban Puan": [
-        "371.271",
-        "335.092",
-        "368.553",
-        "377.140"
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107090222",
@@ -929,16 +970,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "119.455",
         "139.551",
         "178.856",
-        "157.833",
-        "137.305"
+        "157.833"
       ],
       "Taban Puan": [
+        "397.980",
         "370.045",
         "333.235",
-        "366.940",
-        "374.888"
+        "366.940"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -970,16 +1011,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "121.751",
         "141.559",
         "173.133",
-        "152.050",
-        "135.671"
+        "152.050"
       ],
       "Taban Puan": [
+        "396.165",
         "368.765",
         "336.137",
-        "370.485",
-        "376.047"
+        "370.485"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -1011,19 +1052,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "127.058",
         "150.241",
         "199.107",
-        "147.836",
-        "156.785"
+        "147.836"
       ],
       "Taban Puan": [
+        "391.898",
         "363.319",
         "323.951",
-        "373.185",
-        "361.528"
+        "373.185"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107710178",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "50",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "131.889",
+        "172.409",
+        "209.592",
+        "156.097"
+      ],
+      "Taban Puan": [
+        "388.134",
+        "350.983",
+        "319.564",
+        "367.998"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102390088",
@@ -1052,59 +1134,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "133.007",
         "159.309",
         "198.868",
-        "176.649",
-        "148.000"
+        "176.649"
       ],
       "Taban Puan": [
+        "387.254",
         "358.044",
         "324.065",
-        "356.179",
-        "367.385"
+        "356.179"
       ],
       "Şehir": "YOZGAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110210278",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "70",
-        "90",
-        "85"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "170.216",
-        "206.478",
-        "172.675",
-        "151.456"
-      ],
-      "Taban Puan": [
-        "352.141",
-        "320.827",
-        "358.367",
-        "365.065"
-      ],
-      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,16 +1175,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "137.168",
         "170.427",
         "208.310",
-        "175.824",
-        "154.536"
+        "175.824"
       ],
       "Taban Puan": [
+        "384.169",
         "352.032",
         "320.080",
-        "356.615",
-        "362.999"
+        "356.615"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
@@ -1175,23 +1216,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "138.938",
         "171.900",
         "221.858",
-        "193.172",
-        "163.964"
+        "193.172"
       ],
       "Taban Puan": [
+        "382.886",
         "351.247",
         "314.755",
-        "347.839",
-        "357.018"
+        "347.839"
       ],
       "Şehir": "KARS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107710178",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Program Kodu": "110210278",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
       "Fakülte": "VETERİNER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Veteriner",
@@ -1204,10 +1245,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "50",
-        "60",
-        "50",
-        "20"
+        "65",
+        "70",
+        "90",
+        "85"
       ],
       "Yerleşen": [
         "",
@@ -1216,18 +1257,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "172.409",
-        "209.592",
-        "156.097",
-        "128.736"
+        "139.809",
+        "170.216",
+        "206.478",
+        "172.675"
       ],
       "Taban Puan": [
-        "350.983",
-        "319.564",
-        "367.998",
-        "381.213"
+        "382.216",
+        "352.141",
+        "320.827",
+        "358.367"
       ],
-      "Şehir": "HATAY",
+      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1257,16 +1298,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "142.217",
         "180.489",
         "221.331",
-        "191.054",
-        "155.371"
+        "191.054"
       ],
       "Taban Puan": [
+        "380.442",
         "346.828",
         "314.953",
-        "348.874",
-        "362.449"
+        "348.874"
       ],
       "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
@@ -1298,16 +1339,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "150.229",
         "194.613",
         "233.088",
-        "204.446",
-        "169.444"
+        "204.446"
       ],
       "Taban Puan": [
+        "374.962",
         "340.093",
         "310.646",
-        "342.491",
-        "353.807"
+        "342.491"
       ],
       "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
@@ -1339,16 +1380,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "156.187",
         "201.330",
         "247.121",
-        "217.243",
-        "178.464"
+        "217.243"
       ],
       "Taban Puan": [
+        "371.008",
         "337.028",
         "305.707",
-        "336.857",
-        "348.569"
+        "336.857"
       ],
       "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
@@ -1356,7 +1397,7 @@
     {
       "Program Kodu": "405210335",
       "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
-      "Fakülte": "Veteriner Fakültesi",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Veteriner",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1380,18 +1421,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "188.529",
         "253.345",
         "268.711",
-        "261.192",
-        "206.575"
+        "261.192"
       ],
       "Taban Puan": [
+        "351.456",
         "316.801",
         "298.901",
-        "319.996",
-        "334.122"
+        "319.996"
       ],
       "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111600472",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "VETERİNER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Veteriner (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "206.961",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "341.868",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1421,26 +1503,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "231.689",
         "275.702",
         "302.589",
-        "260.972",
-        "215.596"
+        "260.972"
       ],
       "Taban Puan": [
+        "330.257",
         "309.543",
         "289.448",
-        "320.071",
-        "329.899"
+        "320.071"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "101190514",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Program Kodu": "109700402",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
       "Fakülte": "VETERİNER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner (İngilizce) (KKTC Uyruklu)",
+      "Program Adı": "Veteriner (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -1450,10 +1532,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "2",
-        "2",
         "1",
-        "3"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1462,18 +1544,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "389.800",
-        "115.029",
-        "723.066",
-        "126.882"
+        "261.798",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "280.960",
-        "372.251",
-        "237.996",
-        "382.625"
+        "317.753",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1503,16 +1585,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "338.593",
         "400.454",
         "415.191",
-        "337.231",
-        "318.196"
+        "337.231"
       ],
       "Taban Puan": [
+        "291.750",
         "278.877",
         "266.090",
-        "297.499",
-        "292.405"
+        "297.499"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -1544,16 +1626,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "486.717",
         "612.553",
         "266.039",
-        "789.808",
-        "255.924"
+        "789.808"
       ],
       "Taban Puan": [
+        "257.948",
         "248.250",
         "299.690",
-        "231.855",
-        "313.106"
+        "231.855"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
@@ -1585,100 +1667,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "567.368",
         "807.725",
         "283.031",
-        "",
         ""
       ],
       "Taban Puan": [
+        "244.957",
         "230.284",
         "294.776",
-        "",
         ""
       ],
       "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109700402",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111600472",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "VETERİNER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Veteriner (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     }
   ]

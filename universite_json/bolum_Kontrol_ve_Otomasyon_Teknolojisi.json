@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "284.708",
         "318.656",
         "402.777",
-        "423.649",
-        "430.965"
+        "423.649"
       ],
       "Taban Puan": [
+        "374.679",
         "363.610",
         "351.495",
-        "350.150",
-        "343.952"
+        "350.150"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "337.159",
         "406.165",
         "521.547",
-        "640.786",
-        "657.021"
+        "640.786"
       ],
       "Taban Puan": [
+        "363.392",
         "348.723",
         "334.659",
-        "322.668",
-        "314.332"
+        "322.668"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "393.121",
         "467.237",
         "674.021",
-        "748.268",
-        "934.442"
+        "748.268"
       ],
       "Taban Puan": [
+        "353.132",
         "339.911",
         "318.077",
-        "311.906",
-        "288.389"
+        "311.906"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -150,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "394.203",
         "472.577",
         "603.917",
-        "675.775",
-        "655.815"
+        "675.775"
       ],
       "Taban Puan": [
+        "352.941",
         "339.200",
         "325.176",
-        "319.001",
-        "314.460"
+        "319.001"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106951546",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "KOCAELİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "559.887",
-        "703.386",
-        "862.449",
-        "869.820"
-      ],
-      "Taban Puan": [
-        "328.278",
-        "315.288",
-        "301.689",
-        "293.814"
-      ],
-      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,14 +191,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "475.327",
         "567.615",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "340.394",
         "327.380",
-        "",
         "",
         ""
       ],
@@ -247,9 +206,9 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "111352423",
-      "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "106951546",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "KOCAELİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -261,10 +220,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
+        "55",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -273,18 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "601.325",
-        "800.210",
-        "1.042.063",
-        "944.820"
+        "479.666",
+        "559.887",
+        "703.386",
+        "862.449"
       ],
       "Taban Puan": [
-        "323.621",
-        "306.690",
-        "287.426",
-        "287.542"
+        "339.770",
+        "328.278",
+        "315.288",
+        "301.689"
       ],
-      "Şehir": "KONYA",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,18 +273,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "509.156",
         "602.851",
         "834.321",
-        "978.861",
-        "977.508"
+        "978.861"
       ],
       "Taban Puan": [
+        "335.720",
         "323.459",
         "303.861",
-        "292.232",
-        "284.941"
+        "292.232"
       ],
       "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111352423",
+      "Üniversite": "KONYA TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "530.296",
+        "601.325",
+        "800.210",
+        "1.042.063"
+      ],
+      "Taban Puan": [
+        "332.932",
+        "323.621",
+        "306.690",
+        "287.426"
+      ],
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "579.095",
         "653.884",
         "864.958",
-        "1.086.315",
-        "1.021.649"
+        "1.086.315"
       ],
       "Taban Puan": [
+        "326.868",
         "318.056",
         "301.381",
-        "284.170",
-        "281.530"
+        "284.170"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "609.981",
         "668.631",
         "935.801",
-        "",
-        "1.145.627"
+        ""
       ],
       "Taban Puan": [
+        "323.252",
         "316.569",
         "295.963",
-        "",
-        "272.568"
+        ""
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "671.407",
         "797.952",
         "1.037.322",
-        "1.245.038",
-        "1.223.330"
+        "1.245.038"
       ],
       "Taban Puan": [
+        "316.512",
         "304.551",
         "288.567",
-        "273.042",
-        "267.342"
+        "273.042"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -478,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "688.404",
         "815.873",
         "1.055.483",
-        "1.222.508",
-        "1.127.283"
+        "1.222.508"
       ],
       "Taban Puan": [
+        "314.750",
         "303.000",
         "287.295",
-        "274.564",
-        "273.843"
+        "274.564"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106650481",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "KIRIKKALE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "783.544",
+        "1.000.222",
+        "1.285.393",
+        "1.484.418"
+      ],
+      "Taban Puan": [
+        "305.428",
+        "288.148",
+        "272.078",
+        "257.729"
+      ],
+      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "786.174",
         "937.191",
         "1.197.724",
-        "1.525.253",
-        "1.481.727"
+        "1.525.253"
       ],
       "Taban Puan": [
+        "305.187",
         "293.044",
         "277.717",
-        "255.261",
-        "251.712"
+        "255.261"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -560,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "796.132",
         "944.006",
         "1.180.193",
-        "1.436.708",
-        "1.485.318"
+        "1.436.708"
       ],
       "Taban Puan": [
+        "304.260",
         "292.500",
         "278.856",
-        "260.649",
-        "251.509"
+        "260.649"
       ],
       "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
@@ -601,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "823.425",
         "982.813",
         "1.297.717",
-        "1.318.561",
-        "1.490.337"
+        "1.318.561"
       ],
       "Taban Puan": [
+        "301.796",
         "289.487",
         "271.302",
-        "268.176",
-        "251.231"
+        "268.176"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -642,141 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "851.953",
         "998.528",
         "1.259.254",
-        "1.513.636",
-        "1.520.796"
+        "1.513.636"
       ],
       "Taban Puan": [
+        "299.262",
         "288.277",
         "273.735",
-        "255.951",
-        "249.557"
+        "255.951"
       ],
       "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106650481",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "KIRIKKALE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.000.222",
-        "1.285.393",
-        "1.484.418",
-        "1.519.231"
-      ],
-      "Taban Puan": [
-        "288.148",
-        "272.078",
-        "257.729",
-        "249.645"
-      ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108690157",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "ÇARDAK ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.093.517",
-        "1.395.450",
-        "1.644.229",
-        "1.699.787"
-      ],
-      "Taban Puan": [
-        "281.203",
-        "265.240",
-        "248.274",
-        "240.282"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101950554",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.094.517",
-        "1.359.606",
-        "1.661.993",
-        "1.647.590"
-      ],
-      "Taban Puan": [
-        "281.131",
-        "267.462",
-        "247.246",
-        "242.909"
-      ],
-      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,18 +724,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "934.231",
         "1.096.618",
         "1.409.242",
-        "1.684.941",
-        "1.622.932"
+        "1.684.941"
       ],
       "Taban Puan": [
+        "292.247",
         "280.982",
         "264.397",
-        "245.941",
-        "244.175"
+        "245.941"
       ],
       "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101950554",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "965.633",
+        "1.094.517",
+        "1.359.606",
+        "1.661.993"
+      ],
+      "Taban Puan": [
+        "289.636",
+        "281.131",
+        "267.462",
+        "247.246"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108690157",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "ÇARDAK ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.001.318",
+        "1.093.517",
+        "1.395.450",
+        "1.644.229"
+      ],
+      "Taban Puan": [
+        "286.726",
+        "281.203",
+        "265.240",
+        "248.274"
+      ],
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.046.923",
         "1.174.626",
         "1.547.755",
-        "1.795.545",
-        "1.790.949"
+        "1.795.545"
       ],
       "Taban Puan": [
+        "283.117",
         "275.368",
         "256.106",
-        "239.769",
-        "235.905"
+        "239.769"
       ],
       "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
@@ -888,59 +888,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.060.803",
         "1.224.897",
         "1.449.803",
-        "1.717.815",
-        "1.748.454"
+        "1.717.815"
       ],
       "Taban Puan": [
+        "282.020",
         "271.836",
         "261.926",
-        "244.080",
-        "237.936"
+        "244.080"
       ],
       "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110790053",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "ERZİN ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.284.062",
-        "1.628.047",
-        "1.742.199",
-        "1.618.582"
-      ],
-      "Taban Puan": [
-        "267.718",
-        "251.415",
-        "242.710",
-        "244.393"
-      ],
-      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,16 +929,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.159.498",
         "1.328.618",
         "1.627.556",
-        "1.874.455",
-        "1.956.795"
+        "1.874.455"
       ],
       "Taban Puan": [
+        "274.448",
         "264.629",
         "251.446",
-        "235.495",
-        "228.446"
+        "235.495"
       ],
       "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
@@ -1011,24 +970,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.182.071",
         "1.356.975",
         "1.622.340",
-        "1.889.516",
-        "2.080.815"
+        "1.889.516"
       ],
       "Taban Puan": [
+        "272.761",
         "262.678",
         "251.750",
-        "234.689",
-        "223.219"
+        "234.689"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101370279",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "BORÇKA ACARLAR MESLEK YÜKSEKOKULU",
+      "Program Kodu": "110790053",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "ERZİN ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1052,18 +1011,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.637.159",
-        "1.839.376",
-        "2.011.308",
-        "2.117.803"
+        "1.187.453",
+        "1.284.062",
+        "1.628.047",
+        "1.742.199"
       ],
       "Taban Puan": [
-        "243.578",
-        "239.447",
-        "228.281",
-        "221.687"
+        "272.346",
+        "267.718",
+        "251.415",
+        "242.710"
       ],
-      "Şehir": "ARTVİN",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1093,19 +1052,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.384.195",
         "1.658.304",
         "1.886.346",
-        "1.801.267",
-        "1.753.665"
+        "1.801.267"
       ],
       "Taban Puan": [
+        "258.097",
         "242.136",
         "236.839",
-        "239.459",
-        "237.679"
+        "239.459"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "101370279",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "BORÇKA ACARLAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kontrol ve Otomasyon Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.410.063",
+        "1.637.159",
+        "1.839.376",
+        "2.011.308"
+      ],
+      "Taban Puan": [
+        "256.268",
+        "243.578",
+        "239.447",
+        "228.281"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106990484",

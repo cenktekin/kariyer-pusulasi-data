@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "699.643",
         "829.504",
         "951.989",
-        "997.466",
-        "949.840"
+        "997.466"
       ],
       "Taban Puan": [
+        "313.585",
         "301.841",
         "294.746",
-        "290.823",
-        "287.126"
+        "290.823"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -68,60 +68,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "881.905",
         "977.938",
         "1.132.825",
-        "1.235.845",
-        "1.151.414"
+        "1.235.845"
       ],
       "Taban Puan": [
+        "296.655",
         "289.862",
         "282.019",
-        "273.657",
-        "272.164"
+        "273.657"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300550965",
-      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo ve Televizyon Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "3",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.130.893",
-        "1.685.646",
-        "1.907.717",
-        "2.391.253"
-      ],
-      "Taban Puan": [
-        "278.507",
-        "248.106",
-        "233.722",
-        "210.712"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104290514",
@@ -150,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "906.181",
         "1.154.086",
         "1.680.329",
-        "",
-        "1.639.872"
-      ],
-      "Taban Puan": [
-        "276.844",
-        "248.412",
-        "",
-        "243.308"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109451648",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo ve Televizyon Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
         ""
       ],
-      "Taban Sıralama": [
-        "1.217.506",
-        "1.616.108",
-        "1.748.156",
-        "1.574.851"
-      ],
       "Taban Puan": [
-        "272.350",
-        "252.114",
-        "242.380",
-        "246.668"
+        "294.593",
+        "276.844",
+        "248.412",
+        ""
       ],
-      "Şehir": "EDİRNE",
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,18 +150,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.029.704",
         "1.246.870",
         "1.471.636",
-        "1.663.934",
-        "1.516.062"
+        "1.663.934"
       ],
       "Taban Puan": [
+        "284.470",
         "270.306",
         "260.611",
-        "247.136",
-        "249.819"
+        "247.136"
       ],
       "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300550965",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo ve Televizyon Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "3",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.059.466",
+        "1.130.893",
+        "1.685.646",
+        "1.907.717"
+      ],
+      "Taban Puan": [
+        "282.126",
+        "278.507",
+        "248.106",
+        "233.722"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109451648",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo ve Televizyon Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.070.115",
+        "1.217.506",
+        "1.616.108",
+        "1.748.156"
+      ],
+      "Taban Puan": [
+        "281.278",
+        "272.350",
+        "252.114",
+        "242.380"
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,15 +273,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.078.112",
         "1.251.073",
         "1.549.218",
-        "",
         ""
       ],
       "Taban Puan": [
+        "280.654",
         "270.012",
         "256.023",
-        "",
         ""
       ],
       "Şehir": "DİYARBAKIR",
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.266.765",
         "1.502.453",
         "1.920.198",
-        "2.014.060",
-        "2.166.594"
+        "2.014.060"
       ],
       "Taban Puan": [
+        "266.524",
         "252.763",
         "234.973",
-        "228.139",
-        "219.723"
+        "228.139"
       ],
       "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.353.994",
         "1.633.917",
         "1.927.483",
-        "2.037.436",
-        "2.155.008"
+        "2.037.436"
       ],
       "Taban Puan": [
+        "260.247",
         "243.794",
         "234.581",
-        "226.938",
-        "220.180"
+        "226.938"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -396,15 +396,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.944.556",
         "2.301.361",
         "2.739.639",
-        "",
         ""
       ],
       "Taban Puan": [
+        "217.725",
         "179.080",
         "176.119",
-        "",
         ""
       ],
       "Şehir": "KIBRIS",

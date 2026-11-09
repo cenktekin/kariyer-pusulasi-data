@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "447.336",
         "500.430",
         "539.823",
-        "1.085.848",
-        ""
+        "1.085.848"
       ],
       "Taban Puan": [
+        "265.453",
         "262.178",
         "249.011",
-        "208.268",
-        ""
+        "208.268"
       ],
       "Şehir": "KONYA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "507.254",
         "562.774",
         "563.552",
-        "603.236",
-        "441.541"
+        "603.236"
       ],
       "Taban Puan": [
+        "254.353",
         "253.943",
         "246.419",
-        "250.913",
-        "263.173"
+        "250.913"
       ],
       "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
@@ -109,19 +109,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "564.865",
         "703.075",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "245.318",
         "239.325",
-        "",
         "",
         ""
       ],
       "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208300143",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "TARIM VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bitkisel Üretim ve Teknolojileri (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "585.873",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "242.302",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "107890021",
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "800.342",
         "917.113",
         "867.441",
-        "854.377",
-        "849.243"
+        "854.377"
       ],
       "Taban Puan": [
+        "216.483",
         "221.438",
         "220.562",
-        "226.372",
-        "216.378"
+        "226.372"
       ],
       "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
@@ -191,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "862.216",
         "973.502",
         "902.896",
-        "653.092",
-        "1.113.038"
+        "653.092"
       ],
       "Taban Puan": [
+        "209.557",
         "216.852",
         "217.817",
-        "245.174",
-        "196.665"
+        "245.174"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -247,47 +288,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208300143",
-      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
-      "Fakülte": "TARIM VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bitkisel Üretim ve Teknolojileri (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretli"
-    },
-    {
       "Program Kodu": "300490507",
       "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
       "Fakülte": "TARIM BİLİMLERİ VE TEKNOLOJİLERİ FAKÜLTESİ",
@@ -316,14 +316,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.315.533",
-        "1.312.724"
+        "",
+        "1.315.533"
       ],
       "Taban Puan": [
         "",
         "",
-        "189.719",
-        "180.901"
+        "",
+        "189.719"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "96.238",
         "104.602",
         "132.835",
-        "171.732",
-        "156.187"
+        "171.732"
       ],
       "Taban Puan": [
+        "439.190",
         "422.839",
         "423.014",
-        "407.443",
-        "411.717"
+        "407.443"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "140.317",
         "128.287",
         "175.186",
-        "194.861",
-        "244.492"
+        "194.861"
       ],
       "Taban Puan": [
+        "418.960",
         "413.294",
         "405.753",
-        "399.554",
-        "382.622"
+        "399.554"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "152.382",
         "148.765",
         "203.956",
-        "227.181",
-        "202.491"
+        "227.181"
       ],
       "Taban Puan": [
+        "414.117",
         "405.916",
         "395.938",
-        "389.940",
-        "395.085"
+        "389.940"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,182 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "164.461",
         "152.605",
         "238.062",
-        "212.889",
-        "232.426"
+        "212.889"
       ],
       "Taban Puan": [
+        "409.545",
         "404.616",
         "385.884",
-        "394.058",
-        "385.972"
+        "394.058"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103490666",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "HAVACILIK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uçak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "181.758",
-        "",
-        "262.117",
-        "256.410"
-      ],
-      "Taban Puan": [
-        "395.488",
-        "",
-        "380.995",
-        "379.419"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103890231",
-      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "ESKİŞEHİR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uçak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "187.622",
-        "248.805",
-        "276.238",
-        "311.408"
-      ],
-      "Taban Puan": [
-        "393.805",
-        "383.036",
-        "377.644",
-        "366.336"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111650687",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uçak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "197.687",
-        "281.475",
-        "301.666",
-        "292.083"
-      ],
-      "Taban Puan": [
-        "390.958",
-        "374.990",
-        "371.997",
-        "370.675"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203850893",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "206.014",
-        "293.439",
-        "343.906",
-        "366.689"
-      ],
-      "Taban Puan": [
-        "388.691",
-        "372.280",
-        "363.614",
-        "355.068"
-      ],
-      "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
     },
     {
@@ -355,18 +191,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "166.370",
         "206.035",
         "304.296",
-        "330.437",
-        "334.364"
+        "330.437"
       ],
       "Taban Puan": [
+        "408.866",
         "388.684",
         "369.943",
-        "366.156",
-        "361.445"
+        "366.156"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103490666",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "HAVACILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uçak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "167.550",
+        "181.758",
+        "",
+        "262.117"
+      ],
+      "Taban Puan": [
+        "408.440",
+        "395.488",
+        "",
+        "380.995"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203850893",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "180.655",
+        "206.014",
+        "293.439",
+        "343.906"
+      ],
+      "Taban Puan": [
+        "403.858",
+        "388.691",
+        "372.280",
+        "363.614"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111650687",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uçak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "180.732",
+        "197.687",
+        "281.475",
+        "301.666"
+      ],
+      "Taban Puan": [
+        "403.829",
+        "390.958",
+        "374.990",
+        "371.997"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103890231",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "ESKİŞEHİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uçak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "187.652",
+        "187.622",
+        "248.805",
+        "276.238"
+      ],
+      "Taban Puan": [
+        "401.472",
+        "393.805",
+        "383.036",
+        "377.644"
+      ],
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "195.186",
         "225.902",
         "295.239",
-        "317.555",
-        "327.522"
+        "317.555"
       ],
       "Taban Puan": [
+        "398.998",
         "383.541",
         "371.881",
-        "368.702",
-        "362.900"
+        "368.702"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -437,19 +437,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "199.133",
         "239.571",
         "327.108",
-        "356.175",
-        "372.413"
+        "356.175"
       ],
       "Taban Puan": [
+        "397.748",
         "380.257",
         "365.194",
-        "361.364",
-        "354.027"
+        "361.364"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209500143",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "216.156",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "392.543",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204000136",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "223.423",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "390.477",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "208450555",
@@ -478,57 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "226.559",
         "250.868",
         "303.594",
-        "318.784",
-        "346.500"
+        "318.784"
       ],
       "Taban Puan": [
+        "389.556",
         "377.638",
         "370.095",
-        "368.466",
-        "358.977"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202456013",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "16",
-        "16",
-        "12",
-        "11"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "254.105",
-        "304.123",
-        "313.182",
-        "337.346"
-      ],
-      "Taban Puan": [
-        "376.901",
-        "369.980",
-        "369.590",
-        "360.824"
+        "368.466"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -560,16 +601,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "228.913",
         "258.359",
         "323.980",
-        "355.218",
-        "366.512"
+        "355.218"
       ],
       "Taban Puan": [
+        "388.888",
         "375.950",
         "365.836",
-        "361.531",
-        "355.100"
+        "361.531"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202456013",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "16",
+        "16",
+        "12",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "229.730",
+        "254.105",
+        "304.123",
+        "313.182"
+      ],
+      "Taban Puan": [
+        "388.650",
+        "376.901",
+        "369.980",
+        "369.590"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -601,15 +683,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "237.607",
         "262.238",
         "349.133",
-        "",
         ""
       ],
       "Taban Puan": [
+        "386.489",
         "375.076",
         "360.906",
-        "",
         ""
       ],
       "Şehir": "KAHRAMANMARAŞ",
@@ -642,23 +724,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "255.176",
         "285.631",
         "335.378",
-        "343.762",
-        "359.406"
+        "343.762"
       ],
       "Taban Puan": [
+        "381.844",
         "370.113",
         "363.518",
-        "363.644",
-        "356.445"
+        "363.644"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "203051236",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Program Kodu": "201900311",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uçak Teknolojisi (Burslu)",
@@ -671,10 +753,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "11"
+        "4",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -683,16 +765,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "292.472",
-        "347.365",
-        "382.111",
-        "382.476"
+        "270.685",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "368.704",
-        "361.247",
-        "356.862",
-        "352.185"
+        "377.985",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -724,19 +806,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "276.415",
         "297.965",
         "393.328",
-        "415.980",
-        "424.913"
+        "415.980"
       ],
       "Taban Puan": [
+        "376.645",
         "367.619",
         "353.058",
-        "351.334",
-        "344.923"
+        "351.334"
       ],
       "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203051236",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "280.115",
+        "292.472",
+        "347.365",
+        "382.111"
+      ],
+      "Taban Puan": [
+        "375.782",
+        "368.704",
+        "361.247",
+        "356.862"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201400185",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "9",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "293.806",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "372.620",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202352622",
@@ -765,16 +929,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "301.977",
         "325.958",
         "377.922",
-        "407.638",
-        "429.122"
+        "407.638"
       ],
       "Taban Puan": [
+        "370.786",
         "362.237",
         "355.676",
-        "352.657",
-        "344.250"
+        "352.657"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205053447",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "13",
+        "13",
+        "12",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "304.281",
+        "335.915",
+        "385.984",
+        "422.404"
+      ],
+      "Taban Puan": [
+        "370.268",
+        "360.423",
+        "354.292",
+        "350.340"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -806,60 +1011,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "321.491",
         "333.327",
         "432.470",
-        "472.971",
-        "483.192"
+        "472.971"
       ],
       "Taban Puan": [
+        "366.543",
         "360.890",
         "346.857",
-        "342.999",
-        "335.989"
+        "342.999"
       ],
       "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "205053447",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "13",
-        "13",
-        "12",
-        "12"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "335.915",
-        "385.984",
-        "422.404",
-        "462.117"
-      ],
-      "Taban Puan": [
-        "360.423",
-        "354.292",
-        "350.340",
-        "339.084"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "112572405",
@@ -888,18 +1052,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "333.862",
         "354.898",
         "434.018",
-        "457.794",
-        "454.279"
+        "457.794"
       ],
       "Taban Puan": [
+        "364.022",
         "357.079",
         "346.624",
-        "345.133",
-        "340.280"
+        "345.133"
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103650921",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uçak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "50",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "339.174",
+        "400.141",
+        "503.863",
+        "544.499"
+      ],
+      "Taban Puan": [
+        "362.989",
+        "349.634",
+        "336.929",
+        "333.718"
+      ],
+      "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,16 +1134,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "341.655",
         "374.911",
         "407.943",
-        "445.667",
-        "512.502"
+        "445.667"
       ],
       "Taban Puan": [
+        "362.507",
         "353.689",
         "350.667",
-        "346.868",
-        "331.894"
+        "346.868"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -970,106 +1175,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "579.567",
         "391.791",
         "424.734",
-        "599.139",
-        "573.171"
+        "599.139"
       ],
       "Taban Puan": [
+        "326.806",
         "350.948",
         "348.045",
-        "327.253",
-        "323.983"
+        "327.253"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%25 İndirimli"
     },
     {
-      "Program Kodu": "103650921",
-      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uçak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "50",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "400.141",
-        "503.863",
-        "544.499",
-        "559.755"
-      ],
-      "Taban Puan": [
-        "349.634",
-        "336.929",
-        "333.718",
-        "325.646"
-      ],
-      "Şehir": "ERZİNCAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203850963",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (İstanbul) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "669.757",
-        "671.187",
-        "854.042",
-        "982.132"
-      ],
-      "Taban Puan": [
-        "316.462",
-        "318.356",
-        "302.408",
-        "284.573"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "204753328",
-      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "204000150",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1081,10 +1204,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "41",
-        "41",
-        "41",
-        "48"
+        "16",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1093,18 +1216,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "717.000",
-        "865.634",
-        "1.074.650",
-        "1.279.398"
+        "592.025",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "311.884",
-        "301.327",
-        "285.021",
-        "263.716"
+        "325.332",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -1134,19 +1257,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "647.854",
         "731.472",
         "920.609",
-        "687.039",
-        "883.956"
+        "687.039"
       ],
       "Taban Puan": [
+        "319.033",
         "310.520",
         "297.100",
-        "317.861",
-        "292.591"
+        "317.861"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209500150",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "686.731",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "314.919",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "203850918",
@@ -1175,26 +1339,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "743.673",
         "742.400",
         "762.962",
-        "1.023.203",
-        "1.121.749"
+        "1.023.203"
       ],
       "Taban Puan": [
+        "309.192",
         "309.511",
         "309.892",
-        "288.853",
-        "274.224"
+        "288.853"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%25 İndirimli"
     },
     {
-      "Program Kodu": "204150985",
-      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "204753328",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%25 İndirimli)",
+      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1204,10 +1368,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "27",
-        "23",
-        "9",
-        ""
+        "41",
+        "41",
+        "41",
+        "48"
       ],
       "Yerleşen": [
         "",
@@ -1216,19 +1380,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "798.843",
-        "688.440",
-        "",
-        ""
+        "800.695",
+        "717.000",
+        "865.634",
+        "1.074.650"
       ],
       "Taban Puan": [
-        "304.473",
-        "316.689",
-        "",
-        ""
+        "303.840",
+        "311.884",
+        "301.327",
+        "285.021"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%25 İndirimli"
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "202490695",
@@ -1257,26 +1421,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "819.077",
         "802.700",
         "884.034",
-        "739.199",
-        "699.946"
+        "739.199"
       ],
       "Taban Puan": [
+        "302.179",
         "304.134",
         "299.887",
-        "312.779",
-        "309.768"
+        "312.779"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210401536",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "203850963",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Ücretli)",
+      "Program Adı": "Uçak Teknolojisi (İstanbul) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1286,10 +1450,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
+        "24",
+        "24",
+        "20",
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -1298,18 +1462,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "851.526",
-        "966.171",
-        "994.756",
-        "687.081"
+        "928.155",
+        "669.757",
+        "671.187",
+        "854.042"
       ],
       "Taban Puan": [
-        "299.991",
-        "293.692",
-        "291.028",
-        "311.111"
+        "292.749",
+        "316.462",
+        "318.356",
+        "302.408"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretli"
     },
     {
@@ -1339,16 +1503,139 @@
         ""
       ],
       "Taban Sıralama": [
+        "962.438",
         "930.392",
         "1.268.194",
-        "1.910.056",
-        "1.637.950"
+        "1.910.056"
       ],
       "Taban Puan": [
+        "289.900",
         "293.587",
         "273.165",
-        "233.596",
-        "243.405"
+        "233.596"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201900325",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "989.509",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "287.671",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204000143",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "9",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "997.932",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "286.991",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201900318",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.081.477",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "280.394",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -1380,60 +1667,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.144.554",
         "933.055",
         "985.580",
-        "942.502",
-        "895.220"
+        "942.502"
       ],
       "Taban Puan": [
+        "275.573",
         "293.374",
         "292.266",
-        "295.109",
-        "291.642"
+        "295.109"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "203051245",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "62",
-        "67",
-        "66"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.006.471",
-        "1.164.493",
-        "1.035.365",
-        "931.851"
-      ],
-      "Taban Puan": [
-        "287.679",
-        "279.890",
-        "287.925",
-        "288.601"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "203850884",
@@ -1462,19 +1708,183 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.149.144",
         "1.077.513",
         "1.180.958",
-        "1.267.626",
-        "1.831.584"
+        "1.267.626"
       ],
       "Taban Puan": [
+        "275.230",
         "282.372",
         "278.809",
-        "271.526",
-        "234.021"
+        "271.526"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210401536",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.280.116",
+        "851.526",
+        "966.171",
+        "994.756"
+      ],
+      "Taban Puan": [
+        "265.565",
+        "299.991",
+        "293.692",
+        "291.028"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204150985",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "27",
+        "23",
+        "9",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.287.240",
+        "798.843",
+        "688.440",
+        ""
+      ],
+      "Taban Puan": [
+        "265.056",
+        "304.473",
+        "316.689",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "201400192",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "52",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.302.068",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.982",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203051245",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "62",
+        "67",
+        "66"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.302.432",
+        "1.006.471",
+        "1.164.493",
+        "1.035.365"
+      ],
+      "Taban Puan": [
+        "263.956",
+        "287.679",
+        "279.890",
+        "287.925"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "208450546",
@@ -1503,98 +1913,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.340.353",
         "1.090.196",
         "1.174.385",
-        "1.137.427",
-        "1.212.434"
+        "1.137.427"
       ],
       "Taban Puan": [
+        "261.227",
         "281.444",
         "279.233",
-        "280.489",
-        "268.059"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "205053456",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "85",
-        "85",
-        "76",
-        "76"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.172.331",
-        "1.344.113",
-        "1.376.874",
-        "1.705.079"
-      ],
-      "Taban Puan": [
-        "275.535",
-        "268.422",
-        "264.421",
-        "240.020"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210401543",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "75",
-        "75",
-        "70",
-        "66"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.373.080",
-        "923.835",
-        "992.504",
-        "984.962"
-      ],
-      "Taban Puan": [
-        "261.582",
-        "296.852",
-        "291.195",
-        "284.355"
+        "280.489"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1626,23 +1954,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.356.070",
         "1.460.017",
         "1.481.635",
-        "1.076.995",
-        "1.318.739"
+        "1.076.995"
       ],
       "Taban Puan": [
+        "260.104",
         "255.638",
         "260.014",
-        "284.854",
-        "261.265"
+        "284.854"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "208150901",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Program Kodu": "210401543",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
@@ -1655,10 +1983,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "52",
-        "45",
-        "45",
-        "53"
+        "75",
+        "75",
+        "70",
+        "66"
       ],
       "Yerleşen": [
         "",
@@ -1667,16 +1995,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.475.241",
-        "1.460.783",
-        "1.561.231",
-        "1.562.426"
+        "1.374.848",
+        "1.373.080",
+        "923.835",
+        "992.504"
       ],
       "Taban Puan": [
-        "254.607",
-        "261.263",
-        "253.128",
-        "247.314"
+        "258.763",
+        "261.582",
+        "296.852",
+        "291.195"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1708,57 +2036,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.888.691",
         "1.482.173",
         "",
-        "",
         ""
       ],
       "Taban Puan": [
+        "222.144",
         "254.132",
         "",
-        "",
         ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "202352613",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "18",
-        "18",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.585.019",
-        "2.046.684",
-        "2.464.736",
-        "1.595.960"
-      ],
-      "Taban Puan": [
-        "247.126",
-        "228.118",
-        "205.700",
-        "245.557"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -1790,19 +2077,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.892.034",
         "1.867.013",
         "2.009.811",
-        "2.060.029",
-        "1.985.153"
+        "2.060.029"
       ],
       "Taban Puan": [
+        "221.894",
         "227.744",
         "230.116",
-        "225.769",
-        "227.229"
+        "225.769"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202352631",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.944.014",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "217.768",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "103690151",
@@ -1846,52 +2174,11 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209500143",
-      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Program Kodu": "202352613",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209500150",
-      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
+      "Program Adı": "Uçak Teknolojisi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1902,9 +2189,9 @@
       ],
       "Kontenjan": [
         "25",
-        "",
-        "",
-        ""
+        "18",
+        "18",
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -1914,63 +2201,22 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "1.585.019",
+        "2.046.684",
+        "2.464.736"
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201400185",
-      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "9",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
+        "247.126",
+        "228.118",
+        "205.700"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "201400192",
-      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "208150901",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
@@ -1984,9 +2230,9 @@
       ],
       "Kontenjan": [
         "52",
-        "",
-        "",
-        ""
+        "45",
+        "45",
+        "53"
       ],
       "Yerleşen": [
         "",
@@ -1996,105 +2242,23 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "1.475.241",
+        "1.460.783",
+        "1.561.231"
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        ""
+        "254.607",
+        "261.263",
+        "253.128"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "201900318",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "201900311",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201900325",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "205053456",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2106,10 +2270,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "24",
-        "",
-        "",
-        ""
+        "85",
+        "85",
+        "76",
+        "76"
       ],
       "Yerleşen": [
         "",
@@ -2119,181 +2283,17 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "1.172.331",
+        "1.344.113",
+        "1.376.874"
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        ""
+        "275.535",
+        "268.422",
+        "264.421"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202352631",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "204000143",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "9",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "204000136",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204000150",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "TİCARET VE SANAYİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uçak Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "16",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
     }
   ]

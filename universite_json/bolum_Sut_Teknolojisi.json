@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "101111004",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "ZİRAAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Süt Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "484.287",
-        "494.024",
-        "517.034",
-        "557.123"
-      ],
-      "Taban Puan": [
-        "264.569",
-        "254.496",
-        "262.462",
-        "245.060"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "103410651",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "ZİRAAT FAKÜLTESİ",
@@ -68,18 +27,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "431.349",
         "489.960",
         "514.824",
-        "545.501",
-        "571.305"
+        "545.501"
       ],
       "Taban Puan": [
+        "268.748",
         "263.716",
         "251.919",
-        "258.384",
-        "243.220"
+        "258.384"
       ],
       "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101111004",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "ZİRAAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Süt Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "433.876",
+        "484.287",
+        "494.024",
+        "517.034"
+      ],
+      "Taban Puan": [
+        "268.223",
+        "264.569",
+        "254.496",
+        "262.462"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -109,13 +109,13 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "740.347",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "223.176",
         "",
         "",
         ""

@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "224.117",
         "233.458",
         "266.437",
-        "276.865",
-        "369.427"
+        "276.865"
       ],
       "Taban Puan": [
+        "333.621",
         "323.946",
         "299.566",
-        "314.767",
-        "278.658"
+        "314.767"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "253.209",
         "294.760",
         "310.444",
-        "331.225",
-        "348.911"
+        "331.225"
       ],
       "Taban Puan": [
+        "321.189",
         "303.911",
         "287.461",
-        "299.054",
-        "283.826"
+        "299.054"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "279.466",
         "300.551",
         "313.585",
-        "320.170",
-        "337.475"
+        "320.170"
       ],
       "Taban Puan": [
+        "311.016",
         "302.271",
         "286.688",
-        "302.019",
-        "286.951"
+        "302.019"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "293.959",
         "316.763",
         "346.650",
-        "368.751",
-        "375.180"
+        "368.751"
       ],
       "Taban Puan": [
+        "305.868",
         "297.866",
         "279.043",
-        "289.911",
-        "277.262"
+        "289.911"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "314.758",
         "348.720",
         "374.678",
-        "415.986",
-        "422.807"
+        "415.986"
       ],
       "Taban Puan": [
+        "298.981",
         "289.925",
         "273.287",
-        "279.807",
-        "266.856"
+        "279.807"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "328.015",
         "376.595",
         "413.172",
-        "423.210",
-        "443.796"
+        "423.210"
       ],
       "Taban Puan": [
+        "294.859",
         "283.763",
         "266.421",
-        "278.413",
-        "262.753"
+        "278.413"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "342.288",
         "389.203",
         "427.092",
-        "455.149",
-        "485.210"
+        "455.149"
       ],
       "Taban Puan": [
+        "290.705",
         "281.087",
         "264.125",
-        "272.536",
-        "255.501"
+        "272.536"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "347.632",
         "389.328",
         "438.698",
-        "451.567",
-        "468.165"
+        "451.567"
       ],
       "Taban Puan": [
+        "289.195",
         "281.062",
         "262.288",
-        "273.178",
-        "258.382"
+        "273.178"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "359.920",
         "425.767",
         "471.951",
-        "463.721",
-        "486.024"
+        "463.721"
       ],
       "Taban Puan": [
+        "285.855",
         "274.172",
         "257.420",
-        "271.028",
-        "255.378"
+        "271.028"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "413.191",
         "509.422",
         "566.544",
-        "534.917",
-        "574.949"
+        "534.917"
       ],
       "Taban Puan": [
+        "272.722",
         "260.880",
         "246.102",
-        "259.880",
-        "242.761"
+        "259.880"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
@@ -437,18 +437,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "438.077",
         "529.154",
         "563.891",
-        "682.842",
-        "711.977"
+        "682.842"
       ],
       "Taban Puan": [
+        "267.357",
         "258.204",
         "246.385",
-        "242.022",
-        "228.089"
+        "242.022"
       ],
       "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100711143",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "ZİRAAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarım Makineleri ve Teknolojileri Mühendisliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "601.631",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "240.139",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,26 +519,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "602.495",
         "707.362",
         "562.879",
-        "600.986",
-        "507.716"
+        "600.986"
       ],
       "Taban Puan": [
+        "240.020",
         "238.934",
         "246.488",
-        "251.182",
-        "251.998"
+        "251.182"
       ],
       "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "100711143",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Program Kodu": "105000381",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
       "Fakülte": "ZİRAAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarım Makineleri ve Teknolojileri Mühendisliği (KKTC Uyruklu)",
+      "Program Adı": "Tarım Makineleri ve Teknolojileri Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -507,7 +548,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
+        "30",
         "",
         "",
         ""
@@ -519,18 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "617.188",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "238.051",
         "",
         "",
         ""
       ],
-      "Şehir": "ANTALYA",
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -561,58 +602,17 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.117.083",
         "",
+        "1.117.083",
         ""
       ],
       "Taban Puan": [
         "",
-        "199.735",
         "",
+        "199.735",
         ""
       ],
       "Şehir": "DİYARBAKIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105000381",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ZİRAAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarım Makineleri ve Teknolojileri Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     }
   ]

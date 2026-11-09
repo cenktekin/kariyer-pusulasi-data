@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.485",
         "1.632",
         "1.027",
-        "1.711",
-        "1.908"
+        "1.711"
       ],
       "Taban Puan": [
+        "483.697",
         "469.902",
         "487.993",
-        "488.833",
-        "489.607"
+        "488.833"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "332.800",
         "148.360",
         "128.910",
-        "181.609",
-        "199.117"
+        "181.609"
       ],
       "Taban Puan": [
+        "305.434",
         "342.375",
         "349.009",
-        "344.142",
-        "343.107"
+        "344.142"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -88,7 +88,7 @@
       "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Uluslararası Girişimcilik (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
         "2026",
@@ -109,19 +109,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "752.675",
         "870.553",
         "1.130.397",
-        "",
         ""
       ],
       "Taban Puan": [
+        "252.280",
         "244.532",
         "228.179",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205410371",
+      "Üniversite": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Girişimcilik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "12",
+        "10",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.012.275",
+        "",
+        "445.193",
+        "682.778"
+      ],
+      "Taban Puan": [
+        "228.013",
+        "",
+        "287.127",
+        "268.366"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "110910273",
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.157.560",
         "1.432.876",
         "1.312.692",
-        "1.430.441",
-        ""
+        "1.430.441"
       ],
       "Taban Puan": [
+        "214.093",
         "188.720",
         "215.320",
-        "209.937",
-        ""
+        "209.937"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -245,47 +286,6 @@
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "205410371",
-      "Üniversite": "TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Girişimcilik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "12",
-        "10",
-        "9"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "445.193",
-        "682.778",
-        "426.496"
-      ],
-      "Taban Puan": [
-        "",
-        "287.127",
-        "268.366",
-        "297.551"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
     }
   ]
 }

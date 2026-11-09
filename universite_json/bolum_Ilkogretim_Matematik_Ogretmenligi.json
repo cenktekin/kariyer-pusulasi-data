@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "63.893",
         "73.504",
         "79.211",
-        "58.409",
-        "50.928"
+        "58.409"
       ],
       "Taban Puan": [
+        "449.763",
         "422.300",
         "403.264",
-        "449.779",
-        "456.518"
+        "449.779"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "74.176",
         "78.249",
         "68.682",
-        "53.707",
-        "49.727"
+        "53.707"
       ],
       "Taban Puan": [
+        "439.207",
         "418.012",
         "413.934",
-        "454.843",
-        "457.939"
+        "454.843"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "85.528",
         "93.933",
         "76.169",
-        "54.491",
-        "54.599"
+        "54.491"
       ],
       "Taban Puan": [
+        "428.057",
         "404.079",
         "406.268",
-        "453.962",
-        "452.309"
+        "453.962"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "100.172",
         "110.109",
         "99.182",
-        "78.355",
-        "68.151"
+        "78.355"
       ],
       "Taban Puan": [
+        "414.447",
         "391.056",
         "385.075",
-        "428.869",
-        "437.168"
+        "428.869"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,100 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "121.614",
         "124.318",
         "90.718",
-        "61.713",
-        "59.843"
+        "61.713"
       ],
       "Taban Puan": [
+        "396.272",
         "380.475",
         "392.515",
-        "446.152",
-        "446.371"
+        "446.152"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200611213",
-      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "3",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "128.793",
-        "166.541",
-        "67.993",
-        "67.071"
-      ],
-      "Taban Puan": [
-        "377.374",
-        "339.576",
-        "439.471",
-        "438.355"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107210095",
-      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "ATATÜRK EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "136.842",
-        "132.715",
-        "72.557",
-        "65.030"
-      ],
-      "Taban Puan": [
-        "371.801",
-        "359.647",
-        "434.617",
-        "440.634"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,18 +232,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "129.738",
         "144.379",
         "95.255",
-        "82.786",
-        "75.194"
+        "82.786"
       ],
       "Taban Puan": [
+        "389.800",
         "366.941",
         "388.525",
-        "424.583",
-        "429.628"
+        "424.583"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107210095",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "ATATÜRK EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "134.629",
+        "136.842",
+        "132.715",
+        "72.557"
+      ],
+      "Taban Puan": [
+        "386.082",
+        "371.801",
+        "359.647",
+        "434.617"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200611213",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "3",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "136.226",
+        "128.793",
+        "166.541",
+        "67.993"
+      ],
+      "Taban Puan": [
+        "384.853",
+        "377.374",
+        "339.576",
+        "439.471"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
@@ -355,57 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "137.207",
         "165.558",
         "171.286",
-        "103.108",
-        "82.906"
+        "103.108"
       ],
       "Taban Puan": [
+        "384.135",
         "354.614",
         "337.116",
-        "406.202",
-        "421.890"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203211277",
-      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "4",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "168.142",
-        "218.621",
-        "95.423",
-        "92.098"
-      ],
-      "Taban Puan": [
-        "353.222",
-        "316.002",
-        "412.855",
-        "412.904"
+        "406.202"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -437,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "153.669",
         "175.784",
         "130.728",
-        "74.459",
-        "65.675"
+        "74.459"
       ],
       "Taban Puan": [
+        "372.608",
         "349.267",
         "361.004",
-        "432.677",
-        "439.921"
+        "432.677"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -478,19 +437,142 @@
         ""
       ],
       "Taban Sıralama": [
+        "169.249",
         "183.577",
         "163.894",
-        "76.980",
-        "69.738"
+        "76.980"
       ],
       "Taban Puan": [
+        "362.639",
         "345.264",
         "340.953",
-        "430.194",
-        "435.441"
+        "430.194"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202412358",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "4",
+        "4",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "172.257",
+        "191.667",
+        "155.190",
+        "104.206"
+      ],
+      "Taban Puan": [
+        "360.762",
+        "341.402",
+        "345.793",
+        "405.286"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111610431",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "174.036",
+        "216.849",
+        "246.389",
+        "95.032"
+      ],
+      "Taban Puan": [
+        "359.714",
+        "330.370",
+        "305.958",
+        "413.169"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203211277",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "4",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "174.130",
+        "168.142",
+        "218.621",
+        "95.423"
+      ],
+      "Taban Puan": [
+        "359.653",
+        "353.222",
+        "316.002",
+        "412.855"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101010113",
@@ -519,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "181.303",
         "188.056",
         "180.713",
-        "69.871",
-        "68.328"
+        "69.871"
       ],
       "Taban Puan": [
+        "355.448",
         "343.102",
         "332.344",
-        "437.458",
-        "436.980"
+        "437.458"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -560,101 +642,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "182.389",
         "188.202",
         "129.751",
-        "66.792",
-        "64.092"
+        "66.792"
       ],
       "Taban Puan": [
+        "354.841",
         "343.038",
         "361.668",
-        "440.720",
-        "441.647"
+        "440.720"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104210095",
-      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "GAZİANTEP EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "190.397",
-        "138.403",
-        "76.270",
-        "75.045"
-      ],
-      "Taban Puan": [
-        "341.996",
-        "355.943",
-        "430.901",
-        "429.793"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202412358",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "4",
-        "4",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "191.667",
-        "155.190",
-        "104.206",
-        "95.437"
-      ],
-      "Taban Puan": [
-        "341.402",
-        "345.793",
-        "405.286",
-        "409.772"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "109710481",
@@ -683,387 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "183.256",
         "200.890",
         "206.596",
-        "76.784",
-        "70.592"
+        "76.784"
       ],
       "Taban Puan": [
+        "354.334",
         "337.228",
         "320.781",
-        "430.398",
-        "434.483"
+        "430.398"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108990370",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "210.703",
-        "199.555",
-        "77.861",
-        "76.391"
-      ],
-      "Taban Puan": [
-        "332.963",
-        "323.754",
-        "429.349",
-        "428.400"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111610431",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "50",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "216.849",
-        "246.389",
-        "95.032",
-        "81.011"
-      ],
-      "Taban Puan": [
-        "330.370",
-        "305.958",
-        "413.169",
-        "423.765"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202210400",
-      "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "7",
-        "9"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "217.705",
-        "281.620",
-        "104.264",
-        "101.166"
-      ],
-      "Taban Puan": [
-        "330.033",
-        "295.181",
-        "405.237",
-        "404.430"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108210092",
-      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "225.142",
-        "225.453",
-        "80.697",
-        "75.285"
-      ],
-      "Taban Puan": [
-        "327.066",
-        "313.409",
-        "426.602",
-        "429.538"
-      ],
-      "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103510059",
-      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "226.330",
-        "219.411",
-        "76.605",
-        "74.947"
-      ],
-      "Taban Puan": [
-        "326.608",
-        "315.690",
-        "430.585",
-        "429.895"
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107410039",
-      "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "226.383",
-        "269.153",
-        "79.365",
-        "72.529"
-      ],
-      "Taban Puan": [
-        "326.585",
-        "298.777",
-        "427.888",
-        "432.419"
-      ],
-      "Şehir": "MERSİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108610404",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "226.919",
-        "214.144",
-        "82.970",
-        "76.595"
-      ],
-      "Taban Puan": [
-        "326.375",
-        "317.754",
-        "424.395",
-        "428.192"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103010319",
-      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "ZİYA GÖKALP EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "228.653",
-        "182.858",
-        "72.669",
-        "67.807"
-      ],
-      "Taban Puan": [
-        "325.720",
-        "331.317",
-        "434.504",
-        "437.525"
-      ],
-      "Şehir": "DİYARBAKIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107010097",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "AHMET KELEŞOĞLU EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "229.799",
-        "204.090",
-        "85.303",
-        "83.538"
-      ],
-      "Taban Puan": [
-        "325.306",
-        "321.835",
-        "422.224",
-        "421.233"
-      ],
-      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1093,18 +724,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "185.512",
         "232.484",
         "",
-        "103.068",
-        "88.858"
+        "103.068"
       ],
       "Taban Puan": [
+        "353.078",
         "324.291",
         "",
-        "406.229",
-        "415.896"
+        "406.229"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108990370",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "187.786",
+        "210.703",
+        "199.555",
+        "77.861"
+      ],
+      "Taban Puan": [
+        "351.843",
+        "332.963",
+        "323.754",
+        "429.349"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202210400",
+      "Üniversite": "İSTANBUL 29 MAYIS ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "7",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "187.968",
+        "217.705",
+        "281.620",
+        "104.264"
+      ],
+      "Taban Puan": [
+        "351.741",
+        "330.033",
+        "295.181",
+        "405.237"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104210095",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "GAZİANTEP EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "188.418",
+        "190.397",
+        "138.403",
+        "76.270"
+      ],
+      "Taban Puan": [
+        "351.508",
+        "341.996",
+        "355.943",
+        "430.901"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107410039",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "196.753",
+        "226.383",
+        "269.153",
+        "79.365"
+      ],
+      "Taban Puan": [
+        "347.063",
+        "326.585",
+        "298.777",
+        "427.888"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103010319",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "ZİYA GÖKALP EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "198.994",
+        "228.653",
+        "182.858",
+        "72.669"
+      ],
+      "Taban Puan": [
+        "345.876",
+        "325.720",
+        "331.317",
+        "434.504"
+      ],
+      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,23 +970,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "200.186",
         "233.959",
         "",
-        "80.021",
-        "73.651"
+        "80.021"
       ],
       "Taban Puan": [
+        "345.253",
         "323.764",
         "",
-        "427.258",
-        "431.287"
+        "427.258"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107610461",
-      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Program Kodu": "108210092",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -1163,10 +999,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "20",
-        "20",
-        "45",
-        "40"
+        "50",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -1175,18 +1011,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "249.654",
-        "",
-        "89.993",
-        "84.822"
+        "202.054",
+        "225.142",
+        "225.453",
+        "80.697"
       ],
       "Taban Puan": [
-        "318.071",
-        "",
-        "417.747",
-        "419.849"
+        "344.272",
+        "327.066",
+        "313.409",
+        "426.602"
       ],
-      "Şehir": "MUĞLA",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,24 +1052,106 @@
         ""
       ],
       "Taban Sıralama": [
+        "205.602",
         "250.894",
         "",
-        "92.646",
-        "87.010"
+        "92.646"
       ],
       "Taban Puan": [
+        "342.541",
         "317.640",
         "",
-        "415.311",
-        "417.746"
+        "415.311"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101410366",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
+      "Program Kodu": "107010097",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "AHMET KELEŞOĞLU EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "209.130",
+        "229.799",
+        "204.090",
+        "85.303"
+      ],
+      "Taban Puan": [
+        "340.804",
+        "325.306",
+        "321.835",
+        "422.224"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610404",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "210.800",
+        "226.919",
+        "214.144",
+        "82.970"
+      ],
+      "Taban Puan": [
+        "340.005",
+        "326.375",
+        "317.754",
+        "424.395"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103510059",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1248,7 +1166,7 @@
         "50",
         "50",
         "50",
-        "70"
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -1257,18 +1175,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "253.096",
-        "260.323",
-        "107.027",
-        "99.461"
+        "212.365",
+        "226.330",
+        "219.411",
+        "76.605"
       ],
       "Taban Puan": [
-        "316.877",
-        "301.441",
-        "402.939",
-        "406.042"
+        "339.188",
+        "326.608",
+        "315.690",
+        "430.585"
       ],
-      "Şehir": "ERZURUM",
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107610461",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "212.454",
+        "249.654",
+        "",
+        "89.993"
+      ],
+      "Taban Puan": [
+        "339.144",
+        "318.071",
+        "",
+        "417.747"
+      ],
+      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1298,305 +1257,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "215.239",
         "261.222",
         "",
-        "93.913",
-        "76.800"
+        "93.913"
       ],
       "Taban Puan": [
+        "337.787",
         "314.169",
         "",
-        "414.164",
-        "427.980"
+        "414.164"
       ],
       "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101510205",
-      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "NECATİBEY EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "265.186",
-        "",
-        "99.344",
-        "91.338"
-      ],
-      "Taban Puan": [
-        "312.870",
-        "",
-        "409.423",
-        "413.618"
-      ],
-      "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102710924",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "265.676",
-        "",
-        "90.619",
-        "86.418"
-      ],
-      "Taban Puan": [
-        "312.712",
-        "",
-        "417.180",
-        "418.329"
-      ],
-      "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109290321",
-      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "268.627",
-        "",
-        "87.569",
-        "88.881"
-      ],
-      "Taban Puan": [
-        "311.780",
-        "",
-        "420.006",
-        "415.869"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100310916",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "268.641",
-        "",
-        "85.603",
-        "80.480"
-      ],
-      "Taban Puan": [
-        "311.776",
-        "",
-        "421.942",
-        "424.287"
-      ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110510036",
-      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "270.962",
-        "",
-        "101.045",
-        "96.037"
-      ],
-      "Taban Puan": [
-        "311.063",
-        "",
-        "407.982",
-        "409.199"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103910037",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "272.802",
-        "",
-        "98.037",
-        "84.737"
-      ],
-      "Taban Puan": [
-        "310.458",
-        "",
-        "410.596",
-        "419.924"
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108110375",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "25",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "273.246",
-        "",
-        "100.965",
-        "98.215"
-      ],
-      "Taban Puan": [
-        "310.317",
-        "",
-        "408.061",
-        "407.179"
-      ],
-      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1626,18 +1298,264 @@
         ""
       ],
       "Taban Sıralama": [
+        "215.827",
         "273.293",
         "281.040",
-        "100.033",
-        "95.642"
+        "100.033"
       ],
       "Taban Puan": [
+        "337.489",
         "310.302",
         "295.338",
-        "408.852",
-        "409.579"
+        "408.852"
       ],
       "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109290321",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "215.931",
+        "268.627",
+        "",
+        "87.569"
+      ],
+      "Taban Puan": [
+        "337.438",
+        "311.780",
+        "",
+        "420.006"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102710924",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "223.604",
+        "265.676",
+        "",
+        "90.619"
+      ],
+      "Taban Puan": [
+        "333.843",
+        "312.712",
+        "",
+        "417.180"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310916",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "224.413",
+        "268.641",
+        "",
+        "85.603"
+      ],
+      "Taban Puan": [
+        "333.485",
+        "311.776",
+        "",
+        "421.942"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101510205",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "NECATİBEY EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "224.830",
+        "265.186",
+        "",
+        "99.344"
+      ],
+      "Taban Puan": [
+        "333.299",
+        "312.870",
+        "",
+        "409.423"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108110375",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "25",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "228.143",
+        "273.246",
+        "",
+        "100.965"
+      ],
+      "Taban Puan": [
+        "331.824",
+        "310.317",
+        "",
+        "408.061"
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110510036",
+      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "228.522",
+        "270.962",
+        "",
+        "101.045"
+      ],
+      "Taban Puan": [
+        "331.650",
+        "311.063",
+        "",
+        "407.982"
+      ],
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1667,18 +1585,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "232.512",
         "273.973",
         "",
-        "100.372",
-        "95.924"
+        "100.372"
       ],
       "Taban Puan": [
+        "329.913",
         "310.092",
         "",
-        "408.558",
-        "409.316"
+        "408.558"
       ],
       "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109410696",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "233.929",
+        "283.389",
+        "",
+        "117.501"
+      ],
+      "Taban Puan": [
+        "329.298",
+        "307.222",
+        "",
+        "394.621"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108810032",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "50",
+        "52"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "234.659",
+        "290.154",
+        "",
+        "110.899"
+      ],
+      "Taban Puan": [
+        "328.988",
+        "305.224",
+        "",
+        "399.823"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106010028",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "234.795",
+        "287.895",
+        "",
+        "102.085"
+      ],
+      "Taban Puan": [
+        "328.931",
+        "305.891",
+        "",
+        "407.053"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100410678",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "235.713",
+        "284.239",
+        "",
+        "101.959"
+      ],
+      "Taban Puan": [
+        "328.540",
+        "306.966",
+        "",
+        "407.157"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1708,18 +1790,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "237.023",
         "277.629",
         "288.999",
-        "130.355",
-        "85.738"
+        "130.355"
       ],
       "Taban Puan": [
+        "327.972",
         "308.980",
         "293.093",
-        "385.023",
-        "418.974"
+        "385.023"
       ],
       "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108010376",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "237.985",
+        "292.311",
+        "",
+        "90.453"
+      ],
+      "Taban Puan": [
+        "327.536",
+        "304.590",
+        "",
+        "417.334"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1749,16 +1872,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "238.732",
         "279.770",
         "",
-        "121.747",
-        "112.189"
+        "121.747"
       ],
       "Taban Puan": [
+        "327.206",
         "308.315",
         "",
-        "391.338",
-        "394.670"
+        "391.338"
       ],
       "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
@@ -1790,59 +1913,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "239.270",
         "279.913",
         "",
-        "106.330",
-        "99.053"
+        "106.330"
       ],
       "Taban Puan": [
+        "326.963",
         "308.284",
         "",
-        "403.529",
-        "406.432"
+        "403.529"
       ],
       "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109410696",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "283.389",
-        "",
-        "117.501",
-        "108.924"
-      ],
-      "Taban Puan": [
-        "307.222",
-        "",
-        "394.621",
-        "397.515"
-      ],
-      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1872,23 +1954,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "239.791",
         "283.975",
         "",
-        "112.972",
-        "101.684"
+        "112.972"
       ],
       "Taban Puan": [
+        "326.725",
         "307.046",
         "",
-        "398.160",
-        "403.964"
+        "398.160"
       ],
       "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100410678",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Program Kodu": "103910037",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -1901,8 +1983,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "20",
-        "20",
+        "40",
+        "40",
         "50",
         "50"
       ],
@@ -1913,18 +1995,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "284.239",
+        "240.499",
+        "272.802",
         "",
-        "101.959",
-        "98.048"
+        "98.037"
       ],
       "Taban Puan": [
-        "306.966",
+        "326.424",
+        "310.458",
         "",
-        "407.157",
-        "407.321"
+        "410.596"
       ],
-      "Şehir": "AFYONKARAHİSAR",
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1954,24 +2036,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "242.892",
         "285.334",
         "",
-        "112.252",
-        "104.527"
+        "112.252"
       ],
       "Taban Puan": [
+        "325.423",
         "306.639",
         "",
-        "398.747",
-        "401.380"
+        "398.747"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110210057",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Program Kodu": "101410366",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1983,297 +2065,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "286.659",
-        "",
-        "89.659",
-        "86.958"
-      ],
-      "Taban Puan": [
-        "306.249",
-        "",
-        "418.044",
-        "417.793"
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106010028",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "40",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "287.895",
-        "",
-        "102.085",
-        "81.612"
-      ],
-      "Taban Puan": [
-        "305.891",
-        "",
-        "407.053",
-        "423.200"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100210026",
-      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "288.533",
-        "",
-        "108.842",
-        "94.183"
-      ],
-      "Taban Puan": [
-        "305.696",
-        "",
-        "401.466",
-        "410.958"
-      ],
-      "Şehir": "ADIYAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108810032",
-      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
         "50",
-        "52"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "290.154",
-        "",
-        "110.899",
-        "100.554"
-      ],
-      "Taban Puan": [
-        "305.224",
-        "",
-        "399.823",
-        "404.995"
-      ],
-      "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107310031",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
         "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "291.527",
-        "",
-        "118.883",
-        "106.289"
-      ],
-      "Taban Puan": [
-        "304.821",
-        "",
-        "393.559",
-        "399.813"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108010376",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "292.311",
-        "",
-        "90.453",
-        "91.186"
-      ],
-      "Taban Puan": [
-        "304.590",
-        "",
-        "417.334",
-        "413.762"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100810189",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
-        "40",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "292.864",
-        "",
-        "113.916",
-        "104.589"
-      ],
-      "Taban Puan": [
-        "304.444",
-        "",
-        "397.452",
-        "401.324"
-      ],
-      "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110310392",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
         "50",
-        "50"
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -2282,18 +2077,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "297.291",
-        "",
-        "128.232",
-        "121.296"
+        "243.279",
+        "253.096",
+        "260.323",
+        "107.027"
       ],
       "Taban Puan": [
-        "303.189",
-        "",
-        "386.562",
-        "387.101"
+        "325.278",
+        "316.877",
+        "301.441",
+        "402.939"
       ],
-      "Şehir": "ZONGULDAK",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2323,64 +2118,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "244.981",
         "299.276",
         "",
-        "115.946",
-        "107.520"
+        "115.946"
       ],
       "Taban Puan": [
+        "324.576",
         "302.630",
         "",
-        "395.835",
-        "398.717"
+        "395.835"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104210544",
-      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "NİZİP EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "299.577",
-        "",
-        "121.481",
-        "108.934"
-      ],
-      "Taban Puan": [
-        "302.544",
-        "",
-        "391.545",
-        "397.508"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100510077",
-      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Program Kodu": "100810189",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -2395,8 +2149,8 @@
       "Kontenjan": [
         "15",
         "15",
-        "50",
-        "60"
+        "40",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -2405,23 +2159,146 @@
         ""
       ],
       "Taban Sıralama": [
+        "245.839",
+        "292.864",
         "",
-        "",
-        "146.817",
-        "134.938"
+        "113.916"
       ],
       "Taban Puan": [
+        "324.230",
+        "304.444",
         "",
-        "",
-        "373.836",
-        "376.570"
+        "397.452"
       ],
-      "Şehir": "AĞRI",
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100910028",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Program Kodu": "110210057",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "246.797",
+        "286.659",
+        "",
+        "89.659"
+      ],
+      "Taban Puan": [
+        "323.832",
+        "306.249",
+        "",
+        "418.044"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100210026",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "247.908",
+        "288.533",
+        "",
+        "108.842"
+      ],
+      "Taban Puan": [
+        "323.377",
+        "305.696",
+        "",
+        "401.466"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110310392",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "248.675",
+        "297.291",
+        "",
+        "128.232"
+      ],
+      "Taban Puan": [
+        "323.046",
+        "303.189",
+        "",
+        "386.562"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107310031",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -2436,129 +2313,6 @@
       "Kontenjan": [
         "20",
         "20",
-        "40",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "119.088",
-        "110.843"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "393.396",
-        "395.851"
-      ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101310216",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "139.754",
-        "131.827"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "378.491",
-        "378.835"
-      ],
-      "Şehir": "ARTVİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101610249",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "132.792",
-        "127.549"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "383.345",
-        "382.098"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101890210",
-      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
         "50",
         "60"
       ],
@@ -2569,18 +2323,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "249.406",
+        "291.527",
         "",
-        "",
-        "145.896",
-        "134.566"
+        "118.883"
       ],
       "Taban Puan": [
+        "322.743",
+        "304.821",
         "",
-        "",
-        "374.438",
-        "376.834"
+        "393.559"
       ],
-      "Şehir": "BAYBURT",
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2610,23 +2364,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "250.012",
         "",
         "",
-        "129.966",
-        "120.193"
+        "129.966"
       ],
       "Taban Puan": [
+        "322.475",
         "",
         "",
-        "385.295",
-        "387.979"
+        "385.295"
       ],
       "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104510277",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Program Kodu": "104210544",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "NİZİP EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "250.827",
+        "299.577",
+        "",
+        "121.481"
+      ],
+      "Taban Puan": [
+        "322.153",
+        "302.544",
+        "",
+        "391.545"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109810162",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -2651,23 +2446,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "257.417",
         "",
         "",
-        "131.870",
-        "126.104"
+        "110.648"
       ],
       "Taban Puan": [
+        "319.503",
         "",
         "",
-        "383.961",
-        "383.243"
+        "400.018"
       ],
-      "Şehir": "GİRESUN",
+      "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104970162",
-      "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
+      "Program Kodu": "101610249",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -2680,8 +2475,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "15",
-        "15",
+        "10",
+        "10",
         "50",
         "50"
       ],
@@ -2692,469 +2487,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "263.262",
         "",
         "",
-        "158.546",
-        "149.654"
+        "132.792"
       ],
       "Taban Puan": [
+        "317.196",
         "",
         "",
-        "366.493",
-        "366.265"
+        "383.345"
       ],
-      "Şehir": "HAKKARİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111110168",
-      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "116.825",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "395.155",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105910331",
-      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "DEDE KORKUT EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "149.271",
-        "137.187"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "372.231",
-        "374.985"
-      ],
-      "Şehir": "KARS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106310255",
-      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "121.160",
-        "113.548"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "391.805",
-        "393.544"
-      ],
-      "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106410024",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "131.527",
-        "122.835"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "384.208",
-        "385.869"
-      ],
-      "Şehir": "KASTAMONU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100610146",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "116.995",
-        "110.338"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "395.025",
-        "396.302"
-      ],
-      "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106870277",
-      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
-      "Fakülte": "KİLİSLİ MUALLİM RIFAT EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "133.206",
-        "121.151"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "383.062",
-        "387.217"
-      ],
-      "Şehir": "KİLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102510608",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ (Demirci)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "121.233",
-        "104.729"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "391.747",
-        "401.173"
-      ],
-      "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107810053",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "137.813",
-        "122.207"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "379.801",
-        "386.378"
-      ],
-      "Şehir": "MUŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107010758",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "121.415",
-        "109.979"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "391.597",
-        "396.616"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108710103",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ (Çayeli)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "134.442",
-        "125.763"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "382.210",
-        "383.525"
-      ],
-      "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109010028",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İlköğretim Matematik Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "132.750",
-        "113.174"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "383.383",
-        "393.849"
-      ],
-      "Şehir": "SİİRT",
+      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3184,16 +2528,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "264.573",
         "",
         "",
-        "126.607",
-        "120.792"
+        "126.607"
       ],
       "Taban Puan": [
+        "316.686",
         "",
         "",
-        "387.759",
-        "387.505"
+        "387.759"
       ],
       "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
@@ -3225,24 +2569,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "266.209",
         "",
         "",
-        "102.208",
-        "96.710"
+        "102.208"
       ],
       "Taban Puan": [
+        "316.028",
         "",
         "",
-        "406.949",
-        "408.585"
+        "406.949"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104310516",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Program Kodu": "106870277",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "KİLİSLİ MUALLİM RIFAT EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3266,23 +2610,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "267.951",
         "",
         "",
-        "122.624",
-        "115.292"
+        "133.206"
       ],
       "Taban Puan": [
+        "315.365",
         "",
         "",
-        "390.690",
-        "392.034"
+        "383.062"
       ],
-      "Şehir": "TOKAT",
+      "Şehir": "KİLİS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109810162",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Program Kodu": "100910028",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "İlköğretim Matematik Öğretmenliği",
@@ -3307,18 +2651,346 @@
         ""
       ],
       "Taban Sıralama": [
+        "270.444",
         "",
         "",
-        "110.648",
-        "102.306"
+        "119.088"
       ],
       "Taban Puan": [
+        "314.405",
         "",
         "",
-        "400.018",
-        "403.385"
+        "393.396"
       ],
-      "Şehir": "UŞAK",
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111110168",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "272.511",
+        "",
+        "",
+        "116.825"
+      ],
+      "Taban Puan": [
+        "313.640",
+        "",
+        "",
+        "395.155"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109010028",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "274.094",
+        "",
+        "",
+        "132.750"
+      ],
+      "Taban Puan": [
+        "313.028",
+        "",
+        "",
+        "383.383"
+      ],
+      "Şehir": "SİİRT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102510608",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ (Demirci)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "275.287",
+        "",
+        "",
+        "121.233"
+      ],
+      "Taban Puan": [
+        "312.587",
+        "",
+        "",
+        "391.747"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510277",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "40",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "276.033",
+        "",
+        "",
+        "131.870"
+      ],
+      "Taban Puan": [
+        "312.290",
+        "",
+        "",
+        "383.961"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100610146",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "280.966",
+        "",
+        "",
+        "116.995"
+      ],
+      "Taban Puan": [
+        "310.457",
+        "",
+        "",
+        "395.025"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107010758",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "283.218",
+        "",
+        "",
+        "121.415"
+      ],
+      "Taban Puan": [
+        "309.639",
+        "",
+        "",
+        "391.597"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106310255",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "283.576",
+        "",
+        "",
+        "121.160"
+      ],
+      "Taban Puan": [
+        "309.505",
+        "",
+        "",
+        "391.805"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106410024",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "286.906",
+        "",
+        "",
+        "131.527"
+      ],
+      "Taban Puan": [
+        "308.290",
+        "",
+        "",
+        "384.208"
+      ],
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3348,18 +3020,346 @@
         ""
       ],
       "Taban Sıralama": [
+        "287.506",
         "",
         "",
-        "132.964",
-        "122.849"
+        "132.964"
+      ],
+      "Taban Puan": [
+        "308.086",
+        "",
+        "",
+        "383.215"
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104310516",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "288.622",
+        "",
+        "",
+        "122.624"
+      ],
+      "Taban Puan": [
+        "307.686",
+        "",
+        "",
+        "390.690"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100510077",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "292.909",
+        "",
+        "",
+        "146.817"
+      ],
+      "Taban Puan": [
+        "306.224",
+        "",
+        "",
+        "373.836"
+      ],
+      "Şehir": "AĞRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108710103",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ (Çayeli)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "292.964",
+        "",
+        "",
+        "134.442"
+      ],
+      "Taban Puan": [
+        "306.205",
+        "",
+        "",
+        "382.210"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107810053",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "293.722",
+        "",
+        "",
+        "137.813"
+      ],
+      "Taban Puan": [
+        "305.954",
+        "",
+        "",
+        "379.801"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101310216",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "139.754"
       ],
       "Taban Puan": [
         "",
         "",
-        "383.215",
-        "385.860"
+        "",
+        "378.491"
       ],
-      "Şehir": "YOZGAT",
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101890210",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "145.896"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "374.438"
+      ],
+      "Şehir": "BAYBURT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104970162",
+      "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "158.546"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "366.493"
+      ],
+      "Şehir": "HAKKARİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105910331",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "DEDE KORKUT EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İlköğretim Matematik Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "149.271"
+      ],
+      "Taban Puan": [
+        "",
+        "",
+        "",
+        "372.231"
+      ],
+      "Şehir": "KARS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3392,13 +3392,13 @@
         "",
         "",
         "",
-        "134.712"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "376.729"
+        ""
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -3433,13 +3433,13 @@
         "",
         "",
         "",
-        "171.393"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "352.651"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3473,14 +3473,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "218.891",
-        "214.382"
+        "",
+        "218.891"
       ],
       "Taban Puan": [
         "",
         "",
-        "336.157",
-        "330.447"
+        "",
+        "336.157"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3555,14 +3555,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "294.570",
-        "283.003"
+        "",
+        "294.570"
       ],
       "Taban Puan": [
         "",
         "",
-        "309.252",
-        "303.476"
+        "",
+        "309.252"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3638,13 +3638,13 @@
         "",
         "",
         "",
-        "244.559"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "317.558"
+        ""
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -3677,15 +3677,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "217.250",
-        "164.386",
-        "134.085"
+        "164.386"
       ],
       "Taban Puan": [
         "",
+        "",
         "316.520",
-        "363.094",
-        "377.169"
+        "363.094"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -3760,14 +3760,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "149.196",
-        "140.088"
+        "",
+        "149.196"
       ],
       "Taban Puan": [
         "",
         "",
-        "372.280",
-        "372.862"
+        "",
+        "372.280"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -3842,14 +3842,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "189.538",
-        "144.189"
+        "",
+        "189.538"
       ],
       "Taban Puan": [
         "",
         "",
-        "349.626",
-        "369.945"
+        "",
+        "349.626"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"

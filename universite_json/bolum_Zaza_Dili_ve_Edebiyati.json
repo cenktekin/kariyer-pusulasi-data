@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "109510165",
-      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Zaza Dili ve Edebiyatı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "978.278",
-        "1.076.661",
-        "1.108.261",
-        "1.206.198"
-      ],
-      "Taban Puan": [
-        "214.419",
-        "229.219",
-        "223.736",
-        "215.334"
-      ],
-      "Şehir": "TUNCELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "102010252",
       "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
       "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
@@ -68,18 +27,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "776.357",
         "983.099",
         "998.358",
-        "1.008.025",
-        "1.255.093"
+        "1.008.025"
       ],
       "Taban Puan": [
+        "234.638",
         "213.777",
         "236.932",
-        "232.726",
-        "210.368"
+        "232.726"
       ],
       "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109510165",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Zaza Dili ve Edebiyatı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "801.602",
+        "978.278",
+        "1.076.661",
+        "1.108.261"
+      ],
+      "Taban Puan": [
+        "231.584",
+        "214.419",
+        "229.219",
+        "223.736"
+      ],
+      "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
     }
   ]

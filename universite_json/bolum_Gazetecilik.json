@@ -27,26 +27,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.474",
         "795",
         "832",
-        "1.367",
-        "2.410"
+        "1.367"
       ],
       "Taban Puan": [
+        "451.102",
         "448.334",
         "478.075",
-        "458.368",
-        "451.688"
+        "458.368"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "101110554",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Program Kodu": "203111306",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gazetecilik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -56,10 +56,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
-        "40",
-        "65",
-        "65"
+        "5",
+        "4",
+        "7",
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -68,19 +68,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "21.456",
-        "36.719",
-        "40.300",
-        "46.429"
+        "18.914",
+        "28.623",
+        "56.905",
+        "60.183"
       ],
       "Taban Puan": [
-        "377.103",
-        "396.117",
-        "382.850",
-        "379.744"
+        "394.915",
+        "369.736",
+        "383.108",
+        "370.661"
       ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "105610607",
@@ -109,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "19.382",
         "22.851",
         "51.282",
-        "57.643",
-        "55.137"
+        "57.643"
       ],
       "Taban Puan": [
+        "394.203",
         "375.611",
         "386.420",
-        "372.013",
-        "374.383"
+        "372.013"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101110554",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.771",
+        "21.456",
+        "36.719",
+        "40.300"
+      ],
+      "Taban Puan": [
+        "393.627",
+        "377.103",
+        "396.117",
+        "382.850"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,60 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "21.208",
         "27.907",
         "63.515",
-        "72.634",
-        "65.767"
+        "72.634"
       ],
       "Taban Puan": [
+        "391.849",
         "370.432",
         "379.554",
-        "364.597",
-        "368.508"
+        "364.597"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203111306",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gazetecilik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "4",
-        "7",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "28.623",
-        "56.905",
-        "60.183",
-        "48.775"
-      ],
-      "Taban Puan": [
-        "369.736",
-        "383.108",
-        "370.661",
-        "378.197"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202410989",
@@ -232,60 +232,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "36.602",
         "51.838",
         "67.458",
-        "96.241",
-        "70.399"
+        "96.241"
       ],
       "Taban Puan": [
+        "376.483",
         "353.280",
         "377.534",
-        "354.885",
-        "366.236"
+        "354.885"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103410306",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "51.887",
-        "96.695",
-        "99.022",
-        "95.747"
-      ],
-      "Taban Puan": [
-        "353.247",
-        "364.628",
-        "353.848",
-        "355.402"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206552491",
@@ -314,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "46.580",
         "53.572",
         "75.316",
-        "103.250",
-        "71.750"
+        "103.250"
       ],
       "Taban Puan": [
+        "369.106",
         "352.288",
         "373.693",
-        "352.317",
-        "365.587"
+        "352.317"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -355,19 +314,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "49.254",
         "59.234",
         "71.595",
-        "100.764",
-        "69.811"
+        "100.764"
       ],
       "Taban Puan": [
+        "367.334",
         "349.266",
         "375.464",
-        "353.221",
-        "366.515"
+        "353.221"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103410306",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "51.475",
+        "51.887",
+        "96.695",
+        "99.022"
+      ],
+      "Taban Puan": [
+        "365.891",
+        "353.247",
+        "364.628",
+        "353.848"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111710493",
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "54.716",
         "65.285",
         "122.445",
-        "128.500",
-        "124.776"
+        "128.500"
       ],
       "Taban Puan": [
+        "363.946",
         "346.348",
         "355.489",
-        "344.145",
-        "345.462"
+        "344.145"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "72.873",
         "76.932",
         "155.140",
-        "146.627",
-        "160.382"
+        "146.627"
       ],
       "Taban Puan": [
+        "354.359",
         "341.385",
         "345.653",
-        "338.935",
-        "335.481"
+        "338.935"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -478,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "87.512",
         "95.569",
         "186.177",
-        "182.179",
-        "167.881"
+        "182.179"
       ],
       "Taban Puan": [
+        "347.916",
         "334.371",
         "337.696",
-        "329.972",
-        "333.606"
+        "329.972"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -519,59 +519,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "115.911",
         "145.125",
         "265.381",
-        "279.749",
-        "263.102"
+        "279.749"
       ],
       "Taban Puan": [
+        "337.570",
         "320.002",
         "320.863",
-        "310.761",
-        "314.152"
+        "310.761"
       ],
       "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102710906",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "149.936",
-        "262.445",
-        "268.999",
-        "249.108"
-      ],
-      "Taban Puan": [
-        "318.833",
-        "321.420",
-        "312.615",
-        "316.600"
-      ],
-      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,27 +560,27 @@
         ""
       ],
       "Taban Sıralama": [
+        "138.036",
         "196.293",
         "301.436",
-        "332.337",
-        "312.631"
+        "332.337"
       ],
       "Taban Puan": [
+        "330.711",
         "308.822",
         "314.422",
-        "302.439",
-        "306.086"
+        "302.439"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105611023",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Program Kodu": "102710906",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik (Uzaktan Öğretim)",
-      "Öğretim Türü": "Uzaktan Öğretim",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
         "2026",
@@ -630,10 +589,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "100",
-        "100",
-        "150",
-        "150"
+        "40",
+        "40",
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -642,18 +601,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "226.961",
-        "374.279",
-        "280.057",
-        "326.244"
+        "138.824",
+        "149.936",
+        "262.445",
+        "268.999"
       ],
       "Taban Puan": [
-        "303.140",
-        "303.015",
-        "310.714",
-        "304.021"
+        "330.484",
+        "318.833",
+        "321.420",
+        "312.615"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "199.595",
         "255.400",
         "339.829",
-        "355.369",
-        "340.823"
+        "355.369"
       ],
       "Taban Puan": [
+        "315.048",
         "298.299",
         "308.169",
-        "299.100",
-        "301.864"
+        "299.100"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -724,23 +683,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "218.716",
         "258.715",
         "385.262",
-        "369.443",
-        "374.423"
+        "369.443"
       ],
       "Taban Puan": [
+        "310.903",
         "297.778",
         "301.471",
-        "297.123",
-        "297.109"
+        "297.123"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101190433",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Program Kodu": "105611023",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gazetecilik (Uzaktan Öğretim)",
@@ -755,8 +714,8 @@
       "Kontenjan": [
         "100",
         "100",
-        "100",
-        "100"
+        "150",
+        "150"
       ],
       "Yerleşen": [
         "",
@@ -765,100 +724,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "262.319",
-        "368.286",
-        "285.347",
-        "361.244"
+        "231.728",
+        "226.961",
+        "374.279",
+        "280.057"
       ],
       "Taban Puan": [
-        "297.195",
-        "303.887",
-        "309.813",
-        "298.977"
+        "308.216",
+        "303.140",
+        "303.015",
+        "310.714"
       ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102910994",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "290.205",
-        "424.778",
-        "241.727",
-        "355.166"
-      ],
-      "Taban Puan": [
-        "292.861",
-        "296.036",
-        "317.565",
-        "299.831"
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108910464",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "293.049",
-        "557.501",
-        "583.160",
-        "512.985"
-      ],
-      "Taban Puan": [
-        "292.421",
-        "280.016",
-        "271.907",
-        "280.036"
-      ],
-      "Şehir": "KONYA",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,18 +765,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "235.780",
         "295.824",
         "484.930",
-        "509.108",
-        "450.384"
+        "509.108"
       ],
       "Taban Puan": [
+        "307.386",
         "292.012",
         "288.386",
-        "279.909",
-        "287.362"
+        "279.909"
       ],
       "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910994",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "239.910",
+        "290.205",
+        "424.778",
+        "241.727"
+      ],
+      "Taban Puan": [
+        "306.565",
+        "292.861",
+        "296.036",
+        "317.565"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101190433",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik (Uzaktan Öğretim)",
+      "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "100",
+        "100",
+        "100",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "256.758",
+        "262.319",
+        "368.286",
+        "285.347"
+      ],
+      "Taban Puan": [
+        "303.295",
+        "297.195",
+        "303.887",
+        "309.813"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910464",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "256.805",
+        "293.049",
+        "557.501",
+        "583.160"
+      ],
+      "Taban Puan": [
+        "303.286",
+        "292.421",
+        "280.016",
+        "271.907"
+      ],
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,16 +929,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "263.329",
         "346.926",
         "577.430",
-        "243.401",
-        "520.879"
+        "243.401"
       ],
       "Taban Puan": [
+        "302.077",
         "284.825",
         "277.870",
-        "317.239",
-        "279.145"
+        "317.239"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -970,59 +970,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "280.321",
         "354.422",
         "522.242",
-        "556.260",
-        "490.041"
+        "556.260"
       ],
       "Taban Puan": [
+        "298.980",
         "283.831",
         "283.981",
-        "274.759",
-        "282.637"
+        "274.759"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109211148",
-      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "115",
-        "110"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "364.597",
-        "632.575",
-        "723.412",
-        "561.893"
-      ],
-      "Taban Puan": [
-        "282.505",
-        "272.012",
-        "258.156",
-        "274.691"
-      ],
-      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1052,18 +1011,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "291.643",
         "371.005",
         "560.784",
-        "617.438",
-        "533.086"
+        "617.438"
       ],
       "Taban Puan": [
+        "296.954",
         "281.687",
         "279.672",
-        "268.419",
-        "277.805"
+        "268.419"
       ],
       "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109211148",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "115",
+        "110"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "297.584",
+        "364.597",
+        "632.575",
+        "723.412"
+      ],
+      "Taban Puan": [
+        "295.910",
+        "282.505",
+        "272.012",
+        "258.156"
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1093,16 +1093,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "315.503",
         "419.828",
         "462.253",
-        "184.028",
-        "472.672"
+        "184.028"
       ],
       "Taban Puan": [
+        "292.875",
         "275.678",
         "291.174",
-        "329.549",
-        "284.659"
+        "329.549"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
@@ -1134,59 +1134,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "338.899",
         "448.721",
         "602.286",
-        "605.224",
-        "571.667"
+        "605.224"
       ],
       "Taban Puan": [
+        "289.118",
         "272.305",
         "275.203",
-        "269.649",
-        "273.660"
+        "269.649"
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410251",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "90",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "507.334",
-        "830.196",
-        "910.737",
-        "887.573"
-      ],
-      "Taban Puan": [
-        "265.789",
-        "252.791",
-        "241.298",
-        "243.928"
-      ],
-      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,18 +1175,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "357.359",
         "523.811",
         "753.614",
-        "843.296",
-        "860.184"
+        "843.296"
       ],
       "Taban Puan": [
+        "286.256",
         "264.004",
         "260.056",
-        "247.274",
-        "246.324"
+        "247.274"
       ],
       "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410251",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "422.736",
+        "507.334",
+        "830.196",
+        "910.737"
+      ],
+      "Taban Puan": [
+        "276.821",
+        "265.789",
+        "252.791",
+        "241.298"
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1257,16 +1257,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "471.683",
         "653.011",
         "912.354",
-        "975.731",
-        "1.056.906"
+        "975.731"
       ],
       "Taban Puan": [
+        "270.355",
         "250.611",
         "245.109",
-        "235.555",
-        "229.106"
+        "235.555"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -1298,59 +1298,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "500.543",
         "676.739",
         "910.035",
-        "922.577",
-        "964.272"
+        "922.577"
       ],
       "Taban Puan": [
+        "266.709",
         "248.180",
         "245.327",
-        "240.248",
-        "237.272"
+        "240.248"
       ],
       "Şehir": "SİVAS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105310716",
-      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "75",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "680.069",
-        "930.288",
-        "850.656",
-        "646.024"
-      ],
-      "Taban Puan": [
-        "247.837",
-        "243.406",
-        "246.617",
-        "266.074"
-      ],
-      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1380,16 +1339,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "513.324",
         "685.070",
         "883.174",
-        "899.313",
-        "904.703"
+        "899.313"
       ],
       "Taban Puan": [
+        "265.124",
         "247.330",
         "247.819",
-        "242.308",
-        "242.442"
+        "242.308"
       ],
       "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
@@ -1421,18 +1380,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "518.115",
         "714.104",
         "926.050",
-        "988.102",
-        "1.051.292"
+        "988.102"
       ],
       "Taban Puan": [
+        "264.533",
         "244.359",
         "243.794",
-        "234.473",
-        "229.601"
+        "234.473"
       ],
       "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105310716",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "75",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "524.292",
+        "680.069",
+        "930.288",
+        "850.656"
+      ],
+      "Taban Puan": [
+        "263.785",
+        "247.837",
+        "243.406",
+        "246.617"
+      ],
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1462,16 +1462,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "527.015",
         "743.768",
         "942.499",
-        "994.948",
-        "1.160.377"
+        "994.948"
       ],
       "Taban Puan": [
+        "263.471",
         "241.301",
         "242.261",
-        "233.876",
-        "219.757"
+        "233.876"
       ],
       "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
@@ -1503,16 +1503,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "555.369",
         "749.532",
         "835.747",
-        "721.874",
-        "694.594"
+        "721.874"
       ],
       "Taban Puan": [
+        "260.077",
         "240.697",
         "252.281",
-        "258.304",
-        "261.335"
+        "258.304"
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
@@ -1544,16 +1544,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "566.584",
         "775.938",
         "984.917",
-        "847.212",
-        "974.881"
+        "847.212"
       ],
       "Taban Puan": [
+        "258.749",
         "237.953",
         "238.217",
-        "246.924",
-        "236.352"
+        "246.924"
       ],
       "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
@@ -1585,59 +1585,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "584.965",
         "792.263",
         "953.654",
-        "",
-        "871.113"
-      ],
-      "Taban Puan": [
-        "236.232",
-        "241.218",
-        "",
-        "245.363"
-      ],
-      "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104790032",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
         ""
       ],
-      "Taban Sıralama": [
-        "853.583",
-        "1.012.088",
-        "1.057.704",
-        "1.279.963"
-      ],
       "Taban Puan": [
-        "229.537",
-        "235.621",
-        "228.290",
-        "207.718"
+        "256.633",
+        "236.232",
+        "241.218",
+        ""
       ],
-      "Şehir": "GÜMÜŞHANE",
+      "Şehir": "KARABÜK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1667,18 +1626,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "640.506",
         "858.654",
         "1.023.862",
-        "1.070.720",
-        "1.288.679"
+        "1.070.720"
       ],
       "Taban Puan": [
+        "250.266",
         "228.966",
         "234.453",
-        "227.137",
-        "206.737"
+        "227.137"
       ],
       "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104790032",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "648.212",
+        "853.583",
+        "1.012.088",
+        "1.057.704"
+      ],
+      "Taban Puan": [
+        "249.400",
+        "229.537",
+        "235.621",
+        "228.290"
+      ],
+      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1708,16 +1708,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "748.836",
         "904.817",
         "1.047.955",
-        "1.061.568",
-        "1.220.163"
+        "1.061.568"
       ],
       "Taban Puan": [
+        "237.882",
         "223.673",
         "232.095",
-        "227.955",
-        "213.946"
+        "227.955"
       ],
       "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
@@ -1725,7 +1725,7 @@
     {
       "Program Kodu": "403990039",
       "Üniversite": "HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTAN-KAZAKİSTAN)",
-      "Fakülte": "İletişim Fakültesi",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Gazetecilik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1749,16 +1749,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "776.424",
         "920.976",
         "1.308.501",
-        "707.615",
-        "619.685"
+        "707.615"
       ],
       "Taban Puan": [
+        "234.630",
         "221.724",
         "201.225",
-        "259.660",
-        "268.718"
+        "259.660"
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "405210105",
+      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gazetecilik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "989.312",
+        "",
+        "1.073.443",
+        "1.263.803"
+      ],
+      "Taban Puan": [
+        "203.097",
+        "",
+        "229.553",
+        "208.973"
       ],
       "Şehir": "",
       "Ücret": "Ücretsiz"
@@ -1793,56 +1834,15 @@
         "",
         "",
         "",
-        "736.190"
+        ""
       ],
       "Taban Puan": [
-        "",
-        "",
-        "",
-        "257.445"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "405210105",
-      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
-      "Fakülte": "İletişim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gazetecilik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
         "",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "",
-        "1.073.443",
-        "1.263.803",
-        "1.171.763"
-      ],
-      "Taban Puan": [
-        "",
-        "229.553",
-        "208.973",
-        "218.674"
-      ],
-      "Şehir": "",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1875,13 +1875,13 @@
         "",
         "",
         "",
-        "895.396"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "243.242"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1997,14 +1997,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "731.064",
-        "806.401"
+        "",
+        "731.064"
       ],
       "Taban Puan": [
         "",
         "",
-        "257.440",
-        "251.099"
+        "",
+        "257.440"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2037,15 +2037,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.321.133",
-        "1.184.481",
-        "696.504"
+        "1.184.481"
       ],
       "Taban Puan": [
         "",
+        "",
         "199.186",
-        "216.686",
-        "261.158"
+        "216.686"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

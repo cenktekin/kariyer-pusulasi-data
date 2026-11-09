@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "777",
         "874",
         "1.246",
-        "1.604",
-        "2.751"
+        "1.604"
       ],
       "Taban Puan": [
+        "464.596",
         "446.097",
         "470.544",
-        "455.199",
-        "448.928"
+        "455.199"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.525",
         "2.313",
         "2.090",
-        "2.611",
-        "3.611"
+        "2.611"
       ],
       "Taban Puan": [
+        "450.577",
         "426.220",
         "460.039",
-        "445.118",
-        "442.629"
+        "445.118"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.702",
         "5.588",
         "7.876",
-        "5.884",
-        "5.400"
+        "5.884"
       ],
       "Taban Puan": [
+        "438.557",
         "407.847",
         "432.643",
-        "428.493",
-        "433.585"
+        "428.493"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.976",
         "21.192",
         "49.903",
-        "56.948",
-        "51.771"
+        "56.948"
       ],
       "Taban Puan": [
+        "404.251",
         "377.427",
         "387.237",
-        "372.392",
-        "376.366"
+        "372.392"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "14.464",
         "23.396",
         "54.449",
-        "61.028",
-        "52.418"
+        "61.028"
       ],
       "Taban Puan": [
+        "401.587",
         "375.030",
         "384.518",
-        "370.210",
-        "375.982"
+        "370.210"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -232,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "19.268",
         "24.914",
         "41.231",
-        "51.745",
-        "53.694"
+        "51.745"
       ],
       "Taban Puan": [
+        "394.381",
         "373.394",
         "392.790",
-        "375.406",
-        "375.208"
+        "375.406"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103410315",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "32.969",
-        "64.565",
-        "70.567",
-        "64.500"
-      ],
-      "Taban Puan": [
-        "365.934",
-        "378.999",
-        "365.578",
-        "369.183"
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,19 +273,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "25.687",
         "33.493",
         "32.644",
-        "39.639",
-        "50.024"
+        "39.639"
       ],
       "Taban Puan": [
+        "386.689",
         "365.528",
         "399.412",
-        "383.348",
-        "377.417"
+        "383.348"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103410315",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "27.202",
+        "32.969",
+        "64.565",
+        "70.567"
+      ],
+      "Taban Puan": [
+        "385.086",
+        "365.934",
+        "378.999",
+        "365.578"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "204111048",
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "31.435",
         "40.254",
         "63.278",
-        "84.817",
-        "59.284"
+        "84.817"
       ],
       "Taban Puan": [
+        "380.979",
         "360.502",
         "379.661",
-        "359.305",
-        "372.057"
+        "359.305"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -396,57 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "33.724",
         "50.767",
         "71.291",
-        "84.089",
-        "62.789"
+        "84.089"
       ],
       "Taban Puan": [
+        "378.905",
         "353.888",
         "375.612",
-        "359.610",
-        "370.083"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206552500",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "8",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "54.395",
-        "71.729",
-        "86.112",
-        "64.367"
-      ],
-      "Taban Puan": [
-        "351.834",
-        "375.396",
-        "358.794",
-        "369.258"
+        "359.610"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -478,26 +437,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "39.027",
         "55.223",
         "114.151",
-        "132.611",
-        "121.700"
+        "132.611"
       ],
       "Taban Puan": [
+        "374.532",
         "351.422",
         "358.196",
-        "342.910",
-        "346.430"
+        "342.910"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100710206",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Program Kodu": "206552500",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -507,10 +466,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
-        "40",
-        "85",
-        "80"
+        "8",
+        "8",
+        "8",
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -519,19 +478,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "74.744",
-        "136.602",
-        "135.415",
-        "129.155"
+        "39.400",
+        "54.395",
+        "71.729",
+        "86.112"
       ],
       "Taban Puan": [
-        "342.270",
-        "351.001",
-        "342.102",
-        "344.128"
+        "374.246",
+        "351.834",
+        "375.396",
+        "358.794"
       ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202710702",
@@ -560,19 +519,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "51.053",
         "98.461",
         "85.767",
-        "106.283",
-        "103.776"
+        "106.283"
       ],
       "Taban Puan": [
+        "366.156",
         "333.357",
         "369.083",
-        "351.255",
-        "352.456"
+        "351.255"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100710206",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "51.920",
+        "74.744",
+        "136.602",
+        "135.415"
+      ],
+      "Taban Puan": [
+        "365.605",
+        "342.270",
+        "351.001",
+        "342.102"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106910249",
@@ -601,59 +601,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "71.684",
         "102.466",
         "181.455",
-        "181.429",
-        "172.082"
+        "181.429"
       ],
       "Taban Puan": [
+        "354.961",
         "332.014",
         "338.834",
-        "330.139",
-        "332.578"
+        "330.139"
       ],
       "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102590282",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "176.665",
-        "288.489",
-        "299.364",
-        "276.618"
-      ],
-      "Taban Puan": [
-        "312.814",
-        "316.683",
-        "307.516",
-        "311.841"
-      ],
-      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,23 +642,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "129.363",
         "180.863",
         "272.414",
-        "274.905",
-        "251.173"
+        "274.905"
       ],
       "Taban Puan": [
+        "333.280",
         "311.898",
         "319.553",
-        "311.585",
-        "316.229"
+        "311.585"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100110706",
-      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Program Kodu": "102590282",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım",
@@ -714,8 +673,8 @@
       "Kontenjan": [
         "40",
         "40",
-        "65",
-        "60"
+        "60",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -724,18 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "206.138",
-        "354.284",
-        "378.680",
-        "305.216"
+        "137.524",
+        "176.665",
+        "288.489",
+        "299.364"
       ],
       "Taban Puan": [
-        "306.935",
-        "305.968",
-        "295.845",
-        "307.233"
+        "330.864",
+        "312.814",
+        "316.683",
+        "307.516"
       ],
-      "Şehir": "BOLU",
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -765,18 +724,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "144.638",
         "215.644",
         "386.707",
-        "390.158",
-        "316.853"
+        "390.158"
       ],
       "Taban Puan": [
+        "328.835",
         "305.177",
         "301.275",
-        "294.309",
-        "305.440"
+        "294.309"
       ],
       "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100110706",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "155.170",
+        "206.138",
+        "354.284",
+        "378.680"
+      ],
+      "Taban Puan": [
+        "325.926",
+        "306.935",
+        "305.968",
+        "295.845"
+      ],
+      "Şehir": "BOLU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,16 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "174.220",
         "246.692",
         "381.769",
-        "439.728",
-        "369.645"
+        "439.728"
       ],
       "Taban Puan": [
+        "321.053",
         "299.733",
         "301.961",
-        "288.007",
-        "297.791"
+        "288.007"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -847,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "183.437",
         "259.956",
         "470.989",
-        "487.164",
-        "395.713"
+        "487.164"
       ],
       "Taban Puan": [
+        "318.800",
         "297.576",
         "290.088",
-        "282.400",
-        "294.263"
+        "282.400"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
@@ -888,59 +888,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "200.649",
         "295.288",
         "470.570",
-        "462.875",
-        "351.316"
+        "462.875"
       ],
       "Taban Puan": [
+        "314.814",
         "292.095",
         "290.142",
-        "285.232",
-        "300.372"
+        "285.232"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101190434",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Uzaktan Öğretim)",
-      "Öğretim Türü": "Uzaktan Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "100",
-        "100",
-        "100",
-        "100"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "344.503",
-        "471.814",
-        "420.615",
-        "462.652"
-      ],
-      "Taban Puan": [
-        "285.138",
-        "289.984",
-        "290.384",
-        "285.865"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,59 +929,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "252.019",
         "357.075",
         "509.562",
-        "581.184",
-        "502.792"
+        "581.184"
       ],
       "Taban Puan": [
+        "304.205",
         "283.480",
         "285.469",
-        "272.109",
-        "281.170"
+        "272.109"
       ],
       "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105611041",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Uzaktan Öğretim)",
-      "Öğretim Türü": "Uzaktan Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "200",
-        "200",
-        "300",
-        "150"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "364.459",
-        "621.798",
-        "370.260",
-        "396.819"
-      ],
-      "Taban Puan": [
-        "282.521",
-        "273.121",
-        "297.007",
-        "294.120"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1052,18 +970,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "260.940",
         "422.031",
         "655.184",
-        "378.034",
-        "532.522"
+        "378.034"
       ],
       "Taban Puan": [
+        "302.515",
         "275.410",
         "269.713",
-        "295.929",
-        "277.867"
+        "295.929"
       ],
       "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105611041",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Uzaktan Öğretim)",
+      "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "200",
+        "200",
+        "300",
+        "150"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "299.222",
+        "364.459",
+        "621.798",
+        "370.260"
+      ],
+      "Taban Puan": [
+        "295.637",
+        "282.521",
+        "273.121",
+        "297.007"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101190434",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Uzaktan Öğretim)",
+      "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "100",
+        "100",
+        "100",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "301.996",
+        "344.503",
+        "471.814",
+        "420.615"
+      ],
+      "Taban Puan": [
+        "295.156",
+        "285.138",
+        "289.984",
+        "290.384"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1093,18 +1093,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "340.007",
         "443.813",
         "677.416",
-        "819.049",
-        "593.249"
+        "819.049"
       ],
       "Taban Puan": [
+        "288.943",
         "272.858",
         "267.482",
-        "249.439",
-        "271.432"
+        "249.439"
       ],
       "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390108",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "BUCAK İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "359.827",
+        "553.661",
+        "710.394",
+        "790.665"
+      ],
+      "Taban Puan": [
+        "285.885",
+        "260.842",
+        "264.226",
+        "251.983"
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,16 +1175,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "366.135",
         "521.901",
         "762.585",
-        "760.599",
-        "539.434"
+        "760.599"
       ],
       "Taban Puan": [
+        "284.940",
         "264.210",
         "259.187",
-        "254.724",
-        "277.117"
+        "254.724"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
@@ -1175,59 +1216,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "398.332",
         "540.201",
         "792.044",
-        "801.243",
-        "664.240"
+        "801.243"
       ],
       "Taban Puan": [
+        "280.233",
         "262.258",
         "256.396",
-        "251.034",
-        "264.277"
+        "251.034"
       ],
       "Şehir": "SİVAS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390108",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "BUCAK İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "553.661",
-        "710.394",
-        "790.665",
-        "678.755"
-      ],
-      "Taban Puan": [
-        "260.842",
-        "264.226",
-        "251.983",
-        "262.873"
-      ],
-      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1257,59 +1257,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "412.786",
         "606.443",
         "859.428",
-        "966.475",
-        "723.750"
+        "966.475"
       ],
       "Taban Puan": [
+        "278.196",
         "255.361",
         "250.063",
-        "236.369",
-        "258.581"
+        "236.369"
       ],
       "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107790313",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "624.326",
-        "768.164",
-        "632.811",
-        "560.579"
-      ],
-      "Taban Puan": [
-        "253.523",
-        "258.665",
-        "266.876",
-        "274.826"
-      ],
-      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1339,18 +1298,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "414.520",
         "661.461",
         "891.832",
-        "809.566",
-        "832.396"
+        "809.566"
       ],
       "Taban Puan": [
+        "277.951",
         "249.738",
         "247.012",
-        "250.290",
-        "248.791"
+        "250.290"
       ],
       "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790313",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "432.949",
+        "624.326",
+        "768.164",
+        "632.811"
+      ],
+      "Taban Puan": [
+        "275.417",
+        "253.523",
+        "258.665",
+        "266.876"
+      ],
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1380,16 +1380,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "459.605",
         "686.929",
         "950.439",
-        "817.309",
-        "676.321"
+        "817.309"
       ],
       "Taban Puan": [
+        "271.906",
         "247.143",
         "241.518",
-        "249.596",
-        "263.111"
+        "249.596"
       ],
       "Şehir": "KARABÜK",
       "Ücret": "Ücretsiz"
@@ -1400,7 +1400,7 @@
       "Fakülte": "AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
         "2026",
@@ -1421,16 +1421,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "532.517",
         "735.876",
         "932.059",
-        "833.845",
-        "886.469"
+        "833.845"
       ],
       "Taban Puan": [
+        "262.799",
         "242.105",
         "243.239",
-        "248.118",
-        "244.021"
+        "248.118"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
@@ -1462,16 +1462,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "535.025",
         "764.198",
         "957.829",
-        "1.024.139",
-        "1.197.358"
+        "1.024.139"
       ],
       "Taban Puan": [
+        "262.501",
         "239.191",
         "240.826",
-        "231.279",
-        "216.195"
+        "231.279"
       ],
       "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
@@ -1503,16 +1503,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "592.583",
         "817.956",
         "986.690",
-        "857.892",
-        "983.118"
+        "857.892"
       ],
       "Taban Puan": [
+        "255.758",
         "233.466",
         "238.042",
-        "245.968",
-        "235.638"
+        "245.968"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
@@ -1544,16 +1544,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "653.688",
         "872.566",
         "1.032.655",
-        "1.060.712",
-        "1.244.310"
+        "1.060.712"
       ],
       "Taban Puan": [
+        "248.782",
         "227.399",
         "233.587",
-        "228.027",
-        "211.480"
+        "228.027"
       ],
       "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
@@ -1585,16 +1585,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "975.727",
         "1.064.626",
         "1.176.481",
-        "1.190.834",
-        ""
+        "1.190.834"
       ],
       "Taban Puan": [
+        "205.811",
         "201.511",
         "218.556",
-        "216.098",
-        ""
+        "216.098"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -1626,16 +1626,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.003.694",
         "1.123.344",
         "1.197.094",
-        "1.450.031",
-        ""
+        "1.450.031"
       ],
       "Taban Puan": [
+        "199.936",
         "189.642",
         "216.187",
-        "187.335",
-        ""
+        "187.335"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -1668,15 +1668,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.163.730",
         "",
-        "601.401"
+        "1.163.730",
+        ""
       ],
       "Taban Puan": [
         "",
-        "219.990",
         "",
-        "270.593"
+        "219.990",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -1709,15 +1709,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "707.831",
-        "591.367",
-        "445.592"
+        "591.367"
       ],
       "Taban Puan": [
         "",
+        "",
         "264.475",
-        "271.054",
-        "287.949"
+        "271.054"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1750,15 +1750,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.415.451",
-        "858.504",
-        "804.228"
+        "858.504"
       ],
       "Taban Puan": [
         "",
+        "",
         "172.686",
-        "245.912",
-        "251.299"
+        "245.912"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -1792,14 +1792,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.496.717",
-        "717.435"
+        "",
+        "1.496.717"
       ],
       "Taban Puan": [
         "",
         "",
-        "179.508",
-        "259.169"
+        "",
+        "179.508"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1834,13 +1834,13 @@
         "",
         "",
         "",
-        "650.190"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "265.668"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1875,13 +1875,13 @@
         "",
         "",
         "",
-        "1.246.458"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "211.259"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1914,14 +1914,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.295.294",
         "",
+        "1.295.294",
         ""
       ],
       "Taban Puan": [
         "",
-        "203.246",
         "",
+        "203.246",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -1956,14 +1956,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "635.306",
-        "712.085"
+        "",
+        "635.306"
       ],
       "Taban Puan": [
         "",
         "",
-        "266.636",
-        "259.680"
+        "",
+        "266.636"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1996,15 +1996,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.186.987",
         "",
-        "532.560"
+        "1.186.987",
+        ""
       ],
       "Taban Puan": [
         "",
-        "217.347",
         "",
-        "277.863"
+        "217.347",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2107,9 +2107,9 @@
       ],
       "Kontenjan": [
         "3",
-        "3",
-        "3",
-        "4"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -2118,16 +2118,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "278.995",
         "277.580",
         "275.238",
-        "224.776",
-        "211.099"
+        "224.776"
       ],
       "Taban Puan": [
+        "376.035",
         "371.765",
         "376.465",
-        "390.623",
-        "392.358"
+        "390.623"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203150413",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "7",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "449.115",
+        "531.725",
+        "579.382",
+        "658.961"
+      ],
+      "Taban Puan": [
+        "344.252",
+        "331.621",
+        "327.861",
+        "320.739"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -2159,59 +2200,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "484.485",
         "528.701",
         "566.758",
-        "639.715",
-        "565.364"
+        "639.715"
       ],
       "Taban Puan": [
+        "339.101",
         "331.983",
         "329.293",
-        "322.783",
-        "324.960"
+        "322.783"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203150413",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "7",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "531.725",
-        "579.382",
-        "658.961",
-        "668.344"
-      ],
-      "Taban Puan": [
-        "331.621",
-        "327.861",
-        "320.739",
-        "313.112"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -2241,57 +2241,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "498.247",
         "593.973",
         "675.017",
-        "793.535",
-        "676.502"
+        "793.535"
       ],
       "Taban Puan": [
+        "337.207",
         "324.422",
         "317.980",
-        "307.734",
-        "312.228"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202452912",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "12",
-        "12",
-        "10",
-        "9"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "630.341",
-        "687.661",
-        "734.431",
-        "747.418"
-      ],
-      "Taban Puan": [
-        "320.517",
-        "316.759",
-        "313.226",
-        "305.034"
+        "307.734"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -2323,24 +2282,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "559.730",
         "637.327",
         "707.575",
-        "753.975",
-        "722.059"
+        "753.975"
       ],
       "Taban Puan": [
+        "329.238",
         "319.784",
         "314.903",
-        "311.374",
-        "307.518"
+        "311.374"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "210300542",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "202452912",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2352,50 +2311,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "669.629",
-        "729.465",
-        "857.891",
-        "756.046"
-      ],
-      "Taban Puan": [
-        "316.474",
-        "312.889",
-        "302.075",
-        "304.199"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210401088",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
+        "12",
+        "12",
         "10",
-        "9",
         "9"
       ],
       "Yerleşen": [
@@ -2405,57 +2323,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "669.982",
-        "744.177",
-        "782.761",
-        "796.065"
+        "563.227",
+        "630.341",
+        "687.661",
+        "734.431"
       ],
       "Taban Puan": [
-        "316.439",
-        "311.551",
-        "308.700",
-        "300.434"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201250366",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "8",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "690.566",
-        "763.897",
-        "830.384",
-        "815.465"
-      ],
-      "Taban Puan": [
-        "314.397",
-        "309.813",
-        "304.471",
-        "298.637"
+        "328.809",
+        "320.517",
+        "316.759",
+        "313.226"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -2487,16 +2364,139 @@
         ""
       ],
       "Taban Sıralama": [
+        "568.691",
         "692.087",
         "774.621",
-        "840.645",
-        "845.621"
+        "840.645"
       ],
       "Taban Puan": [
+        "328.142",
         "314.248",
         "308.893",
-        "303.573",
-        "295.919"
+        "303.573"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210300542",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "569.886",
+        "669.629",
+        "729.465",
+        "857.891"
+      ],
+      "Taban Puan": [
+        "327.995",
+        "316.474",
+        "312.889",
+        "302.075"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210401088",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "10",
+        "9",
+        "9"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "583.930",
+        "669.982",
+        "744.177",
+        "782.761"
+      ],
+      "Taban Puan": [
+        "326.281",
+        "316.439",
+        "311.551",
+        "308.700"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201250366",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "604.337",
+        "690.566",
+        "763.897",
+        "830.384"
+      ],
+      "Taban Puan": [
+        "323.905",
+        "314.397",
+        "309.813",
+        "304.471"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -2528,16 +2528,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "613.335",
         "697.539",
         "815.581",
-        "854.818",
-        "807.224"
+        "854.818"
       ],
       "Taban Puan": [
+        "322.876",
         "313.730",
         "305.396",
-        "302.338",
-        "299.398"
+        "302.338"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -2569,18 +2569,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "638.259",
         "741.154",
         "847.436",
-        "822.429",
-        "901.312"
+        "822.429"
       ],
       "Taban Puan": [
+        "320.077",
         "309.627",
         "302.796",
-        "305.171",
-        "291.138"
+        "305.171"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210500311",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "648.176",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "318.998",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
@@ -2610,16 +2651,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "734.733",
         "821.195",
         "993.006",
-        "1.180.985",
-        "1.046.132"
+        "1.180.985"
       ],
       "Taban Puan": [
+        "310.080",
         "302.542",
         "291.733",
-        "277.449",
-        "279.695"
+        "277.449"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -2651,16 +2692,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "766.501",
         "897.175",
         "1.059.838",
-        "1.246.552",
-        "1.160.460"
+        "1.246.552"
       ],
       "Taban Puan": [
+        "307.017",
         "296.235",
         "286.989",
-        "272.941",
-        "271.544"
+        "272.941"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -2692,19 +2733,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "838.749",
         "950.543",
         "1.081.509",
-        "1.243.846",
-        "1.139.712"
+        "1.243.846"
       ],
       "Taban Puan": [
+        "300.424",
         "291.981",
         "285.485",
-        "273.125",
-        "272.973"
+        "273.125"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101050881",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "300",
+        "3000",
+        "3000",
+        "2550"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "842.562",
+        "1.328.430",
+        "1.695.370",
+        "1.568.534"
+      ],
+      "Taban Puan": [
+        "300.092",
+        "264.641",
+        "247.558",
+        "252.703"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200350129",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "876.382",
+        "1.321.233",
+        "1.789.588",
+        ""
+      ],
+      "Taban Puan": [
+        "297.125",
+        "265.133",
+        "242.220",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "111851514",
@@ -2733,16 +2856,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "880.463",
         "996.096",
         "1.178.271",
-        "1.340.633",
-        "1.297.767"
+        "1.340.633"
       ],
       "Taban Puan": [
+        "296.776",
         "288.466",
         "278.979",
-        "266.757",
-        "262.561"
+        "266.757"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
@@ -2774,27 +2897,27 @@
         ""
       ],
       "Taban Sıralama": [
+        "904.295",
         "999.165",
         "1.267.059",
-        "1.511.650",
-        "1.392.014"
+        "1.511.650"
       ],
       "Taban Puan": [
+        "294.759",
         "288.229",
         "273.237",
-        "256.068",
-        "256.846"
+        "256.068"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100751266",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "SERİK GÜLSÜN-SÜLEYMAN SÜRAL MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101490691",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
         "2026",
@@ -2803,10 +2926,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "60",
-        "60",
-        "60",
-        "60"
+        "300",
+        "1500",
+        "1500",
+        "1300"
       ],
       "Yerleşen": [
         "",
@@ -2815,18 +2938,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.129.818",
-        "1.357.645",
-        "1.588.146",
-        "1.440.100"
+        "954.664",
+        "1.394.700",
+        "1.701.349",
+        "1.593.385"
       ],
       "Taban Puan": [
-        "278.583",
-        "267.582",
-        "251.541",
-        "254.062"
+        "290.548",
+        "260.106",
+        "247.212",
+        "251.242"
       ],
-      "Şehir": "ANTALYA",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2856,18 +2979,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "974.156",
         "1.178.445",
         "1.447.602",
-        "1.655.986",
-        "1.489.167"
+        "1.655.986"
       ],
       "Taban Puan": [
+        "288.932",
         "275.099",
         "262.058",
-        "247.597",
-        "251.295"
+        "247.597"
       ],
       "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100751266",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "SERİK GÜLSÜN-SÜLEYMAN SÜRAL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "990.882",
+        "1.129.818",
+        "1.357.645",
+        "1.588.146"
+      ],
+      "Taban Puan": [
+        "287.565",
+        "278.583",
+        "267.582",
+        "251.541"
+      ],
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2897,16 +3061,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.013.616",
         "1.183.231",
         "1.572.741",
-        "1.766.631",
-        "1.830.124"
+        "1.766.631"
       ],
       "Taban Puan": [
+        "285.757",
         "274.747",
         "254.650",
-        "241.360",
-        "234.088"
+        "241.360"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
@@ -2938,16 +3102,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.022.454",
         "1.205.563",
         "1.473.184",
-        "1.603.972",
-        "1.505.924"
+        "1.603.972"
       ],
       "Taban Puan": [
+        "285.056",
         "273.179",
         "260.517",
-        "250.613",
-        "250.376"
+        "250.613"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -2979,16 +3143,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.079.574",
         "1.247.328",
         "1.542.998",
-        "1.706.463",
-        "1.649.222"
+        "1.706.463"
       ],
       "Taban Puan": [
+        "280.543",
         "270.276",
         "256.385",
-        "244.718",
-        "242.827"
+        "244.718"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
@@ -3020,100 +3184,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.093.744",
         "1.256.516",
         "1.481.873",
-        "1.636.675",
-        "1.483.537"
+        "1.636.675"
       ],
       "Taban Puan": [
+        "279.439",
         "269.631",
         "260.000",
-        "248.715",
-        "251.609"
+        "248.715"
       ],
       "Şehir": "MUĞLA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100351579",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "SÖKE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "65",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.263.221",
-        "1.453.073",
-        "1.634.994",
-        "1.547.491"
-      ],
-      "Taban Puan": [
-        "269.159",
-        "261.732",
-        "248.811",
-        "248.117"
-      ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108090075",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.275.212",
-        "1.543.165",
-        "1.743.355",
-        "1.690.487"
-      ],
-      "Taban Puan": [
-        "268.333",
-        "256.376",
-        "242.648",
-        "240.741"
-      ],
-      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3143,264 +3225,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.108.419",
         "1.290.866",
         "1.598.893",
-        "1.759.452",
-        "1.877.358"
+        "1.759.452"
       ],
       "Taban Puan": [
+        "278.311",
         "267.242",
         "253.112",
-        "241.752",
-        "231.937"
+        "241.752"
       ],
       "Şehir": "MERSİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102750711",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "GÖKÇEADA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "41",
-        "45",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.300.505",
-        "1.556.277",
-        "1.706.113",
-        "1.663.283"
-      ],
-      "Taban Puan": [
-        "266.581",
-        "255.612",
-        "244.740",
-        "242.119"
-      ],
-      "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108350221",
-      "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "53",
-        "60",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.303.642",
-        "1.626.501",
-        "1.768.794",
-        "1.596.739"
-      ],
-      "Taban Puan": [
-        "266.366",
-        "251.507",
-        "241.236",
-        "245.516"
-      ],
-      "Şehir": "ORDU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200350129",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.321.233",
-        "1.789.588",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "265.133",
-        "242.220",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103951052",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.325.593",
-        "1.565.474",
-        "1.564.641",
-        "1.623.410"
-      ],
-      "Taban Puan": [
-        "264.832",
-        "255.074",
-        "252.931",
-        "244.149"
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101050881",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "300",
-        "3000",
-        "3000",
-        "2550"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.328.430",
-        "1.695.370",
-        "1.568.534",
-        "1.460.824"
-      ],
-      "Taban Puan": [
-        "264.641",
-        "247.558",
-        "252.703",
-        "252.886"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106051194",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "53",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.337.185",
-        "1.766.551",
-        "1.893.709",
-        "1.568.677"
-      ],
-      "Taban Puan": [
-        "264.042",
-        "243.523",
-        "234.463",
-        "246.990"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3430,59 +3266,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.119.367",
         "1.346.594",
         "1.594.850",
-        "1.797.923",
-        "1.839.191"
+        "1.797.923"
       ],
       "Taban Puan": [
+        "277.481",
         "263.393",
         "253.354",
-        "239.641",
-        "233.671"
+        "239.641"
       ],
       "Şehir": "YALOVA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101790110",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.374.369",
-        "1.532.756",
-        "1.626.426",
-        "1.779.827"
-      ],
-      "Taban Puan": [
-        "261.493",
-        "256.989",
-        "249.305",
-        "236.431"
-      ],
-      "Şehir": "BATMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3512,24 +3307,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.123.479",
         "1.376.016",
         "1.670.160",
-        "1.825.855",
-        "1.936.695"
+        "1.825.855"
       ],
       "Taban Puan": [
+        "277.168",
         "261.382",
         "248.993",
-        "238.126",
-        "229.316"
+        "238.126"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105050639",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ŞANLIURFA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103951052",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3541,10 +3336,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
         "45",
-        "45",
-        "45"
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -3553,24 +3348,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.381.644",
-        "1.647.013",
-        "1.528.008",
-        "1.513.860"
+        "1.123.788",
+        "1.325.593",
+        "1.565.474",
+        "1.564.641"
       ],
       "Taban Puan": [
-        "260.999",
-        "250.321",
-        "255.093",
-        "249.940"
+        "277.144",
+        "264.832",
+        "255.074",
+        "252.931"
       ],
-      "Şehir": "ŞANLIURFA",
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100850497",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "AKSARAY SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100351579",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "SÖKE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3582,10 +3377,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "49",
         "55",
-        "55",
-        "55"
+        "65",
+        "65",
+        "65"
       ],
       "Yerleşen": [
         "",
@@ -3594,18 +3389,182 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.382.501",
-        "1.663.625",
-        "1.845.184",
-        "1.840.977"
+        "1.129.215",
+        "1.263.221",
+        "1.453.073",
+        "1.634.994"
       ],
       "Taban Puan": [
-        "260.941",
-        "249.371",
-        "237.072",
-        "233.590"
+        "276.733",
+        "269.159",
+        "261.732",
+        "248.811"
       ],
-      "Şehir": "AKSARAY",
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106051194",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "53",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.141.835",
+        "1.337.185",
+        "1.766.551",
+        "1.893.709"
+      ],
+      "Taban Puan": [
+        "275.781",
+        "264.042",
+        "243.523",
+        "234.463"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102750711",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "GÖKÇEADA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "41",
+        "45",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.146.932",
+        "1.300.505",
+        "1.556.277",
+        "1.706.113"
+      ],
+      "Taban Puan": [
+        "275.397",
+        "266.581",
+        "255.612",
+        "244.740"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108090075",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.157.106",
+        "1.275.212",
+        "1.543.165",
+        "1.743.355"
+      ],
+      "Taban Puan": [
+        "274.629",
+        "268.333",
+        "256.376",
+        "242.648"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108350221",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "53",
+        "60",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.160.332",
+        "1.303.642",
+        "1.626.501",
+        "1.768.794"
+      ],
+      "Taban Puan": [
+        "274.386",
+        "266.366",
+        "251.507",
+        "241.236"
+      ],
+      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3635,18 +3594,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.195.528",
         "1.383.344",
         "1.611.521",
-        "1.717.867",
-        "1.633.292"
+        "1.717.867"
       ],
       "Taban Puan": [
+        "271.742",
         "260.883",
         "252.382",
-        "244.078",
-        "243.647"
+        "244.078"
       ],
       "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105050639",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "ŞANLIURFA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "45",
+        "45",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.199.104",
+        "1.381.644",
+        "1.647.013",
+        "1.528.008"
+      ],
+      "Taban Puan": [
+        "271.478",
+        "260.999",
+        "250.321",
+        "255.093"
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3676,182 +3676,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.202.172",
         "1.386.016",
         "1.697.609",
-        "1.854.415",
-        "1.901.568"
+        "1.854.415"
       ],
       "Taban Puan": [
+        "271.257",
         "260.700",
         "247.428",
-        "236.579",
-        "230.855"
+        "236.579"
       ],
       "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206050398",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "41",
-        "41",
-        "41"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.391.541",
-        "1.387.243",
-        "1.577.827",
-        "1.669.607"
-      ],
-      "Taban Puan": [
-        "260.320",
-        "265.747",
-        "252.152",
-        "241.790"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "101490691",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "300",
-        "1500",
-        "1500",
-        "1300"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.394.700",
-        "1.701.349",
-        "1.593.385",
-        "1.535.990"
-      ],
-      "Taban Puan": [
-        "260.106",
-        "247.212",
-        "251.242",
-        "248.732"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101650142",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "BARTIN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "49",
-        "55",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.425.088",
-        "1.695.811",
-        "1.849.414",
-        "1.930.312"
-      ],
-      "Taban Puan": [
-        "258.034",
-        "247.533",
-        "236.843",
-        "229.592"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100950433",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "AMASYA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.428.858",
-        "1.682.413",
-        "1.823.355",
-        "1.901.460"
-      ],
-      "Taban Puan": [
-        "257.772",
-        "248.288",
-        "238.261",
-        "230.860"
-      ],
-      "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3881,19 +3717,183 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.202.234",
         "1.432.309",
         "1.842.834",
-        "2.019.016",
-        "2.323.382"
+        "2.019.016"
       ],
       "Taban Puan": [
+        "271.251",
         "257.536",
         "239.255",
-        "227.884",
-        "213.421"
+        "227.884"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111851056",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "GEYVE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "69",
+        "80",
+        "80",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.213.089",
+        "1.543.862",
+        "1.781.480",
+        "1.981.720"
+      ],
+      "Taban Puan": [
+        "270.454",
+        "249.920",
+        "242.679",
+        "229.816"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101650142",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "BARTIN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "49",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.218.076",
+        "1.425.088",
+        "1.695.811",
+        "1.849.414"
+      ],
+      "Taban Puan": [
+        "270.084",
+        "258.034",
+        "247.533",
+        "236.843"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101790110",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.218.989",
+        "1.374.369",
+        "1.532.756",
+        "1.626.426"
+      ],
+      "Taban Puan": [
+        "270.013",
+        "261.493",
+        "256.989",
+        "249.305"
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206050398",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "41",
+        "41",
+        "41"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.220.866",
+        "1.391.541",
+        "1.387.243",
+        "1.577.827"
+      ],
+      "Taban Puan": [
+        "269.874",
+        "260.320",
+        "265.747",
+        "252.152"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "107490208",
@@ -3922,18 +3922,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.222.850",
         "1.441.181",
         "1.712.956",
-        "1.811.407",
-        "1.796.875"
+        "1.811.407"
       ],
       "Taban Puan": [
+        "269.726",
         "256.916",
         "246.554",
-        "238.905",
-        "235.629"
+        "238.905"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100850497",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "AKSARAY SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "49",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.230.640",
+        "1.382.501",
+        "1.663.625",
+        "1.845.184"
+      ],
+      "Taban Puan": [
+        "269.152",
+        "260.941",
+        "249.371",
+        "237.072"
+      ],
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3963,16 +4004,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.263.542",
         "1.443.836",
         "1.795.936",
-        "2.013.086",
-        "2.000.071"
+        "2.013.086"
       ],
       "Taban Puan": [
+        "266.762",
         "256.740",
         "241.861",
-        "228.188",
-        "226.600"
+        "228.188"
       ],
       "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
@@ -4004,24 +4045,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.273.305",
         "1.455.085",
         "1.688.826",
-        "1.843.080",
-        "1.982.397"
+        "1.843.080"
       ],
       "Taban Puan": [
+        "266.055",
         "255.969",
         "247.928",
-        "237.185",
-        "227.350"
+        "237.185"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107850201",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100950433",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "AMASYA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım",
       "Öğretim Türü": "Örgün Öğretim",
@@ -4033,10 +4074,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "21",
-        "20",
-        "20",
-        "20"
+        "45",
+        "50",
+        "50",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -4045,18 +4086,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.504.049",
-        "1.835.358",
-        "1.944.101",
-        "1.963.974"
+        "1.281.067",
+        "1.428.858",
+        "1.682.413",
+        "1.823.355"
       ],
       "Taban Puan": [
-        "252.652",
-        "239.670",
-        "231.798",
-        "228.142"
+        "265.499",
+        "257.772",
+        "248.288",
+        "238.261"
       ],
-      "Şehir": "MUŞ",
+      "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4086,60 +4127,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.284.253",
         "1.512.837",
         "1.735.063",
-        "1.916.503",
-        "1.989.807"
+        "1.916.503"
       ],
       "Taban Puan": [
+        "265.269",
         "252.046",
         "245.297",
-        "233.254",
-        "227.035"
+        "233.254"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206050371",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "5",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.515.349",
-        "1.634.695",
-        "1.679.307",
-        "1.850.946"
-      ],
-      "Taban Puan": [
-        "251.877",
-        "251.035",
-        "246.254",
-        "233.131"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "103350633",
@@ -4168,182 +4168,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.310.058",
         "1.535.901",
         "1.778.584",
-        "1.988.491",
-        "2.106.622"
+        "1.988.491"
       ],
       "Taban Puan": [
+        "263.407",
         "250.462",
         "242.842",
-        "229.467",
-        "222.153"
+        "229.467"
       ],
       "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111851056",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "GEYVE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "69",
-        "80",
-        "80",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.543.862",
-        "1.781.480",
-        "1.981.720",
-        "2.127.421"
-      ],
-      "Taban Puan": [
-        "249.920",
-        "242.679",
-        "229.816",
-        "221.295"
-      ],
-      "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100350836",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "BOZDOĞAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.555.879",
-        "1.788.549",
-        "1.962.523",
-        "2.060.075"
-      ],
-      "Taban Puan": [
-        "249.103",
-        "242.277",
-        "230.821",
-        "224.076"
-      ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112151305",
-      "Üniversite": "TRABZON ÜNİVERSİTESİ",
-      "Fakülte": "VAKFIKEBİR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "69",
-        "80",
-        "80",
-        "75"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.562.592",
-        "1.855.930",
-        "2.020.906",
-        "2.112.233"
-      ],
-      "Taban Puan": [
-        "248.653",
-        "238.526",
-        "227.790",
-        "221.918"
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106650393",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "KESKİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "53",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.565.620",
-        "1.845.639",
-        "1.956.530",
-        "2.084.472"
-      ],
-      "Taban Puan": [
-        "248.441",
-        "239.096",
-        "231.134",
-        "223.067"
-      ],
-      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4373,16 +4209,467 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.316.358",
         "1.568.846",
         "1.869.017",
-        "2.040.095",
-        "2.179.162"
+        "2.040.095"
       ],
       "Taban Puan": [
+        "262.952",
         "248.218",
         "237.807",
-        "226.797",
-        "219.222"
+        "226.797"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107300164",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "BUCAK HİKMET TOLUNAY ULAŞTIRMA VE LOJİSTİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.327.812",
+        "1.603.649",
+        "1.873.867",
+        "2.037.281"
+      ],
+      "Taban Puan": [
+        "262.129",
+        "245.857",
+        "237.531",
+        "226.946"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107850201",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "21",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.328.416",
+        "1.504.049",
+        "1.835.358",
+        "1.944.101"
+      ],
+      "Taban Puan": [
+        "262.082",
+        "252.652",
+        "239.670",
+        "231.798"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100650454",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "69",
+        "80",
+        "80",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.337.741",
+        "1.594.590",
+        "1.881.553",
+        "2.067.054"
+      ],
+      "Taban Puan": [
+        "261.418",
+        "246.474",
+        "237.105",
+        "225.408"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112151305",
+      "Üniversite": "TRABZON ÜNİVERSİTESİ",
+      "Fakülte": "VAKFIKEBİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "69",
+        "80",
+        "80",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.340.527",
+        "1.562.592",
+        "1.855.930",
+        "2.020.906"
+      ],
+      "Taban Puan": [
+        "261.213",
+        "248.653",
+        "238.526",
+        "227.790"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102790413",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "EZİNE GIDA İHTİSAS ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "53",
+        "60",
+        "60",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.340.658",
+        "1.613.607",
+        "1.857.375",
+        "1.949.586"
+      ],
+      "Taban Puan": [
+        "261.205",
+        "245.178",
+        "238.447",
+        "231.509"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100350836",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "BOZDOĞAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.346.827",
+        "1.555.879",
+        "1.788.549",
+        "1.962.523"
+      ],
+      "Taban Puan": [
+        "260.762",
+        "249.103",
+        "242.277",
+        "230.821"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106650393",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "KESKİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "53",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.353.657",
+        "1.565.620",
+        "1.845.639",
+        "1.956.530"
+      ],
+      "Taban Puan": [
+        "260.271",
+        "248.441",
+        "239.096",
+        "231.134"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108650809",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "BEKİLLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.356.537",
+        "1.598.720",
+        "1.888.519",
+        "2.009.232"
+      ],
+      "Taban Puan": [
+        "260.072",
+        "246.187",
+        "236.720",
+        "228.387"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112551914",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "YALVAÇ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.360.890",
+        "1.627.752",
+        "1.875.918",
+        "2.021.939"
+      ],
+      "Taban Puan": [
+        "259.763",
+        "244.217",
+        "237.414",
+        "227.735"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100452019",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "SANDIKLI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.362.373",
+        "1.576.264",
+        "1.839.140",
+        "2.004.626"
+      ],
+      "Taban Puan": [
+        "259.661",
+        "247.716",
+        "239.460",
+        "228.627"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102551271",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "GÖRDES MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "69",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.366.940",
+        "1.623.831",
+        "1.908.840",
+        "2.052.309"
+      ],
+      "Taban Puan": [
+        "259.330",
+        "244.488",
+        "235.599",
+        "226.174"
       ],
       "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
@@ -4414,428 +4701,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.380.981",
         "1.576.144",
         "1.832.901",
-        "",
         ""
       ],
       "Taban Puan": [
+        "258.329",
         "247.725",
         "239.808",
-        "",
         ""
       ],
       "Şehir": "MARDİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100452019",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "SANDIKLI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.576.264",
-        "1.839.140",
-        "2.004.626",
-        "2.088.287"
-      ],
-      "Taban Puan": [
-        "247.716",
-        "239.460",
-        "228.627",
-        "222.910"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102050287",
-      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "BİNGÖL SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.592.738",
-        "1.795.593",
-        "1.941.216",
-        "2.069.874"
-      ],
-      "Taban Puan": [
-        "246.603",
-        "241.882",
-        "231.947",
-        "223.667"
-      ],
-      "Şehir": "BİNGÖL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100650454",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "69",
-        "80",
-        "80",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.594.590",
-        "1.881.553",
-        "2.067.054",
-        "2.132.543"
-      ],
-      "Taban Puan": [
-        "246.474",
-        "237.105",
-        "225.408",
-        "221.088"
-      ],
-      "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108650809",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "BEKİLLİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "40",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.598.720",
-        "1.888.519",
-        "2.009.232",
-        "2.231.580"
-      ],
-      "Taban Puan": [
-        "246.187",
-        "236.720",
-        "228.387",
-        "217.102"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107300164",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "BUCAK HİKMET TOLUNAY ULAŞTIRMA VE LOJİSTİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.603.649",
-        "1.873.867",
-        "2.037.281",
-        "2.130.413"
-      ],
-      "Taban Puan": [
-        "245.857",
-        "237.531",
-        "226.946",
-        "221.175"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106750674",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "PINARHİSAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "29",
-        "30",
-        "30",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.609.368",
-        "1.879.225",
-        "2.022.992",
-        "2.255.325"
-      ],
-      "Taban Puan": [
-        "245.466",
-        "237.231",
-        "227.681",
-        "216.138"
-      ],
-      "Şehir": "KIRKLARELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102790413",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "EZİNE GIDA İHTİSAS ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "53",
-        "60",
-        "60",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.613.607",
-        "1.857.375",
-        "1.949.586",
-        ""
-      ],
-      "Taban Puan": [
-        "245.178",
-        "238.447",
-        "231.509",
-        ""
-      ],
-      "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102551271",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "GÖRDES MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "69",
-        "80",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.623.831",
-        "1.908.840",
-        "2.052.309",
-        "2.366.217"
-      ],
-      "Taban Puan": [
-        "244.488",
-        "235.599",
-        "226.174",
-        "211.720"
-      ],
-      "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105050648",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "BİRECİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "29",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.625.381",
-        "1.887.835",
-        "1.890.732",
-        "1.927.974"
-      ],
-      "Taban Puan": [
-        "244.378",
-        "236.757",
-        "234.623",
-        "229.692"
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112551914",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "YALVAÇ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "40",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.627.752",
-        "1.875.918",
-        "2.021.939",
-        "2.052.966"
-      ],
-      "Taban Puan": [
-        "244.217",
-        "237.414",
-        "227.735",
-        "224.375"
-      ],
-      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4865,24 +4742,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.383.715",
         "1.631.191",
         "1.902.002",
-        "2.023.055",
-        "2.314.809"
+        "2.023.055"
       ],
       "Taban Puan": [
+        "258.131",
         "243.980",
         "235.977",
-        "227.678",
-        "213.762"
+        "227.678"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110350964",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "GÖKÇEBEY MİTHAT-MEHMET ÇANAKÇI MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101950863",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "SÖĞÜT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım",
       "Öğretim Türü": "Örgün Öğretim",
@@ -4894,10 +4771,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "29",
-        "30",
-        "30",
-        "30"
+        "37",
+        "40",
+        "40",
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -4906,18 +4783,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.631.398",
-        "1.867.131",
-        "2.034.983",
-        "2.135.533"
+        "1.389.267",
+        "1.650.655",
+        "1.891.802",
+        "2.051.576"
       ],
       "Taban Puan": [
-        "243.966",
-        "237.909",
-        "227.065",
-        "220.966"
+        "257.742",
+        "242.656",
+        "236.533",
+        "226.212"
       ],
-      "Şehir": "ZONGULDAK",
+      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4947,16 +4824,426 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.392.912",
         "1.640.732",
         "1.889.022",
-        "2.001.465",
-        "2.074.073"
+        "2.001.465"
       ],
       "Taban Puan": [
+        "257.481",
         "243.334",
         "236.692",
-        "228.789",
-        "223.494"
+        "228.789"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110350964",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "GÖKÇEBEY MİTHAT-MEHMET ÇANAKÇI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "29",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.394.153",
+        "1.631.398",
+        "1.867.131",
+        "2.034.983"
+      ],
+      "Taban Puan": [
+        "257.396",
+        "243.966",
+        "237.909",
+        "227.065"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106750674",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "PINARHİSAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "29",
+        "30",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.394.491",
+        "1.609.368",
+        "1.879.225",
+        "2.022.992"
+      ],
+      "Taban Puan": [
+        "257.374",
+        "245.466",
+        "237.231",
+        "227.681"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108990300",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "BOZKIR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.403.543",
+        "1.702.438",
+        "1.948.162",
+        "2.055.183"
+      ],
+      "Taban Puan": [
+        "256.735",
+        "239.131",
+        "233.454",
+        "226.023"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102050287",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "BİNGÖL SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.404.280",
+        "1.592.738",
+        "1.795.593",
+        "1.941.216"
+      ],
+      "Taban Puan": [
+        "256.682",
+        "246.603",
+        "241.882",
+        "231.947"
+      ],
+      "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105950481",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "29",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.404.429",
+        "1.656.671",
+        "1.916.186",
+        "2.086.171"
+      ],
+      "Taban Puan": [
+        "256.671",
+        "242.247",
+        "235.198",
+        "224.437"
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105050648",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "BİRECİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "29",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.422.713",
+        "1.625.381",
+        "1.887.835",
+        "1.890.732"
+      ],
+      "Taban Puan": [
+        "255.367",
+        "244.378",
+        "236.757",
+        "234.623"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104550558",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "ALUCRA TURAN BULUTÇU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.443.195",
+        "1.697.138",
+        "1.945.443",
+        "2.046.866"
+      ],
+      "Taban Puan": [
+        "253.916",
+        "239.494",
+        "233.603",
+        "226.450"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112553249",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.451.444",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "253.333",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104590351",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "ŞEBİNKARAHİSAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "21",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.454.667",
+        "1.683.210",
+        "1.937.439",
+        "2.089.035"
+      ],
+      "Taban Puan": [
+        "253.112",
+        "240.437",
+        "234.035",
+        "224.294"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390072",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "NİKSAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "33",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.456.635",
+        "1.678.235",
+        "1.953.780",
+        "2.067.673"
+      ],
+      "Taban Puan": [
+        "252.969",
+        "240.773",
+        "233.149",
+        "225.376"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
@@ -4988,59 +5275,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.465.936",
         "1.650.651",
         "1.865.442",
-        "1.975.593",
-        "2.025.283"
+        "1.975.593"
       ],
       "Taban Puan": [
+        "252.316",
         "242.656",
         "238.001",
-        "230.135",
-        "225.544"
+        "230.135"
       ],
       "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101950863",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "SÖĞÜT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "40",
-        "40",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.650.655",
-        "1.891.802",
-        "2.051.576",
-        "2.264.992"
-      ],
-      "Taban Puan": [
-        "242.656",
-        "236.533",
-        "226.212",
-        "215.744"
-      ],
-      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -5070,24 +5316,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.472.615",
         "1.654.422",
         "1.961.332",
-        "2.035.617",
-        "2.141.672"
+        "2.035.617"
       ],
       "Taban Puan": [
+        "251.859",
         "242.397",
         "232.733",
-        "227.030",
-        "220.719"
+        "227.030"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105950481",
-      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101950827",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "GÖLPAZARI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Halkla İlişkiler ve Tanıtım",
       "Öğretim Türü": "Örgün Öğretim",
@@ -5099,174 +5345,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "29",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.656.671",
-        "1.916.186",
-        "2.086.171",
-        "2.184.744"
-      ],
-      "Taban Puan": [
-        "242.247",
-        "235.198",
-        "224.437",
-        "218.995"
-      ],
-      "Şehir": "KARS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104390072",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "NİKSAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "33",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.678.235",
-        "1.953.780",
-        "2.067.673",
-        "2.234.840"
-      ],
-      "Taban Puan": [
-        "240.773",
-        "233.149",
-        "225.376",
-        "216.963"
-      ],
-      "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104590351",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "ŞEBİNKARAHİSAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "21",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.683.210",
-        "1.937.439",
-        "2.089.035",
-        "2.295.075"
-      ],
-      "Taban Puan": [
-        "240.437",
-        "234.035",
-        "224.294",
-        "214.547"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "210401095",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.695.758",
-        "1.639.132",
-        "1.620.862",
-        "1.750.389"
-      ],
-      "Taban Puan": [
-        "239.586",
-        "250.778",
-        "249.631",
-        "237.840"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "104550558",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "ALUCRA TURAN BULUTÇU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
         "40",
-        "40",
-        "30"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -5275,182 +5357,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.697.138",
-        "1.945.443",
-        "2.046.866",
-        "2.212.135"
-      ],
-      "Taban Puan": [
-        "239.494",
-        "233.603",
-        "226.450",
-        "217.885"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108990300",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "BOZKIR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
+        "1.486.448",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "1.702.438",
-        "1.948.162",
-        "2.055.183",
-        "2.460.233"
-      ],
       "Taban Puan": [
-        "239.131",
-        "233.454",
-        "226.023",
-        "207.898"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102190071",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "GÜROYMAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "29",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
+        "250.893",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "1.709.998",
-        "1.913.406",
-        "2.054.836",
-        "2.109.906"
-      ],
-      "Taban Puan": [
-        "238.611",
-        "235.353",
-        "226.041",
-        "222.014"
-      ],
-      "Şehir": "BİTLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206250387",
-      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "32",
-        "34",
-        "34",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.723.747",
-        "1.796.033",
-        "1.712.091",
-        "1.896.347"
-      ],
-      "Taban Puan": [
-        "237.673",
-        "241.856",
-        "244.399",
-        "231.088"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "102652383",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "KANGAL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.740.060",
-        "1.950.494",
-        "2.088.284",
-        "2.007.834"
-      ],
-      "Taban Puan": [
-        "236.556",
-        "233.326",
-        "224.331",
-        "226.271"
-      ],
-      "Şehir": "SİVAS",
+      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -5480,19 +5398,265 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.490.865",
         "1.749.787",
         "1.986.828",
-        "2.065.172",
-        "2.325.796"
+        "2.065.172"
       ],
       "Taban Puan": [
+        "250.578",
         "235.896",
         "231.353",
-        "225.508",
-        "213.326"
+        "225.508"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102652383",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "KANGAL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.494.505",
+        "1.740.060",
+        "1.950.494",
+        "2.088.284"
+      ],
+      "Taban Puan": [
+        "250.319",
+        "236.556",
+        "233.326",
+        "224.331"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102190071",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "GÜROYMAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "29",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.503.444",
+        "1.709.998",
+        "1.913.406",
+        "2.054.836"
+      ],
+      "Taban Puan": [
+        "249.692",
+        "238.611",
+        "235.353",
+        "226.041"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206050371",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.591.364",
+        "1.515.349",
+        "1.634.695",
+        "1.679.307"
+      ],
+      "Taban Puan": [
+        "243.538",
+        "251.877",
+        "251.035",
+        "246.254"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206250387",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "32",
+        "34",
+        "34",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.626.974",
+        "1.723.747",
+        "1.796.033",
+        "1.712.091"
+      ],
+      "Taban Puan": [
+        "241.046",
+        "237.673",
+        "241.856",
+        "244.399"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100724",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "31",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.642.643",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "239.957",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200350111",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "18",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.703.881",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "235.659",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "200390129",
@@ -5521,18 +5685,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.739.380",
         "2.047.440",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "233.134",
+        "214.312",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210401095",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.754.027",
+        "1.695.758",
+        "1.639.132",
+        "1.620.862"
+      ],
+      "Taban Puan": [
+        "232.088",
+        "239.586",
+        "250.778",
+        "249.631"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210500318",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "31",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.898.487",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "214.312",
+        "221.382",
         "",
         "",
         ""
       ],
-      "Şehir": "TRABZON",
+      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -5562,141 +5808,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.147.836",
         "2.307.548",
         "2.681.339",
-        "2.808.051",
-        ""
+        "2.808.051"
       ],
       "Taban Puan": [
+        "194.987",
         "172.189",
         "187.830",
-        "184.485",
-        ""
+        "184.485"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "101950827",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "GÖLPAZARI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BİLECİK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112553249",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ULUBORLU SELAHATTİN KARASOY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200350111",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "18",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
       "Ücret": "Ücretli"
     },
     {
@@ -5727,15 +5850,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.547.640",
-        "2.459.662",
-        "2.598.800"
+        "2.459.662"
       ],
       "Taban Puan": [
         "",
+        "",
         "199.450",
-        "205.955",
-        "201.904"
+        "205.955"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5768,15 +5891,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.533.992",
-        "2.068.335",
-        "1.931.326"
+        "2.068.335"
       ],
       "Taban Puan": [
         "",
+        "",
         "200.372",
-        "225.342",
-        "229.547"
+        "225.342"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5810,14 +5933,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.543.227",
-        "2.646.598"
+        "",
+        "2.543.227"
       ],
       "Taban Puan": [
         "",
         "",
-        "201.733",
-        "199.624"
+        "",
+        "201.733"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5838,9 +5961,9 @@
       ],
       "Kontenjan": [
         "16",
-        "17",
-        "14",
-        "29"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -5850,15 +5973,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.248.196",
         "",
-        "1.823.282"
+        "2.248.196",
+        ""
       ],
       "Taban Puan": [
         "",
-        "217.179",
         "",
-        "234.408"
+        "217.179",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5891,15 +6014,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.648.798",
-        "2.413.437",
-        "2.687.354"
+        "2.413.437"
       ],
       "Taban Puan": [
         "",
+        "",
         "191.357",
-        "208.260",
-        "197.551"
+        "208.260"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5933,14 +6056,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.503.152",
-        "2.431.405"
+        "",
+        "2.503.152"
       ],
       "Taban Puan": [
         "",
         "",
-        "203.789",
-        "209.082"
+        "",
+        "203.789"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5974,58 +6097,17 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.281.795",
-        "2.341.937"
+        "",
+        "2.281.795"
       ],
       "Taban Puan": [
         "",
         "",
-        "214.719",
-        "212.680"
+        "",
+        "214.719"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203100724",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "31",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210401102",
@@ -6055,99 +6137,17 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.840.590",
-        "1.877.010",
-        "1.676.016"
+        "1.877.010"
       ],
       "Taban Puan": [
+        "",
         "",
         "239.377",
-        "235.361",
-        "241.467"
+        "235.361"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210500311",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210500318",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Halkla İlişkiler ve Tanıtım (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "31",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {

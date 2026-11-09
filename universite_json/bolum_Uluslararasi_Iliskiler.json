@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "205",
         "398",
         "651",
-        "302",
-        "436"
+        "302"
       ],
       "Taban Puan": [
+        "520.830",
         "503.205",
         "497.913",
-        "524.472",
-        "516.729"
+        "524.472"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.621",
         "1.050",
         "756",
-        "829",
-        "1.589"
+        "829"
       ],
       "Taban Puan": [
+        "481.407",
         "481.645",
         "494.574",
-        "506.643",
-        "493.723"
+        "506.643"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.635",
         "1.688",
         "1.819",
-        "1.522",
-        "1.890"
+        "1.522"
       ],
       "Taban Puan": [
+        "481.238",
         "468.984",
         "472.782",
-        "492.022",
-        "489.804"
+        "492.022"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.162",
         "1.969",
         "2.149",
-        "2.267",
-        "3.923"
+        "2.267"
       ],
       "Taban Puan": [
+        "473.810",
         "465.098",
         "467.934",
-        "481.216",
-        "471.880"
+        "481.216"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.191",
         "2.069",
         "1.657",
-        "1.812",
-        "2.102"
+        "1.812"
       ],
       "Taban Puan": [
+        "473.512",
         "463.994",
         "475.211",
-        "487.391",
-        "487.363"
+        "487.391"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -232,139 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.345",
         "14.097",
         "27.406",
-        "36.052",
-        "53.669"
+        "36.052"
       ],
       "Taban Puan": [
+        "430.031",
         "418.595",
         "406.898",
-        "406.341",
-        "402.251"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202510325",
-      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "15",
-        "14",
-        "14"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "33.831",
-        "48.094",
-        "17.867",
-        "22.942"
-      ],
-      "Taban Puan": [
-        "396.652",
-        "389.042",
-        "423.004",
-        "424.215"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "101190766",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "65",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "34.315",
-        "56.924",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "396.232",
-        "383.043",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110910023",
-      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "47.670",
-        "86.580",
-        "96.131",
-        "125.947"
-      ],
-      "Taban Puan": [
-        "386.408",
-        "366.483",
-        "373.624",
-        "367.881"
+        "406.341"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -396,14 +273,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "21.178",
         "52.365",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "418.131",
         "383.361",
-        "",
         "",
         ""
       ],
@@ -411,9 +288,50 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206010645",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "101190766",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "65",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "29.923",
+        "34.315",
+        "56.924",
+        ""
+      ],
+      "Taban Puan": [
+        "409.803",
+        "396.232",
+        "383.043",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202510325",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -425,10 +343,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "8",
-        "8",
-        "8",
-        "7"
+        "10",
+        "15",
+        "14",
+        "14"
       ],
       "Yerleşen": [
         "",
@@ -437,19 +355,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "63.831",
-        "75.278",
-        "66.778",
-        "76.181"
+        "32.910",
+        "33.831",
+        "48.094",
+        "17.867"
       ],
       "Taban Puan": [
-        "376.751",
-        "372.219",
-        "387.441",
-        "390.057"
+        "407.330",
+        "396.652",
+        "389.042",
+        "423.004"
       ],
-      "Şehir": "İZMİR",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110910023",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "43.166",
+        "47.670",
+        "86.580",
+        "96.131"
+      ],
+      "Taban Puan": [
+        "399.814",
+        "386.408",
+        "366.483",
+        "373.624"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "111712117",
@@ -478,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "54.455",
         "66.824",
         "113.756",
-        "122.541",
-        "149.626"
+        "122.541"
       ],
       "Taban Puan": [
+        "392.550",
         "375.150",
         "354.716",
-        "363.013",
-        "359.018"
+        "363.013"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -519,60 +478,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "62.096",
         "70.769",
         "107.025",
-        "110.729",
-        "130.272"
+        "110.729"
       ],
       "Taban Puan": [
+        "388.079",
         "373.038",
         "357.414",
-        "367.528",
-        "366.208"
+        "367.528"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202110674",
-      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "78",
-        "80",
-        "82",
-        "82"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "73.786",
-        "58.510",
-        "59.616",
-        "76.360"
-      ],
-      "Taban Puan": [
-        "371.539",
-        "382.021",
-        "391.332",
-        "389.960"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "107211075",
@@ -601,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "65.093",
         "79.570",
         "124.298",
-        "134.020",
-        "153.982"
+        "134.020"
       ],
       "Taban Puan": [
+        "386.324",
         "368.734",
         "350.709",
-        "358.874",
-        "357.488"
+        "358.874"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -642,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "81.883",
         "93.067",
         "127.403",
-        "135.027",
-        "159.585"
+        "135.027"
       ],
       "Taban Puan": [
+        "377.584",
         "362.614",
         "349.552",
-        "358.536",
-        "355.539"
+        "358.536"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -683,18 +601,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "90.358",
         "100.565",
         "146.514",
-        "155.841",
-        "176.157"
+        "155.841"
       ],
       "Taban Puan": [
+        "373.451",
         "359.447",
         "343.016",
-        "351.675",
-        "350.062"
+        "351.675"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206010645",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
+        "8",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "93.921",
+        "63.831",
+        "75.278",
+        "66.778"
+      ],
+      "Taban Puan": [
+        "371.789",
+        "376.751",
+        "372.219",
+        "387.441"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111710484",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "95",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "104.245",
+        "113.207",
+        "163.586",
+        "189.170"
+      ],
+      "Taban Puan": [
+        "367.116",
+        "354.440",
+        "337.676",
+        "342.115"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,141 +724,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "104.370",
         "105.908",
         "136.023",
-        "149.190",
-        "170.289"
+        "149.190"
       ],
       "Taban Puan": [
+        "367.062",
         "357.285",
         "346.506",
-        "353.759",
-        "351.949"
+        "353.759"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110010086",
-      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
-      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "60",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "107.497",
-        "147.385",
-        "157.609",
-        "181.591"
-      ],
-      "Taban Puan": [
-        "356.647",
-        "342.732",
-        "351.122",
-        "348.377"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111710484",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "60",
-        "95",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "113.207",
-        "163.586",
-        "189.170",
-        "224.581"
-      ],
-      "Taban Puan": [
-        "354.440",
-        "337.676",
-        "342.115",
-        "336.165"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102790175",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "126.873",
-        "160.657",
-        "173.538",
-        "210.164"
-      ],
-      "Taban Puan": [
-        "349.462",
-        "338.566",
-        "346.406",
-        "339.996"
-      ],
-      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,19 +765,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "105.323",
         "129.025",
         "156.795",
-        "162.761",
-        "179.858"
+        "162.761"
       ],
       "Taban Puan": [
+        "366.638",
         "348.716",
         "339.737",
-        "349.561",
-        "348.893"
+        "349.561"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110010086",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "108.190",
+        "107.497",
+        "147.385",
+        "157.609"
+      ],
+      "Taban Puan": [
+        "365.390",
+        "356.647",
+        "342.732",
+        "351.122"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105410045",
@@ -929,26 +847,67 @@
         ""
       ],
       "Taban Sıralama": [
+        "118.265",
         "136.549",
         "184.129",
-        "207.074",
-        "240.425"
+        "207.074"
       ],
       "Taban Puan": [
+        "361.202",
         "346.171",
         "332.005",
-        "337.590",
-        "332.235"
+        "337.590"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103810162",
-      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "202110674",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "78",
+        "80",
+        "82",
+        "82"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "119.400",
+        "73.786",
+        "58.510",
+        "59.616"
+      ],
+      "Taban Puan": [
+        "360.744",
+        "371.539",
+        "382.021",
+        "391.332"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "102790175",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -960,8 +919,8 @@
       "Kontenjan": [
         "40",
         "40",
-        "70",
-        "60"
+        "50",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -970,18 +929,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "140.023",
-        "188.721",
-        "207.234",
-        "241.743"
+        "127.266",
+        "126.873",
+        "160.657",
+        "173.538"
       ],
       "Taban Puan": [
-        "345.033",
-        "330.805",
-        "337.551",
-        "331.922"
+        "357.702",
+        "349.462",
+        "338.566",
+        "346.406"
       ],
-      "Şehir": "ESKİŞEHİR",
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,16 +970,221 @@
         ""
       ],
       "Taban Sıralama": [
+        "130.630",
         "144.697",
         "176.093",
-        "181.909",
-        "167.421"
+        "181.909"
       ],
       "Taban Puan": [
+        "356.416",
         "343.544",
         "334.144",
-        "344.062",
-        "352.927"
+        "344.062"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202090295",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "3",
+        "4",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "133.333",
+        "153.824",
+        "179.174",
+        "168.287"
+      ],
+      "Taban Puan": [
+        "355.437",
+        "340.734",
+        "333.320",
+        "347.931"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103810162",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "134.088",
+        "140.023",
+        "188.721",
+        "207.234"
+      ],
+      "Taban Puan": [
+        "355.157",
+        "345.033",
+        "330.805",
+        "337.551"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202910199",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "4",
+        "25",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "136.522",
+        "169.038",
+        "240.700",
+        "246.936"
+      ],
+      "Taban Puan": [
+        "354.248",
+        "336.337",
+        "318.876",
+        "328.476"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100710199",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "45",
+        "80",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "142.722",
+        "150.984",
+        "199.298",
+        "213.438"
+      ],
+      "Taban Puan": [
+        "352.050",
+        "341.593",
+        "328.151",
+        "336.022"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201200255",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "143.477",
+        "157.925",
+        "190.335",
+        "205.117"
+      ],
+      "Taban Puan": [
+        "351.800",
+        "339.510",
+        "330.372",
+        "338.077"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1052,264 +1216,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "145.335",
         "147.988",
         "197.420",
-        "221.534",
-        "256.471"
+        "221.534"
       ],
       "Taban Puan": [
+        "351.154",
         "342.490",
         "328.591",
-        "334.112",
-        "328.387"
+        "334.112"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100710199",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "45",
-        "80",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "150.984",
-        "199.298",
-        "213.438",
-        "238.710"
-      ],
-      "Taban Puan": [
-        "341.593",
-        "328.151",
-        "336.022",
-        "332.642"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202090295",
-      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "3",
-        "4",
-        "3"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "153.824",
-        "179.174",
-        "168.287",
-        "207.370"
-      ],
-      "Taban Puan": [
-        "340.734",
-        "333.320",
-        "347.931",
-        "340.764"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201200255",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "6",
-        "7",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "157.925",
-        "190.335",
-        "205.117",
-        "218.004"
-      ],
-      "Taban Puan": [
-        "339.510",
-        "330.372",
-        "338.077",
-        "337.889"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105761228",
-      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "55",
-        "75",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "162.864",
-        "243.554",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "338.105",
-        "318.284",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202910199",
-      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "4",
-        "25",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "169.038",
-        "240.700",
-        "246.936",
-        "271.027"
-      ],
-      "Taban Puan": [
-        "336.337",
-        "318.876",
-        "328.476",
-        "325.147"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "100390418",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "70",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "186.529",
-        "246.212",
-        "243.221",
-        ""
-      ],
-      "Taban Puan": [
-        "331.623",
-        "317.748",
-        "329.280",
-        ""
-      ],
-      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1339,56 +1257,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "150.294",
         "191.619",
         "257.930",
-        "",
         ""
       ],
       "Taban Puan": [
+        "349.404",
         "330.326",
         "315.440",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202310115",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "4",
-        "4",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "195.103",
-        "291.537",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "329.470",
-        "309.362",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -1421,23 +1298,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "151.383",
         "195.985",
         "197.391",
-        "205.919",
-        "236.290"
+        "205.919"
       ],
       "Taban Puan": [
+        "349.018",
         "329.239",
         "328.600",
-        "337.878",
-        "333.203"
+        "337.878"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "108911417",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Program Kodu": "105761228",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
       "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Uluslararası İlişkiler (İngilizce)",
@@ -1450,51 +1327,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "50",
-        "50",
-        "70",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "200.686",
-        "254.056",
-        "254.532",
-        "290.283"
-      ],
-      "Taban Puan": [
-        "328.111",
-        "316.185",
-        "326.895",
-        "321.030"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111110076",
-      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
+        "55",
+        "55",
         "75",
-        "70"
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1503,16 +1339,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "201.051",
-        "257.716",
-        "260.293",
-        "287.451"
+        "152.079",
+        "162.864",
+        "243.554",
+        ""
       ],
       "Taban Puan": [
-        "328.021",
-        "315.479",
-        "325.724",
-        "321.622"
+        "348.776",
+        "338.105",
+        "318.284",
+        ""
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -1544,19 +1380,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "158.382",
         "201.433",
         "229.775",
-        "223.153",
-        "243.572"
+        "223.153"
       ],
       "Taban Puan": [
+        "346.659",
         "327.919",
         "321.174",
-        "333.740",
-        "331.475"
+        "333.740"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202310115",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "4",
+        "4",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "177.218",
+        "195.103",
+        "291.537",
+        ""
+      ],
+      "Taban Puan": [
+        "340.654",
+        "329.470",
+        "309.362",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100390418",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "186.362",
+        "186.529",
+        "246.212",
+        "243.221"
+      ],
+      "Taban Puan": [
+        "337.930",
+        "331.623",
+        "317.748",
+        "329.280"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106290130",
@@ -1585,26 +1503,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "190.472",
         "203.071",
         "265.078",
-        "286.003",
-        "313.200"
+        "286.003"
       ],
       "Taban Puan": [
+        "336.752",
         "327.522",
         "314.093",
-        "320.627",
-        "316.463"
+        "320.627"
       ],
       "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102410220",
-      "Üniversite": "BURSA TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "111110076",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -1614,10 +1532,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "45",
-        "45",
-        "70",
-        ""
+        "35",
+        "35",
+        "75",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -1626,18 +1544,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "213.131",
-        "291.021",
-        "",
-        ""
+        "192.013",
+        "201.051",
+        "257.716",
+        "260.293"
       ],
       "Taban Puan": [
-        "325.158",
-        "309.446",
-        "",
-        ""
+        "336.305",
+        "328.021",
+        "315.479",
+        "325.724"
       ],
-      "Şehir": "BURSA",
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1667,100 +1585,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "192.492",
         "219.586",
         "313.560",
-        "351.499",
-        "366.287"
+        "351.499"
       ],
       "Taban Puan": [
+        "336.176",
         "323.649",
         "305.673",
-        "309.170",
-        "306.934"
+        "309.170"
       ],
       "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201010175",
-      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "6",
-        "5",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "221.614",
-        "237.708",
-        "245.156",
-        "293.160"
-      ],
-      "Taban Puan": [
-        "323.207",
-        "319.486",
-        "328.858",
-        "320.456"
-      ],
-      "Şehir": "MERSİN",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103590455",
-      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "227.747",
-        "320.432",
-        "361.444",
-        "412.688"
-      ],
-      "Taban Puan": [
-        "321.849",
-        "304.542",
-        "307.582",
-        "299.592"
-      ],
-      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1790,19 +1626,142 @@
         ""
       ],
       "Taban Sıralama": [
+        "192.819",
         "232.154",
         "294.238",
-        "",
         ""
       ],
       "Taban Puan": [
+        "336.078",
         "320.878",
         "308.905",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102410220",
+      "Üniversite": "BURSA TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "70",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "193.656",
+        "213.131",
+        "291.021",
+        ""
+      ],
+      "Taban Puan": [
+        "335.847",
+        "325.158",
+        "309.446",
+        ""
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108911417",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "194.874",
+        "200.686",
+        "254.056",
+        "254.532"
+      ],
+      "Taban Puan": [
+        "335.488",
+        "328.111",
+        "316.185",
+        "326.895"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103590455",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "195.535",
+        "227.747",
+        "320.432",
+        "361.444"
+      ],
+      "Taban Puan": [
+        "335.313",
+        "321.849",
+        "304.542",
+        "307.582"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108810289",
@@ -1831,16 +1790,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "199.373",
         "250.813",
         "354.002",
-        "409.674",
-        "420.096"
+        "409.674"
       ],
       "Taban Puan": [
+        "334.251",
         "316.981",
         "299.351",
-        "300.404",
-        "298.484"
+        "300.404"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
@@ -1872,16 +1831,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "221.122",
         "253.616",
         "332.251",
-        "370.511",
-        "372.075"
+        "370.511"
       ],
       "Taban Puan": [
+        "328.610",
         "316.390",
         "302.666",
-        "306.186",
-        "305.966"
+        "306.186"
       ],
       "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
@@ -1913,26 +1872,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "231.736",
         "271.577",
         "391.209",
-        "427.095",
-        "432.924"
+        "427.095"
       ],
       "Taban Puan": [
+        "326.014",
         "312.931",
         "294.102",
-        "297.955",
-        "296.605"
+        "297.955"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208110029",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "201010175",
+      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (Burslu)",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -1942,10 +1901,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "49",
         "8",
-        "8",
-        "16"
+        "6",
+        "5",
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -1954,18 +1913,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "272.256",
-        "315.164",
-        "407.970",
-        "468.883"
+        "232.226",
+        "221.614",
+        "237.708",
+        "245.156"
       ],
       "Taban Puan": [
-        "312.803",
-        "305.411",
-        "300.654",
-        "291.550"
+        "325.901",
+        "323.207",
+        "319.486",
+        "328.858"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "MERSİN",
       "Ücret": "Burslu"
     },
     {
@@ -1995,60 +1954,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "235.491",
         "288.372",
         "468.791",
-        "532.683",
-        "530.241"
+        "532.683"
       ],
       "Taban Puan": [
+        "325.141",
         "309.862",
         "284.272",
-        "284.518",
-        "283.780"
+        "284.518"
       ],
       "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202110277",
-      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "38",
-        "39",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "304.185",
-        "180.891",
-        "210.224",
-        "178.148"
-      ],
-      "Taban Puan": [
-        "307.089",
-        "332.855",
-        "336.823",
-        "349.425"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "102790315",
@@ -2077,141 +1995,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "261.433",
         "304.970",
         "435.264",
-        "522.685",
-        "517.195"
+        "522.685"
       ],
       "Taban Puan": [
+        "319.285",
         "306.951",
         "288.363",
-        "285.705",
-        "285.365"
+        "285.705"
       ],
       "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100110221",
-      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "80",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "331.208",
-        "493.625",
-        "580.029",
-        "563.283"
-      ],
-      "Taban Puan": [
-        "302.621",
-        "281.381",
-        "279.133",
-        "279.879"
-      ],
-      "Şehir": "BOLU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203910327",
-      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "33",
-        "41",
-        "71",
-        "82"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "350.170",
-        "321.549",
-        "338.508",
-        "306.008"
-      ],
-      "Taban Puan": [
-        "299.721",
-        "304.357",
-        "311.292",
-        "317.884"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "110610089",
-      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "350.762",
-        "494.469",
-        "591.292",
-        "595.838"
-      ],
-      "Taban Puan": [
-        "299.634",
-        "281.285",
-        "277.887",
-        "276.234"
-      ],
-      "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2241,19 +2036,183 @@
         ""
       ],
       "Taban Sıralama": [
+        "269.539",
         "352.100",
         "503.762",
-        "583.797",
-        "571.785"
+        "583.797"
       ],
       "Taban Puan": [
+        "317.550",
         "299.440",
         "280.238",
-        "278.708",
-        "278.925"
+        "278.708"
       ],
       "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100110221",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "80",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "279.671",
+        "331.208",
+        "493.625",
+        "580.029"
+      ],
+      "Taban Puan": [
+        "315.466",
+        "302.621",
+        "281.381",
+        "279.133"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910446",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "105",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "287.681",
+        "364.478",
+        "529.600",
+        "620.419"
+      ],
+      "Taban Puan": [
+        "313.859",
+        "297.591",
+        "277.416",
+        "274.759"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110610089",
+      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "288.808",
+        "350.762",
+        "494.469",
+        "591.292"
+      ],
+      "Taban Puan": [
+        "313.636",
+        "299.634",
+        "281.285",
+        "277.887"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208110029",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "49",
+        "8",
+        "8",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "299.567",
+        "272.256",
+        "315.164",
+        "407.970"
+      ],
+      "Taban Puan": [
+        "311.546",
+        "312.803",
+        "305.411",
+        "300.654"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "109410184",
@@ -2282,18 +2241,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "313.362",
         "356.814",
         "469.835",
-        "579.059",
-        "564.279"
+        "579.059"
       ],
       "Taban Puan": [
+        "308.976",
         "298.732",
         "284.145",
-        "279.244",
-        "279.765"
+        "279.244"
       ],
       "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110410468",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "319.714",
+        "386.659",
+        "518.405",
+        ""
+      ],
+      "Taban Puan": [
+        "307.803",
+        "294.402",
+        "278.633",
+        ""
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2323,142 +2323,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "326.217",
         "362.905",
         "438.722",
-        "483.694",
-        "529.233"
+        "483.694"
       ],
       "Taban Puan": [
+        "306.626",
         "297.819",
         "287.938",
-        "290.462",
-        "283.906"
+        "290.462"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108910446",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "60",
-        "105",
-        "100"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "364.478",
-        "529.600",
-        "620.419",
-        "609.467"
-      ],
-      "Taban Puan": [
-        "297.591",
-        "277.416",
-        "274.759",
-        "274.773"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204810749",
-      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "46",
-        "41",
-        "38",
-        "43"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "374.766",
-        "405.145",
-        "565.357",
-        "315.524"
-      ],
-      "Taban Puan": [
-        "296.085",
-        "292.219",
-        "280.783",
-        "316.028"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "110410468",
-      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "386.659",
-        "518.405",
-        "",
-        "569.960"
-      ],
-      "Taban Puan": [
-        "294.402",
-        "278.633",
-        "",
-        "279.126"
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108090094",
@@ -2487,16 +2364,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "328.368",
         "391.915",
         "564.954",
-        "698.232",
-        "759.716"
+        "698.232"
       ],
       "Taban Puan": [
+        "306.230",
         "293.666",
         "273.698",
-        "266.856",
-        "260.052"
+        "266.856"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
@@ -2528,16 +2405,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "333.464",
         "397.296",
         "566.322",
-        "643.969",
-        "616.038"
+        "643.969"
       ],
       "Taban Puan": [
+        "305.315",
         "292.911",
         "273.556",
-        "272.284",
-        "274.061"
+        "272.284"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -2569,24 +2446,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "341.253",
         "404.211",
         "555.544",
-        "635.230",
-        "640.308"
+        "635.230"
       ],
       "Taban Puan": [
+        "303.946",
         "291.963",
         "274.677",
-        "273.202",
-        "271.500"
+        "273.202"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204890118",
-      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SOSYAL BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "202110277",
+      "Üniversite": "İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2598,10 +2475,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "2",
-        "2",
-        "3",
-        "5"
+        "38",
+        "39",
+        "40",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -2610,1413 +2487,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "443.806",
-        "411.588",
-        "489.529",
-        ""
+        "367.754",
+        "304.185",
+        "180.891",
+        "210.224"
       ],
       "Taban Puan": [
-        "286.815",
-        "291.378",
-        "289.742",
+        "299.470",
+        "307.089",
+        "332.855",
+        "336.823"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203910327",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "33",
+        "41",
+        "71",
+        "82"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
         ""
+      ],
+      "Taban Sıralama": [
+        "369.039",
+        "350.170",
+        "321.549",
+        "338.508"
+      ],
+      "Taban Puan": [
+        "299.257",
+        "299.721",
+        "304.357",
+        "311.292"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "108790090",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "60",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "515.972",
-        "681.351",
-        "729.531",
-        "828.276"
-      ],
-      "Taban Puan": [
-        "278.290",
-        "262.544",
-        "263.848",
-        "254.072"
-      ],
-      "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106610182",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "537.900",
-        "742.838",
-        "828.227",
-        "852.966"
-      ],
-      "Taban Puan": [
-        "275.837",
-        "257.202",
-        "254.914",
-        "252.008"
-      ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108010473",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "50",
-        "75",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "550.193",
-        "779.881",
-        "954.219",
-        "993.006"
-      ],
-      "Taban Puan": [
-        "274.499",
-        "254.152",
-        "244.417",
-        "240.999"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103310573",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "AKÇAKOCA BEY SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "45",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "557.637",
-        "738.596",
-        "845.391",
-        "877.931"
-      ],
-      "Taban Puan": [
-        "273.691",
-        "257.563",
-        "253.420",
-        "249.977"
-      ],
-      "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206010803",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "44",
-        "41",
-        "38",
-        "38"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "607.790",
-        "597.240",
-        "636.757",
-        "606.542"
-      ],
-      "Taban Puan": [
-        "268.491",
-        "270.449",
-        "273.040",
-        "275.086"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "101490468",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "60",
-        "100",
-        "100"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "621.612",
-        "939.178",
-        "1.051.459",
-        "1.012.695"
-      ],
-      "Taban Puan": [
-        "267.093",
-        "241.804",
-        "236.888",
-        "239.515"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106710296",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "55",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "626.083",
-        "815.679",
-        "940.883",
-        "952.337"
-      ],
-      "Taban Puan": [
-        "266.650",
-        "251.252",
-        "245.493",
-        "244.075"
-      ],
-      "Şehir": "KIRKLARELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101090727",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "250",
-        "250",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "674.312",
-        "1.089.827",
-        "",
-        "983.311"
-      ],
-      "Taban Puan": [
-        "262.012",
-        "231.010",
-        "",
-        "241.734"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106190068",
-      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "55",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "677.287",
-        "733.195",
-        "677.825",
-        "677.254"
-      ],
-      "Taban Puan": [
-        "261.738",
-        "258.032",
-        "268.850",
-        "267.799"
-      ],
-      "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108790023",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "688.402",
-        "894.814",
-        "957.910",
-        "999.171"
-      ],
-      "Taban Puan": [
-        "260.686",
-        "245.115",
-        "244.124",
-        "240.532"
-      ],
-      "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104510268",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "692.153",
-        "918.207",
-        "1.007.867",
-        "1.005.265"
-      ],
-      "Taban Puan": [
-        "260.324",
-        "243.363",
-        "240.239",
-        "240.072"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105190093",
-      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "694.379",
-        "899.019",
-        "981.802",
-        "981.024"
-      ],
-      "Taban Puan": [
-        "260.115",
-        "244.801",
-        "242.254",
-        "241.905"
-      ],
-      "Şehir": "ÇORUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100810498",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "711.693",
-        "876.953",
-        "930.128",
-        "882.090"
-      ],
-      "Taban Puan": [
-        "258.502",
-        "246.469",
-        "246.372",
-        "249.645"
-      ],
-      "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300410807",
-      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "13",
-        "7",
-        "3",
-        "3"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "718.584",
-        "712.069",
-        "788.520",
-        "764.564"
-      ],
-      "Taban Puan": [
-        "257.872",
-        "259.853",
-        "258.414",
-        "259.621"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110210675",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "55",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "751.148",
-        "938.018",
-        "1.037.433",
-        "972.173"
-      ],
-      "Taban Puan": [
-        "254.934",
-        "241.888",
-        "237.956",
-        "242.563"
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107790274",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "754.706",
-        "989.833",
-        "1.000.639",
-        "796.223"
-      ],
-      "Taban Puan": [
-        "254.612",
-        "238.114",
-        "240.788",
-        "256.817"
-      ],
-      "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101090734",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "180",
-        "180",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "758.156",
-        "923.565",
-        "",
-        "992.653"
-      ],
-      "Taban Puan": [
-        "254.305",
-        "242.965",
-        "",
-        "241.024"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106410484",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "769.132",
-        "1.060.382",
-        "1.129.147",
-        "1.180.905"
-      ],
-      "Taban Puan": [
-        "253.320",
-        "233.099",
-        "231.143",
-        "227.474"
-      ],
-      "Şehir": "KASTAMONU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300510481",
-      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "814.154",
-        "882.896",
-        "1.099.988",
-        "1.496.591"
-      ],
-      "Taban Puan": [
-        "249.361",
-        "246.018",
-        "233.272",
-        "204.866"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102810095",
-      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "55",
-        "45"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "898.762",
-        "1.092.088",
-        "1.196.075",
-        "1.221.115"
-      ],
-      "Taban Puan": [
-        "242.134",
-        "230.851",
-        "226.340",
-        "224.680"
-      ],
-      "Şehir": "ÇANKIRI",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106110512",
-      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "904.803",
-        "1.206.280",
-        "973.607",
-        "982.007"
-      ],
-      "Taban Puan": [
-        "241.627",
-        "222.840",
-        "242.890",
-        "241.832"
-      ],
-      "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108570491",
-      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "914.113",
-        "1.158.650",
-        "1.164.980",
-        "1.115.913"
-      ],
-      "Taban Puan": [
-        "240.824",
-        "226.195",
-        "228.568",
-        "232.043"
-      ],
-      "Şehir": "OSMANİYE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100610216",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "916.637",
-        "1.119.897",
-        "1.214.697",
-        "1.223.076"
-      ],
-      "Taban Puan": [
-        "240.608",
-        "228.913",
-        "225.010",
-        "224.541"
-      ],
-      "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300710407",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "923.309",
-        "1.092.638",
-        "1.133.363",
-        "1.091.436"
-      ],
-      "Taban Puan": [
-        "240.042",
-        "230.814",
-        "230.836",
-        "233.791"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "300210793",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "SİYASAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "10",
-        "8",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "927.547",
-        "899.320",
-        "935.357",
-        "1.069.416"
-      ],
-      "Taban Puan": [
-        "239.690",
-        "244.778",
-        "245.949",
-        "235.380"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "405210098",
-      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "6",
-        "6",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "943.900",
-        "816.657",
-        "868.691",
-        "825.047"
-      ],
-      "Taban Puan": [
-        "238.320",
-        "251.173",
-        "251.420",
-        "254.348"
-      ],
-      "Şehir": "",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300310192",
-      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "20",
-        "20",
-        "15"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "984.570",
-        "1.113.206",
-        "890.532",
-        "932.071"
-      ],
-      "Taban Puan": [
-        "234.890",
-        "229.379",
-        "249.606",
-        "245.648"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104790034",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "GÜMÜŞHANE İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "984.778",
-        "1.215.836",
-        "1.210.749",
-        "1.315.933"
-      ],
-      "Taban Puan": [
-        "234.870",
-        "222.170",
-        "225.299",
-        "218.079"
-      ],
-      "Şehir": "GÜMÜŞHANE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "403910052",
-      "Üniversite": "HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTAN-KAZAKİSTAN)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.006.928",
-        "651.543",
-        "719.560",
-        "702.748"
-      ],
-      "Taban Puan": [
-        "232.990",
-        "265.241",
-        "264.800",
-        "265.344"
-      ],
-      "Şehir": "",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101790100",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.034.653",
-        "1.252.575",
-        "1.177.480",
-        "1.235.419"
-      ],
-      "Taban Puan": [
-        "230.650",
-        "219.593",
-        "227.679",
-        "223.694"
-      ],
-      "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102390063",
-      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "50",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.065.861",
-        "1.238.482",
-        "1.236.620",
-        "1.261.073"
-      ],
-      "Taban Puan": [
-        "227.993",
-        "220.588",
-        "223.452",
-        "221.905"
-      ],
-      "Şehir": "YOZGAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101290062",
-      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası İlişkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.238.937",
-        "1.453.056",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "212.337",
-        "204.809",
-        "",
-        ""
-      ],
-      "Şehir": "ARDAHAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206010636",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "10",
-        "15",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.340.738",
-        "1.091.831",
-        "738.179",
-        "715.121"
-      ],
-      "Taban Puan": [
-        "201.574",
-        "230.870",
-        "263.044",
-        "264.172"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300910186",
-      "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.417.938",
-        "1.519.061",
-        "1.812.802",
-        ""
-      ],
-      "Taban Puan": [
-        "191.261",
-        "199.287",
-        "176.943",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101400528",
@@ -4045,13 +2569,13 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "380.559",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "297.423",
         "",
         "",
         ""
@@ -4086,19 +2610,1618 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "405.470",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "293.550",
         "",
         "",
         ""
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108010473",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "75",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "420.362",
+        "550.193",
+        "779.881",
+        "954.219"
+      ],
+      "Taban Puan": [
+        "291.319",
+        "274.499",
+        "254.152",
+        "244.417"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108790090",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "60",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "424.875",
+        "515.972",
+        "681.351",
+        "729.531"
+      ],
+      "Taban Puan": [
+        "290.664",
+        "278.290",
+        "262.544",
+        "263.848"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103310573",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "AKÇAKOCA BEY SİYASAL BİLGİLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "45",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "434.404",
+        "557.637",
+        "738.596",
+        "845.391"
+      ],
+      "Taban Puan": [
+        "289.311",
+        "273.691",
+        "257.563",
+        "253.420"
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106610182",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "436.440",
+        "537.900",
+        "742.838",
+        "828.227"
+      ],
+      "Taban Puan": [
+        "289.013",
+        "275.837",
+        "257.202",
+        "254.914"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106710296",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "478.537",
+        "626.083",
+        "815.679",
+        "940.883"
+      ],
+      "Taban Puan": [
+        "283.240",
+        "266.650",
+        "251.252",
+        "245.493"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210402033",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "479.297",
+        "",
+        "1.087.495",
+        "791.010"
+      ],
+      "Taban Puan": [
+        "283.140",
+        "",
+        "231.171",
+        "258.192"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "101490468",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "100",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "490.177",
+        "621.612",
+        "939.178",
+        "1.051.459"
+      ],
+      "Taban Puan": [
+        "281.701",
+        "267.093",
+        "241.804",
+        "236.888"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108790023",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "524.390",
+        "688.402",
+        "894.814",
+        "957.910"
+      ],
+      "Taban Puan": [
+        "277.321",
+        "260.686",
+        "245.115",
+        "244.124"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106190068",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "55",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "545.587",
+        "677.287",
+        "733.195",
+        "677.825"
+      ],
+      "Taban Puan": [
+        "274.694",
+        "261.738",
+        "258.032",
+        "268.850"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510268",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "552.319",
+        "692.153",
+        "918.207",
+        "1.007.867"
+      ],
+      "Taban Puan": [
+        "273.897",
+        "260.324",
+        "243.363",
+        "240.239"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100810498",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "564.364",
+        "711.693",
+        "876.953",
+        "930.128"
+      ],
+      "Taban Puan": [
+        "272.445",
+        "258.502",
+        "246.469",
+        "246.372"
+      ],
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190093",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "567.383",
+        "694.379",
+        "899.019",
+        "981.802"
+      ],
+      "Taban Puan": [
+        "272.084",
+        "260.115",
+        "244.801",
+        "242.254"
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "403910052",
+      "Üniversite": "HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTAN-KAZAKİSTAN)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "582.577",
+        "1.006.928",
+        "651.543",
+        "719.560"
+      ],
+      "Taban Puan": [
+        "270.310",
+        "232.990",
+        "265.241",
+        "264.800"
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106410484",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "588.502",
+        "769.132",
+        "1.060.382",
+        "1.129.147"
+      ],
+      "Taban Puan": [
+        "269.628",
+        "253.320",
+        "233.099",
+        "231.143"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101090727",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "250",
+        "250",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "591.316",
+        "674.312",
+        "1.089.827",
+        ""
+      ],
+      "Taban Puan": [
+        "269.312",
+        "262.012",
+        "231.010",
+        ""
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "405210098",
+      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "6",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "591.798",
+        "943.900",
+        "816.657",
+        "868.691"
+      ],
+      "Taban Puan": [
+        "269.260",
+        "238.320",
+        "251.173",
+        "251.420"
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110210675",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "55",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "602.982",
+        "751.148",
+        "938.018",
+        "1.037.433"
+      ],
+      "Taban Puan": [
+        "267.988",
+        "254.934",
+        "241.888",
+        "237.956"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790274",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "630.858",
+        "754.706",
+        "989.833",
+        "1.000.639"
+      ],
+      "Taban Puan": [
+        "264.884",
+        "254.612",
+        "238.114",
+        "240.788"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102810095",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "55",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "659.415",
+        "898.762",
+        "1.092.088",
+        "1.196.075"
+      ],
+      "Taban Puan": [
+        "261.807",
+        "242.134",
+        "230.851",
+        "226.340"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106110512",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "662.210",
+        "904.803",
+        "1.206.280",
+        "973.607"
+      ],
+      "Taban Puan": [
+        "261.521",
+        "241.627",
+        "222.840",
+        "242.890"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206010803",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "44",
+        "41",
+        "38",
+        "38"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "663.517",
+        "607.790",
+        "597.240",
+        "636.757"
+      ],
+      "Taban Puan": [
+        "261.384",
+        "268.491",
+        "270.449",
+        "273.040"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300510481",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "668.488",
+        "814.154",
+        "882.896",
+        "1.099.988"
+      ],
+      "Taban Puan": [
+        "260.861",
+        "249.361",
+        "246.018",
+        "233.272"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101090734",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "180",
+        "180",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "682.375",
+        "758.156",
+        "923.565",
+        ""
+      ],
+      "Taban Puan": [
+        "259.427",
+        "254.305",
+        "242.965",
+        ""
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570491",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "706.613",
+        "914.113",
+        "1.158.650",
+        "1.164.980"
+      ],
+      "Taban Puan": [
+        "256.911",
+        "240.824",
+        "226.195",
+        "228.568"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100610216",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "718.321",
+        "916.637",
+        "1.119.897",
+        "1.214.697"
+      ],
+      "Taban Puan": [
+        "255.709",
+        "240.608",
+        "228.913",
+        "225.010"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204810749",
+      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "46",
+        "41",
+        "38",
+        "43"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "743.114",
+        "374.766",
+        "405.145",
+        "565.357"
+      ],
+      "Taban Puan": [
+        "253.219",
+        "296.085",
+        "292.219",
+        "280.783"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "104790034",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "GÜMÜŞHANE İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "781.169",
+        "984.778",
+        "1.215.836",
+        "1.210.749"
+      ],
+      "Taban Puan": [
+        "249.501",
+        "234.870",
+        "222.170",
+        "225.299"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300410807",
+      "Üniversite": "ULUSLARARASI KIBRIS ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "13",
+        "7",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "783.020",
+        "718.584",
+        "712.069",
+        "788.520"
+      ],
+      "Taban Puan": [
+        "249.326",
+        "257.872",
+        "259.853",
+        "258.414"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204890118",
+      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "2",
+        "3",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "812.233",
+        "443.806",
+        "411.588",
+        "489.529"
+      ],
+      "Taban Puan": [
+        "246.511",
+        "286.815",
+        "291.378",
+        "289.742"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "102390063",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "50",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "826.207",
+        "1.065.861",
+        "1.238.482",
+        "1.236.620"
+      ],
+      "Taban Puan": [
+        "245.176",
+        "227.993",
+        "220.588",
+        "223.452"
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101790100",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "828.900",
+        "1.034.653",
+        "1.252.575",
+        "1.177.480"
+      ],
+      "Taban Puan": [
+        "244.913",
+        "230.650",
+        "219.593",
+        "227.679"
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300710407",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "862.068",
+        "923.309",
+        "1.092.638",
+        "1.133.363"
+      ],
+      "Taban Puan": [
+        "241.830",
+        "240.042",
+        "230.814",
+        "230.836"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300210793",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "SİYASAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "10",
+        "8",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "964.534",
+        "927.547",
+        "899.320",
+        "935.357"
+      ],
+      "Taban Puan": [
+        "232.413",
+        "239.690",
+        "244.778",
+        "245.949"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101290062",
+      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası İlişkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.023.758",
+        "1.238.937",
+        "1.453.056",
+        ""
+      ],
+      "Taban Puan": [
+        "226.958",
+        "212.337",
+        "204.809",
+        ""
+      ],
+      "Şehir": "ARDAHAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300910186",
+      "Üniversite": "KIBRIS AMERİKAN ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "SİYASAL BİLGİLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.222.689",
+        "1.417.938",
+        "1.519.061",
+        "1.812.802"
+      ],
+      "Taban Puan": [
+        "207.124",
+        "191.261",
+        "199.287",
+        "176.943"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "300310192",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "20",
+        "20",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.236.560",
+        "984.570",
+        "1.113.206",
+        "890.532"
+      ],
+      "Taban Puan": [
+        "205.541",
+        "234.890",
+        "229.379",
+        "249.606"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402817",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.236.650",
+        "",
+        "1.000.582",
+        ""
+      ],
+      "Taban Puan": [
+        "205.532",
+        "",
+        "237.338",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201200262",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.279.921",
+        "",
+        "1.589.996",
+        "1.641.104"
+      ],
+      "Taban Puan": [
+        "200.185",
+        "",
+        "192.327",
+        "194.613"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206010636",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "10",
+        "15",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.409.423",
+        "1.340.738",
+        "1.091.831",
+        "738.179"
+      ],
+      "Taban Puan": [
+        "172.193",
+        "201.574",
+        "230.870",
+        "263.044"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "202910206",
@@ -4130,13 +4253,13 @@
         "",
         "",
         "",
-        "420.891"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "298.369"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4169,15 +4292,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "731.911",
-        "859.724",
-        "545.225"
+        "859.724"
       ],
       "Taban Puan": [
         "",
+        "",
         "258.144",
-        "252.195",
-        "281.982"
+        "252.195"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -4211,57 +4334,16 @@
       "Taban Sıralama": [
         "",
         "",
-        "935.949",
-        "927.054"
+        "",
+        "935.949"
       ],
       "Taban Puan": [
         "",
         "",
-        "245.901",
-        "246.043"
+        "",
+        "245.901"
       ],
       "Şehir": "MERSİN",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201200262",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "40",
-        "42",
-        "34"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.589.996",
-        "1.641.104",
-        "845.961"
-      ],
-      "Taban Puan": [
-        "",
-        "192.327",
-        "194.613",
-        "252.597"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -4292,15 +4374,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.528.451",
-        "1.842.416",
-        "705.444"
+        "1.842.416"
       ],
       "Taban Puan": [
         "",
+        "",
         "198.441",
-        "169.976",
-        "265.084"
+        "169.976"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4376,13 +4458,13 @@
         "",
         "",
         "",
-        "961.894"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "243.340"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4416,14 +4498,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.394.115",
-        "811.145"
+        "",
+        "1.394.115"
       ],
       "Taban Puan": [
         "",
         "",
-        "212.467",
-        "255.524"
+        "",
+        "212.467"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4456,15 +4538,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "919.158",
-        "906.390",
-        "566.781"
+        "906.390"
       ],
       "Taban Puan": [
         "",
+        "",
         "243.291",
-        "248.287",
-        "279.480"
+        "248.287"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4511,47 +4593,6 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210402817",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.000.582",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "237.338",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
       "Program Kodu": "210402824",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
@@ -4579,59 +4620,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.122.032",
         "",
+        "1.122.032",
         ""
       ],
       "Taban Puan": [
         "",
-        "228.759",
         "",
+        "228.759",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210402033",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İlişkiler (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.087.495",
-        "791.010",
-        "365.918"
-      ],
-      "Taban Puan": [
-        "",
-        "231.171",
-        "258.192",
-        "306.999"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210402040",
@@ -4661,15 +4661,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.123.492",
-        "782.620",
-        "701.860"
+        "782.620"
       ],
       "Taban Puan": [
         "",
+        "",
         "228.655",
-        "258.956",
-        "265.430"
+        "258.956"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4703,14 +4703,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.671.013",
-        "1.542.252"
+        "",
+        "1.671.013"
       ],
       "Taban Puan": [
         "",
         "",
-        "192.201",
-        "201.211"
+        "",
+        "192.201"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4743,15 +4743,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.490.415",
-        "852.727",
-        "825.279"
+        "852.727"
       ],
       "Taban Puan": [
         "",
+        "",
         "201.755",
-        "252.783",
-        "254.328"
+        "252.783"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4786,13 +4786,13 @@
         "",
         "",
         "",
-        "721.104"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "263.609"
+        ""
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -4826,14 +4826,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.125.741",
-        ""
+        "",
+        "1.125.741"
       ],
       "Taban Puan": [
         "",
         "",
-        "231.394",
-        ""
+        "",
+        "231.394"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -5071,14 +5071,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.695.017",
         "",
+        "1.695.017",
         ""
       ],
       "Taban Puan": [
         "",
-        "171.728",
         "",
+        "171.728",
         ""
       ],
       "Şehir": "KIBRIS",

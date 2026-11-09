@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "45.722",
         "43.959",
         "47.612",
-        "48.607",
-        "59.232"
+        "48.607"
       ],
       "Taban Puan": [
+        "469.051",
         "452.390",
         "438.088",
-        "460.783",
-        "447.058"
+        "460.783"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "58.243",
         "63.804",
         "74.165",
-        "84.889",
-        "96.749"
+        "84.889"
       ],
       "Taban Puan": [
+        "455.701",
         "431.569",
         "408.273",
-        "422.628",
-        "408.547"
+        "422.628"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "94.451",
         "103.572",
         "120.472",
-        "140.039",
-        "165.110"
+        "140.039"
       ],
       "Taban Puan": [
+        "419.682",
         "396.186",
         "368.140",
-        "378.277",
-        "356.315"
+        "378.277"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111610767",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Maden Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "191.683",
+        "228.961",
+        "275.808",
+        ""
+      ],
+      "Taban Puan": [
+        "349.770",
+        "325.611",
+        "296.843",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "200.210",
         "220.179",
         "254.522",
-        "263.636",
-        ""
+        "263.636"
       ],
       "Taban Puan": [
+        "345.237",
         "329.020",
         "303.276",
-        "319.158",
-        ""
+        "319.158"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -191,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "207.970",
         "223.263",
         "256.889",
-        "265.466",
-        "289.265"
+        "265.466"
       ],
       "Taban Puan": [
+        "341.387",
         "327.812",
         "302.525",
-        "318.518",
-        "301.408"
+        "318.518"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111610767",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Maden Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "228.961",
-        "275.808",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "325.611",
-        "296.843",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,59 +273,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "225.842",
         "271.949",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "332.845",
         "310.738",
-        "",
         "",
         ""
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103010188",
-      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Maden Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "276.418",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "309.329",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "241.578",
         "284.412",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "325.990",
         "306.913",
-        "",
         "",
         ""
       ],
       "Şehir": "MUĞLA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102910322",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Maden Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "15",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "290.742",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "305.055",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,18 +355,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "256.396",
         "295.092",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "319.910",
         "303.824",
-        "",
         "",
         ""
       ],
       "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102910322",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Maden Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "15",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "264.107",
+        "290.742",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "316.872",
+        "305.055",
+        "",
+        ""
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,18 +437,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "274.235",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "312.976",
         "",
         "",
         ""
       ],
       "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103010188",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Maden Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "276.315",
+        "276.418",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.194",
+        "309.329",
+        "",
+        ""
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105390397",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Maden Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "20",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "295.075",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "305.499",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -572,47 +613,6 @@
         ""
       ],
       "Şehir": "GÜMÜŞHANE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105390397",
-      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Maden Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "20",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {

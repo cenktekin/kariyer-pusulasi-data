@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "849",
         "727",
         "827",
-        "1.392",
-        "1.584"
+        "1.392"
       ],
       "Taban Puan": [
+        "462.855",
         "449.966",
         "478.160",
-        "457.989",
-        "461.566"
+        "457.989"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.246",
         "943",
         "683",
-        "1.349",
-        "2.645"
+        "1.349"
       ],
       "Taban Puan": [
+        "454.430",
         "444.593",
         "482.375",
-        "458.601",
-        "449.713"
+        "458.601"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,16 +109,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.085",
         "2.187",
         "2.693",
-        "2.667",
-        "3.139"
+        "2.667"
       ],
       "Taban Puan": [
+        "443.750",
         "427.578",
         "454.933",
-        "444.648",
-        "445.879"
+        "444.648"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203111633",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "5.761",
+        "14.287",
+        "15.689",
+        "22.623"
+      ],
+      "Taban Puan": [
+        "422.664",
+        "386.903",
+        "417.609",
+        "398.501"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "6.237",
         "8.795",
         "11.437",
-        "18.491",
-        "28.000"
+        "18.491"
       ],
       "Taban Puan": [
+        "420.947",
         "398.079",
         "424.723",
-        "403.501",
-        "394.422"
+        "403.501"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,60 +232,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.175",
         "10.773",
         "20.382",
-        "21.282",
-        "20.947"
+        "21.282"
       ],
       "Taban Puan": [
+        "414.950",
         "393.520",
         "411.459",
-        "400.015",
-        "402.032"
+        "400.015"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206010284",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "5",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "12.462",
-        "9.467",
-        "9.415",
-        "11.999"
-      ],
-      "Taban Puan": [
-        "390.119",
-        "428.759",
-        "418.687",
-        "415.573"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101110572",
@@ -273,26 +273,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "11.578",
         "13.693",
         "21.922",
-        "21.623",
-        "25.082"
+        "21.623"
       ],
       "Taban Puan": [
+        "407.010",
         "387.900",
         "409.743",
-        "399.636",
-        "397.295"
+        "399.636"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203111633",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Program Kodu": "104800549",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -302,10 +302,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "7",
-        "10",
-        "10",
-        "10"
+        "20",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -314,16 +314,57 @@
         ""
       ],
       "Taban Sıralama": [
-        "14.287",
-        "15.689",
-        "22.623",
-        "21.035"
+        "11.929",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "386.903",
-        "417.609",
-        "398.501",
-        "401.926"
+        "406.309",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208450851",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "4",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "12.094",
+        "23.879",
+        "30.007",
+        "35.689"
+      ],
+      "Taban Puan": [
+        "405.975",
+        "374.506",
+        "401.670",
+        "386.269"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -355,105 +396,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "13.142",
         "15.343",
         "29.480",
-        "34.343",
-        "30.295"
+        "34.343"
       ],
       "Taban Puan": [
+        "403.931",
         "385.209",
         "402.142",
-        "387.297",
-        "392.228"
+        "387.297"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "200690538",
-      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "7",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "20.198",
-        "25.401",
-        "26.591",
-        "33.166"
-      ],
-      "Taban Puan": [
-        "378.633",
-        "406.003",
-        "394.370",
-        "389.664"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103410324",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "23.039",
-        "45.732",
-        "46.926",
-        "45.375"
-      ],
-      "Taban Puan": [
-        "375.408",
-        "389.782",
-        "378.360",
-        "380.467"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208450851",
-      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "206010284",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)",
@@ -466,10 +425,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
         "4",
-        "4",
-        "4"
+        "5",
+        "6",
+        "6"
       ],
       "Yerleşen": [
         "",
@@ -478,16 +437,57 @@
         ""
       ],
       "Taban Sıralama": [
-        "23.879",
-        "30.007",
-        "35.689",
-        "34.844"
+        "15.178",
+        "12.462",
+        "9.467",
+        "9.415"
       ],
       "Taban Puan": [
-        "374.506",
-        "401.670",
-        "386.269",
-        "388.260"
+        "400.467",
+        "390.119",
+        "428.759",
+        "418.687"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210301375",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "5",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "15.510",
+        "27.036",
+        "48.514",
+        "52.241"
+      ],
+      "Taban Puan": [
+        "399.923",
+        "371.244",
+        "388.075",
+        "375.125"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -519,57 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.656",
         "25.863",
         "33.706",
-        "49.321",
-        "42.029"
+        "49.321"
       ],
       "Taban Puan": [
+        "399.682",
         "372.352",
         "398.504",
-        "376.870",
-        "382.770"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210301375",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "5",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "27.036",
-        "48.514",
-        "52.241",
-        "44.189"
-      ],
-      "Taban Puan": [
-        "371.244",
-        "388.075",
-        "375.125",
-        "381.292"
+        "376.870"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -601,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.898",
         "27.955",
         "47.271",
-        "48.231",
-        "43.141"
+        "48.231"
       ],
       "Taban Puan": [
+        "399.223",
         "370.370",
         "388.811",
-        "377.547",
-        "381.974"
+        "377.547"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -642,18 +601,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "20.263",
         "31.218",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "392.991",
         "367.405",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103410324",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "20.798",
+        "23.039",
+        "45.732",
+        "46.926"
+      ],
+      "Taban Puan": [
+        "392.350",
+        "375.408",
+        "389.782",
+        "378.360"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200690538",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "22.016",
+        "20.198",
+        "25.401",
+        "26.591"
+      ],
+      "Taban Puan": [
+        "390.880",
+        "378.633",
+        "406.003",
+        "394.370"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
@@ -683,16 +724,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "26.302",
         "37.868",
         "50.431",
-        "38.135",
-        "44.707"
+        "38.135"
       ],
       "Taban Puan": [
+        "386.031",
         "362.202",
         "386.922",
-        "384.462",
-        "380.906"
+        "384.462"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -724,57 +765,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "26.436",
         "39.720",
         "55.805",
-        "49.599",
-        "39.971"
+        "49.599"
       ],
       "Taban Puan": [
+        "385.897",
         "360.876",
         "383.759",
-        "376.689",
-        "384.256"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206510994",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "7",
-        "8",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "44.144",
-        "55.266",
-        "59.429",
-        "50.759"
-      ],
-      "Taban Puan": [
-        "357.871",
-        "384.069",
-        "371.058",
-        "376.976"
+        "376.689"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -806,59 +806,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "33.698",
         "44.827",
         "84.084",
-        "85.644",
-        "90.493"
+        "85.644"
       ],
       "Taban Puan": [
+        "378.919",
         "357.469",
         "369.781",
-        "358.992",
-        "357.429"
+        "358.992"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100710215",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "45.766",
-        "100.390",
-        "93.065",
-        "82.832"
-      ],
-      "Taban Puan": [
-        "356.874",
-        "363.218",
-        "356.083",
-        "360.544"
-      ],
-      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,19 +847,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "38.901",
         "47.625",
         "86.085",
-        "92.235",
-        ""
+        "92.235"
       ],
       "Taban Puan": [
+        "374.628",
         "355.730",
         "368.944",
-        "356.392",
-        ""
+        "356.392"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206510994",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "7",
+        "8",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "41.461",
+        "44.144",
+        "55.266",
+        "59.429"
+      ],
+      "Taban Puan": [
+        "372.681",
+        "357.871",
+        "384.069",
+        "371.058"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100710215",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "42.037",
+        "45.766",
+        "100.390",
+        "93.065"
+      ],
+      "Taban Puan": [
+        "372.255",
+        "356.874",
+        "363.218",
+        "356.083"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210402467",
@@ -929,60 +970,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "44.110",
         "54.270",
         "64.241",
-        "66.863",
-        "51.995"
+        "66.863"
       ],
       "Taban Puan": [
+        "370.765",
         "351.899",
         "379.162",
-        "367.333",
-        "376.233"
+        "367.333"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210402474",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "56.000",
-        "842.765",
-        "307.752",
-        "495.529"
-      ],
-      "Taban Puan": [
-        "350.994",
-        "251.629",
-        "306.200",
-        "281.994"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "208750719",
@@ -1011,179 +1011,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "47.555",
         "62.404",
         "108.138",
-        "",
         ""
       ],
       "Taban Puan": [
+        "368.453",
         "347.729",
         "360.306",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208151267",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "SANAT, TASARIM VE MİMARLIK FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "3",
-        "3",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "71.338",
-        "95.411",
-        "113.544",
-        "104.900"
-      ],
-      "Taban Puan": [
-        "343.680",
-        "365.116",
-        "348.835",
-        "352.058"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202710668",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "12",
-        "12",
-        "3",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "71.509",
-        "73.464",
-        "97.442",
-        "97.612"
-      ],
-      "Taban Puan": [
-        "343.607",
-        "374.572",
-        "354.437",
-        "354.723"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206210167",
-      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "5",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "74.990",
-        "87.975",
-        "69.963",
-        "71.231"
-      ],
-      "Taban Puan": [
-        "342.176",
-        "368.140",
-        "365.858",
-        "365.830"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205090338",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "6",
-        "6",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "76.501",
-        "101.279",
-        "104.571",
-        ""
-      ],
-      "Taban Puan": [
-        "341.558",
-        "362.885",
-        "351.849",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -1216,24 +1052,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "49.939",
         "79.454",
         "79.879",
-        "93.941",
-        "75.614"
+        "93.941"
       ],
       "Taban Puan": [
+        "366.863",
         "340.372",
         "371.588",
-        "355.734",
-        "363.740"
+        "355.734"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "200851581",
-      "Üniversite": "BEYKOZ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Program Kodu": "206210167",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1245,173 +1081,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "9",
-        "10",
         "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "87.141",
-        "67.894",
-        "68.204",
-        "62.117"
-      ],
-      "Taban Puan": [
-        "337.392",
-        "377.313",
-        "366.699",
-        "370.442"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102710245",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "100.619",
-        "160.657",
-        "152.069",
-        "142.249"
-      ],
-      "Taban Puan": [
-        "332.615",
-        "344.129",
-        "337.436",
-        "340.395"
-      ],
-      "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106910258",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "105.546",
-        "168.667",
-        "172.312",
-        "155.640"
-      ],
-      "Taban Puan": [
-        "331.051",
-        "342.050",
-        "332.330",
-        "336.709"
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108890292",
-      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "18",
-        "20",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "115.647",
-        "173.305",
-        "189.619",
-        "196.975"
-      ],
-      "Taban Puan": [
-        "327.979",
-        "340.894",
-        "328.257",
-        "326.908"
-      ],
-      "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207510797",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
+        "4",
         "5",
-        "6",
-        "4",
         "4"
       ],
       "Yerleşen": [
@@ -1421,16 +1093,180 @@
         ""
       ],
       "Taban Sıralama": [
-        "118.324",
-        "117.783",
-        "146.266",
-        "111.944"
+        "54.326",
+        "74.990",
+        "87.975",
+        "69.963"
       ],
       "Taban Puan": [
-        "327.201",
-        "356.985",
-        "339.032",
-        "349.625"
+        "364.186",
+        "342.176",
+        "368.140",
+        "365.858"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103100423",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "56.341",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "362.992",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112800101",
+      "Üniversite": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "60.093",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "360.868",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208151267",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "SANAT, TASARIM VE MİMARLIK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "3",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "63.278",
+        "71.338",
+        "95.411",
+        "113.544"
+      ],
+      "Taban Puan": [
+        "359.141",
+        "343.680",
+        "365.116",
+        "348.835"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202710668",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "12",
+        "12",
+        "3",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "63.368",
+        "71.509",
+        "73.464",
+        "97.442"
+      ],
+      "Taban Puan": [
+        "359.095",
+        "343.607",
+        "374.572",
+        "354.437"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1462,24 +1298,147 @@
         ""
       ],
       "Taban Sıralama": [
+        "64.705",
         "122.113",
         "194.532",
-        "52.143",
-        "147.945"
+        "52.143"
       ],
       "Taban Puan": [
+        "358.382",
         "326.093",
         "335.706",
-        "375.184",
-        "338.788"
+        "375.184"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "107990143",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ",
+      "Program Kodu": "205090338",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "6",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "64.835",
+        "76.501",
+        "101.279",
+        "104.571"
+      ],
+      "Taban Puan": [
+        "358.322",
+        "341.558",
+        "362.885",
+        "351.849"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200851581",
+      "Üniversite": "BEYKOZ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "67.160",
+        "87.141",
+        "67.894",
+        "68.204"
+      ],
+      "Taban Puan": [
+        "357.180",
+        "337.392",
+        "377.313",
+        "366.699"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207510797",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "6",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "82.898",
+        "118.324",
+        "117.783",
+        "146.266"
+      ],
+      "Taban Puan": [
+        "349.814",
+        "327.201",
+        "356.985",
+        "339.032"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102710245",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Radyo, Televizyon ve Sinema",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1491,10 +1450,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "23",
-        "25",
-        "25",
-        "20"
+        "36",
+        "40",
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -1503,18 +1462,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "128.049",
-        "181.412",
-        "174.805",
-        "228.608"
+        "83.078",
+        "100.619",
+        "160.657",
+        "152.069"
       ],
       "Taban Puan": [
-        "324.421",
-        "338.845",
-        "331.714",
-        "320.405"
+        "349.739",
+        "332.615",
+        "344.129",
+        "337.436"
       ],
-      "Şehir": "TEKİRDAĞ",
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106910258",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "89.442",
+        "105.546",
+        "168.667",
+        "172.312"
+      ],
+      "Taban Puan": [
+        "347.118",
+        "331.051",
+        "342.050",
+        "332.330"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108890292",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "18",
+        "20",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "90.844",
+        "115.647",
+        "173.305",
+        "189.619"
+      ],
+      "Taban Puan": [
+        "346.556",
+        "327.979",
+        "340.894",
+        "328.257"
+      ],
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1544,24 +1585,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "100.523",
         "134.390",
         "255.278",
-        "201.798",
-        "285.765"
+        "201.798"
       ],
       "Taban Puan": [
+        "342.852",
         "322.733",
         "322.805",
-        "325.606",
-        "310.373"
+        "325.606"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102910737",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Program Kodu": "107990143",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "GÜZEL SANATLAR, TASARIM VE MİMARLIK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Radyo, Televizyon ve Sinema",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1573,10 +1614,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "36",
-        "40",
-        "65",
-        "60"
+        "23",
+        "25",
+        "25",
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -1585,100 +1626,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "145.797",
-        "220.678",
-        "145.601",
-        "218.248"
+        "117.661",
+        "128.049",
+        "181.412",
+        "174.805"
       ],
       "Taban Puan": [
-        "319.826",
-        "329.810",
-        "339.221",
-        "322.466"
+        "336.969",
+        "324.421",
+        "338.845",
+        "331.714"
       ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "210200437",
-      "Üniversite": "ANTALYA BELEK ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "3",
-        "3",
-        "2"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "154.635",
-        "205.958",
-        "166.043",
-        "119.701"
-      ],
-      "Taban Puan": [
-        "317.724",
-        "333.064",
-        "333.864",
-        "347.062"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "100310634",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "160.674",
-        "226.533",
-        "209.840",
-        "192.463"
-      ],
-      "Taban Puan": [
-        "316.327",
-        "328.575",
-        "323.895",
-        "327.886"
-      ],
-      "Şehir": "AYDIN",
+      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1708,18 +1667,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "119.746",
         "173.694",
         "256.066",
-        "251.520",
-        "226.346"
+        "251.520"
       ],
       "Taban Puan": [
+        "336.297",
         "313.442",
         "322.648",
-        "315.757",
-        "320.859"
+        "315.757"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210200437",
+      "Üniversite": "ANTALYA BELEK ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "3",
+        "3",
+        "2"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "121.305",
+        "154.635",
+        "205.958",
+        "166.043"
+      ],
+      "Taban Puan": [
+        "335.786",
+        "317.724",
+        "333.064",
+        "333.864"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102910737",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "122.692",
+        "145.797",
+        "220.678",
+        "145.601"
+      ],
+      "Taban Puan": [
+        "335.335",
+        "319.826",
+        "329.810",
+        "339.221"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100310634",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "133.544",
+        "160.674",
+        "226.533",
+        "209.840"
+      ],
+      "Taban Puan": [
+        "332.029",
+        "316.327",
+        "328.575",
+        "323.895"
+      ],
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1749,59 +1831,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "140.018",
         "181.743",
         "283.492",
-        "299.647",
-        "261.360"
+        "299.647"
       ],
       "Taban Puan": [
+        "330.139",
         "311.723",
         "317.562",
-        "307.475",
-        "314.448"
+        "307.475"
       ],
       "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105611032",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Uzaktan Öğretim)",
-      "Öğretim Türü": "Uzaktan Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "90",
-        "100",
-        "300",
-        "150"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "194.763",
-        "407.760",
-        "175.699",
-        "194.506"
-      ],
-      "Taban Puan": [
-        "309.121",
-        "298.338",
-        "331.498",
-        "327.428"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1831,18 +1872,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "148.715",
         "200.446",
         "334.292",
-        "375.937",
-        "309.052"
+        "375.937"
       ],
       "Taban Puan": [
+        "327.696",
         "308.017",
         "309.028",
-        "296.223",
-        "306.639"
+        "296.223"
       ],
       "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105611032",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Uzaktan Öğretim)",
+      "Öğretim Türü": "Uzaktan Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "90",
+        "100",
+        "300",
+        "150"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "154.643",
+        "194.763",
+        "407.760",
+        "175.699"
+      ],
+      "Taban Puan": [
+        "326.064",
+        "309.121",
+        "298.338",
+        "331.498"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1872,59 +1954,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "170.109",
         "229.247",
         "341.183",
-        "340.475",
-        "296.567"
+        "340.475"
       ],
       "Taban Puan": [
+        "322.085",
         "302.741",
         "307.959",
-        "301.222",
-        "308.620"
+        "301.222"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103510298",
-      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "90",
-        "85"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "255.279",
-        "430.558",
-        "487.231",
-        "371.519"
-      ],
-      "Taban Puan": [
-        "298.318",
-        "295.270",
-        "282.392",
-        "297.529"
-      ],
-      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1954,18 +1995,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "185.998",
         "258.244",
         "410.016",
-        "421.687",
-        "340.761"
+        "421.687"
       ],
       "Taban Puan": [
+        "318.200",
         "297.856",
         "298.036",
-        "290.256",
-        "301.874"
+        "290.256"
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203711593",
+      "Üniversite": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "23",
+        "25",
+        "31",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "191.559",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "316.886",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "103510298",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "90",
+        "85"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "195.918",
+        "255.279",
+        "430.558",
+        "487.231"
+      ],
+      "Taban Puan": [
+        "315.887",
+        "298.318",
+        "295.270",
+        "282.392"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112190256",
+      "Üniversite": "TRABZON ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "27",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "229.528",
+        "331.602",
+        "438.175",
+        ""
+      ],
+      "Taban Puan": [
+        "308.672",
+        "286.865",
+        "294.263",
+        ""
+      ],
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1995,15 +2159,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "232.127",
         "281.605",
         "431.858",
-        "",
         ""
       ],
       "Taban Puan": [
+        "308.138",
         "294.190",
         "295.101",
-        "",
         ""
       ],
       "Şehir": "DİYARBAKIR",
@@ -2036,16 +2200,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "234.722",
         "305.141",
         "462.881",
-        "492.149",
-        "389.288"
+        "492.149"
       ],
       "Taban Puan": [
+        "307.599",
         "290.638",
         "291.098",
-        "281.819",
-        "295.114"
+        "281.819"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -2077,59 +2241,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "252.651",
         "320.470",
         "439.424",
-        "483.936",
-        "415.191"
+        "483.936"
       ],
       "Taban Puan": [
+        "304.080",
         "288.419",
         "294.094",
-        "282.774",
-        "291.758"
+        "282.774"
       ],
       "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112190256",
-      "Üniversite": "TRABZON ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "27",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "331.602",
-        "438.175",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "286.865",
-        "294.263",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2159,16 +2282,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "266.324",
         "367.561",
         "499.511",
-        "548.551",
-        "378.756"
+        "548.551"
       ],
       "Taban Puan": [
+        "301.536",
         "282.124",
         "286.638",
-        "275.580",
-        "296.513"
+        "275.580"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
@@ -2200,264 +2323,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "278.163",
         "418.201",
         "597.295",
-        "729.266",
-        "528.231"
+        "729.266"
       ],
       "Taban Puan": [
+        "299.361",
         "275.875",
         "275.739",
-        "257.607",
-        "278.333"
+        "257.607"
       ],
       "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410269",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "90",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "480.667",
-        "695.389",
-        "883.361",
-        "591.102"
-      ],
-      "Taban Puan": [
-        "268.698",
-        "265.699",
-        "243.718",
-        "271.653"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105090135",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "23",
-        "25",
-        "60",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "503.015",
-        "967.436",
-        "470.978",
-        "676.045"
-      ],
-      "Taban Puan": [
-        "266.252",
-        "239.895",
-        "284.272",
-        "263.135"
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110290168",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "519.310",
-        "538.025",
-        "495.027",
-        "443.523"
-      ],
-      "Taban Puan": [
-        "264.491",
-        "282.193",
-        "281.497",
-        "288.208"
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106410306",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "526.770",
-        "787.244",
-        "868.868",
-        "836.503"
-      ],
-      "Taban Puan": [
-        "263.692",
-        "256.850",
-        "245.002",
-        "248.424"
-      ],
-      "Şehir": "KASTAMONU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105390282",
-      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "530.989",
-        "713.951",
-        "554.791",
-        "503.633"
-      ],
-      "Taban Puan": [
-        "263.238",
-        "263.883",
-        "274.918",
-        "281.082"
-      ],
-      "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102690120",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "75",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "549.486",
-        "751.620",
-        "825.546",
-        "793.631"
-      ],
-      "Taban Puan": [
-        "261.282",
-        "260.248",
-        "248.854",
-        "252.245"
-      ],
-      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2487,24 +2364,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "328.866",
         "556.596",
         "643.897",
-        "647.931",
-        "997.344"
+        "647.931"
       ],
       "Taban Puan": [
+        "290.689",
         "260.533",
         "270.863",
-        "265.389",
-        "234.383"
+        "265.389"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "107190044",
-      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "Program Kodu": "105090135",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
       "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "23",
+        "25",
+        "60",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "337.225",
+        "503.015",
+        "967.436",
+        "470.978"
+      ],
+      "Taban Puan": [
+        "289.373",
+        "266.252",
+        "239.895",
+        "284.272"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410269",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Radyo, Televizyon ve Sinema",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2518,8 +2436,8 @@
       "Kontenjan": [
         "36",
         "40",
-        "50",
-        "50"
+        "90",
+        "90"
       ],
       "Yerleşen": [
         "",
@@ -2528,23 +2446,23 @@
         ""
       ],
       "Taban Sıralama": [
-        "578.641",
-        "673.723",
-        "537.489",
-        "539.006"
+        "357.353",
+        "480.667",
+        "695.389",
+        "883.361"
       ],
       "Taban Puan": [
-        "258.219",
-        "267.852",
-        "276.760",
-        "277.165"
+        "286.257",
+        "268.698",
+        "265.699",
+        "243.718"
       ],
-      "Şehir": "MARDİN",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107790208",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Program Kodu": "106410306",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Radyo, Televizyon ve Sinema",
@@ -2557,10 +2475,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "32",
-        "35",
-        "35",
-        "30"
+        "36",
+        "40",
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -2569,18 +2487,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "599.540",
-        "680.360",
-        "522.418",
-        "562.738"
+        "363.610",
+        "526.770",
+        "787.244",
+        "868.868"
       ],
       "Taban Puan": [
-        "256.073",
-        "267.189",
-        "278.431",
-        "274.598"
+        "285.316",
+        "263.692",
+        "256.850",
+        "245.002"
       ],
-      "Şehir": "HATAY",
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2610,18 +2528,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "392.594",
         "611.404",
         "840.841",
-        "878.077",
-        "856.267"
+        "878.077"
       ],
       "Taban Puan": [
+        "281.054",
         "254.843",
         "251.809",
-        "244.183",
-        "246.666"
+        "244.183"
       ],
       "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290168",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "399.194",
+        "519.310",
+        "538.025",
+        "495.027"
+      ],
+      "Taban Puan": [
+        "280.107",
+        "264.491",
+        "282.193",
+        "281.497"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102690120",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "75",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "404.277",
+        "549.486",
+        "751.620",
+        "825.546"
+      ],
+      "Taban Puan": [
+        "279.389",
+        "261.282",
+        "260.248",
+        "248.854"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105390282",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "415.220",
+        "530.989",
+        "713.951",
+        "554.791"
+      ],
+      "Taban Puan": [
+        "277.855",
+        "263.238",
+        "263.883",
+        "274.918"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107790208",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "32",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "423.917",
+        "599.540",
+        "680.360",
+        "522.418"
+      ],
+      "Taban Puan": [
+        "276.650",
+        "256.073",
+        "267.189",
+        "278.431"
+      ],
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2651,18 +2733,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "434.457",
         "615.122",
         "783.919",
-        "796.126",
-        "783.857"
+        "796.126"
       ],
       "Taban Puan": [
+        "275.207",
         "254.468",
         "257.170",
-        "251.492",
-        "253.111"
+        "251.492"
       ],
       "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107190044",
+      "Üniversite": "MARDİN ARTUKLU ÜNİVERSİTESİ",
+      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "444.489",
+        "578.641",
+        "673.723",
+        "537.489"
+      ],
+      "Taban Puan": [
+        "273.879",
+        "258.219",
+        "267.852",
+        "276.760"
+      ],
+      "Şehir": "MARDİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2692,16 +2815,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "460.175",
         "686.226",
         "598.439",
-        "582.271",
-        "555.986"
+        "582.271"
       ],
       "Taban Puan": [
+        "271.833",
         "247.214",
         "275.615",
-        "271.998",
-        "275.313"
+        "271.998"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -2733,16 +2856,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "481.170",
         "693.055",
         "793.117",
-        "",
-        "552.562"
+        ""
       ],
       "Taban Puan": [
+        "269.155",
         "246.514",
         "256.296",
-        "",
-        "275.676"
+        ""
       ],
       "Şehir": "KARABÜK",
       "Ücret": "Ücretsiz"
@@ -2774,16 +2897,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "493.555",
         "700.263",
         "861.562",
-        "761.144",
-        "822.495"
+        "761.144"
       ],
       "Taban Puan": [
+        "267.583",
         "245.771",
         "249.865",
-        "254.671",
-        "249.670"
+        "254.671"
       ],
       "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
@@ -2815,16 +2938,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "528.240",
         "732.672",
         "922.647",
-        "883.738",
-        ""
+        "883.738"
       ],
       "Taban Puan": [
+        "263.323",
         "242.433",
         "244.124",
-        "243.685",
-        ""
+        "243.685"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
@@ -2856,16 +2979,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "579.031",
         "802.372",
         "982.556",
-        "1.034.627",
-        "1.088.772"
+        "1.034.627"
       ],
       "Taban Puan": [
+        "257.318",
         "235.144",
         "238.445",
-        "230.358",
-        "226.279"
+        "230.358"
       ],
       "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
@@ -2897,60 +3020,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "580.622",
         "808.799",
         "998.188",
-        "1.055.895",
-        "1.144.784"
+        "1.055.895"
       ],
       "Taban Puan": [
+        "257.137",
         "234.454",
         "236.947",
-        "228.453",
-        "221.211"
+        "228.453"
       ],
       "Şehir": "YOZGAT",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300311039",
-      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
-      "Fakülte": "İLETİŞİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "843.159",
-        "838.923",
-        "832.277",
-        "1.338.433"
-      ],
-      "Taban Puan": [
-        "230.693",
-        "251.984",
-        "248.251",
-        "200.927"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "109590036",
@@ -2979,16 +3061,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "707.327",
         "901.282",
         "1.028.632",
-        "1.017.000",
-        "1.094.612"
+        "1.017.000"
       ],
       "Taban Puan": [
+        "242.716",
         "224.085",
         "233.984",
-        "231.928",
-        "225.756"
+        "231.928"
       ],
       "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
@@ -3020,67 +3102,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "721.071",
         "907.207",
         "1.029.900",
-        "1.063.442",
-        "1.138.640"
+        "1.063.442"
       ],
       "Taban Puan": [
+        "241.100",
         "223.394",
         "233.855",
-        "227.785",
-        "221.776"
+        "227.785"
       ],
       "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203090157",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "14",
-        "9",
-        "5",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "942.358",
-        "1.157.967",
-        "1.139.499",
-        "297.808"
-      ],
-      "Taban Puan": [
-        "219.075",
-        "220.632",
-        "220.897",
-        "308.422"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300210721",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Program Kodu": "405210123",
+      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)",
+      "Program Adı": "Radyo, Televizyon ve Sinema",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -3090,8 +3131,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "20",
-        "15",
+        "8",
+        "10",
         "10",
         "10"
       ],
@@ -3102,16 +3143,57 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.012.491",
-        "1.022.285",
-        "939.933",
-        "1.134.971"
+        "778.532",
+        "1.061.015",
+        "872.879",
+        "892.540"
       ],
       "Taban Puan": [
-        "209.671",
-        "234.615",
-        "238.709",
-        "222.107"
+        "234.381",
+        "202.126",
+        "248.795",
+        "242.912"
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300311039",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "İLETİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "815.474",
+        "843.159",
+        "838.923",
+        "832.277"
+      ],
+      "Taban Puan": [
+        "229.842",
+        "230.693",
+        "251.984",
+        "248.251"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -3143,60 +3225,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "920.027",
         "1.049.524",
         "1.045.327",
-        "1.227.404",
-        ""
+        "1.227.404"
       ],
       "Taban Puan": [
+        "215.445",
         "203.999",
         "232.342",
-        "212.578",
-        ""
+        "212.578"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "405210123",
-      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
-      "Fakülte": "İletişim Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.061.015",
-        "872.879",
-        "892.540",
-        "843.848"
-      ],
-      "Taban Puan": [
-        "202.126",
-        "248.795",
-        "242.912",
-        "247.777"
-      ],
-      "Şehir": "",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210402481",
@@ -3225,23 +3266,105 @@
         ""
       ],
       "Taban Sıralama": [
+        "956.672",
         "1.129.000",
         "952.326",
-        "556.646",
-        "525.107"
+        "556.646"
       ],
       "Taban Puan": [
+        "209.352",
         "188.156",
         "241.343",
-        "274.719",
-        "278.674"
+        "274.719"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209010016",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "210402474",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "962.542",
+        "56.000",
+        "842.765",
+        "307.752"
+      ],
+      "Taban Puan": [
+        "208.309",
+        "350.994",
+        "251.629",
+        "306.200"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300210721",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "15",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.007.529",
+        "1.012.491",
+        "1.022.285",
+        "939.933"
+      ],
+      "Taban Puan": [
+        "199.041",
+        "209.671",
+        "234.615",
+        "238.709"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201650170",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyo, Televizyon ve Sinema (%50 İndirimli)",
@@ -3254,10 +3377,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "27",
-        "31",
-        "28",
-        "21"
+        "10",
+        "9",
+        "10",
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -3266,18 +3389,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.161.622",
-        "1.313.466",
-        "913.676",
-        "801.707"
+        "1.008.288",
+        "",
+        "840.464",
+        "1.125.396"
       ],
       "Taban Puan": [
-        "175.958",
-        "200.442",
-        "241.033",
-        "251.520"
+        "198.859",
+        "",
+        "251.844",
+        "222.192"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "GAZİANTEP",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -3307,142 +3430,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.059.537",
         "1.163.930",
         "1.370.777",
-        "995.196",
-        "1.275.370"
+        "995.196"
       ],
       "Taban Puan": [
+        "182.756",
         "174.408",
         "189.486",
-        "233.855",
-        "208.218"
+        "233.855"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "112800101",
-      "Üniversite": "ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103100423",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "GÜZEL SANATLAR FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104800549",
-      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyo, Televizyon ve Sinema",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "202990330",
@@ -3473,14 +3473,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "519.831",
-        ""
+        "",
+        "519.831"
       ],
       "Taban Puan": [
         "",
         "",
-        "278.719",
-        ""
+        "",
+        "278.719"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3513,15 +3513,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "929.949",
-        "928.991",
-        "524.754"
+        "928.991"
       ],
       "Taban Puan": [
         "",
+        "",
         "243.436",
-        "239.676",
-        "278.713"
+        "239.676"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -3556,20 +3556,20 @@
         "",
         "",
         "",
-        "969.799"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "236.799"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "201650170",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Program Kodu": "209010016",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "İLETİŞİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyo, Televizyon ve Sinema (%50 İndirimli)",
@@ -3582,10 +3582,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "10",
-        "9",
-        "10",
-        "7"
+        "27",
+        "31",
+        "28",
+        "21"
       ],
       "Yerleşen": [
         "",
@@ -3595,17 +3595,17 @@
       ],
       "Taban Sıralama": [
         "",
-        "840.464",
-        "1.125.396",
-        "692.795"
+        "1.161.622",
+        "1.313.466",
+        "913.676"
       ],
       "Taban Puan": [
         "",
-        "251.844",
-        "222.192",
-        "261.510"
+        "175.958",
+        "200.442",
+        "241.033"
       ],
-      "Şehir": "GAZİANTEP",
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -3636,15 +3636,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.020.006",
-        "1.144.468",
-        "410.131"
+        "1.144.468"
       ],
       "Taban Puan": [
         "",
+        "",
         "234.843",
-        "220.429",
-        "292.405"
+        "220.429"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3719,14 +3719,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.348.193",
-        "1.005.341"
+        "",
+        "1.348.193"
       ],
       "Taban Puan": [
         "",
         "",
-        "200.070",
-        "233.678"
+        "",
+        "200.070"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3760,14 +3760,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.473.875",
-        "1.482.687"
+        "",
+        "1.473.875"
       ],
       "Taban Puan": [
         "",
         "",
-        "183.667",
-        "171.200"
+        "",
+        "183.667"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3800,15 +3800,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "926.457",
-        "892.708",
-        "261.099"
+        "892.708"
       ],
       "Taban Puan": [
         "",
+        "",
         "243.757",
-        "242.897",
-        "314.486"
+        "242.897"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3842,14 +3842,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.399.574",
-        "1.431.723"
+        "",
+        "1.399.574"
       ],
       "Taban Puan": [
         "",
         "",
-        "194.033",
-        "186.741"
+        "",
+        "194.033"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3882,15 +3882,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.382.057",
         "",
-        "799.675"
+        "1.382.057",
+        ""
       ],
       "Taban Puan": [
         "",
-        "186.604",
         "",
-        "251.699"
+        "186.604",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3925,13 +3925,13 @@
         "",
         "",
         "",
-        "1.098.453"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "225.407"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3978,6 +3978,47 @@
       "Ücret": "%50 İndirimli"
     },
     {
+      "Program Kodu": "203090157",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyo, Televizyon ve Sinema (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "14",
+        "9",
+        "5",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "942.358",
+        "1.157.967",
+        "1.139.499"
+      ],
+      "Taban Puan": [
+        "",
+        "219.075",
+        "220.632",
+        "220.897"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
       "Program Kodu": "203090159",
       "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
       "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
@@ -4007,13 +4048,13 @@
         "",
         "",
         "",
-        "692.610"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "261.527"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4087,15 +4128,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.418.013",
         "",
-        "1.029.100"
+        "1.418.013",
+        ""
       ],
       "Taban Puan": [
         "",
-        "170.242",
         "",
-        "231.559"
+        "170.242",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4129,14 +4170,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.462.276",
-        ""
+        "",
+        "1.462.276"
       ],
       "Taban Puan": [
         "",
         "",
-        "185.525",
-        ""
+        "",
+        "185.525"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4170,14 +4211,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "486.860",
-        "538.546"
+        "",
+        "486.860"
       ],
       "Taban Puan": [
         "",
         "",
-        "282.436",
-        "277.214"
+        "",
+        "282.436"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4211,55 +4252,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "979.709",
-        "1.011.138"
-      ],
-      "Taban Puan": [
         "",
-        "",
-        "235.214",
-        "233.157"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203711593",
-      "Üniversite": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyo, Televizyon ve Sinema (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "23",
-        "25",
-        "31",
-        "31"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        "467.487"
+        "979.709"
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "285.279"
+        "235.214"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4292,14 +4292,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.262.723",
         "",
+        "1.262.723",
         ""
       ],
       "Taban Puan": [
         "",
-        "207.930",
         "",
+        "207.930",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -4334,14 +4334,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "756.371",
-        "580.384"
+        "",
+        "756.371"
       ],
       "Taban Puan": [
         "",
         "",
-        "255.099",
-        "272.758"
+        "",
+        "255.099"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4374,15 +4374,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "866.269",
-        "702.651",
-        "548.260"
+        "702.651"
       ],
       "Taban Puan": [
         "",
+        "",
         "249.419",
-        "260.134",
-        "276.148"
+        "260.134"
       ],
       "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
@@ -4415,15 +4415,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "702.395",
         "",
-        "312.651"
+        "702.395",
+        ""
       ],
       "Taban Puan": [
         "",
-        "265.008",
         "",
-        "306.084"
+        "265.008",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4457,14 +4457,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.507.521",
-        "1.490.154"
+        "",
+        "1.507.521"
       ],
       "Taban Puan": [
         "",
         "",
-        "177.176",
-        "164.701"
+        "",
+        "177.176"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -4620,15 +4620,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "684.050",
-        "690.046",
-        "689.511"
+        "690.046"
       ],
       "Taban Puan": [
         "",
+        "",
         "266.823",
-        "261.342",
-        "261.819"
+        "261.342"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"

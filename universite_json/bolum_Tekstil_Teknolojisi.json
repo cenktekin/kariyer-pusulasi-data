@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "630.155",
         "700.066",
         "734.296",
-        "758.838",
-        "608.594"
+        "758.838"
       ],
       "Taban Puan": [
+        "320.980",
         "313.489",
         "312.439",
-        "310.916",
-        "319.743"
+        "310.916"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "767.981",
         "817.529",
         "909.704",
-        "998.352",
-        "932.488"
+        "998.352"
       ],
       "Taban Puan": [
+        "306.874",
         "302.857",
         "297.916",
-        "290.758",
-        "288.548"
+        "290.758"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "771.613",
         "857.259",
         "901.321",
-        "926.073",
-        "893.046"
+        "926.073"
       ],
       "Taban Puan": [
+        "306.530",
         "299.504",
         "298.558",
-        "296.431",
-        "291.821"
+        "296.431"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "844.289",
         "917.974",
         "987.252",
-        "1.121.659",
-        "1.064.863"
+        "1.121.659"
       ],
       "Taban Puan": [
+        "299.943",
         "294.568",
         "292.142",
-        "281.611",
-        "278.317"
+        "281.611"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102950684",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "ADANA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.024.675",
-        "1.271.575",
-        "1.108.299",
-        "1.200.108"
-      ],
-      "Taban Puan": [
-        "286.302",
-        "272.950",
-        "282.576",
-        "268.875"
-      ],
-      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,24 +191,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "982.245",
         "1.107.703",
         "1.219.576",
-        "1.382.783",
-        "1.234.754"
+        "1.382.783"
       ],
       "Taban Puan": [
+        "288.261",
         "280.177",
         "276.305",
-        "264.037",
-        "266.589"
+        "264.037"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109751196",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "İNEGÖL MESLEK YÜKSEKOKULU",
+      "Program Kodu": "102950684",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "ADANA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tekstil Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -261,10 +220,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "50",
-        "50",
-        "50",
-        "45"
+        "25",
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -273,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.272.315",
-        "1.463.638",
-        "1.632.189",
-        "1.470.587"
+        "983.385",
+        "1.024.675",
+        "1.271.575",
+        "1.108.299"
       ],
       "Taban Puan": [
-        "268.531",
-        "261.091",
-        "248.974",
-        "252.336"
+        "288.169",
+        "286.302",
+        "272.950",
+        "282.576"
       ],
-      "Şehir": "BURSA",
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106951255",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "HEREKE ASIM KOCABIYIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.111.721",
+        "1.299.502",
+        "1.610.993",
+        "1.670.610"
+      ],
+      "Taban Puan": [
+        "278.056",
+        "266.649",
+        "252.412",
+        "246.755"
+      ],
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.142.219",
         "1.296.289",
         "1.653.818",
-        "1.809.629",
-        ""
+        "1.809.629"
       ],
       "Taban Puan": [
+        "275.752",
         "266.870",
         "249.934",
-        "239.003",
-        ""
+        "239.003"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -355,59 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.176.753",
         "1.297.642",
         "1.554.331",
-        "1.691.101",
-        "1.556.301"
+        "1.691.101"
       ],
       "Taban Puan": [
+        "273.149",
         "266.775",
         "255.725",
-        "245.595",
-        "247.645"
+        "245.595"
       ],
       "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106951255",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "HEREKE ASIM KOCABIYIK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.299.502",
-        "1.610.993",
-        "1.670.610",
-        "1.609.537"
-      ],
-      "Taban Puan": [
-        "266.649",
-        "252.412",
-        "246.755",
-        "244.861"
-      ],
-      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,59 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.202.853",
         "1.310.959",
         "1.499.374",
-        "1.616.778",
-        "1.575.649"
+        "1.616.778"
       ],
       "Taban Puan": [
+        "271.203",
         "265.858",
         "258.956",
-        "249.871",
-        "246.628"
+        "249.871"
       ],
       "Şehir": "YALOVA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112350737",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "MUSTAFA ÇIKRIKÇIOĞLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.365.817",
-        "1.604.358",
-        "1.700.159",
-        "1.514.364"
-      ],
-      "Taban Puan": [
-        "262.072",
-        "252.799",
-        "245.078",
-        "249.912"
-      ],
-      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,24 +437,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.239.799",
         "1.397.562",
         "1.675.467",
-        "1.827.651",
-        "1.846.375"
+        "1.827.651"
       ],
       "Taban Puan": [
+        "268.484",
         "259.914",
         "248.689",
-        "238.027",
-        "233.340"
+        "238.027"
       ],
       "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102950993",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "ADANA ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "112350737",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "MUSTAFA ÇIKRIKÇIOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tekstil Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -548,10 +466,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
+        "40",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -560,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.406.532",
-        "1.584.842",
-        "1.613.012",
-        "1.643.459"
+        "1.240.346",
+        "1.365.817",
+        "1.604.358",
+        "1.700.159"
       ],
       "Taban Puan": [
-        "259.297",
-        "253.941",
-        "250.088",
-        "243.122"
+        "268.445",
+        "262.072",
+        "252.799",
+        "245.078"
       ],
-      "Şehir": "ADANA",
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109751196",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "İNEGÖL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.249.048",
+        "1.272.315",
+        "1.463.638",
+        "1.632.189"
+      ],
+      "Taban Puan": [
+        "267.819",
+        "268.531",
+        "261.091",
+        "248.974"
+      ],
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,59 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.292.035",
         "1.443.281",
         "1.663.804",
-        "1.773.627",
-        "1.686.852"
+        "1.773.627"
       ],
       "Taban Puan": [
+        "264.709",
         "256.775",
         "249.361",
-        "240.961",
-        "240.922"
+        "240.961"
       ],
       "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104290367",
-      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.459.343",
-        "1.690.215",
-        "1.622.923",
-        "1.488.475"
-      ],
-      "Taban Puan": [
-        "255.683",
-        "247.846",
-        "249.512",
-        "251.333"
-      ],
-      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,18 +601,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.305.244",
         "1.490.420",
         "1.746.162",
-        "",
         ""
       ],
       "Taban Puan": [
+        "263.750",
         "253.578",
         "244.669",
-        "",
         ""
       ],
       "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102950993",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "ADANA ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.309.631",
+        "1.406.532",
+        "1.584.842",
+        "1.613.012"
+      ],
+      "Taban Puan": [
+        "263.438",
+        "259.297",
+        "253.941",
+        "250.088"
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,24 +683,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.331.463",
         "1.500.533",
         "1.579.114",
-        "1.696.072",
-        "1.619.090"
+        "1.696.072"
       ],
       "Taban Puan": [
+        "261.871",
         "252.894",
         "254.283",
-        "245.312",
-        "244.367"
+        "245.312"
       ],
       "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106050681",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "104290367",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tekstil Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -765,141 +724,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.510.608",
-        "1.733.825",
-        "1.585.793",
-        "1.305.224"
+        "1.343.847",
+        "1.459.343",
+        "1.690.215",
+        "1.622.923"
       ],
       "Taban Puan": [
-        "252.201",
-        "245.367",
-        "251.679",
-        "262.097"
+        "260.973",
+        "255.683",
+        "247.846",
+        "249.512"
       ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103090261",
-      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "DİYARBAKIR TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.531.491",
-        "1.727.044",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "250.763",
-        "245.755",
-        "",
-        ""
-      ],
-      "Şehir": "DİYARBAKIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112551898",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.569.346",
-        "1.767.337",
-        "1.963.709",
-        "1.988.568"
-      ],
-      "Taban Puan": [
-        "248.184",
-        "243.480",
-        "230.760",
-        "227.088"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100190152",
-      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "BOLU TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.577.265",
-        "1.824.216",
-        "1.979.312",
-        "1.841.587"
-      ],
-      "Taban Puan": [
-        "247.647",
-        "240.292",
-        "229.941",
-        "233.561"
-      ],
-      "Şehir": "BOLU",
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,18 +765,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.353.205",
         "1.612.294",
         "1.668.034",
-        "1.815.293",
-        "1.716.346"
+        "1.815.293"
       ],
       "Taban Puan": [
+        "260.302",
         "245.267",
         "249.120",
-        "238.694",
-        "239.473"
+        "238.694"
       ],
       "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103090261",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "DİYARBAKIR TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.359.767",
+        "1.531.491",
+        "1.727.044",
+        ""
+      ],
+      "Taban Puan": [
+        "259.844",
+        "250.763",
+        "245.755",
+        ""
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100190152",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "BOLU TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.383.654",
+        "1.577.265",
+        "1.824.216",
+        "1.979.312"
+      ],
+      "Taban Puan": [
+        "258.135",
+        "247.647",
+        "240.292",
+        "229.941"
+      ],
+      "Şehir": "BOLU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,18 +888,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.389.708",
         "1.617.282",
         "1.797.643",
-        "1.873.877",
-        "1.874.664"
+        "1.873.877"
       ],
       "Taban Puan": [
+        "257.711",
         "244.925",
         "241.764",
-        "235.527",
-        "232.056"
+        "235.527"
       ],
       "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106050681",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.397.877",
+        "1.510.608",
+        "1.733.825",
+        "1.585.793"
+      ],
+      "Taban Puan": [
+        "257.131",
+        "252.201",
+        "245.367",
+        "251.679"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111851029",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "FERİZLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.401.455",
+        "1.655.907",
+        "1.826.807",
+        "1.991.239"
+      ],
+      "Taban Puan": [
+        "256.879",
+        "242.298",
+        "240.152",
+        "229.323"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106750268",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "LÜLEBURGAZ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.404.749",
+        "1.703.240",
+        "1.845.759",
+        "1.994.064"
+      ],
+      "Taban Puan": [
+        "256.648",
+        "239.075",
+        "239.090",
+        "229.177"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112551898",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.434.159",
+        "1.569.346",
+        "1.767.337",
+        "1.963.709"
+      ],
+      "Taban Puan": [
+        "254.558",
+        "248.184",
+        "243.480",
+        "230.760"
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,16 +1093,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.455.784",
         "1.624.855",
         "1.852.518",
-        "1.899.138",
-        "1.840.686"
+        "1.899.138"
       ],
       "Taban Puan": [
+        "253.030",
         "244.416",
         "238.715",
-        "234.171",
-        "233.603"
+        "234.171"
       ],
       "Şehir": "OSMANİYE",
       "Ücret": "Ücretsiz"
@@ -1052,59 +1134,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.467.204",
         "1.652.000",
         "1.887.605",
-        "1.890.402",
-        "1.547.234"
+        "1.890.402"
       ],
       "Taban Puan": [
+        "252.231",
         "242.565",
         "236.769",
-        "234.640",
-        "248.131"
+        "234.640"
       ],
       "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111851029",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "FERİZLİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.655.907",
-        "1.826.807",
-        "1.991.239",
-        "1.903.095"
-      ],
-      "Taban Puan": [
-        "242.298",
-        "240.152",
-        "229.323",
-        "230.787"
-      ],
-      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,59 +1175,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.492.212",
         "1.663.783",
         "1.910.531",
-        "1.963.939",
-        "1.926.803"
+        "1.963.939"
       ],
       "Taban Puan": [
+        "250.481",
         "241.757",
         "235.507",
-        "230.748",
-        "229.741"
+        "230.748"
       ],
       "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106750268",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "LÜLEBURGAZ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.703.240",
-        "1.845.759",
-        "1.994.064",
-        "2.031.391"
-      ],
-      "Taban Puan": [
-        "239.075",
-        "239.090",
-        "229.177",
-        "225.286"
-      ],
-      "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,18 +1216,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.506.279",
         "1.703.349",
         "1.865.900",
-        "2.011.983",
-        "2.088.215"
+        "2.011.983"
       ],
       "Taban Puan": [
+        "249.497",
         "239.067",
         "237.976",
-        "228.246",
-        "222.913"
+        "228.246"
       ],
       "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101700101",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "BEŞİRİ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.544.150",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "246.843",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112270950",
+      "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+      "Fakülte": "TÜRKOĞLU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.547.285",
+        "1.845.633",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "246.620",
+        "229.252",
+        "",
+        ""
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1257,18 +1339,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.560.322",
         "1.728.917",
         "1.945.865",
-        "2.075.017",
-        ""
+        "2.075.017"
       ],
       "Taban Puan": [
+        "245.704",
         "237.320",
         "233.581",
-        "225.010",
-        ""
+        "225.010"
       ],
       "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109150114",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "GERZE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tekstil Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.568.379",
+        "1.763.947",
+        "1.951.026",
+        "1.977.472"
+      ],
+      "Taban Puan": [
+        "245.142",
+        "234.912",
+        "233.296",
+        "230.040"
+      ],
+      "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1298,16 +1421,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.571.544",
         "1.756.082",
         "1.833.545",
-        "",
-        "1.907.089"
+        ""
       ],
       "Taban Puan": [
+        "244.918",
         "235.456",
         "239.773",
-        "",
-        "230.609"
+        ""
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
@@ -1339,141 +1462,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.582.802",
         "1.757.160",
         "1.969.378",
-        "1.959.563",
-        "2.001.494"
+        "1.959.563"
       ],
       "Taban Puan": [
+        "244.134",
         "235.382",
         "232.306",
-        "230.977",
-        "226.541"
+        "230.977"
       ],
       "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109150114",
-      "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "GERZE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.763.947",
-        "1.951.026",
-        "1.977.472",
-        "2.070.737"
-      ],
-      "Taban Puan": [
-        "234.912",
-        "233.296",
-        "230.040",
-        "223.632"
-      ],
-      "Şehir": "SİNOP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112270950",
-      "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
-      "Fakülte": "TÜRKOĞLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.845.633",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "229.252",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101700101",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "BEŞİRİ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tekstil Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BATMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1504,15 +1504,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.544.634",
         "",
-        "2.063.628"
+        "2.544.634",
+        ""
       ],
       "Taban Puan": [
         "",
-        "199.653",
         "",
-        "223.926"
+        "199.653",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

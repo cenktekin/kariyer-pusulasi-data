@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "97.777",
         "142.166",
         "220.974",
-        "237.672",
-        "242.191"
+        "237.672"
       ],
       "Taban Puan": [
+        "343.844",
         "320.729",
         "329.757",
-        "318.327",
-        "317.854"
+        "318.327"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "167.517",
         "207.928",
         "302.836",
-        "320.735",
-        "346.444"
+        "320.735"
       ],
       "Taban Puan": [
+        "322.747",
         "306.598",
         "314.184",
-        "304.197",
-        "301.053"
+        "304.197"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,100 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "215.227",
         "309.148",
         "396.476",
-        "410.352",
-        "388.104"
+        "410.352"
       ],
       "Taban Puan": [
+        "311.648",
         "290.058",
         "299.910",
-        "291.683",
-        "295.272"
+        "291.683"
       ],
       "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108690268",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "TURİZM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "334.238",
-        "467.550",
-        "420.992",
-        "498.269"
-      ],
-      "Taban Puan": [
-        "286.512",
-        "290.516",
-        "290.338",
-        "281.675"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111890193",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "TURİZM FAKÜLTESİ (Sapanca)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "349.805",
-        "499.501",
-        "504.327",
-        "487.028"
-      ],
-      "Taban Puan": [
-        "284.451",
-        "286.640",
-        "280.442",
-        "282.982"
-      ],
-      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,18 +150,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "251.895",
         "358.589",
         "501.759",
-        "451.585",
-        "468.893"
+        "451.585"
       ],
       "Taban Puan": [
+        "304.231",
         "283.287",
         "286.378",
-        "286.570",
-        "285.116"
+        "286.570"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111890193",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "TURİZM FAKÜLTESİ (Sapanca)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "252.351",
+        "349.805",
+        "499.501",
+        "504.327"
+      ],
+      "Taban Puan": [
+        "304.149",
+        "284.451",
+        "286.640",
+        "280.442"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108690268",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "TURİZM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "256.582",
+        "334.238",
+        "467.550",
+        "420.992"
+      ],
+      "Taban Puan": [
+        "303.328",
+        "286.512",
+        "290.516",
+        "290.338"
+      ],
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "269.359",
         "404.920",
         "481.575",
-        "518.943",
-        "494.040"
+        "518.943"
       ],
       "Taban Puan": [
+        "300.969",
         "277.449",
         "288.789",
-        "278.817",
-        "282.168"
+        "278.817"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -314,57 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "327.805",
         "474.956",
         "593.617",
-        "570.292",
-        "533.958"
+        "570.292"
       ],
       "Taban Puan": [
+        "290.857",
         "269.331",
         "276.139",
-        "273.258",
-        "277.711"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107010704",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "TURİZM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "559.670",
-        "752.447",
-        "845.931",
-        "843.369"
-      ],
-      "Taban Puan": [
-        "260.215",
-        "260.171",
-        "247.039",
-        "247.819"
+        "273.258"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -396,64 +355,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "392.631",
         "603.882",
         "800.106",
-        "879.669",
-        ""
+        "879.669"
       ],
       "Taban Puan": [
+        "281.049",
         "255.630",
         "255.640",
-        "244.047",
-        ""
+        "244.047"
       ],
       "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112572448",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "TURİZM FAKÜLTESİ (Eğirdir)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "623.483",
-        "798.080",
-        "905.833",
-        ""
-      ],
-      "Taban Puan": [
-        "253.609",
-        "255.829",
-        "241.735",
-        ""
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110290155",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Program Kodu": "107010704",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "TURİZM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Rekreasyon Yönetimi",
@@ -466,10 +384,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "25",
-        "45",
-        "40"
+        "40",
+        "40",
+        "65",
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -478,59 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "645.573",
-        "798.613",
-        "832.698",
-        "821.004"
+        "394.673",
+        "559.670",
+        "752.447",
+        "845.931"
       ],
       "Taban Puan": [
-        "251.370",
-        "255.778",
-        "248.216",
-        "249.798"
+        "280.747",
+        "260.215",
+        "260.171",
+        "247.039"
       ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103290223",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "TAVŞANLI UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "677.150",
-        "776.786",
-        "896.158",
-        "899.270"
-      ],
-      "Taban Puan": [
-        "248.138",
-        "257.846",
-        "242.587",
-        "242.912"
-      ],
-      "Şehir": "KÜTAHYA",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,18 +437,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "426.358",
         "728.606",
         "861.329",
-        "915.595",
-        "996.225"
+        "915.595"
       ],
       "Taban Puan": [
+        "276.317",
         "242.844",
         "249.884",
-        "240.868",
-        "234.482"
+        "240.868"
       ],
       "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112572448",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "TURİZM FAKÜLTESİ (Eğirdir)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "427.882",
+        "623.483",
+        "798.080",
+        "905.833"
+      ],
+      "Taban Puan": [
+        "276.102",
+        "253.609",
+        "255.829",
+        "241.735"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103290223",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "TAVŞANLI UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "470.676",
+        "677.150",
+        "776.786",
+        "896.158"
+      ],
+      "Taban Puan": [
+        "270.482",
+        "248.138",
+        "257.846",
+        "242.587"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290155",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "TURİZM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "500.349",
+        "645.573",
+        "798.613",
+        "832.698"
+      ],
+      "Taban Puan": [
+        "266.732",
+        "251.370",
+        "255.778",
+        "248.216"
+      ],
+      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "506.329",
         "740.351",
         "1.071.357",
-        "704.838",
-        ""
+        "704.838"
       ],
       "Taban Puan": [
+        "265.988",
         "241.647",
         "229.754",
-        "259.926",
-        ""
+        "259.926"
       ],
       "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
@@ -642,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "524.569",
         "806.761",
         "933.012",
-        "924.742",
-        "1.018.269"
+        "924.742"
       ],
       "Taban Puan": [
+        "263.753",
         "234.671",
         "243.148",
-        "240.051",
-        "232.527"
+        "240.051"
       ],
       "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
@@ -683,182 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "579.693",
         "817.781",
         "1.014.721",
-        "983.701",
-        "1.119.698"
+        "983.701"
       ],
       "Taban Puan": [
+        "257.243",
         "233.484",
         "235.368",
-        "234.850",
-        "223.490"
+        "234.850"
       ],
       "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108570529",
-      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "KADİRLİ UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "904.886",
-        "1.038.413",
-        "921.998",
-        "1.152.982"
-      ],
-      "Taban Puan": [
-        "223.665",
-        "233.025",
-        "240.299",
-        "220.444"
-      ],
-      "Şehir": "OSMANİYE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104390163",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "ZİLE DİNÇERLER TURİZM İŞLETMECİLİĞİ VE OTELCİLİK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "935.793",
-        "1.058.816",
-        "1.158.036",
-        ""
-      ],
-      "Taban Puan": [
-        "219.887",
-        "231.012",
-        "219.175",
-        ""
-      ],
-      "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106390213",
-      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi (Ermenek)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "45",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "944.565",
-        "1.050.933",
-        "1.059.282",
-        ""
-      ],
-      "Taban Puan": [
-        "218.800",
-        "231.794",
-        "228.153",
-        ""
-      ],
-      "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109090056",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "TURİZM İŞLETMECİLİĞİ VE OTELCİLİK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Rekreasyon Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "967.359",
-        "1.062.642",
-        "1.101.833",
-        "1.288.028"
-      ],
-      "Taban Puan": [
-        "215.873",
-        "230.630",
-        "224.318",
-        "206.810"
-      ],
-      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,18 +724,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "617.361",
         "1.041.289",
         "1.355.122",
-        "1.074.105",
-        "1.473.991"
+        "1.074.105"
       ],
       "Taban Puan": [
+        "252.920",
         "205.327",
         "192.901",
-        "226.828",
-        "175.406"
+        "226.828"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570529",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "KADİRLİ UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "627.403",
+        "904.886",
+        "1.038.413",
+        "921.998"
+      ],
+      "Taban Puan": [
+        "251.770",
+        "223.665",
+        "233.025",
+        "240.299"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106390213",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi (Ermenek)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "45",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "643.228",
+        "944.565",
+        "1.050.933",
+        "1.059.282"
+      ],
+      "Taban Puan": [
+        "249.956",
+        "218.800",
+        "231.794",
+        "228.153"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390163",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "ZİLE DİNÇERLER TURİZM İŞLETMECİLİĞİ VE OTELCİLİK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "712.713",
+        "935.793",
+        "1.058.816",
+        "1.158.036"
+      ],
+      "Taban Puan": [
+        "242.082",
+        "219.887",
+        "231.012",
+        "219.175"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109090056",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "TURİZM İŞLETMECİLİĞİ VE OTELCİLİK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Rekreasyon Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "773.336",
+        "967.359",
+        "1.062.642",
+        "1.101.833"
+      ],
+      "Taban Puan": [
+        "234.992",
+        "215.873",
+        "230.630",
+        "224.318"
+      ],
+      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     }
   ]

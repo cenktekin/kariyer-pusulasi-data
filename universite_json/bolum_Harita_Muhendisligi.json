@@ -27,15 +27,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "63.747",
         "71.643",
         "82.049",
-        "",
         ""
       ],
       "Taban Puan": [
+        "449.924",
         "424.080",
         "400.568",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -68,15 +68,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "65.125",
         "80.749",
         "93.449",
-        "",
         ""
       ],
       "Taban Puan": [
+        "448.517",
         "415.764",
         "390.029",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "83.829",
         "100.206",
         "132.820",
-        "154.392",
-        "177.870"
+        "154.392"
       ],
       "Taban Puan": [
+        "429.708",
         "398.953",
         "359.572",
-        "369.024",
-        "348.896"
+        "369.024"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -150,15 +150,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "106.626",
         "122.043",
         "137.188",
-        "",
         ""
       ],
       "Taban Puan": [
+        "408.626",
         "382.156",
         "356.701",
-        "",
         ""
       ],
       "Şehir": "ANKARA",
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "161.811",
         "190.766",
         "248.565",
-        "290.991",
-        ""
+        "290.991"
       ],
       "Taban Puan": [
+        "367.331",
         "341.836",
         "305.229",
-        "310.311",
-        ""
+        "310.311"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -232,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "183.102",
         "212.913",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "354.432",
         "332.028",
-        "",
         "",
         ""
       ],
@@ -273,15 +273,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "209.799",
         "241.202",
         "290.593",
-        "",
         ""
       ],
       "Taban Puan": [
+        "340.491",
         "321.106",
         "292.644",
-        "",
         ""
       ],
       "Şehir": "KOCAELİ",
@@ -314,14 +314,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "231.474",
         "279.854",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "330.359",
         "308.296",
-        "",
         "",
         ""
       ],
@@ -355,14 +355,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "236.929",
         "282.697",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "328.012",
         "307.437",
-        "",
         "",
         ""
       ],
@@ -396,59 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "250.602",
         "288.392",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "322.237",
         "305.745",
-        "",
         "",
         ""
       ],
       "Şehir": "MERSİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105710184",
-      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Harita Mühendisliği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "290.917",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "305.009",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,14 +437,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "251.647",
         "293.426",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "321.822",
         "304.285",
-        "",
         "",
         ""
       ],
@@ -519,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "253.968",
         "298.034",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "320.872",
         "302.979",
-        "",
         "",
         ""
       ],
       "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105710184",
+      "Üniversite": "İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita Mühendisliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "255.236",
+        "290.917",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "320.371",
+        "305.009",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,14 +560,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "256.250",
         "298.905",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "319.973",
         "302.732",
-        "",
         "",
         ""
       ],
@@ -601,18 +601,141 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "271.457",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "314.029",
         "",
         "",
         ""
       ],
       "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107090295",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "275.903",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.337",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110390286",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "285.107",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "308.951",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190219",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Harita Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "296.849",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "304.867",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -739,88 +862,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107090295",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Harita Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108190219",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Harita Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "NİĞDE",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "108570690",
       "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
       "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
@@ -900,47 +941,6 @@
         ""
       ],
       "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110390286",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Harita Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {

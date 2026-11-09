@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "100751318",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "KUMLUCA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.282.685",
-        "1.542.464",
-        "1.722.144",
-        "1.545.864"
-      ],
-      "Taban Puan": [
-        "267.817",
-        "256.419",
-        "243.839",
-        "248.203"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "112350764",
       "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
       "Fakülte": "SAFİYE ÇIKRIKÇIOĞLU MESLEK YÜKSEKOKULU",
@@ -68,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.062.294",
         "1.306.892",
         "1.541.232",
-        "1.728.787",
-        "1.672.986"
+        "1.728.787"
       ],
       "Taban Puan": [
+        "281.901",
         "266.141",
         "256.491",
-        "243.462",
-        "241.618"
+        "243.462"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -109,18 +68,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.074.561",
         "1.317.999",
         "1.400.353",
-        "1.291.112",
-        "1.379.153"
+        "1.291.112"
       ],
       "Taban Puan": [
+        "280.929",
         "265.363",
         "264.940",
-        "269.974",
-        "257.610"
+        "269.974"
       ],
       "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100751318",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "KUMLUCA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.150.200",
+        "1.282.685",
+        "1.542.464",
+        "1.722.144"
+      ],
+      "Taban Puan": [
+        "275.149",
+        "267.817",
+        "256.419",
+        "243.839"
+      ],
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,141 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.187.102",
         "1.323.190",
         "1.526.961",
-        "1.652.630",
-        "1.563.622"
+        "1.652.630"
       ],
       "Taban Puan": [
+        "272.372",
         "264.999",
         "257.327",
-        "247.785",
-        "247.253"
+        "247.785"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103451075",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "ÖDEMİŞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.403.131",
-        "1.500.034",
-        "1.656.897",
-        "1.651.501"
-      ],
-      "Taban Puan": [
-        "259.533",
-        "258.918",
-        "247.544",
-        "242.710"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107451681",
-      "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "SİLİFKE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.463.795",
-        "1.670.860",
-        "1.771.028",
-        "1.636.114"
-      ],
-      "Taban Puan": [
-        "255.386",
-        "248.956",
-        "241.110",
-        "243.501"
-      ],
-      "Şehir": "MERSİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100751284",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "FİNİKE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.468.249",
-        "1.683.125",
-        "1.728.270",
-        "1.591.825"
-      ],
-      "Taban Puan": [
-        "255.083",
-        "248.249",
-        "243.491",
-        "245.782"
-      ],
-      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,18 +191,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.270.690",
         "1.481.171",
         "1.645.198",
-        "1.709.145",
-        "1.726.339"
+        "1.709.145"
       ],
       "Taban Puan": [
+        "266.241",
         "254.202",
         "250.424",
-        "244.565",
-        "238.988"
+        "244.565"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107451681",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "SİLİFKE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.276.275",
+        "1.463.795",
+        "1.670.860",
+        "1.771.028"
+      ],
+      "Taban Puan": [
+        "265.840",
+        "255.386",
+        "248.956",
+        "241.110"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107600318",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "FETHİYE ALİ SITKI-MEFHARET KOÇMAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.279.276",
+        "1.516.157",
+        "1.739.009",
+        "1.769.363"
+      ],
+      "Taban Puan": [
+        "265.625",
+        "251.817",
+        "245.073",
+        "241.205"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103451075",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "ÖDEMİŞ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.279.577",
+        "1.403.131",
+        "1.500.034",
+        "1.656.897"
+      ],
+      "Taban Puan": [
+        "265.601",
+        "259.533",
+        "258.918",
+        "247.544"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,106 +355,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.300.547",
         "1.481.363",
         "1.762.130",
-        "1.524.116",
-        "1.578.556"
+        "1.524.116"
       ],
       "Taban Puan": [
+        "264.095",
         "254.188",
         "243.769",
-        "255.330",
-        "246.478"
+        "255.330"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107600318",
-      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "FETHİYE ALİ SITKI-MEFHARET KOÇMAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.516.157",
-        "1.739.009",
-        "1.769.363",
-        "1.747.971"
-      ],
-      "Taban Puan": [
-        "251.817",
-        "245.073",
-        "241.205",
-        "237.959"
-      ],
-      "Şehir": "MUĞLA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100790415",
+      "Program Kodu": "100751284",
       "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "ELMALI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.594.080",
-        "1.773.632",
-        "1.833.361",
-        "1.871.122"
-      ],
-      "Taban Puan": [
-        "246.513",
-        "243.130",
-        "237.711",
-        "232.216"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100751212",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "KORKUTELİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "FİNİKE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Bahçe Tarımı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -467,9 +385,9 @@
       ],
       "Kontenjan": [
         "35",
-        "30",
-        "30",
-        "30"
+        "35",
+        "35",
+        "35"
       ],
       "Yerleşen": [
         "",
@@ -478,305 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.597.136",
-        "1.731.709",
-        "1.821.684",
-        "1.818.206"
+        "1.306.342",
+        "1.468.249",
+        "1.683.125",
+        "1.728.270"
       ],
       "Taban Puan": [
-        "246.299",
-        "245.487",
-        "238.352",
-        "234.641"
+        "263.672",
+        "255.083",
+        "248.249",
+        "243.491"
       ],
       "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390110",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "BURDUR GIDA TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.631.291",
-        "1.847.899",
-        "1.945.183",
-        "1.922.785"
-      ],
-      "Taban Puan": [
-        "243.974",
-        "238.972",
-        "231.741",
-        "229.913"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112370766",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "DEVELİ HÜSEYİN ŞAHİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.635.479",
-        "1.810.041",
-        "2.029.409",
-        "2.011.063"
-      ],
-      "Taban Puan": [
-        "243.688",
-        "241.080",
-        "227.353",
-        "226.137"
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107451557",
-      "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "ANAMUR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.640.893",
-        "1.789.504",
-        "1.834.027",
-        "1.656.228"
-      ],
-      "Taban Puan": [
-        "243.324",
-        "242.225",
-        "237.677",
-        "242.471"
-      ],
-      "Şehir": "MERSİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100850382",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "AKSARAY TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.642.461",
-        "1.831.941",
-        "1.869.527",
-        "1.780.573"
-      ],
-      "Taban Puan": [
-        "243.216",
-        "239.865",
-        "235.759",
-        "236.394"
-      ],
-      "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106850143",
-      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "18",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.651.861",
-        "1.816.940",
-        "1.827.122",
-        "2.031.089"
-      ],
-      "Taban Puan": [
-        "242.575",
-        "240.696",
-        "238.057",
-        "225.299"
-      ],
-      "Şehir": "KİLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102950887",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "POZANTI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.678.735",
-        "1.817.829",
-        "1.784.630",
-        "1.857.560"
-      ],
-      "Taban Puan": [
-        "240.740",
-        "240.646",
-        "240.366",
-        "232.830"
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110251081",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "GEVAŞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bahçe Tarımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.681.760",
-        "1.846.272",
-        "2.014.668",
-        "1.985.041"
-      ],
-      "Taban Puan": [
-        "240.535",
-        "239.060",
-        "228.108",
-        "227.234"
-      ],
-      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,24 +437,106 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.350.109",
         "1.698.630",
         "1.915.628",
-        "1.795.801",
-        "1.850.792"
+        "1.795.801"
       ],
       "Taban Puan": [
+        "260.526",
         "239.392",
         "235.229",
-        "239.755",
-        "233.137"
+        "239.755"
       ],
       "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107451009",
+      "Program Kodu": "106850143",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "18",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.364.255",
+        "1.651.861",
+        "1.816.940",
+        "1.827.122"
+      ],
+      "Taban Puan": [
+        "259.521",
+        "242.575",
+        "240.696",
+        "238.057"
+      ],
+      "Şehir": "KİLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100751212",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "KORKUTELİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.375.426",
+        "1.597.136",
+        "1.731.709",
+        "1.821.684"
+      ],
+      "Taban Puan": [
+        "258.724",
+        "246.299",
+        "245.487",
+        "238.352"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107451557",
       "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "MUT MESLEK YÜKSEKOKULU",
+      "Fakülte": "ANAMUR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Bahçe Tarımı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -838,6 +551,129 @@
         "30",
         "50",
         "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.386.684",
+        "1.640.893",
+        "1.789.504",
+        "1.834.027"
+      ],
+      "Taban Puan": [
+        "257.922",
+        "243.324",
+        "242.225",
+        "237.677"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390110",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "BURDUR GIDA TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.396.432",
+        "1.631.291",
+        "1.847.899",
+        "1.945.183"
+      ],
+      "Taban Puan": [
+        "257.233",
+        "243.974",
+        "238.972",
+        "231.741"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100850382",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "AKSARAY TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.417.688",
+        "1.642.461",
+        "1.831.941",
+        "1.869.527"
+      ],
+      "Taban Puan": [
+        "255.723",
+        "243.216",
+        "239.865",
+        "235.759"
+      ],
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100790415",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "ELMALI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
         "30"
       ],
       "Yerleşen": [
@@ -847,16 +683,57 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.707.297",
-        "1.866.976",
-        "1.797.077",
-        "1.742.381"
+        "1.442.843",
+        "1.594.080",
+        "1.773.632",
+        "1.833.361"
       ],
       "Taban Puan": [
-        "238.796",
-        "237.918",
-        "239.687",
-        "238.217"
+        "253.942",
+        "246.513",
+        "243.130",
+        "237.711"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108952256",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "SİLİFKE TAŞUCU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "40",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.443.851",
+        "1.746.964",
+        "1.914.315",
+        "2.036.963"
+      ],
+      "Taban Puan": [
+        "253.865",
+        "236.088",
+        "235.303",
+        "226.962"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
@@ -888,24 +765,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.460.693",
         "1.708.012",
         "1.929.012",
-        "2.085.202",
-        "1.777.711"
+        "2.085.202"
       ],
       "Taban Puan": [
+        "252.686",
         "238.749",
         "234.496",
-        "224.487",
-        "236.529"
+        "224.487"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108952256",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "SİLİFKE TAŞUCU MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107451009",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "MUT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Bahçe Tarımı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -918,9 +795,9 @@
       ],
       "Kontenjan": [
         "30",
-        "40",
-        "40",
-        "35"
+        "50",
+        "50",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -929,24 +806,106 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.746.964",
-        "1.914.315",
-        "2.036.963",
-        "2.009.670"
+        "1.460.720",
+        "1.707.297",
+        "1.866.976",
+        "1.797.077"
       ],
       "Taban Puan": [
-        "236.088",
-        "235.303",
-        "226.962",
-        "226.195"
+        "252.684",
+        "238.796",
+        "237.918",
+        "239.687"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102050242",
-      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Program Kodu": "112370766",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "DEVELİ HÜSEYİN ŞAHİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.461.542",
+        "1.635.479",
+        "1.810.041",
+        "2.029.409"
+      ],
+      "Taban Puan": [
+        "252.624",
+        "243.688",
+        "241.080",
+        "227.353"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102950887",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "POZANTI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.461.860",
+        "1.678.735",
+        "1.817.829",
+        "1.784.630"
+      ],
+      "Taban Puan": [
+        "252.602",
+        "240.740",
+        "240.646",
+        "240.366"
+      ],
+      "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110251081",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "GEVAŞ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Bahçe Tarımı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -970,18 +929,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.757.682",
-        "1.906.101",
-        "2.033.419",
-        "2.031.972"
+        "1.485.713",
+        "1.681.760",
+        "1.846.272",
+        "2.014.668"
       ],
       "Taban Puan": [
-        "235.345",
-        "235.748",
-        "227.146",
-        "225.262"
+        "250.945",
+        "240.535",
+        "239.060",
+        "228.108"
       ],
-      "Şehir": "BİNGÖL",
+      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,18 +970,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.559.878",
         "1.786.383",
         "1.970.970",
-        "2.011.381",
-        "2.105.555"
+        "2.011.381"
       ],
       "Taban Puan": [
+        "245.737",
         "233.373",
         "232.216",
-        "228.276",
-        "222.198"
+        "228.276"
       ],
       "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102050242",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bahçe Tarımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.573.134",
+        "1.757.682",
+        "1.906.101",
+        "2.033.419"
+      ],
+      "Taban Puan": [
+        "244.811",
+        "235.345",
+        "235.748",
+        "227.146"
+      ],
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     }
   ]

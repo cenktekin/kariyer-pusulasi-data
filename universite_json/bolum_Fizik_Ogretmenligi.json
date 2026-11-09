@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "108410036",
-      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fizik Öğretmenliği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "85.524",
-        "83.979",
-        "73.074",
-        "71.175"
-      ],
-      "Taban Puan": [
-        "411.439",
-        "398.755",
-        "434.088",
-        "433.884"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "102210038",
       "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
@@ -68,16 +27,98 @@
         ""
       ],
       "Taban Sıralama": [
+        "84.207",
         "85.761",
         "86.560",
-        "63.806",
-        "58.869"
+        "63.806"
       ],
       "Taban Puan": [
+        "429.351",
         "411.249",
         "396.247",
-        "443.901",
-        "447.418"
+        "443.901"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108410036",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizik Öğretmenliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "86.256",
+        "85.524",
+        "83.979",
+        "73.074"
+      ],
+      "Taban Puan": [
+        "427.320",
+        "411.439",
+        "398.755",
+        "434.088"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102270042",
+      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizik Öğretmenliği (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "143.070",
+        "",
+        "",
+        "206.566"
+      ],
+      "Taban Puan": [
+        "379.838",
+        "",
+        "",
+        "341.495"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,57 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "182.148",
         "149.963",
         "151.318",
-        "121.612",
-        "131.709"
+        "121.612"
       ],
       "Taban Puan": [
+        "354.979",
         "363.484",
         "348.098",
-        "391.441",
-        "378.918"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108411201",
-      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fizik Öğretmenliği (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "169.792",
-        "177.633",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "352.357",
-        "333.825",
-        "",
-        ""
+        "391.441"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "208.637",
         "214.145",
         "199.207",
-        "168.383",
-        "168.181"
+        "168.383"
       ],
       "Taban Puan": [
+        "341.059",
         "331.521",
         "323.898",
-        "360.806",
-        "354.516"
+        "360.806"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -232,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "218.495",
         "225.843",
         "208.107",
-        "198.738",
-        "200.780"
+        "198.738"
       ],
       "Taban Puan": [
+        "336.256",
         "326.804",
         "320.165",
-        "345.131",
-        "336.934"
+        "345.131"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108411201",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizik Öğretmenliği (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "218.640",
+        "169.792",
+        "177.633",
+        ""
+      ],
+      "Taban Puan": [
+        "336.180",
+        "352.357",
+        "333.825",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "253.443",
         "259.668",
         "262.949",
-        "206.860",
-        "215.188"
+        "206.860"
       ],
       "Taban Puan": [
+        "321.085",
         "314.682",
         "300.628",
-        "341.367",
-        "330.085"
+        "341.367"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102270042",
-      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fizik Öğretmenliği (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "206.566",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "341.495",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -357,14 +357,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "237.926",
-        "246.813"
+        "",
+        "237.926"
       ],
       "Taban Puan": [
         "",
         "",
-        "328.503",
-        "316.685"
+        "",
+        "328.503"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -439,14 +439,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "247.390",
-        "265.703"
+        "",
+        "247.390"
       ],
       "Taban Puan": [
         "",
         "",
-        "324.923",
-        "309.537"
+        "",
+        "324.923"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"

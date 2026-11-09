@@ -16,9 +16,9 @@
       ],
       "Kontenjan": [
         "6",
-        "8",
-        "7",
-        "6"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "7.081",
         "6.975",
         "9.679",
-        "6.513",
-        "8.808"
+        "6.513"
       ],
       "Taban Puan": [
+        "442.284",
         "433.159",
         "432.931",
-        "449.469",
-        "449.433"
+        "449.469"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "203.968",
         "279.704",
         "295.053",
-        "322.126",
-        "360.028"
+        "322.126"
       ],
       "Taban Puan": [
+        "333.004",
         "311.437",
         "308.765",
-        "314.083",
-        "307.987"
+        "314.083"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "310.875",
         "400.385",
         "398.535",
-        "476.995",
-        ""
+        "476.995"
       ],
       "Taban Puan": [
+        "309.432",
         "292.497",
         "293.106",
-        "291.325",
-        ""
+        "291.325"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,14 +150,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "639.057",
         "790.834",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "263.985",
         "251.400",
-        "",
         "",
         ""
       ],
@@ -165,53 +165,12 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206100479",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektronik Ticaret ve Yönetimi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "39",
-        "33",
-        "32"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.077.402",
-        "516.549",
-        "548.833",
-        "403.120"
-      ],
-      "Taban Puan": [
-        "226.997",
-        "278.833",
-        "282.657",
-        "301.028"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "101190520",
       "Üniversite": "ANKARA ÜNİVERSİTESİ",
       "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektronik Ticaret ve Yönetimi (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
         "2026",
@@ -232,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "928.911",
         "1.081.158",
         "1.303.766",
-        "975.781",
-        "996.018"
+        "975.781"
       ],
       "Taban Puan": [
+        "235.681",
         "226.671",
         "215.943",
-        "242.724",
-        "240.765"
+        "242.724"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -273,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.103.531",
         "1.298.041",
         "1.338.499",
-        "1.406.208",
-        "1.601.137"
+        "1.406.208"
       ],
       "Taban Puan": [
+        "219.449",
         "206.332",
         "213.460",
-        "211.625",
-        "196.032"
+        "211.625"
       ],
       "Şehir": "KARS",
       "Ücret": "Ücretsiz"
@@ -314,19 +273,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "1.161.223",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "213.715",
         "",
         "",
         ""
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206100479",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektronik Ticaret ve Yönetimi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.187.801",
+        "1.077.402",
+        "516.549",
+        "548.833"
+      ],
+      "Taban Puan": [
+        "210.957",
+        "226.997",
+        "278.833",
+        "282.657"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "207590415",
@@ -357,14 +357,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.700.285",
-        ""
+        "",
+        "1.700.285"
       ],
       "Taban Puan": [
         "",
         "",
-        "189.700",
-        ""
+        "",
+        "189.700"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -397,15 +397,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "955.594",
         "",
-        "818.472"
+        "955.594",
+        ""
       ],
       "Taban Puan": [
         "",
-        "240.596",
         "",
-        "254.903"
+        "240.596",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -426,9 +426,9 @@
       ],
       "Kontenjan": [
         "3",
-        "15",
-        "15",
-        "10"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -438,15 +438,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "852.083",
-        "864.624",
-        "478.937"
+        "864.624"
       ],
       "Taban Puan": [
         "",
+        "",
         "248.400",
-        "251.769",
-        "290.227"
+        "251.769"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"

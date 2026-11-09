@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "113200122",
+      "Üniversite": "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Malzeme Bilimi ve Mühendisliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "36.936",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "478.891",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
       "Program Kodu": "105810158",
       "Üniversite": "İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ",
       "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
@@ -27,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "63.259",
         "63.728",
         "70.964",
-        "72.217",
-        "98.032"
+        "72.217"
       ],
       "Taban Puan": [
+        "450.427",
         "431.646",
         "411.533",
-        "434.967",
-        "407.338"
+        "434.967"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -68,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "71.594",
         "87.542",
         "106.732",
-        "117.688",
-        "140.115"
+        "117.688"
       ],
       "Taban Puan": [
+        "441.778",
         "409.623",
         "378.799",
-        "394.477",
-        "372.847"
+        "394.477"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -109,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "92.674",
         "108.202",
         "126.994",
-        "133.345",
-        "162.584"
+        "133.345"
       ],
       "Taban Puan": [
+        "421.291",
         "392.498",
         "363.609",
-        "382.969",
-        "357.838"
+        "382.969"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -150,13 +191,13 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "237.897",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "327.577",
         "",
         "",
         ""
@@ -191,13 +232,13 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "288.494",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "307.735",
         "",
         "",
         ""
@@ -244,47 +285,6 @@
         ""
       ],
       "Şehir": "HAKKARİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "113200122",
-      "Üniversite": "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Malzeme Bilimi ve Mühendisliği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     }
   ]

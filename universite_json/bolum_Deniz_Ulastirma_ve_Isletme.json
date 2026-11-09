@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "147.345",
         "131.007",
         "165.141",
-        "208.050",
-        "199.923"
+        "208.050"
       ],
       "Taban Puan": [
+        "416.090",
         "412.268",
         "409.472",
-        "395.468",
-        "395.959"
+        "395.468"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,15 +68,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "151.562",
         "167.374",
         "201.680",
-        "",
         ""
       ],
       "Taban Puan": [
+        "414.437",
         "399.833",
         "396.671",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "251.169",
         "261.232",
         "427.192",
-        "432.247",
-        "428.110"
+        "432.247"
       ],
       "Taban Puan": [
+        "382.893",
         "375.301",
         "347.668",
-        "348.854",
-        "344.411"
+        "348.854"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,60 +150,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "299.377",
         "326.433",
         "389.791",
-        "417.442",
-        "361.270"
+        "417.442"
       ],
       "Taban Puan": [
+        "371.362",
         "362.150",
         "353.650",
-        "351.103",
-        "356.087"
+        "351.103"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210400969",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma ve İşletme (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "361.306",
-        "1.033.829",
-        "894.438",
-        "1.097.941"
-      ],
-      "Taban Puan": [
-        "355.986",
-        "288.810",
-        "299.005",
-        "275.926"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "107451327",
@@ -232,18 +191,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "347.223",
         "422.283",
         "659.045",
-        "730.996",
-        "698.316"
+        "730.996"
       ],
       "Taban Puan": [
+        "361.434",
         "346.306",
         "319.545",
-        "313.565",
-        "309.929"
+        "313.565"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106990806",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "KARAMÜRSEL DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz Ulaştırma ve İşletme",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "32",
+        "35",
+        "80",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "380.455",
+        "461.903",
+        "729.083",
+        "771.430"
+      ],
+      "Taban Puan": [
+        "355.342",
+        "340.643",
+        "312.927",
+        "309.741"
+      ],
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,142 +273,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "397.838",
         "436.187",
         "648.011",
-        "682.464",
-        "619.465"
+        "682.464"
       ],
       "Taban Puan": [
+        "352.328",
         "344.229",
         "320.643",
-        "318.319",
-        "318.489"
+        "318.319"
       ],
       "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300750036",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma ve İşletme (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "5",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "454.379",
-        "874.032",
-        "581.448",
-        "775.857"
-      ],
-      "Taban Puan": [
-        "341.689",
-        "300.673",
-        "329.283",
-        "302.317"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106990806",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "KARAMÜRSEL DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz Ulaştırma ve İşletme",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "32",
-        "35",
-        "80",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "461.903",
-        "729.083",
-        "771.430",
-        ""
-      ],
-      "Taban Puan": [
-        "340.643",
-        "312.927",
-        "309.741",
-        ""
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204950068",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma ve İşletme (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "46",
-        "47",
-        "47",
-        "52"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "487.170",
-        "497.283",
-        "553.843",
-        "513.095"
-      ],
-      "Taban Puan": [
-        "337.258",
-        "337.791",
-        "332.574",
-        "331.813"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "111890197",
@@ -437,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "428.217",
         "502.577",
         "755.931",
-        "878.659",
-        "810.860"
+        "878.659"
       ],
       "Taban Puan": [
+        "347.436",
         "335.255",
         "310.502",
-        "300.324",
-        "299.066"
+        "300.324"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
@@ -478,19 +355,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "436.250",
         "524.620",
         "805.532",
-        "973.768",
-        "855.565"
+        "973.768"
       ],
       "Taban Puan": [
+        "346.194",
         "332.476",
         "306.248",
-        "292.626",
-        "295.037"
+        "292.626"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300750036",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma ve İşletme (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "497.008",
+        "454.379",
+        "874.032",
+        "581.448"
+      ],
+      "Taban Puan": [
+        "337.375",
+        "341.689",
+        "300.673",
+        "329.283"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300290376",
@@ -519,19 +437,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "571.209",
         "587.842",
         "868.221",
-        "984.905",
-        "1.003.394"
+        "984.905"
       ],
       "Taban Puan": [
+        "327.832",
         "325.099",
         "301.131",
-        "291.772",
-        "282.934"
+        "291.772"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204950068",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma ve İşletme (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "46",
+        "47",
+        "47",
+        "52"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "636.699",
+        "487.170",
+        "497.283",
+        "553.843"
+      ],
+      "Taban Puan": [
+        "320.242",
+        "337.258",
+        "337.791",
+        "332.574"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210400969",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma ve İşletme (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "997.395",
+        "361.306",
+        "1.033.829",
+        "894.438"
+      ],
+      "Taban Puan": [
+        "287.034",
+        "355.986",
+        "288.810",
+        "299.005"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "204950041",
@@ -560,60 +560,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.055.307",
         "934.848",
         "920.456",
-        "1.182.755",
-        "635.008"
+        "1.182.755"
       ],
       "Taban Puan": [
+        "282.460",
         "293.232",
         "297.111",
-        "277.328",
-        "316.744"
+        "277.328"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "210400976",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma ve İşletme (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "68",
-        "75",
-        "67",
-        "67"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.268.243",
-        "1.126.018",
-        "1.121.249",
-        "1.081.145"
-      ],
-      "Taban Puan": [
-        "268.813",
-        "282.472",
-        "281.640",
-        "277.130"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300290379",
@@ -642,67 +601,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.081.046",
         "1.320.399",
         "1.282.844",
-        "1.305.122",
-        "1.392.303"
+        "1.305.122"
       ],
       "Taban Puan": [
+        "280.431",
         "265.193",
         "272.233",
-        "269.049",
-        "256.829"
+        "269.049"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "300790058",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma ve İşletme (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.708.961",
-        "2.091.506",
-        "2.112.666",
-        ""
-      ],
-      "Taban Puan": [
-        "238.678",
-        "225.705",
-        "223.101",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300290377",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Program Kodu": "210400976",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma ve İşletme (Ücretli)",
+      "Program Adı": "Deniz Ulaştırma ve İşletme (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -712,10 +630,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "12",
-        "15",
-        "16",
-        "16"
+        "68",
+        "75",
+        "67",
+        "67"
       ],
       "Yerleşen": [
         "",
@@ -724,19 +642,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.929.648",
-        "1.777.609",
-        "1.658.633",
-        "2.458.499"
+        "1.217.569",
+        "1.268.243",
+        "1.126.018",
+        "1.121.249"
       ],
       "Taban Puan": [
-        "223.221",
-        "242.901",
-        "247.444",
-        "207.966"
+        "270.122",
+        "268.813",
+        "282.472",
+        "281.640"
       ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Ücretli"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "106990813",
@@ -765,19 +683,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.332.763",
         "",
         "1.600.409",
-        "",
         ""
       ],
       "Taban Puan": [
+        "261.781",
         "",
         "253.028",
-        "",
         ""
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300290377",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma ve İşletme (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "12",
+        "15",
+        "16",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.737.369",
+        "1.929.648",
+        "1.777.609",
+        "1.658.633"
+      ],
+      "Taban Puan": [
+        "233.278",
+        "223.221",
+        "242.901",
+        "247.444"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300790058",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma ve İşletme (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.747.231",
+        "1.708.961",
+        "2.091.506",
+        "2.112.666"
+      ],
+      "Taban Puan": [
+        "232.580",
+        "238.678",
+        "225.705",
+        "223.101"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

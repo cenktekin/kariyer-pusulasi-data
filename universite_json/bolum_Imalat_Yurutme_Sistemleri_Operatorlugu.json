@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "106990785",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "FORD OTOSAN İHSANİYE OTOMOTİV MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "896.869",
-        "838.975",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "296.260",
-        "303.489",
-        "",
-        ""
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "201290656",
       "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -68,14 +27,55 @@
         ""
       ],
       "Taban Sıralama": [
+        "637.156",
         "971.687",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "320.195",
         "290.340",
         "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201991266",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "690.115",
+        "1.075.469",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "314.567",
+        "282.525",
         "",
         ""
       ],
@@ -109,14 +109,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "699.057",
         "1.036.460",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "313.647",
         "285.422",
-        "",
         "",
         ""
       ],
@@ -124,8 +124,8 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201991266",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "202391172",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü (Burslu)",
@@ -139,7 +139,7 @@
       ],
       "Kontenjan": [
         "5",
-        "5",
+        "4",
         "",
         ""
       ],
@@ -150,18 +150,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.075.469",
+        "768.356",
+        "1.459.388",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "306.837",
+        "255.681",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106990785",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "FORD OTOSAN İHSANİYE OTOMOTİV MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "860.355",
+        "896.869",
+        "838.975",
+        ""
+      ],
+      "Taban Puan": [
+        "298.528",
+        "296.260",
+        "303.489",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210000675",
+      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "948.073",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "282.525",
+        "291.085",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "BURSA",
       "Ücret": "Burslu"
     },
     {
@@ -191,15 +273,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.037.374",
         "1.101.655",
         "1.289.482",
-        "",
         ""
       ],
       "Taban Puan": [
+        "283.867",
         "280.623",
         "271.820",
-        "",
         ""
       ],
       "Şehir": "MANİSA",
@@ -232,60 +314,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.253.633",
         "1.419.273",
         "1.408.153",
-        "",
         ""
       ],
       "Taban Puan": [
+        "267.486",
         "258.430",
         "264.463",
-        "",
         ""
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202391172",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.459.388",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "255.681",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "112572469",
@@ -314,14 +355,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.360.191",
         "1.566.630",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "259.812",
         "248.367",
-        "",
         "",
         ""
       ],
@@ -355,182 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.443.497",
         "1.606.704",
         "1.897.516",
-        "",
         ""
       ],
       "Taban Puan": [
+        "253.893",
         "245.648",
         "236.220",
-        "",
         ""
       ],
       "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105000332",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.730.426",
-        "1.996.160",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "237.219",
-        "230.850",
-        "",
-        ""
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108090168",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "HACIBEKTAŞ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.865.108",
-        "",
-        "1.462.206",
-        "1.275.386"
-      ],
-      "Taban Puan": [
-        "227.880",
-        "",
-        "259.095",
-        "263.968"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390462",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.911.821",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "224.508",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105190250",
-      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.943.306",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "222.226",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,18 +437,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.509.071",
         "1.949.652",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "249.298",
         "221.760",
-        "",
         "",
         ""
       ],
       "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390462",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.522.157",
+        "1.911.821",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "248.380",
+        "224.508",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108090168",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "HACIBEKTAŞ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.552.823",
+        "1.865.108",
+        "",
+        "1.462.206"
+      ],
+      "Taban Puan": [
+        "246.239",
+        "227.880",
+        "",
+        "259.095"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190250",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.557.594",
+        "1.943.306",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "245.897",
+        "222.226",
+        "",
+        ""
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105000332",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.574.911",
+        "1.730.426",
+        "1.996.160",
+        ""
+      ],
+      "Taban Puan": [
+        "244.690",
+        "237.219",
+        "230.850",
+        ""
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -737,47 +778,6 @@
       ],
       "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210000675",
-      "Üniversite": "MUDANYA ÜNİVERSİTESİ (BURSA)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İmalat Yürütme Sistemleri Operatörlüğü (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BURSA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210000682",

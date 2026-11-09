@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "501.564",
         "649.684",
         "755.731",
-        "898.745",
-        "564.175"
+        "898.745"
       ],
       "Taban Puan": [
+        "336.752",
         "318.483",
         "310.518",
-        "298.645",
-        "325.107"
+        "298.645"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "800.675",
         "928.054",
         "909.204",
-        "1.105.517",
-        "938.467"
+        "1.105.517"
       ],
       "Taban Puan": [
+        "303.842",
         "293.775",
         "297.953",
-        "282.778",
-        "288.058"
+        "282.778"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "801.441",
         "939.684",
         "1.064.823",
-        "1.215.936",
-        "1.096.737"
+        "1.215.936"
       ],
       "Taban Puan": [
+        "303.768",
         "292.844",
         "286.641",
-        "275.006",
-        "276.013"
+        "275.006"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102652647",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "CUMHURİYET SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "54",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.038.740",
-        "1.117.817",
-        "1.300.837",
-        "1.138.775"
-      ],
-      "Taban Puan": [
-        "285.251",
-        "283.024",
-        "269.328",
-        "273.040"
-      ],
-      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,24 +150,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "883.264",
         "1.041.058",
         "1.166.066",
-        "1.330.639",
-        "1.075.647"
+        "1.330.639"
       ],
       "Taban Puan": [
+        "296.543",
         "285.084",
         "279.784",
-        "267.391",
-        "277.531"
+        "267.391"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108151018",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "NİĞDE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "102652647",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "CUMHURİYET SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Sosyal Güvenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -220,10 +179,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "63",
-        "70",
-        "70",
-        "70"
+        "54",
+        "60",
+        "60",
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -232,18 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.104.674",
-        "1.145.876",
-        "1.396.165",
-        "1.163.706"
+        "914.850",
+        "1.038.740",
+        "1.117.817",
+        "1.300.837"
       ],
       "Taban Puan": [
-        "280.398",
-        "281.138",
-        "263.193",
-        "271.324"
+        "293.865",
+        "285.251",
+        "283.024",
+        "269.328"
       ],
-      "Şehir": "NİĞDE",
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "942.075",
         "1.105.612",
         "1.183.261",
-        "1.411.347",
-        ""
+        "1.411.347"
       ],
       "Taban Puan": [
+        "291.590",
         "280.328",
         "278.658",
-        "262.242",
-        ""
+        "262.242"
       ],
       "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108151018",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "NİĞDE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "63",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "943.056",
+        "1.104.674",
+        "1.145.876",
+        "1.396.165"
+      ],
+      "Taban Puan": [
+        "291.509",
+        "280.398",
+        "281.138",
+        "263.193"
+      ],
+      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "946.931",
         "1.109.241",
         "1.246.341",
-        "1.448.796",
-        "1.341.814"
+        "1.448.796"
       ],
       "Taban Puan": [
+        "291.180",
         "280.070",
         "274.565",
-        "259.913",
-        "259.854"
+        "259.913"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101690101",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "BARTIN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.134.414",
-        "1.325.687",
-        "1.517.705",
-        "1.328.698"
-      ],
-      "Taban Puan": [
-        "278.250",
-        "269.560",
-        "255.711",
-        "260.656"
-      ],
-      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -396,59 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "990.222",
         "1.151.554",
         "1.298.259",
-        "1.427.414",
-        "1.233.458"
+        "1.427.414"
       ],
       "Taban Puan": [
+        "287.617",
         "277.020",
         "271.269",
-        "261.234",
-        "266.678"
+        "261.234"
       ],
       "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103350527",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "63",
-        "70",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.168.034",
-        "1.322.605",
-        "1.496.763",
-        "1.276.452"
-      ],
-      "Taban Puan": [
-        "275.848",
-        "269.752",
-        "256.977",
-        "263.901"
-      ],
-      "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,18 +396,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "990.453",
         "1.177.669",
         "1.242.883",
-        "1.500.315",
-        "1.333.347"
+        "1.500.315"
       ],
       "Taban Puan": [
+        "287.599",
         "275.155",
         "274.790",
-        "256.762",
-        "260.373"
+        "256.762"
       ],
       "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690101",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "BARTIN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.006.882",
+        "1.134.414",
+        "1.325.687",
+        "1.517.705"
+      ],
+      "Taban Puan": [
+        "286.294",
+        "278.250",
+        "269.560",
+        "255.711"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103350527",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "63",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.018.689",
+        "1.168.034",
+        "1.322.605",
+        "1.496.763"
+      ],
+      "Taban Puan": [
+        "285.353",
+        "275.848",
+        "269.752",
+        "256.977"
+      ],
+      "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.025.948",
         "1.260.311",
         "1.500.559",
-        "1.721.114",
-        "1.303.408"
+        "1.721.114"
       ],
       "Taban Puan": [
+        "284.784",
         "269.364",
         "258.885",
-        "243.896",
-        "262.213"
+        "243.896"
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
@@ -560,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.083.613",
         "1.302.158",
         "1.477.234",
-        "1.610.051",
-        "1.406.996"
+        "1.610.051"
       ],
       "Taban Puan": [
+        "280.224",
         "266.470",
         "260.271",
-        "250.262",
-        "255.980"
+        "250.262"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
@@ -601,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.129.906",
         "1.327.900",
         "1.526.658",
-        "1.628.160",
-        "1.364.760"
+        "1.628.160"
       ],
       "Taban Puan": [
+        "276.679",
         "264.676",
         "257.347",
-        "249.202",
-        "258.469"
+        "249.202"
       ],
       "Şehir": "OSMANİYE",
       "Ücret": "Ücretsiz"
@@ -642,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.150.679",
         "1.380.126",
         "1.516.767",
-        "1.888.594",
-        "1.528.677"
+        "1.888.594"
       ],
       "Taban Puan": [
+        "275.115",
         "261.106",
         "257.926",
-        "234.739",
-        "249.127"
+        "234.739"
       ],
       "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
@@ -683,100 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.154.442",
         "1.381.734",
         "1.600.328",
-        "1.854.027",
-        "1.568.635"
+        "1.854.027"
       ],
       "Taban Puan": [
+        "274.828",
         "260.994",
         "253.031",
-        "236.600",
-        "246.991"
+        "236.600"
       ],
       "Şehir": "ÇORUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100150847",
-      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "SEBEN İZZET BAYSAL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "54",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.386.181",
-        "1.570.177",
-        "1.847.262",
-        "1.604.161"
-      ],
-      "Taban Puan": [
-        "260.688",
-        "254.798",
-        "236.960",
-        "245.140"
-      ],
-      "Şehir": "BOLU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111570295",
-      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "DOĞANŞEHİR VAHAP KÜÇÜK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "27",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.394.609",
-        "1.647.026",
-        "1.904.749",
-        "1.363.134"
-      ],
-      "Taban Puan": [
-        "260.113",
-        "250.319",
-        "233.879",
-        "258.566"
-      ],
-      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,18 +724,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.154.673",
         "1.395.584",
         "1.554.138",
-        "1.814.427",
-        "1.434.803"
+        "1.814.427"
       ],
       "Taban Puan": [
+        "274.810",
         "260.045",
         "255.737",
-        "238.741",
-        "254.373"
+        "238.741"
       ],
       "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111570295",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "DOĞANŞEHİR VAHAP KÜÇÜK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "27",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.167.440",
+        "1.394.609",
+        "1.647.026",
+        "1.904.749"
+      ],
+      "Taban Puan": [
+        "273.847",
+        "260.113",
+        "250.319",
+        "233.879"
+      ],
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,16 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.189.772",
         "1.404.045",
         "1.626.826",
-        "1.933.653",
-        "1.599.693"
+        "1.933.653"
       ],
       "Taban Puan": [
+        "272.173",
         "259.473",
         "251.489",
-        "232.345",
-        "245.365"
+        "232.345"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -888,18 +847,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.203.318",
         "1.440.348",
         "1.736.399",
-        "1.875.896",
-        "1.479.831"
+        "1.875.896"
       ],
       "Taban Puan": [
+        "271.167",
         "256.972",
         "245.224",
-        "235.420",
-        "251.818"
+        "235.420"
       ],
       "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100150847",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
+      "Fakülte": "SEBEN İZZET BAYSAL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "54",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.224.219",
+        "1.386.181",
+        "1.570.177",
+        "1.847.262"
+      ],
+      "Taban Puan": [
+        "269.624",
+        "260.688",
+        "254.798",
+        "236.960"
+      ],
+      "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107990053",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "MURATLI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "41",
+        "45",
+        "45",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.244.553",
+        "1.515.037",
+        "1.698.262",
+        "1.908.316"
+      ],
+      "Taban Puan": [
+        "268.144",
+        "251.897",
+        "247.391",
+        "233.690"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106090059",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "PAZARCIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "54",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.248.704",
+        "1.506.142",
+        "1.789.755",
+        "1.996.157"
+      ],
+      "Taban Puan": [
+        "267.843",
+        "252.509",
+        "242.211",
+        "229.065"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110390141",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "ÇAYCUMA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.252.730",
+        "1.497.137",
+        "1.792.120",
+        "1.956.230"
+      ],
+      "Taban Puan": [
+        "267.547",
+        "253.124",
+        "242.081",
+        "231.152"
+      ],
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,16 +1052,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.254.456",
         "1.472.489",
         "1.683.118",
-        "1.887.676",
-        "1.701.022"
+        "1.887.676"
       ],
       "Taban Puan": [
+        "267.426",
         "254.795",
         "248.250",
-        "234.788",
-        "240.222"
+        "234.788"
       ],
       "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
@@ -970,264 +1093,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.271.242",
         "1.477.016",
         "1.713.011",
-        "2.015.327",
-        "1.686.654"
+        "2.015.327"
       ],
       "Taban Puan": [
+        "266.205",
         "254.492",
         "246.552",
-        "228.075",
-        "240.932"
+        "228.075"
       ],
       "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110390141",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "ÇAYCUMA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.497.137",
-        "1.792.120",
-        "1.956.230",
-        "1.903.561"
-      ],
-      "Taban Puan": [
-        "253.124",
-        "242.081",
-        "231.152",
-        "230.766"
-      ],
-      "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106090059",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "PAZARCIK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "54",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.506.142",
-        "1.789.755",
-        "1.996.157",
-        "1.487.182"
-      ],
-      "Taban Puan": [
-        "252.509",
-        "242.211",
-        "229.065",
-        "251.404"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107990053",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "MURATLI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "41",
-        "45",
-        "45",
-        "45"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.515.037",
-        "1.698.262",
-        "1.908.316",
-        "1.560.438"
-      ],
-      "Taban Puan": [
-        "251.897",
-        "247.391",
-        "233.690",
-        "247.421"
-      ],
-      "Şehir": "TEKİRDAĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101890301",
-      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "40",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.543.389",
-        "1.750.407",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "249.950",
-        "244.432",
-        "",
-        ""
-      ],
-      "Şehir": "BAYBURT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100890055",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "ORTAKÖY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "81",
-        "90",
-        "90",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.587.416",
-        "1.784.689",
-        "2.033.909",
-        "1.726.610"
-      ],
-      "Taban Puan": [
-        "246.966",
-        "242.496",
-        "227.120",
-        "238.977"
-      ],
-      "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104590183",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "ALUCRA TURAN BULUTÇU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.593.690",
-        "1.770.488",
-        "1.932.108",
-        "1.807.916"
-      ],
-      "Taban Puan": [
-        "246.540",
-        "243.304",
-        "232.429",
-        "235.115"
-      ],
-      "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1257,24 +1134,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.302.645",
         "1.602.253",
         "1.860.365",
-        "2.035.339",
-        "2.028.027"
+        "2.035.339"
       ],
       "Taban Puan": [
+        "263.942",
         "245.949",
         "238.283",
-        "227.046",
-        "225.429"
+        "227.046"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102390187",
-      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "YERKÖY MESLEK YÜKSEKOKULU",
+      "Program Kodu": "104590183",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "ALUCRA TURAN BULUTÇU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Sosyal Güvenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1286,9 +1163,91 @@
         "2023"
       ],
       "Kontenjan": [
-        "63",
-        "70",
-        "70",
+        "36",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.320.501",
+        "1.593.690",
+        "1.770.488",
+        "1.932.108"
+      ],
+      "Taban Puan": [
+        "262.661",
+        "246.540",
+        "243.304",
+        "232.429"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100890055",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "ORTAKÖY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "81",
+        "90",
+        "90",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.325.678",
+        "1.587.416",
+        "1.784.689",
+        "2.033.909"
+      ],
+      "Taban Puan": [
+        "262.282",
+        "246.966",
+        "242.496",
+        "227.120"
+      ],
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101890301",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "40",
         ""
       ],
       "Yerleşen": [
@@ -1298,18 +1257,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.619.535",
-        "1.836.559",
-        "1.987.402",
+        "1.330.149",
+        "1.543.389",
+        "1.750.407",
         ""
       ],
       "Taban Puan": [
-        "244.776",
-        "239.603",
-        "229.523",
+        "261.963",
+        "249.950",
+        "244.432",
         ""
       ],
-      "Şehir": "YOZGAT",
+      "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1339,141 +1298,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.363.304",
         "1.632.020",
         "1.841.396",
-        "2.036.476",
-        "2.063.671"
+        "2.036.476"
       ],
       "Taban Puan": [
+        "259.590",
         "243.923",
         "239.333",
-        "226.986",
-        "223.925"
+        "226.986"
       ],
       "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104790020",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "İRFAN CAN KÖSE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.638.190",
-        "1.903.264",
-        "2.057.224",
-        "2.124.522"
-      ],
-      "Taban Puan": [
-        "243.506",
-        "235.906",
-        "225.917",
-        "221.415"
-      ],
-      "Şehir": "GÜMÜŞHANE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103290193",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "DOMANİÇ HAYME ANA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "55",
-        "55",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.649.908",
-        "1.849.026",
-        "2.013.876",
-        "1.765.931"
-      ],
-      "Taban Puan": [
-        "242.706",
-        "238.910",
-        "228.149",
-        "237.084"
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104351373",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "ALMUS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Sosyal Güvenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "54",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.661.709",
-        "1.860.434",
-        "1.990.073",
-        "1.951.462"
-      ],
-      "Taban Puan": [
-        "241.899",
-        "238.279",
-        "229.384",
-        "228.675"
-      ],
-      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1503,24 +1339,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.377.257",
         "1.664.055",
         "1.847.741",
-        "2.013.186",
-        "2.072.354"
+        "2.013.186"
       ],
       "Taban Puan": [
+        "258.593",
         "241.740",
         "238.981",
-        "228.182",
-        "223.564"
+        "228.182"
       ],
       "Şehir": "ARTVİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102690276",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "KOYULHİSAR MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103290193",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "DOMANİÇ HAYME ANA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Sosyal Güvenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1532,10 +1368,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "36",
-        "40",
-        "40",
-        "40"
+        "50",
+        "55",
+        "55",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -1544,18 +1380,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.685.441",
-        "1.866.142",
-        "2.058.944",
-        "1.934.967"
+        "1.392.371",
+        "1.649.908",
+        "1.849.026",
+        "2.013.876"
       ],
       "Taban Puan": [
-        "240.288",
-        "237.963",
-        "225.828",
-        "229.390"
+        "257.520",
+        "242.706",
+        "238.910",
+        "228.149"
       ],
-      "Şehir": "SİVAS",
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390187",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "YERKÖY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "63",
+        "70",
+        "70",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.399.338",
+        "1.619.535",
+        "1.836.559",
+        "1.987.402"
+      ],
+      "Taban Puan": [
+        "257.031",
+        "244.776",
+        "239.603",
+        "229.523"
+      ],
+      "Şehir": "YOZGAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1585,18 +1462,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.402.358",
         "1.687.150",
         "1.852.410",
-        "2.037.863",
-        "2.037.967"
+        "2.037.863"
       ],
       "Taban Puan": [
+        "256.819",
         "240.171",
         "238.721",
-        "226.916",
-        "225.010"
+        "226.916"
       ],
       "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104351373",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "ALMUS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "54",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.415.583",
+        "1.661.709",
+        "1.860.434",
+        "1.990.073"
+      ],
+      "Taban Puan": [
+        "255.867",
+        "241.899",
+        "238.279",
+        "229.384"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104790020",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "İRFAN CAN KÖSE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.417.700",
+        "1.638.190",
+        "1.903.264",
+        "2.057.224"
+      ],
+      "Taban Puan": [
+        "255.723",
+        "243.506",
+        "235.906",
+        "225.917"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102690276",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "KOYULHİSAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Sosyal Güvenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.432.941",
+        "1.685.441",
+        "1.866.142",
+        "2.058.944"
+      ],
+      "Taban Puan": [
+        "254.641",
+        "240.288",
+        "237.963",
+        "225.828"
+      ],
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1626,16 +1626,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.463.367",
         "1.717.877",
         "1.930.138",
-        "1.999.141",
-        "2.046.001"
+        "1.999.141"
       ],
       "Taban Puan": [
+        "252.498",
         "238.073",
         "234.433",
-        "228.911",
-        "224.671"
+        "228.911"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -1709,15 +1709,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.812.165",
-        "2.318.899",
-        "1.593.749"
+        "2.318.899"
       ],
       "Taban Puan": [
         "",
+        "",
         "240.962",
-        "212.904",
-        "245.678"
+        "212.904"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

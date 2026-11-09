@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "201290698",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "594.118",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "324.407",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "201991350",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -68,14 +27,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "493.782",
         "604.834",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "337.809",
         "323.240",
-        "",
         "",
         ""
       ],
@@ -109,14 +68,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "542.865",
         "613.138",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "331.314",
         "322.353",
-        "",
         "",
         ""
       ],
@@ -150,14 +109,55 @@
         ""
       ],
       "Taban Sıralama": [
+        "551.360",
         "671.319",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "330.274",
         "316.306",
         "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201290698",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "566.791",
+        "594.118",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "328.380",
+        "324.407",
         "",
         ""
       ],
@@ -191,59 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "875.078",
         "783.482",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "297.243",
         "305.809",
-        "",
         "",
         ""
       ],
       "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102690329",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "CUMHURİYET SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "949.962",
-        "1.056.772",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "292.026",
-        "287.201",
-        "",
-        ""
-      ],
-      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "906.918",
         "1.047.404",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "294.531",
         "284.614",
-        "",
         "",
         ""
       ],
       "Şehir": "YALOVA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102690329",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "CUMHURİYET SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "932.803",
+        "949.962",
+        "1.056.772",
+        ""
+      ],
+      "Taban Puan": [
+        "292.367",
+        "292.026",
+        "287.201",
+        ""
+      ],
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,14 +314,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "971.677",
         "1.076.207",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "289.135",
         "282.469",
-        "",
         "",
         ""
       ],
@@ -355,14 +355,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.030.489",
         "1.147.683",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "284.405",
         "277.302",
-        "",
         "",
         ""
       ],
@@ -396,14 +396,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.213.961",
         "1.298.643",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "270.389",
         "266.706",
-        "",
         "",
         ""
       ],
@@ -437,15 +437,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.232.537",
         "1.315.668",
         "1.325.934",
-        "",
         ""
       ],
       "Taban Puan": [
+        "269.014",
         "265.526",
         "269.545",
-        "",
         ""
       ],
       "Şehir": "ŞANLIURFA",
@@ -478,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.394.179",
         "1.599.125",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "257.394",
+        "246.160",
+        "",
+        ""
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107300248",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "TEFENNİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.541.285",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "246.160",
+        "247.047",
         "",
         "",
         ""
       ],
-      "Şehir": "ZONGULDAK",
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -531,47 +572,6 @@
         ""
       ],
       "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107300248",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "TEFENNİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kurumsal Bilişim Uzmanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {

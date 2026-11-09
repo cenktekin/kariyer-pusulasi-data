@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "101190633",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "FEN FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgisayar Bilimleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "82.339",
-        "66.547",
-        "72.896",
-        ""
-      ],
-      "Taban Puan": [
-        "414.389",
-        "416.111",
-        "434.278",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "105690830",
       "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
       "Fakülte": "FEN FAKÜLTESİ",
@@ -68,18 +27,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "102.133",
         "86.608",
         "72.908",
-        "74.202",
-        ""
+        "74.202"
       ],
       "Taban Puan": [
+        "412.693",
         "410.458",
         "409.522",
-        "432.928",
-        ""
+        "432.928"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101190633",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgisayar Bilimleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "107.470",
+        "82.339",
+        "66.547",
+        "72.896"
+      ],
+      "Taban Puan": [
+        "407.914",
+        "414.389",
+        "416.111",
+        "434.278"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -109,14 +109,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "127.112",
         "93.989",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "391.862",
         "404.028",
-        "",
         "",
         ""
       ],
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "171.828",
         "122.670",
         "99.785",
-        "85.718",
-        "109.662"
+        "85.718"
       ],
       "Taban Puan": [
+        "361.057",
         "381.662",
         "384.516",
-        "421.842",
-        "396.883"
+        "421.842"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -191,60 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "215.176",
         "238.292",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "337.814",
         "322.173",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102990436",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgisayar Bilimleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "243.462",
-        "211.767",
-        "157.490",
-        ""
-      ],
-      "Taban Puan": [
-        "320.287",
-        "318.678",
-        "367.131",
-        ""
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106290316",
@@ -273,18 +232,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "256.474",
         "244.086",
         "229.614",
-        "153.802",
-        ""
+        "153.802"
       ],
       "Taban Puan": [
+        "319.877",
         "320.051",
         "311.863",
-        "369.404",
-        ""
+        "369.404"
       ],
       "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102990436",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgisayar Bilimleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "264.734",
+        "243.462",
+        "211.767",
+        "157.490"
+      ],
+      "Taban Puan": [
+        "316.620",
+        "320.287",
+        "318.678",
+        "367.131"
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,14 +314,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "500.566",
         "746.313",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "255.496",
         "235.507",
-        "",
         "",
         ""
       ],
@@ -329,9 +329,91 @@
       "Ücret": "%50 İndirimli"
     },
     {
+      "Program Kodu": "409900199",
+      "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Bilimleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "634.006",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "235.853",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "208151379",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Bilimleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "34",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "853.498",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "210.524",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
       "Program Kodu": "409900192",
       "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
-      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Bilgisayar Bilimleri (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -370,50 +452,9 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "409900199",
-      "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
-      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Bilimleri (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "409900206",
       "Üniversite": "TİRAN NEW YORK ÜNİVERSİTESİ (TİRAN-ARNAVUTLUK)",
-      "Fakülte": "Mühendislik ve Mimarlık Fakültesi",
+      "Fakülte": "MÜHENDİSLİK VE MİMARLIK FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Bilgisayar Bilimleri (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -450,47 +491,6 @@
       ],
       "Şehir": "",
       "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "208151379",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Bilimleri (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "34",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     }
   ]
 }

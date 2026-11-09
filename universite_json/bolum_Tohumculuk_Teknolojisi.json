@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "103050451",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "DİYARBAKIR TARIM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tohumculuk Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.402.802",
+        "1.609.499",
+        "1.875.149",
+        "1.675.849"
+      ],
+      "Taban Puan": [
+        "256.788",
+        "245.458",
+        "237.457",
+        "246.455"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
       "Program Kodu": "103450738",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "ÖDEMİŞ MESLEK YÜKSEKOKULU",
@@ -27,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.414.285",
         "1.597.154",
         "1.769.521",
-        "1.816.721",
-        "1.936.831"
+        "1.816.721"
       ],
       "Taban Puan": [
+        "255.963",
         "246.297",
         "243.359",
-        "238.619",
-        "229.311"
+        "238.619"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -68,100 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.446.893",
         "1.601.069",
         "1.687.594",
-        "1.854.203",
-        "2.055.519"
+        "1.854.203"
       ],
       "Taban Puan": [
+        "253.646",
         "246.032",
         "247.995",
-        "236.589",
-        "224.268"
+        "236.589"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103050451",
-      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "DİYARBAKIR TARIM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tohumculuk Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.609.499",
-        "1.875.149",
-        "1.675.849",
-        "1.763.471"
-      ],
-      "Taban Puan": [
-        "245.458",
-        "237.457",
-        "246.455",
-        "237.204"
-      ],
-      "Şehir": "DİYARBAKIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105090235",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "CEYLANPINAR TARIM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tohumculuk Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.753.514",
-        "1.989.278",
-        "1.895.690",
-        ""
-      ],
-      "Taban Puan": [
-        "235.636",
-        "231.220",
-        "234.351",
-        ""
-      ],
-      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,18 +150,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.592.952",
         "1.788.058",
         "1.957.917",
-        "",
         ""
       ],
       "Taban Puan": [
+        "243.423",
         "233.258",
         "232.921",
-        "",
         ""
       ],
       "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090235",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "CEYLANPINAR TARIM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tohumculuk Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.601.283",
+        "1.753.514",
+        "1.989.278",
+        "1.895.690"
+      ],
+      "Taban Puan": [
+        "242.848",
+        "235.636",
+        "231.220",
+        "234.351"
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     }
   ]

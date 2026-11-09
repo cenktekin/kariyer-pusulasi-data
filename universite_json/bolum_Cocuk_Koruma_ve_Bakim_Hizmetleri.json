@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "110050031",
-      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "748.100",
-        "893.396",
-        "970.796",
-        "902.452"
-      ],
-      "Taban Puan": [
-        "308.999",
-        "299.160",
-        "292.871",
-        "291.044"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "206552177",
       "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
@@ -68,19 +27,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "607.158",
         "755.315",
         "842.151",
-        "836.954",
-        "735.181"
+        "836.954"
       ],
       "Taban Puan": [
+        "323.577",
         "308.345",
         "303.228",
-        "303.893",
-        "306.217"
+        "303.893"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110050031",
+      "Üniversite": "ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "649.965",
+        "748.100",
+        "893.396",
+        "970.796"
+      ],
+      "Taban Puan": [
+        "318.807",
+        "308.999",
+        "299.160",
+        "292.871"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105190120",
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "930.563",
         "1.118.601",
         "1.310.989",
-        "1.428.901",
-        "1.282.422"
+        "1.428.901"
       ],
       "Taban Puan": [
+        "292.550",
         "279.392",
         "270.469",
-        "261.143",
-        "263.524"
+        "261.143"
       ],
       "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
@@ -150,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "962.717",
         "1.182.028",
         "1.449.167",
-        "1.463.277",
-        "1.465.073"
+        "1.463.277"
       ],
       "Taban Puan": [
+        "289.878",
         "274.837",
         "261.966",
-        "259.027",
-        "252.646"
+        "259.027"
       ],
       "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109190043",
-      "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "TÜRKELİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.238.209",
-        "1.452.708",
-        "1.642.444",
-        "1.616.091"
-      ],
-      "Taban Puan": [
-        "270.907",
-        "261.755",
-        "248.376",
-        "244.526"
-      ],
-      "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,18 +191,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "969.210",
         "1.250.253",
         "1.408.353",
-        "1.557.207",
-        "1.435.230"
+        "1.557.207"
       ],
       "Taban Puan": [
+        "289.339",
         "270.072",
         "264.450",
-        "253.373",
-        "254.346"
+        "253.373"
       ],
       "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109190043",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "TÜRKELİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çocuk Koruma ve Bakım Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "995.811",
+        "1.238.209",
+        "1.452.708",
+        "1.642.444"
+      ],
+      "Taban Puan": [
+        "287.159",
+        "270.907",
+        "261.755",
+        "248.376"
+      ],
+      "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.098.161",
         "1.331.786",
         "1.549.984",
-        "1.706.610",
-        "1.653.542"
+        "1.706.610"
       ],
       "Taban Puan": [
+        "279.093",
         "264.414",
         "255.978",
-        "244.710",
-        "242.606"
+        "244.710"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.178.057",
         "1.385.898",
         "1.604.062",
-        "1.765.363",
-        "1.793.242"
+        "1.765.363"
       ],
       "Taban Puan": [
+        "273.054",
         "260.708",
         "252.817",
-        "241.429",
-        "235.797"
+        "241.429"
       ],
       "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
@@ -397,15 +397,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.317.598",
-        "2.271.088",
-        "2.257.233"
+        "2.271.088"
       ],
       "Taban Puan": [
         "",
+        "",
         "213.359",
-        "215.245",
-        "216.060"
+        "215.245"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "200150185",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "383.520",
+        "525.903",
+        "548.627",
+        "594.086"
+      ],
+      "Taban Puan": [
+        "354.803",
+        "332.317",
+        "331.397",
+        "327.829"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
       "Program Kodu": "209210023",
       "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
@@ -27,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "389.602",
         "447.548",
         "523.516",
-        "547.970",
-        "494.874"
+        "547.970"
       ],
       "Taban Puan": [
+        "353.741",
         "342.625",
         "334.409",
-        "333.294",
-        "334.332"
+        "333.294"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "390.146",
         "455.994",
         "521.372",
-        "554.475",
-        "515.514"
+        "554.475"
       ],
       "Taban Puan": [
+        "353.648",
         "341.467",
         "334.680",
-        "332.495",
-        "331.476"
+        "332.495"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100750029",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "70",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "459.112",
-        "533.357",
-        "593.274",
-        "559.678"
-      ],
-      "Taban Puan": [
-        "341.035",
-        "333.214",
-        "327.926",
-        "325.657"
-      ],
-      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,19 +150,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "391.443",
         "476.853",
         "551.868",
-        "673.329",
-        "523.854"
+        "673.329"
       ],
       "Taban Puan": [
+        "353.423",
         "338.632",
         "331.016",
-        "319.251",
-        "330.321"
+        "319.251"
       ],
       "Şehir": "KONYA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100750029",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "392.277",
+        "459.112",
+        "533.357",
+        "593.274"
+      ],
+      "Taban Puan": [
+        "353.282",
+        "341.035",
+        "333.214",
+        "327.926"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "208810059",
@@ -191,57 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "397.837",
         "485.083",
         "560.245",
-        "667.864",
-        "623.911"
+        "667.864"
       ],
       "Taban Puan": [
+        "352.328",
         "337.532",
         "330.042",
-        "319.821",
-        "317.978"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200650277",
-      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "7",
-        "7",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "492.310",
-        "543.759",
-        "618.140",
-        "602.058"
-      ],
-      "Taban Puan": [
-        "336.574",
-        "331.970",
-        "325.127",
-        "320.499"
+        "319.821"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -273,182 +273,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "406.714",
         "492.658",
         "563.739",
-        "639.302",
-        "604.530"
+        "639.302"
       ],
       "Taban Puan": [
+        "350.862",
         "336.535",
         "329.640",
-        "322.830",
-        "320.209"
+        "322.830"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108953236",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "63",
-        "70",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "492.954",
-        "571.833",
-        "660.895",
-        "620.518"
-      ],
-      "Taban Puan": [
-        "336.496",
-        "328.703",
-        "320.542",
-        "318.367"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201650141",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "9",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "500.936",
-        "628.103",
-        "589.261",
-        "538.599"
-      ],
-      "Taban Puan": [
-        "335.462",
-        "322.648",
-        "328.397",
-        "328.366"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209610124",
-      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "7",
-        "4",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "507.142",
-        "598.000",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "334.660",
-        "325.822",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108650396",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "DENİZLİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "63",
-        "70",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "511.426",
-        "600.882",
-        "671.319",
-        "623.542"
-      ],
-      "Taban Puan": [
-        "334.122",
-        "325.511",
-        "319.463",
-        "318.020"
-      ],
-      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,23 +314,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "411.880",
         "516.133",
         "595.804",
-        "597.037",
-        "599.680"
+        "597.037"
       ],
       "Taban Puan": [
+        "350.024",
         "333.529",
         "326.064",
-        "327.498",
-        "320.775"
+        "327.498"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200150185",
-      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "200650277",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (Burslu)",
@@ -507,10 +343,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "4"
+        "6",
+        "7",
+        "7",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -519,26 +355,26 @@
         ""
       ],
       "Taban Sıralama": [
-        "525.903",
-        "548.627",
-        "594.086",
-        "525.536"
+        "417.548",
+        "492.310",
+        "543.759",
+        "618.140"
       ],
       "Taban Puan": [
-        "332.317",
-        "331.397",
-        "327.829",
-        "330.093"
+        "349.113",
+        "336.574",
+        "331.970",
+        "325.127"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "100351313",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "AYDIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
+      "Program Kodu": "209610124",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -548,10 +384,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "73",
-        "80",
-        "80",
-        "80"
+        "6",
+        "7",
+        "4",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -560,24 +396,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "530.640",
-        "607.200",
-        "668.610",
-        "643.350"
+        "421.459",
+        "507.142",
+        "598.000",
+        ""
       ],
       "Taban Puan": [
-        "331.746",
-        "324.826",
-        "319.749",
-        "315.826"
+        "348.482",
+        "334.660",
+        "325.822",
+        ""
       ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "110251336",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "VAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "108953236",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Diyaliz",
       "Öğretim Türü": "Örgün Öğretim",
@@ -589,10 +425,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "54",
-        "60",
-        "60",
-        "60"
+        "63",
+        "70",
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -601,59 +437,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "534.380",
-        "601.808",
-        "658.626",
-        "637.235"
+        "421.690",
+        "492.954",
+        "571.833",
+        "660.895"
       ],
       "Taban Puan": [
-        "331.303",
-        "325.407",
-        "320.774",
-        "316.500"
+        "348.448",
+        "336.496",
+        "328.703",
+        "320.542"
       ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111050285",
-      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "HAMİDİYE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU (İSTANBUL)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "537.481",
-        "607.585",
-        "666.632",
-        "634.382"
-      ],
-      "Taban Puan": [
-        "330.922",
-        "324.787",
-        "319.950",
-        "316.816"
-      ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,19 +478,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "428.301",
         "545.397",
         "597.933",
-        "669.384",
-        "655.943"
+        "669.384"
       ],
       "Taban Puan": [
+        "347.424",
         "329.987",
         "325.830",
-        "319.671",
-        "314.444"
+        "319.671"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111050285",
+      "Üniversite": "SAĞLIK BİLİMLERİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "HAMİDİYE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU (İSTANBUL)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "429.324",
+        "537.481",
+        "607.585",
+        "666.632"
+      ],
+      "Taban Puan": [
+        "347.261",
+        "330.922",
+        "324.787",
+        "319.950"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108650396",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "DENİZLİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "63",
+        "70",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "432.683",
+        "511.426",
+        "600.882",
+        "671.319"
+      ],
+      "Taban Puan": [
+        "346.733",
+        "334.122",
+        "325.511",
+        "319.463"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105090084",
@@ -724,19 +601,224 @@
         ""
       ],
       "Taban Sıralama": [
+        "444.926",
         "547.438",
         "652.200",
-        "759.172",
-        "686.809"
+        "759.172"
       ],
       "Taban Puan": [
+        "344.889",
         "329.745",
         "320.227",
-        "310.888",
-        "311.141"
+        "310.888"
       ],
       "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100351313",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "AYDIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "73",
+        "80",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "445.362",
+        "530.640",
+        "607.200",
+        "668.610"
+      ],
+      "Taban Puan": [
+        "344.826",
+        "331.746",
+        "324.826",
+        "319.749"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203150079",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "447.638",
+        "571.381",
+        "630.587",
+        "685.152"
+      ],
+      "Taban Puan": [
+        "344.485",
+        "326.947",
+        "322.395",
+        "318.042"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110251336",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "VAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "54",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "447.752",
+        "534.380",
+        "601.808",
+        "658.626"
+      ],
+      "Taban Puan": [
+        "344.467",
+        "331.303",
+        "325.407",
+        "320.774"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210500241",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "450.238",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "344.083",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209710032",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "10",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "450.310",
+        "589.855",
+        "665.677",
+        "701.884"
+      ],
+      "Taban Puan": [
+        "344.073",
+        "324.869",
+        "318.892",
+        "316.375"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "205590098",
@@ -765,19 +847,183 @@
         ""
       ],
       "Taban Sıralama": [
+        "450.464",
         "555.940",
         "653.778",
-        "700.378",
-        "630.589"
+        "700.378"
       ],
       "Taban Puan": [
+        "344.048",
         "328.741",
         "320.068",
-        "316.524",
-        "317.231"
+        "316.524"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200390469",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "455.275",
+        "622.610",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "343.324",
+        "321.341",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208450185",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "457.392",
+        "604.136",
+        "630.909",
+        "686.875"
+      ],
+      "Taban Puan": [
+        "343.002",
+        "323.314",
+        "322.362",
+        "317.876"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201650141",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "9",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "458.581",
+        "500.936",
+        "628.103",
+        "589.261"
+      ],
+      "Taban Puan": [
+        "342.828",
+        "335.462",
+        "322.648",
+        "328.397"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109190045",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "460.120",
+        "565.897",
+        "674.480",
+        "777.099"
+      ],
+      "Taban Puan": [
+        "342.605",
+        "327.585",
+        "318.032",
+        "309.216"
+      ],
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112690179",
@@ -806,16 +1052,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "465.008",
         "558.417",
         "667.668",
-        "751.434",
-        "678.216"
+        "751.434"
       ],
       "Taban Puan": [
+        "341.887",
         "328.447",
         "318.702",
-        "311.615",
-        "312.045"
+        "311.615"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
@@ -847,100 +1093,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "466.798",
         "558.794",
         "670.059",
-        "758.000",
-        "733.182"
+        "758.000"
       ],
       "Taban Puan": [
+        "341.620",
         "328.400",
         "318.466",
-        "310.993",
-        "306.406"
+        "310.993"
       ],
       "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109190045",
-      "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "565.897",
-        "674.480",
-        "777.099",
-        "726.918"
-      ],
-      "Taban Puan": [
-        "327.585",
-        "318.032",
-        "309.216",
-        "307.033"
-      ],
-      "Şehir": "SİNOP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112370805",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "İNCESU AYŞE VE SAFFET ARSLAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "36",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "568.918",
-        "666.975",
-        "732.059",
-        "681.461"
-      ],
-      "Taban Puan": [
-        "327.229",
-        "318.768",
-        "313.464",
-        "311.703"
-      ],
-      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,101 +1134,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "468.342",
         "570.099",
         "685.162",
-        "777.176",
-        "710.558"
+        "777.176"
       ],
       "Taban Puan": [
+        "341.401",
         "327.089",
         "316.998",
-        "309.210",
-        "308.676"
+        "309.210"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203150079",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "571.381",
-        "630.587",
-        "685.152",
-        "628.431"
-      ],
-      "Taban Puan": [
-        "326.947",
-        "322.395",
-        "318.042",
-        "317.470"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203851255",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "574.938",
-        "683.181",
-        "744.578",
-        "759.944"
-      ],
-      "Taban Puan": [
-        "326.551",
-        "317.184",
-        "312.256",
-        "303.831"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101990092",
@@ -1093,18 +1175,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "470.179",
         "580.795",
         "724.442",
-        "",
         ""
       ],
       "Taban Puan": [
+        "341.133",
         "325.884",
         "313.350",
-        "",
         ""
       ],
       "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370805",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "İNCESU AYŞE VE SAFFET ARSLAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "36",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "470.439",
+        "568.918",
+        "666.975",
+        "732.059"
+      ],
+      "Taban Puan": [
+        "341.096",
+        "327.229",
+        "318.768",
+        "313.464"
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,101 +1257,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "475.689",
         "583.009",
         "697.991",
-        "782.151",
-        "731.694"
+        "782.151"
       ],
       "Taban Puan": [
+        "340.346",
         "325.639",
         "315.789",
-        "308.753",
-        "306.556"
+        "308.753"
       ],
       "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209710032",
-      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "10",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "589.855",
-        "665.677",
-        "701.884",
-        "680.118"
-      ],
-      "Taban Puan": [
-        "324.869",
-        "318.892",
-        "316.375",
-        "311.846"
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202550818",
-      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "9",
-        "5",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "590.170",
-        "677.562",
-        "755.502",
-        "685.726"
-      ],
-      "Taban Puan": [
-        "324.837",
-        "317.735",
-        "311.229",
-        "311.253"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "106350324",
@@ -1257,101 +1298,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "479.983",
         "593.000",
         "709.494",
-        "809.677",
-        "732.208"
+        "809.677"
       ],
       "Taban Puan": [
+        "339.725",
         "324.526",
         "314.727",
-        "306.291",
-        "306.504"
+        "306.291"
       ],
       "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208450185",
-      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "5",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "604.136",
-        "630.909",
-        "686.875",
-        "685.152"
-      ],
-      "Taban Puan": [
-        "323.314",
-        "322.362",
-        "317.876",
-        "311.310"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204752303",
-      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "3",
-        "3",
-        "3"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "605.499",
-        "671.622",
-        "788.438",
-        "756.872"
-      ],
-      "Taban Puan": [
-        "323.169",
-        "318.312",
-        "308.188",
-        "304.122"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "203151271",
@@ -1380,16 +1339,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "482.385",
         "606.772",
         "667.112",
-        "705.800",
-        "664.899"
+        "705.800"
       ],
       "Taban Puan": [
+        "339.398",
         "323.034",
         "318.757",
-        "315.989",
-        "313.488"
+        "315.989"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1421,24 +1380,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "483.020",
         "612.230",
         "699.065",
-        "770.280",
-        "704.535"
+        "770.280"
       ],
       "Taban Puan": [
+        "339.310",
         "322.456",
         "315.689",
-        "309.849",
-        "309.296"
+        "309.849"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "206550375",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "203851255",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1462,16 +1421,57 @@
         ""
       ],
       "Taban Sıralama": [
-        "614.511",
-        "684.771",
-        "792.979",
-        "754.167"
+        "483.378",
+        "574.938",
+        "683.181",
+        "744.578"
       ],
       "Taban Puan": [
-        "322.209",
-        "317.034",
-        "307.785",
-        "304.390"
+        "339.258",
+        "326.551",
+        "317.184",
+        "312.256"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209310020",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "4",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "486.975",
+        "628.261",
+        "716.508",
+        "777.435"
+      ],
+      "Taban Puan": [
+        "338.758",
+        "320.733",
+        "314.076",
+        "309.186"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1503,60 +1503,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "488.700",
         "621.256",
         "749.160",
-        "832.402",
-        "755.554"
+        "832.402"
       ],
       "Taban Puan": [
+        "338.523",
         "321.483",
         "311.103",
-        "304.294",
-        "304.251"
+        "304.294"
       ],
       "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200390469",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "622.610",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "321.341",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202456613",
@@ -1585,24 +1544,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "496.392",
         "623.068",
         "697.256",
-        "758.193",
-        "754.611"
+        "758.193"
       ],
       "Taban Puan": [
+        "337.459",
         "321.291",
         "315.858",
-        "310.976",
-        "304.345"
+        "310.976"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209310020",
-      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "206550375",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1614,10 +1573,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "4",
-        "4",
-        "4"
+        "10",
+        "10",
+        "10",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -1626,16 +1585,57 @@
         ""
       ],
       "Taban Sıralama": [
-        "628.261",
-        "716.508",
-        "777.435",
-        "806.728"
+        "498.978",
+        "614.511",
+        "684.771",
+        "792.979"
       ],
       "Taban Puan": [
-        "320.733",
-        "314.076",
-        "309.186",
-        "299.443"
+        "337.105",
+        "322.209",
+        "317.034",
+        "307.785"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209010064",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "7",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "501.582",
+        "637.804",
+        "700.101",
+        "799.413"
+      ],
+      "Taban Puan": [
+        "336.750",
+        "319.733",
+        "315.598",
+        "307.205"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1667,23 +1667,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "503.082",
         "632.336",
         "783.267",
-        "883.145",
-        "804.245"
+        "883.145"
       ],
       "Taban Puan": [
+        "336.543",
         "320.304",
         "308.142",
-        "299.956",
-        "299.673"
+        "299.956"
       ],
       "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209010064",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "204752303",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (Burslu)",
@@ -1696,10 +1696,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
-        "7",
-        "7",
-        "8"
+        "3",
+        "3",
+        "3",
+        "3"
       ],
       "Yerleşen": [
         "",
@@ -1708,23 +1708,23 @@
         ""
       ],
       "Taban Sıralama": [
-        "637.804",
-        "700.101",
-        "799.413",
-        "812.357"
+        "504.293",
+        "605.499",
+        "671.622",
+        "788.438"
       ],
       "Taban Puan": [
-        "319.733",
-        "315.598",
-        "307.205",
-        "298.923"
+        "336.373",
+        "323.169",
+        "318.312",
+        "308.188"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "202751798",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Program Kodu": "202550818",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (Burslu)",
@@ -1737,10 +1737,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "7",
-        "7",
         "9",
-        "10"
+        "5",
+        "4",
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -1749,180 +1749,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "638.583",
-        "755.358",
-        "850.163",
-        "768.769"
+        "507.259",
+        "590.170",
+        "677.562",
+        "755.502"
       ],
       "Taban Puan": [
-        "319.653",
-        "310.552",
-        "302.743",
-        "302.994"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104790018",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "GÜMÜŞHANE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "65",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "640.530",
-        "776.009",
-        "881.768",
-        "799.002"
-      ],
-      "Taban Puan": [
-        "319.448",
-        "308.775",
-        "300.066",
-        "300.150"
-      ],
-      "Şehir": "GÜMÜŞHANE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "210300416",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "6",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "643.525",
-        "716.828",
-        "858.737",
-        "731.679"
-      ],
-      "Taban Puan": [
-        "319.133",
-        "314.048",
-        "302.003",
-        "306.558"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210400136",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "660.762",
-        "753.292",
-        "845.954",
-        "833.729"
-      ],
-      "Taban Puan": [
-        "317.354",
-        "310.739",
-        "303.112",
-        "296.969"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208150073",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "8",
-        "8",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "687.153",
-        "772.056",
-        "852.455",
-        "859.555"
-      ],
-      "Taban Puan": [
-        "314.742",
-        "309.112",
-        "302.546",
-        "294.695"
+        "335.979",
+        "324.837",
+        "317.735",
+        "311.229"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1954,16 +1790,180 @@
         ""
       ],
       "Taban Sıralama": [
+        "510.624",
         "687.606",
         "757.892",
-        "841.540",
-        "782.772"
+        "841.540"
       ],
       "Taban Puan": [
+        "335.532",
         "314.694",
         "310.324",
-        "303.496",
-        "301.669"
+        "303.496"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104790018",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "GÜMÜŞHANE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "511.117",
+        "640.530",
+        "776.009",
+        "881.768"
+      ],
+      "Taban Puan": [
+        "335.466",
+        "319.448",
+        "308.775",
+        "300.066"
+      ],
+      "Şehir": "GÜMÜŞHANE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210300416",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "511.136",
+        "643.525",
+        "716.828",
+        "858.737"
+      ],
+      "Taban Puan": [
+        "335.463",
+        "319.133",
+        "314.048",
+        "302.003"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202751798",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "9",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "513.159",
+        "638.583",
+        "755.358",
+        "850.163"
+      ],
+      "Taban Puan": [
+        "335.196",
+        "319.653",
+        "310.552",
+        "302.743"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210400136",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "518.026",
+        "660.762",
+        "753.292",
+        "845.954"
+      ],
+      "Taban Puan": [
+        "334.530",
+        "317.354",
+        "310.739",
+        "303.112"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1995,19 +1995,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "538.613",
         "691.996",
         "849.117",
-        "945.592",
-        "871.390"
+        "945.592"
       ],
       "Taban Puan": [
+        "331.880",
         "314.256",
         "302.663",
-        "294.864",
-        "293.675"
+        "294.864"
       ],
       "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208150073",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "8",
+        "8",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "539.443",
+        "687.153",
+        "772.056",
+        "852.455"
+      ],
+      "Taban Puan": [
+        "331.768",
+        "314.742",
+        "309.112",
+        "302.546"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104970171",
@@ -2036,16 +2077,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "546.645",
         "697.927",
         "845.707",
-        "984.189",
-        "869.276"
+        "984.189"
       ],
       "Taban Puan": [
+        "330.852",
         "313.694",
         "302.938",
-        "291.825",
-        "293.860"
+        "291.825"
       ],
       "Şehir": "HAKKARİ",
       "Ücret": "Ücretsiz"
@@ -2077,16 +2118,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "676.861",
         "817.438",
         "913.174",
-        "1.215.140",
-        "1.377.694"
+        "1.215.140"
       ],
       "Taban Puan": [
+        "315.947",
         "302.863",
         "297.653",
-        "275.062",
-        "257.699"
+        "275.062"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -2118,19 +2159,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "765.655",
         "897.668",
         "953.843",
-        "996.778",
-        "912.496"
+        "996.778"
       ],
       "Taban Puan": [
+        "307.098",
         "296.195",
         "294.611",
-        "290.876",
-        "290.201"
+        "290.876"
       ],
       "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200300143",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "14",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "832.649",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "300.959",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200390476",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "940.200",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "291.748",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300350649",
@@ -2159,16 +2282,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "975.137",
         "1.071.066",
         "1.360.500",
-        "1.487.055",
-        "1.555.766"
+        "1.487.055"
       ],
       "Taban Puan": [
+        "288.849",
         "282.842",
         "267.406",
-        "257.568",
-        "247.673"
+        "257.568"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -2200,60 +2323,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "994.536",
         "1.121.226",
         "1.179.306",
-        "1.414.477",
-        "1.408.451"
+        "1.414.477"
       ],
       "Taban Puan": [
+        "287.264",
         "279.204",
         "278.915",
-        "262.039",
-        "255.891"
+        "262.039"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300550886",
-      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "13",
-        "13",
-        "16"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.176.096",
-        "1.381.559",
-        "1.580.112",
-        "2.003.598"
-      ],
-      "Taban Puan": [
-        "275.265",
-        "266.094",
-        "252.019",
-        "226.452"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "201650168",
@@ -2282,26 +2364,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.001.039",
         "1.409.712",
         "1.048.364",
-        "1.105.665",
-        "1.037.930"
+        "1.105.665"
       ],
       "Taban Puan": [
+        "286.748",
         "259.083",
         "287.795",
-        "282.768",
-        "280.319"
+        "282.768"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "%25 İndirimli"
     },
     {
-      "Program Kodu": "200150334",
-      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "209200269",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (%50 İndirimli)",
+      "Program Adı": "Diyaliz (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -2311,10 +2393,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "31",
-        "31",
-        "31"
+        "45",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -2323,19 +2405,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.439.111",
-        "2.173.315",
-        "2.146.057",
-        "2.690.249"
+        "1.014.688",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "257.064",
-        "221.267",
-        "221.420",
-        "197.405"
+        "285.671",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "300550886",
+      "Üniversite": "YAKIN DOĞU ÜNİVERSİTESİ (KKTC-LEFKOŞA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "13",
+        "13",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.067.297",
+        "1.176.096",
+        "1.381.559",
+        "1.580.112"
+      ],
+      "Taban Puan": [
+        "281.504",
+        "275.265",
+        "266.094",
+        "252.019"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "204050102",
@@ -2364,26 +2487,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.427.956",
         "1.509.503",
         "1.359.192",
-        "1.386.200",
-        "1.397.156"
+        "1.386.200"
       ],
       "Taban Puan": [
+        "255.000",
         "252.279",
         "267.489",
-        "263.817",
-        "256.553"
+        "263.817"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "208810060",
-      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Program Kodu": "203100591",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (%25 İndirimli)",
+      "Program Adı": "Diyaliz (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -2393,10 +2516,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "38",
-        "42",
-        "42",
-        "42"
+        "48",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -2405,65 +2528,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.652.504",
-        "1.250.403",
-        "1.288.158",
-        "1.381.766"
-      ],
-      "Taban Puan": [
-        "242.530",
-        "274.294",
-        "270.173",
-        "257.457"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "100351755",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "AYDIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Diyaliz (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.663.255",
+        "1.435.449",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "241.794",
+        "254.468",
         "",
         "",
         ""
       ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "209010065",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "210500248",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2475,10 +2557,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
-        "48",
-        "48",
-        "51"
+        "37",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -2487,19 +2569,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.934.186",
-        "2.329.753",
-        "2.519.984",
+        "1.621.576",
+        "",
+        "",
         ""
       ],
       "Taban Puan": [
-        "222.886",
-        "212.673",
-        "202.925",
+        "241.417",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100360",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "48",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.667.851",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "238.187",
+        "",
+        "",
         ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210400143",
@@ -2528,23 +2651,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.706.077",
         "2.106.225",
         "1.598.878",
-        "2.201.559",
-        "1.580.007"
+        "2.201.559"
       ],
       "Taban Puan": [
+        "235.503",
         "209.463",
         "253.113",
-        "218.666",
-        "246.405"
+        "218.666"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "300350658",
-      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Program Kodu": "209610131",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (%50 İndirimli)",
@@ -2557,10 +2680,10 @@
         "2023"
       ],
       "Kontenjan": [
+        "38",
+        "42",
         "25",
-        "25",
-        "25",
-        "25"
+        ""
       ],
       "Yerleşen": [
         "",
@@ -2569,59 +2692,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "2.109.057",
-        "2.167.308",
-        "2.236.902",
+        "1.781.803",
+        "",
+        "1.420.041",
         ""
       ],
       "Taban Puan": [
-        "209.221",
-        "221.599",
-        "216.932",
+        "230.083",
+        "",
+        "263.724",
         ""
       ],
-      "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "206550393",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "61",
-        "68",
-        "65",
-        "61"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.112.704",
-        "2.104.951",
-        "2.102.504",
-        "1.680.377"
-      ],
-      "Taban Puan": [
-        "208.910",
-        "224.982",
-        "223.606",
-        "241.245"
-      ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -2651,18 +2733,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.848.415",
         "2.298.552",
         "1.739.167",
-        "1.978.492",
-        "1.288.902"
+        "1.978.492"
       ],
       "Taban Puan": [
+        "225.201",
         "180.906",
         "245.064",
-        "229.985",
-        "263.113"
+        "229.985"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201650132",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "44",
+        "52",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.943.915",
+        "",
+        "1.451.635",
+        "1.498.938"
+      ],
+      "Taban Puan": [
+        "217.777",
+        "",
+        "261.817",
+        "256.846"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "205590097",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "47",
+        "47",
+        "47"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.999.485",
+        "",
+        "2.374.557",
+        ""
+      ],
+      "Taban Puan": [
+        "213.123",
+        "",
+        "210.148",
+        ""
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202456622",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "61",
+        "68",
+        "68",
+        "64"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.035.489",
+        "",
+        "",
+        "2.048.567"
+      ],
+      "Taban Puan": [
+        "209.787",
+        "",
+        "",
+        "226.364"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "103451745",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Diyaliz (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.051.788",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "208.163",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300350658",
+      "Üniversite": "LEFKE AVRUPA ÜNİVERSİTESİ (KKTC-LEFKE)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.089.463",
+        "2.109.057",
+        "2.167.308",
+        "2.236.902"
+      ],
+      "Taban Puan": [
+        "204.000",
+        "209.221",
+        "221.599",
+        "216.932"
+      ],
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -2692,24 +2979,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.156.029",
         "2.300.032",
         "2.091.312",
-        "2.418.457",
-        "2.011.716"
+        "2.418.457"
       ],
       "Taban Puan": [
+        "193.095",
         "180.003",
         "225.717",
-        "208.009",
-        "226.108"
+        "208.009"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "103451745",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100351755",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "AYDIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Diyaliz (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2723,8 +3010,8 @@
       "Kontenjan": [
         "1",
         "1",
-        "",
-        ""
+        "1",
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -2734,104 +3021,22 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
+        "1.663.255",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
+        "241.794",
         "",
         ""
       ],
-      "Şehir": "İZMİR",
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209200269",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "200390476",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "25",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "200300143",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Program Kodu": "200150334",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Diyaliz (%50 İndirimli)",
@@ -2844,10 +3049,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "14",
-        "",
-        "",
-        ""
+        "25",
+        "31",
+        "31",
+        "31"
       ],
       "Yerleşen": [
         "",
@@ -2857,17 +3062,17 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "1.439.111",
+        "2.173.315",
+        "2.146.057"
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        ""
+        "257.064",
+        "221.267",
+        "221.420"
       ],
-      "Şehir": "TRABZON",
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -2898,15 +3103,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.502.118",
         "",
-        "1.667.952"
+        "2.502.118",
+        ""
       ],
       "Taban Puan": [
         "",
-        "202.457",
         "",
-        "241.875"
+        "202.457",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2939,25 +3144,25 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.017.882",
-        "2.038.339",
-        "2.732.377"
+        "2.038.339"
       ],
       "Taban Puan": [
         "",
+        "",
         "229.686",
-        "226.891",
-        "195.031"
+        "226.891"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "201650132",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "209010065",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Ücretli)",
+      "Program Adı": "Diyaliz (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -2967,10 +3172,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "44",
-        "52",
-        "55",
-        "55"
+        "40",
+        "48",
+        "48",
+        "51"
       ],
       "Yerleşen": [
         "",
@@ -2980,18 +3185,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.451.635",
-        "1.498.938",
-        "1.310.296"
+        "1.934.186",
+        "2.329.753",
+        "2.519.984"
       ],
       "Taban Puan": [
         "",
-        "261.817",
-        "256.846",
-        "261.779"
+        "222.886",
+        "212.673",
+        "202.925"
       ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretli"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "209310021",
@@ -3021,56 +3226,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.538.077",
-        "2.487.437",
-        "2.307.676"
+        "2.487.437"
       ],
       "Taban Puan": [
+        "",
         "",
         "200.089",
-        "204.564",
-        "214.043"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202456622",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "61",
-        "68",
-        "68",
-        "64"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "2.048.567",
-        "1.720.025"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "226.364",
-        "239.296"
+        "204.564"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3104,14 +3268,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.447.364",
-        "2.518.940"
+        "",
+        "2.447.364"
       ],
       "Taban Puan": [
         "",
         "",
-        "206.567",
-        "205.440"
+        "",
+        "206.567"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3144,15 +3308,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.648.463",
-        "2.525.337",
-        "2.189.607"
+        "2.525.337"
       ],
       "Taban Puan": [
         "",
+        "",
         "191.393",
-        "202.654",
-        "218.798"
+        "202.654"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3187,98 +3351,16 @@
         "",
         "",
         "",
-        "2.106.202"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "222.170"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203100360",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "48",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "203100591",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "48",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210400150",
@@ -3308,15 +3390,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.436.911",
-        "2.175.307",
-        "2.017.015"
+        "2.175.307"
       ],
       "Taban Puan": [
         "",
+        "",
         "206.501",
-        "219.966",
-        "225.883"
+        "219.966"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3349,15 +3431,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.009.046",
-        "2.178.146",
-        "2.273.396"
+        "2.178.146"
       ],
       "Taban Puan": [
         "",
+        "",
         "230.158",
-        "219.824",
-        "215.407"
+        "219.824"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3391,14 +3473,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.488.664",
-        "2.658.542"
+        "",
+        "2.488.664"
       ],
       "Taban Puan": [
         "",
         "",
-        "204.504",
-        "199.035"
+        "",
+        "204.504"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3432,139 +3514,16 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.258.278",
-        "2.655.327"
+        "",
+        "2.258.278"
       ],
       "Taban Puan": [
         "",
         "",
-        "215.879",
-        "199.195"
+        "",
+        "215.879"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210500241",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210500248",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209610131",
-      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "38",
-        "42",
-        "25",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "1.420.041",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "263.724",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -3595,15 +3554,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.131.411",
-        "1.824.002",
-        "1.949.238"
+        "1.824.002"
       ],
       "Taban Puan": [
         "",
+        "",
         "223.534",
-        "238.224",
-        "228.770"
+        "238.224"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%50 İndirimli"
@@ -3636,25 +3595,25 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.395.777",
-        "2.329.485",
-        "1.988.886"
+        "2.329.485"
       ],
       "Taban Puan": [
         "",
+        "",
         "208.918",
-        "212.386",
-        "227.074"
+        "212.386"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "205590097",
-      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Program Kodu": "208810060",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Diyaliz (Ücretli)",
+      "Program Adı": "Diyaliz (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -3664,10 +3623,10 @@
         "2023"
       ],
       "Kontenjan": [
+        "38",
         "42",
-        "47",
-        "47",
-        "47"
+        "42",
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -3677,18 +3636,59 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.374.557",
-        "",
-        "1.635.488"
+        "1.652.504",
+        "1.250.403",
+        "1.288.158"
       ],
       "Taban Puan": [
         "",
-        "210.148",
-        "",
-        "243.532"
+        "242.530",
+        "274.294",
+        "270.173"
       ],
-      "Şehir": "MERSİN",
-      "Ücret": "Ücretli"
+      "Şehir": "ANKARA",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "206550393",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Diyaliz (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "61",
+        "68",
+        "65",
+        "61"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "2.112.704",
+        "2.104.951",
+        "2.102.504"
+      ],
+      "Taban Puan": [
+        "",
+        "208.910",
+        "224.982",
+        "223.606"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300150748",
@@ -3718,15 +3718,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.487.606",
-        "2.479.616",
-        "2.693.357"
+        "2.479.616"
       ],
       "Taban Puan": [
         "",
+        "",
         "203.378",
-        "204.954",
-        "197.237"
+        "204.954"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -3759,15 +3759,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.714.635",
-        "2.135.333",
-        "2.279.961"
+        "2.135.333"
       ],
       "Taban Puan": [
         "",
+        "",
         "182.875",
-        "221.962",
-        "215.153"
+        "221.962"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

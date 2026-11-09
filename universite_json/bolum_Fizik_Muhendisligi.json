@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "16.750",
         "14.762",
         "18.127",
-        "22.286",
-        "33.422"
+        "22.286"
       ],
       "Taban Puan": [
+        "504.076",
         "492.487",
         "483.121",
-        "494.369",
-        "477.853"
+        "494.369"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "55.578",
         "60.599",
         "74.813",
-        "85.874",
-        "128.652"
+        "85.874"
       ],
       "Taban Puan": [
+        "458.579",
         "434.741",
         "407.617",
-        "421.684",
-        "381.286"
+        "421.684"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "68.681",
         "72.799",
         "97.366",
-        "113.090",
-        "157.858"
+        "113.090"
       ],
       "Taban Puan": [
+        "444.822",
         "422.976",
         "386.647",
-        "398.072",
-        "360.803"
+        "398.072"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105500115",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fizik Mühendisliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "114.397",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "402.061",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "149.788",
         "158.041",
         "186.666",
-        "210.538",
-        "254.288"
+        "210.538"
       ],
       "Taban Puan": [
+        "375.239",
         "358.773",
         "329.549",
-        "339.726",
-        "313.712"
+        "339.726"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "212.022",
         "257.907",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "339.376",
         "315.258",
-        "",
         "",
         ""
       ],
@@ -233,14 +274,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "111.320",
         "",
+        "111.320",
         ""
       ],
       "Taban Puan": [
         "",
-        "375.146",
         "",
+        "375.146",
         ""
       ],
       "Şehir": "ANKARA",
@@ -326,47 +367,6 @@
         ""
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105500115",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fizik Mühendisliği (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     }
   ]

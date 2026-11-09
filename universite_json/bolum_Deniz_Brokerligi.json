@@ -27,16 +27,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "287.679",
         "257.452",
         "311.836",
-        "327.380",
-        "382.098"
+        "327.380"
       ],
       "Taban Puan": [
+        "373.997",
         "376.161",
         "368.307",
-        "366.753",
-        "352.252"
+        "366.753"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210403111",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Brokerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "555.817",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "329.719",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "970.584",
         "753.795",
         "810.053",
-        "1.215.994",
-        "1.377.840"
+        "1.215.994"
       ],
       "Taban Puan": [
+        "289.224",
         "308.483",
         "305.870",
-        "275.002",
-        "257.688"
+        "275.002"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -109,60 +150,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.247.369",
         "1.437.193",
         "1.501.249",
-        "1.719.266",
-        "1.718.376"
+        "1.719.266"
       ],
       "Taban Puan": [
+        "267.941",
         "257.195",
         "258.842",
-        "244.000",
-        "239.377"
+        "244.000"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204950424",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Brokerliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "21",
-        "21",
-        "14"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.960.025",
-        "1.597.975",
-        "1.772.129",
-        "1.472.288"
-      ],
-      "Taban Puan": [
-        "221.007",
-        "253.167",
-        "241.048",
-        "252.241"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210403118",
@@ -206,47 +206,6 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "210403111",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Brokerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "210403125",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -286,6 +245,47 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204950424",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Brokerliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "21",
+        "21",
+        "14"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.960.025",
+        "1.597.975",
+        "1.772.129"
+      ],
+      "Taban Puan": [
+        "",
+        "221.007",
+        "253.167",
+        "241.048"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300290380",
@@ -356,15 +356,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.657.095",
-        "2.676.912",
-        ""
+        "2.676.912"
       ],
       "Taban Puan": [
         "",
+        "",
         "190.539",
-        "194.333",
-        ""
+        "194.333"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

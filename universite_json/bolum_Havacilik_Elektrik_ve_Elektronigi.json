@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "46.150",
         "56.784",
         "73.409",
-        "80.614",
-        "94.435"
+        "80.614"
       ],
       "Taban Puan": [
+        "468.560",
         "438.635",
         "409.034",
-        "426.694",
-        "410.725"
+        "426.694"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "57.083",
         "72.680",
         "98.683",
-        "110.557",
-        "137.779"
+        "110.557"
       ],
       "Taban Puan": [
+        "456.915",
         "423.095",
         "385.506",
-        "400.082",
-        "374.560"
+        "400.082"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "63.773",
         "79.722",
         "",
-        "146.300",
-        "170.743"
+        "146.300"
       ],
       "Taban Puan": [
+        "449.893",
         "416.691",
         "",
-        "374.171",
-        "353.041"
+        "374.171"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "73.843",
         "100.203",
         "144.054",
-        "175.238",
-        "208.737"
+        "175.238"
       ],
       "Taban Puan": [
+        "439.513",
         "398.954",
         "352.506",
-        "356.943",
-        "333.077"
+        "356.943"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
@@ -191,14 +191,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "76.945",
         "101.920",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "436.426",
         "397.564",
-        "",
         "",
         ""
       ],
@@ -232,19 +232,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "88.716",
         "115.273",
         "119.203",
-        "130.104",
-        "188.883"
+        "130.104"
       ],
       "Taban Puan": [
+        "424.961",
         "387.110",
         "369.134",
-        "385.198",
-        "342.950"
+        "385.198"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107000381",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Havacılık Elektrik ve Elektroniği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "88.941",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "424.721",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210402488",
@@ -273,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "106.771",
         "129.529",
         "130.376",
-        "145.491",
-        "182.194"
+        "145.491"
       ],
       "Taban Puan": [
+        "408.483",
         "376.854",
         "361.252",
-        "374.692",
-        "346.524"
+        "374.692"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -314,59 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "165.669",
         "246.275",
         "299.949",
-        "",
         ""
       ],
       "Taban Puan": [
+        "364.845",
         "319.282",
         "290.165",
-        "",
         ""
       ],
       "Şehir": "ERZİNCAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110790038",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Havacılık Elektrik ve Elektroniği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "40",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "249.178",
-        "305.300",
-        "303.273",
-        "302.597"
-      ],
-      "Taban Puan": [
-        "318.238",
-        "288.756",
-        "306.715",
-        "297.114"
-      ],
-      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -396,26 +396,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "179.703",
         "252.415",
         "302.622",
-        "301.221",
-        "322.346"
+        "301.221"
       ],
       "Taban Puan": [
+        "356.363",
         "317.097",
         "289.439",
-        "307.306",
-        "291.175"
+        "307.306"
       ],
       "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210402495",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "SİVİL HAVACILIK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Havacılık Elektrik ve Elektroniği (Ücretli)",
+      "Program Kodu": "110790038",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Havacılık Elektrik ve Elektroniği",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -425,10 +425,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
+        "34",
+        "40",
+        "45",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -437,19 +437,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "278.588",
-        "409.251",
-        "406.227",
-        "470.721"
+        "181.072",
+        "249.178",
+        "305.300",
+        "303.273"
       ],
       "Taban Puan": [
-        "308.684",
-        "267.075",
-        "281.761",
-        "257.932"
+        "355.578",
+        "318.238",
+        "288.756",
+        "306.715"
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203852034",
@@ -478,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "368.093",
         "434.321",
         "482.382",
-        "574.662",
-        ""
+        "574.662"
       ],
       "Taban Puan": [
+        "283.671",
         "272.648",
         "256.010",
-        "254.528",
-        ""
+        "254.528"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%25 İndirimli"
@@ -519,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "396.935",
         "439.714",
         "419.012",
-        "407.766",
-        "437.609"
+        "407.766"
       ],
       "Taban Puan": [
+        "276.467",
         "271.707",
         "265.457",
-        "281.445",
-        "263.924"
+        "281.445"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -560,19 +560,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "406.509",
         "486.066",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "274.244",
         "264.304",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402495",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "SİVİL HAVACILIK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Havacılık Elektrik ve Elektroniği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "457.736",
+        "278.588",
+        "409.251",
+        "406.227"
+      ],
+      "Taban Puan": [
+        "263.396",
+        "308.684",
+        "267.075",
+        "281.761"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "112411289",
@@ -601,14 +642,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "547.506",
         "591.867",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "247.889",
         "250.542",
-        "",
         "",
         ""
       ],
@@ -642,16 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "578.309",
         "788.593",
         "409.419",
-        "392.413",
-        "439.618"
+        "392.413"
       ],
       "Taban Puan": [
+        "243.389",
         "231.869",
         "267.047",
-        "284.661",
-        "263.529"
+        "284.661"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -736,47 +777,6 @@
         ""
       ],
       "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107000381",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Havacılık Elektrik ve Elektroniği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     }
   ]

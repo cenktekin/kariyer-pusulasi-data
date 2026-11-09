@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "45.724",
         "53.030",
         "84.141",
-        "83.337",
-        "133.222"
+        "83.337"
       ],
       "Taban Puan": [
+        "398.077",
         "382.921",
         "367.673",
-        "379.362",
-        "365.105"
+        "379.362"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "94.864",
         "102.837",
         "141.499",
-        "151.393",
-        "172.736"
+        "151.393"
       ],
       "Taban Puan": [
+        "371.353",
         "358.513",
         "344.665",
-        "353.066",
-        "351.180"
+        "353.066"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -109,15 +109,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "107.300",
         "133.557",
         "213.051",
-        "",
         ""
       ],
       "Taban Puan": [
+        "365.780",
         "347.166",
         "324.909",
-        "",
         ""
       ],
       "Şehir": "BURSA",
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "149.612",
         "184.132",
         "262.879",
-        "310.600",
-        "348.102"
+        "310.600"
       ],
       "Taban Puan": [
+        "349.629",
         "332.233",
         "314.505",
-        "316.067",
-        "310.051"
+        "316.067"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "165.127",
         "197.551",
         "293.462",
-        "340.997",
-        "348.640"
+        "340.997"
       ],
       "Taban Puan": [
+        "344.429",
         "328.845",
         "309.034",
-        "310.864",
-        "309.959"
+        "310.864"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "179.664",
         "226.097",
         "347.082",
-        "417.932",
-        "435.908"
+        "417.932"
       ],
       "Taban Puan": [
+        "339.901",
         "322.204",
         "300.384",
-        "299.243",
-        "296.173"
+        "299.243"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -273,19 +273,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "183.466",
         "235.666",
         "",
-        "391.047",
-        "409.288"
+        "391.047"
       ],
       "Taban Puan": [
+        "338.768",
         "320.102",
         "",
-        "303.110",
-        "300.109"
+        "303.110"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105590142",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "5",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "194.503",
+        "",
+        "",
+        "151.074"
+      ],
+      "Taban Puan": [
+        "335.591",
+        "",
+        "",
+        "353.163"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "106290414",
@@ -314,60 +355,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "197.824",
         "252.005",
         "373.937",
-        "",
         ""
       ],
       "Taban Puan": [
+        "334.677",
         "316.742",
         "296.485",
-        "",
         ""
       ],
       "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204910369",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "45",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "274.760",
-        "331.309",
-        "421.566",
-        "507.798"
-      ],
-      "Taban Puan": [
-        "312.340",
-        "302.811",
-        "298.729",
-        "286.523"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "112771246",
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "227.677",
         "280.195",
         "447.795",
-        "610.093",
-        ""
+        "610.093"
       ],
       "Taban Puan": [
+        "326.961",
         "311.350",
         "286.810",
-        "275.855",
-        ""
+        "275.855"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -437,18 +437,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "266.388",
         "324.722",
         "542.167",
-        "709.273",
-        "764.543"
+        "709.273"
       ],
       "Taban Puan": [
+        "318.222",
         "303.646",
         "276.094",
-        "265.793",
-        "259.623"
+        "265.793"
       ],
       "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204910369",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "45",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "266.752",
+        "274.760",
+        "331.309",
+        "421.566"
+      ],
+      "Taban Puan": [
+        "318.145",
+        "312.340",
+        "302.811",
+        "298.729"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "110790020",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "BARBAROS HAYRETTİN GEMİ İNŞAATI VE DENİZCİLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Denizcilik İşletmeleri Yönetimi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "55",
+        "55",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "274.916",
+        "392.372",
+        "629.233",
+        "780.689"
+      ],
+      "Taban Puan": [
+        "316.441",
+        "293.603",
+        "267.345",
+        "259.129"
+      ],
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,59 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "321.511",
         "380.552",
         "625.405",
-        "788.542",
-        "742.574"
+        "788.542"
       ],
       "Taban Puan": [
+        "307.465",
         "295.261",
         "267.710",
-        "258.411",
-        "261.598"
+        "258.411"
       ],
       "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110790020",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "BARBAROS HAYRETTİN GEMİ İNŞAATI VE DENİZCİLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Denizcilik İşletmeleri Yönetimi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "55",
-        "55",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "392.372",
-        "629.233",
-        "780.689",
-        "638.800"
-      ],
-      "Taban Puan": [
-        "293.603",
-        "267.345",
-        "259.129",
-        "271.663"
-      ],
-      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -549,9 +590,9 @@
       ],
       "Kontenjan": [
         "5",
-        "8",
-        "10",
-        "10"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -560,66 +601,25 @@
         ""
       ],
       "Taban Sıralama": [
+        "398.842",
         "576.957",
         "772.908",
-        "1.060.660",
-        "1.347.438"
+        "1.060.660"
       ],
       "Taban Puan": [
+        "294.568",
         "271.637",
         "254.718",
-        "236.204",
-        "215.870"
+        "236.204"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "204910342",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "36",
-        "36",
-        "27"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "985.008",
-        "839.382",
-        "847.906",
-        "849.452"
-      ],
-      "Taban Puan": [
-        "234.849",
-        "249.371",
-        "253.199",
-        "252.305"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300700129",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK, MAVİ EKONOMİ VE DENİZ BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
+      "Program Kodu": "105590143",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Üniversite Türü": "Devlet",
       "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
@@ -630,10 +630,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "15",
-        "12",
-        "10",
-        "10"
+        "6",
+        "",
+        "",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -642,14 +642,14 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.058.210",
-        "1.343.140",
+        "879.693",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
-        "228.642",
-        "213.124",
+        "240.175",
+        "",
         "",
         ""
       ],
@@ -685,24 +685,24 @@
       "Taban Sıralama": [
         "",
         "",
-        "540.231",
-        "1.200.371"
+        "",
+        "540.231"
       ],
       "Taban Puan": [
         "",
         "",
-        "283.652",
-        "226.111"
+        "",
+        "283.652"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "105590142",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (Burslu)",
+      "Program Kodu": "204910342",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -712,10 +712,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
-        "",
-        "5",
-        "7"
+        "35",
+        "36",
+        "36",
+        "27"
       ],
       "Yerleşen": [
         "",
@@ -725,24 +725,24 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "151.074",
-        "288.577"
+        "985.008",
+        "839.382",
+        "847.906"
       ],
       "Taban Puan": [
         "",
-        "",
-        "353.163",
-        "321.385"
+        "234.849",
+        "249.371",
+        "253.199"
       ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "105590143",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
-      "Üniversite Türü": "Devlet",
+      "Program Kodu": "300700129",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK, MAVİ EKONOMİ VE DENİZ BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
       "Program Adı": "Denizcilik İşletmeleri Yönetimi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
@@ -753,10 +753,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
+        "15",
         "",
         "",
-        "8"
+        ""
       ],
       "Yerleşen": [
         "",
@@ -766,15 +766,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        "471.301"
+        "1.058.210",
+        "1.343.140",
+        ""
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        "291.240"
+        "228.642",
+        "213.124",
+        ""
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

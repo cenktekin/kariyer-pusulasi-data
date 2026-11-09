@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "6.657",
         "5.821",
         "5.947",
-        "6.498",
-        "9.285"
+        "6.498"
       ],
       "Taban Puan": [
+        "521.521",
         "514.081",
         "513.528",
-        "523.321",
-        "514.343"
+        "523.321"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "35.219",
         "32.358",
         "26.106",
-        "16.745",
-        "18.332"
+        "16.745"
       ],
       "Taban Puan": [
+        "480.815",
         "466.119",
         "468.559",
-        "503.132",
-        "498.811"
+        "503.132"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "113.381",
         "94.751",
         "168.726",
-        "248.794",
-        ""
+        "248.794"
       ],
       "Taban Puan": [
+        "402.891",
         "403.400",
         "338.447",
-        "324.410",
-        ""
+        "324.410"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -150,18 +150,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "178.103",
         "246.723",
         "104.263",
-        "85.136",
-        "88.255"
+        "85.136"
       ],
       "Taban Puan": [
+        "357.287",
         "319.121",
         "380.855",
-        "422.381",
-        "416.500"
+        "422.381"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300112109",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "2",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "215.185",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "337.810",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -191,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "261.153",
         "",
         "",
-        "206.500",
-        "160.277"
+        "206.500"
       ],
       "Taban Puan": [
+        "318.013",
         "",
         "",
-        "341.523",
-        "359.279"
+        "341.523"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -245,47 +286,6 @@
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300112109",
-      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "2",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
     }
   ]
 }

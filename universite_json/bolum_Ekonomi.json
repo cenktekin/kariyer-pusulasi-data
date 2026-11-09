@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "67",
         "69",
         "94",
-        "82",
-        "200"
+        "82"
       ],
       "Taban Puan": [
+        "533.530",
         "527.396",
         "527.813",
-        "537.573",
-        "526.157"
+        "537.573"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.235",
         "964",
         "683",
-        "814",
-        "1.278"
+        "814"
       ],
       "Taban Puan": [
+        "487.737",
         "484.394",
         "497.137",
-        "506.871",
-        "498.423"
+        "506.871"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.409",
         "1.550",
         "1.608",
-        "1.803",
-        "2.785"
+        "1.803"
       ],
       "Taban Puan": [
+        "484.883",
         "471.363",
         "475.941",
-        "487.497",
-        "480.664"
+        "487.497"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -139,9 +139,9 @@
       ],
       "Kontenjan": [
         "7",
-        "7",
-        "7",
-        "6"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.770",
         "2.046",
         "1.900",
-        "1.990",
-        "2.929"
+        "1.990"
       ],
       "Taban Puan": [
+        "467.453",
         "464.238",
         "471.357",
-        "485.042",
-        "479.354"
+        "485.042"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "3.644",
         "3.389",
         "2.793",
-        "2.995",
-        "4.798"
+        "2.995"
       ],
       "Taban Puan": [
+        "460.419",
         "450.330",
         "460.227",
-        "473.470",
-        "466.587"
+        "473.470"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -232,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "6.268",
         "4.656",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "445.547",
         "442.058",
-        "",
         "",
         ""
       ],
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.626",
         "5.684",
         "4.159",
-        "3.400",
-        "13.150"
+        "3.400"
       ],
       "Taban Puan": [
+        "437.787",
         "437.568",
         "450.594",
-        "469.748",
-        "437.893"
+        "469.748"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Burslu"
@@ -314,57 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.868",
         "7.010",
         "9.088",
-        "9.090",
-        "12.996"
+        "9.090"
       ],
       "Taban Puan": [
+        "437.122",
         "433.053",
         "434.268",
-        "438.946",
-        "438.228"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202510201",
-      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "12",
-        "14",
-        "13",
-        "12"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "10.363",
-        "7.963",
-        "4.185",
-        "7.173"
-      ],
-      "Taban Puan": [
-        "425.075",
-        "437.119",
-        "463.294",
-        "455.662"
+        "438.946"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -396,19 +355,142 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.298",
         "12.138",
         "10.851",
-        "5.638",
-        "8.404"
+        "5.638"
       ],
       "Taban Puan": [
+        "430.124",
         "421.818",
         "430.502",
-        "453.707",
-        "450.793"
+        "453.707"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202510201",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "12",
+        "14",
+        "13",
+        "12"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "12.320",
+        "10.363",
+        "7.963",
+        "4.185"
+      ],
+      "Taban Puan": [
+        "430.069",
+        "425.075",
+        "437.119",
+        "463.294"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "105500129",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ekonomi (İngilizce) (UOLP-Uluslararası Saraybosna Üniversitesi) (%25 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "34.732",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "405.901",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%25 İndirimli"
+    },
+    {
+      "Program Kodu": "105590223",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ekonomi (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "41.429",
+        "",
+        "",
+        "150.840"
+      ],
+      "Taban Puan": [
+        "401.047",
+        "",
+        "",
+        "353.230"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206010133",
@@ -437,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "66.349",
         "40.939",
         "46.723",
-        "54.885",
-        "77.499"
+        "54.885"
       ],
       "Taban Puan": [
+        "385.642",
         "391.185",
         "390.071",
-        "394.020",
-        "389.415"
+        "394.020"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Burslu"
@@ -478,59 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "80.021",
         "93.206",
         "135.269",
-        "165.246",
-        "190.650"
+        "165.246"
       ],
       "Taban Puan": [
+        "378.520",
         "362.563",
         "346.776",
-        "348.802",
-        "345.599"
+        "348.802"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206410059",
-      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "119.629",
-        "139.847",
-        "160.664",
-        "159.902"
-      ],
-      "Taban Puan": [
-        "352.046",
-        "345.211",
-        "350.197",
-        "355.440"
-      ],
-      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
@@ -560,14 +601,178 @@
         ""
       ],
       "Taban Sıralama": [
+        "101.670",
         "125.177",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "368.277",
         "350.071",
         "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202910463",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "5",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "119.301",
+        "163.605",
+        "213.906",
+        "261.448"
+      ],
+      "Taban Puan": [
+        "360.792",
+        "337.894",
+        "324.717",
+        "325.492"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "106510088",
+      "Üniversite": "ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "YÖNETİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ekonomi (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "40",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "123.934",
+        "155.309",
+        "236.515",
+        "258.170"
+      ],
+      "Taban Puan": [
+        "358.984",
+        "340.287",
+        "319.736",
+        "326.152"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203090354",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "127.493",
+        "162.809",
+        "",
+        "215.942"
+      ],
+      "Taban Puan": [
+        "357.603",
+        "338.120",
+        "",
+        "335.415"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201991595",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "128.208",
+        "178.788",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "357.339",
+        "333.639",
         "",
         ""
       ],
@@ -601,16 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "128.746",
         "137.973",
         "176.543",
-        "194.612",
-        "251.888"
+        "194.612"
       ],
       "Taban Puan": [
+        "357.133",
         "345.700",
         "334.024",
-        "340.737",
-        "329.461"
+        "340.737"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -642,146 +847,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "129.755",
         "138.469",
         "183.110",
-        "132.695",
-        "115.505"
+        "132.695"
       ],
       "Taban Puan": [
+        "356.762",
         "345.536",
         "332.267",
-        "359.346",
-        "372.118"
+        "359.346"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "204810343",
-      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "22",
-        "22",
-        "27"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "149.935",
-        "157.506",
-        "170.090",
-        "182.338"
-      ],
-      "Taban Puan": [
-        "341.890",
-        "339.516",
-        "347.411",
-        "348.125"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "106510088",
-      "Üniversite": "ABDULLAH GÜL ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "YÖNETİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ekonomi (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "40",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "155.309",
-        "236.515",
-        "258.170",
-        "285.499"
-      ],
-      "Taban Puan": [
-        "340.287",
-        "319.736",
-        "326.152",
-        "322.033"
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203090354",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "162.809",
-        "",
-        "215.942",
-        "223.150"
-      ],
-      "Taban Puan": [
-        "338.120",
-        "",
-        "335.415",
-        "336.523"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202910463",
-      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "206410059",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ekonomi (İngilizce) (Burslu)",
@@ -794,10 +876,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "3",
         "5",
-        "10"
+        "5",
+        "4",
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -806,59 +888,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "163.605",
-        "213.906",
-        "261.448",
-        "277.477"
+        "136.744",
+        "119.629",
+        "139.847",
+        "160.664"
       ],
       "Taban Puan": [
-        "337.894",
-        "324.717",
-        "325.492",
-        "323.739"
+        "354.171",
+        "352.046",
+        "345.211",
+        "350.197"
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201991595",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "178.788",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "333.639",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
@@ -888,16 +929,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "155.845",
         "192.073",
         "244.039",
-        "270.388",
-        "298.140"
+        "270.388"
       ],
       "Taban Puan": [
+        "347.514",
         "330.215",
         "318.191",
-        "323.691",
-        "319.462"
+        "323.691"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -929,26 +970,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "178.885",
         "210.210",
         "266.145",
-        "279.460",
-        "347.049"
+        "279.460"
       ],
       "Taban Puan": [
+        "340.136",
         "325.842",
         "313.886",
-        "321.900",
-        "310.233"
+        "321.900"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "203910266",
-      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "204810343",
+      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
+      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -958,10 +999,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "72",
-        "80",
-        "105",
-        "112"
+        "25",
+        "22",
+        "22",
+        "27"
       ],
       "Yerleşen": [
         "",
@@ -970,19 +1011,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "315.106",
-        "240.579",
-        "248.006",
-        "201.163"
+        "202.365",
+        "149.935",
+        "157.506",
+        "170.090"
       ],
       "Taban Puan": [
-        "305.219",
-        "318.901",
-        "328.253",
-        "342.508"
+        "333.437",
+        "341.890",
+        "339.516",
+        "347.411"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203790198",
+      "Üniversite": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "31",
+        "29"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "225.719",
+        "",
+        "1.017.726",
+        "1.204.661"
+      ],
+      "Taban Puan": [
+        "327.448",
+        "",
+        "236.108",
+        "225.725"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "108690324",
@@ -1011,26 +1093,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "248.373",
         "321.258",
         "466.902",
-        "564.872",
-        "589.906"
+        "564.872"
       ],
       "Taban Puan": [
+        "322.160",
         "304.220",
         "284.499",
-        "280.837",
-        "276.883"
+        "280.837"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206100458",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Program Kodu": "203910266",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -1040,10 +1122,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "44",
-        "38",
-        "38",
-        "32"
+        "72",
+        "80",
+        "105",
+        "112"
       ],
       "Yerleşen": [
         "",
@@ -1052,19 +1134,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "343.264",
-        "320.904",
-        "359.867",
-        "338.693"
+        "289.342",
+        "315.106",
+        "240.579",
+        "248.006"
       ],
       "Taban Puan": [
-        "300.771",
-        "304.463",
-        "307.828",
-        "311.702"
+        "313.520",
+        "305.219",
+        "318.901",
+        "328.253"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "108690303",
@@ -1093,142 +1175,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "302.965",
         "403.543",
         "556.177",
-        "710.227",
-        "686.649"
+        "710.227"
       ],
       "Taban Puan": [
+        "310.914",
         "292.053",
         "274.615",
-        "265.700",
-        "266.877"
+        "265.700"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207210031",
-      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "473.942",
-        "523.483",
-        "682.513",
-        "406.347"
-      ],
-      "Taban Puan": [
-        "283.141",
-        "278.079",
-        "268.393",
-        "300.548"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203510516",
-      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "38",
-        "38",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "499.680",
-        "463.096",
-        "488.188",
-        "520.367"
-      ],
-      "Taban Puan": [
-        "280.142",
-        "284.960",
-        "289.910",
-        "284.973"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "204890053",
-      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "23",
-        "23",
-        "20",
-        "15"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "501.651",
-        "401.030",
-        "407.419",
-        "267.956"
-      ],
-      "Taban Puan": [
-        "279.911",
-        "292.763",
-        "300.733",
-        "325.821"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "108690317",
@@ -1257,101 +1216,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "428.621",
         "537.882",
         "865.170",
-        "1.253.237",
-        ""
+        "1.253.237"
       ],
       "Taban Puan": [
+        "290.124",
         "275.839",
         "247.385",
-        "222.284",
-        ""
+        "222.284"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "206100444",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "5",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "547.037",
-        "455.643",
-        "488.143",
-        ""
-      ],
-      "Taban Puan": [
-        "274.853",
-        "285.846",
-        "289.916",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "206010142",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "29",
-        "27",
-        "26",
-        "21"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "554.918",
-        "534.499",
-        "591.164",
-        "574.732"
-      ],
-      "Taban Puan": [
-        "273.989",
-        "276.900",
-        "277.900",
-        "278.586"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "100310997",
@@ -1380,24 +1257,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "456.272",
         "577.213",
         "721.512",
-        "830.359",
-        "832.990"
+        "830.359"
       ],
       "Taban Puan": [
+        "286.227",
         "271.611",
         "259.038",
-        "254.729",
-        "253.682"
+        "254.729"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206410068",
-      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "206100458",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1409,10 +1286,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "34",
-        "34",
-        "30",
-        "27"
+        "44",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1421,18 +1298,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "668.565",
-        "690.318",
-        "811.539",
-        "837.068"
+        "511.706",
+        "343.264",
+        "320.904",
+        "359.867"
       ],
       "Taban Puan": [
-        "262.555",
-        "261.755",
-        "256.383",
-        "253.337"
+        "278.928",
+        "300.771",
+        "304.463",
+        "307.828"
       ],
-      "Şehir": "ANTALYA",
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206010142",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "29",
+        "27",
+        "26",
+        "21"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "529.280",
+        "554.918",
+        "534.499",
+        "591.164"
+      ],
+      "Taban Puan": [
+        "276.698",
+        "273.989",
+        "276.900",
+        "277.900"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -1462,18 +1380,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "547.656",
         "698.250",
         "415.424",
-        "412.091",
-        "337.514"
+        "412.091"
       ],
       "Taban Puan": [
+        "274.450",
         "259.753",
         "290.884",
-        "300.062",
-        "311.916"
+        "300.062"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "110790015",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ekonomi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "649.044",
+        "877.590",
+        "1.094.234",
+        "1.043.245"
+      ],
+      "Taban Puan": [
+        "262.904",
+        "243.930",
+        "230.704",
+        "237.513"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206100444",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "694.434",
+        "547.037",
+        "455.643",
+        "488.143"
+      ],
+      "Taban Puan": [
+        "258.167",
+        "274.853",
+        "285.846",
+        "289.916"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203510516",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "38",
+        "38",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "763.692",
+        "499.680",
+        "463.096",
+        "488.188"
+      ],
+      "Taban Puan": [
+        "251.189",
+        "280.142",
+        "284.960",
+        "289.910"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -1503,26 +1544,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "773.919",
         "853.861",
         "1.091.250",
-        "1.364.474",
-        ""
+        "1.364.474"
       ],
       "Taban Puan": [
+        "250.197",
         "245.957",
         "230.911",
-        "214.534",
-        ""
+        "214.534"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "110790015",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ekonomi",
+      "Program Kodu": "206100451",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (UOLP-Batı Kanada Huron Üniversitesi) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -1532,10 +1573,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
+        "2",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1544,19 +1585,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "877.590",
-        "1.094.234",
-        "1.043.245",
-        "953.084"
+        "853.586",
+        "994.160",
+        "518.325",
+        "555.301"
       ],
       "Taban Puan": [
-        "243.930",
-        "230.704",
-        "237.513",
-        "244.015"
+        "242.626",
+        "234.065",
+        "278.643",
+        "281.917"
       ],
-      "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204890053",
+      "Üniversite": "ÖZYEĞİN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "23",
+        "23",
+        "20",
+        "15"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "919.892",
+        "501.651",
+        "401.030",
+        "407.419"
+      ],
+      "Taban Puan": [
+        "236.503",
+        "279.911",
+        "292.763",
+        "300.733"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300210748",
@@ -1585,60 +1667,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "970.774",
         "945.656",
         "889.882",
-        "1.038.710",
-        "1.386.852"
+        "1.038.710"
       ],
       "Taban Puan": [
+        "231.851",
         "238.172",
         "245.492",
-        "237.858",
-        "213.071"
+        "237.858"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206100451",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (UOLP-Batı Kanada Huron Üniversitesi) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "5",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "994.160",
-        "518.325",
-        "555.301",
-        "442.400"
-      ],
-      "Taban Puan": [
-        "234.065",
-        "278.643",
-        "281.917",
-        "295.245"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300310129",
@@ -1667,24 +1708,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "973.944",
         "1.069.256",
         "1.162.285",
-        "1.232.329",
-        ""
+        "1.232.329"
       ],
       "Taban Puan": [
+        "231.561",
         "227.700",
         "225.933",
-        "223.754",
-        ""
+        "223.754"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "203090382",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "200510313",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1697,9 +1738,9 @@
       ],
       "Kontenjan": [
         "10",
-        "5",
-        "",
-        ""
+        "30",
+        "24",
+        "14"
       ],
       "Yerleşen": [
         "",
@@ -1708,26 +1749,26 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.124.619",
+        "983.495",
         "",
-        "",
-        ""
+        "758.853",
+        "592.913"
       ],
       "Taban Puan": [
-        "222.863",
+        "230.677",
         "",
-        "",
-        ""
+        "255.861",
+        "277.709"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "206011176",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Program Kodu": "206410068",
+      "Üniversite": "ANTALYA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
+      "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -1737,10 +1778,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "5",
-        "7",
-        "9",
-        "6"
+        "34",
+        "34",
+        "30",
+        "27"
       ],
       "Yerleşen": [
         "",
@@ -1749,26 +1790,26 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.197.848",
-        "1.019.254",
-        "706.568",
-        "659.615"
+        "1.013.046",
+        "668.565",
+        "690.318",
+        "811.539"
       ],
       "Taban Puan": [
-        "216.235",
-        "235.995",
-        "266.054",
-        "269.544"
+        "227.943",
+        "262.555",
+        "261.755",
+        "256.383"
       ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretli"
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "108690422",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ekonomi (KKTC Uyruklu)",
+      "Program Kodu": "201900339",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -1778,9 +1819,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
-        "1",
+        "34",
+        "",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -1790,19 +1831,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.260.624",
-        "1.311.555",
+        "1.246.082",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
-        "210.183",
-        "215.404",
+        "204.426",
+        "",
         "",
         ""
       ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "208450766",
@@ -1831,19 +1872,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.344.581",
         "1.322.984",
         "1.386.298",
-        "779.155",
-        "747.302"
+        "779.155"
       ],
       "Taban Puan": [
+        "190.446",
         "203.591",
         "209.951",
-        "259.272",
-        "261.178"
+        "259.272"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206011176",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "7",
+        "9",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.372.392",
+        "1.197.848",
+        "1.019.254",
+        "706.568"
+      ],
+      "Taban Puan": [
+        "184.849",
+        "216.235",
+        "235.995",
+        "266.054"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "100390425",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "SÖKE İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Ekonomi (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.377.531",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "183.612",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106500101",
@@ -1889,7 +2012,7 @@
     {
       "Program Kodu": "409610860",
       "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ekonomi (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1930,7 +2053,7 @@
     {
       "Program Kodu": "409610867",
       "Üniversite": "ULUSLARARASI BALKAN ÜNİVERSİTESİ (ÜSKÜP-MAKEDONYA)",
-      "Fakülte": "İktisadi ve İdari Bilimler Fakültesi",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ekonomi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1969,9 +2092,9 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "100390425",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "SÖKE İŞLETME FAKÜLTESİ",
+      "Program Kodu": "108690422",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Ekonomi (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1984,7 +2107,7 @@
       ],
       "Kontenjan": [
         "1",
-        "",
+        "1",
         "1",
         ""
       ],
@@ -1996,100 +2119,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
+        "1.260.624",
+        "1.311.555",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
+        "210.183",
+        "215.404",
         ""
       ],
-      "Şehir": "AYDIN",
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105590223",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ekonomi (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "150.840",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "353.230",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105500129",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Ekonomi (İngilizce) (UOLP-Uluslararası Saraybosna Üniversitesi) (%25 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%25 İndirimli"
     },
     {
       "Program Kodu": "202910481",
@@ -2120,96 +2161,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "410.914",
-        "423.234"
-      ],
-      "Taban Puan": [
         "",
-        "",
-        "300.226",
-        "298.032"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200510313",
-      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "30",
-        "24",
-        "14"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "758.853",
-        "592.913",
-        "423.990"
-      ],
-      "Taban Puan": [
-        "",
-        "255.861",
-        "277.709",
-        "297.916"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "201900339",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Ekonomi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
+        "410.914"
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        ""
+        "300.226"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2242,15 +2201,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "565.812",
-        "533.121",
-        "406.614"
+        "533.121"
       ],
       "Taban Puan": [
         "",
+        "",
         "273.607",
-        "284.469",
-        "300.506"
+        "284.469"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2283,15 +2242,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "853.762",
-        "838.232",
-        "624.395"
+        "838.232"
       ],
       "Taban Puan": [
         "",
+        "",
         "248.268",
-        "254.051",
-        "273.178"
+        "254.051"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2325,14 +2284,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "944.123",
-        "522.491"
+        "",
+        "944.123"
       ],
       "Taban Puan": [
         "",
         "",
-        "245.231",
-        "284.720"
+        "",
+        "245.231"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -2366,17 +2325,58 @@
       "Taban Sıralama": [
         "",
         "",
-        "944.199",
-        "877.567"
+        "",
+        "944.199"
       ],
       "Taban Puan": [
         "",
         "",
-        "245.225",
-        "250.008"
+        "",
+        "245.225"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203090382",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Ekonomi (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.124.619",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "222.863",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "203090389",
@@ -2448,14 +2448,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.230.100",
-        "1.306.825"
+        "",
+        "1.230.100"
       ],
       "Taban Puan": [
         "",
         "",
-        "223.915",
-        "218.704"
+        "",
+        "223.915"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2489,21 +2489,21 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.265.921",
-        "1.381.707"
+        "",
+        "1.265.921"
       ],
       "Taban Puan": [
         "",
         "",
-        "221.393",
-        "213.440"
+        "",
+        "221.393"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "203790198",
-      "Üniversite": "KADİR HAS ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "207210031",
+      "Üniversite": "MEF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Ekonomi (İngilizce) (%50 İndirimli)",
@@ -2516,10 +2516,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "31",
-        "29"
+        "25",
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -2529,15 +2529,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.017.726",
-        "1.204.661",
-        "516.092"
+        "473.942",
+        "523.483",
+        "682.513"
       ],
       "Taban Puan": [
         "",
-        "236.108",
-        "225.725",
-        "285.498"
+        "283.141",
+        "278.079",
+        "268.393"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2571,14 +2571,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.075.662",
-        "1.205.170"
+        "",
+        "1.075.662"
       ],
       "Taban Puan": [
         "",
         "",
-        "235.083",
-        "225.779"
+        "",
+        "235.083"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"

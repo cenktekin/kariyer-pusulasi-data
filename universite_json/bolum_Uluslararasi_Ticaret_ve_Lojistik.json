@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "91.540",
         "96.842",
         "108.587",
-        "117.768",
-        "179.385"
+        "117.768"
       ],
       "Taban Puan": [
+        "372.870",
         "360.981",
         "356.753",
-        "364.788",
-        "349.029"
+        "364.788"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "95.261",
         "103.344",
         "118.903",
-        "108.808",
-        "123.370"
+        "108.808"
       ],
       "Taban Puan": [
+        "371.171",
         "358.303",
         "352.720",
-        "368.293",
-        "368.908"
+        "368.293"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,19 +109,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "106.642",
         "126.549",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "366.057",
         "349.588",
-        "",
         "",
         ""
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204090419",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "112.595",
+        "153.380",
+        "163.041",
+        "115.558"
+      ],
+      "Taban Puan": [
+        "363.511",
+        "340.869",
+        "337.839",
+        "365.634"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "204190396",
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "122.867",
         "138.648",
         "152.870",
-        "171.285",
-        "190.355"
+        "171.285"
       ],
       "Taban Puan": [
+        "359.386",
         "345.480",
         "340.978",
-        "347.053",
-        "345.701"
+        "347.053"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,101 +232,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "131.553",
         "151.033",
         "174.102",
-        "199.708",
-        "221.560"
+        "199.708"
       ],
       "Taban Puan": [
+        "356.080",
         "341.578",
         "334.679",
-        "339.441",
-        "336.951"
+        "339.441"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204090419",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "153.380",
-        "163.041",
-        "115.558",
-        "238.597"
-      ],
-      "Taban Puan": [
-        "340.869",
-        "337.839",
-        "365.634",
-        "332.671"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204090398",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "9",
-        "9",
-        "7",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "169.406",
-        "188.876",
-        "162.062",
-        "270.613"
-      ],
-      "Taban Puan": [
-        "336.226",
-        "330.768",
-        "349.768",
-        "325.234"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102410151",
@@ -314,65 +273,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "158.331",
         "176.050",
         "218.591",
-        "251.912",
-        "278.427"
+        "251.912"
       ],
       "Taban Puan": [
+        "346.676",
         "334.398",
         "323.664",
-        "327.443",
-        "323.535"
+        "327.443"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201610284",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Program Kodu": "201790439",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "186.036",
-        "210.669",
-        "228.622",
-        "300.334"
-      ],
-      "Taban Puan": [
-        "331.752",
-        "325.467",
-        "332.498",
-        "319.024"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201010642",
-      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -387,7 +305,7 @@
         "6",
         "6",
         "5",
-        "6"
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -396,18 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "195.877",
-        "246.932",
-        "178.363",
-        "154.074"
+        "160.094",
+        "213.989",
+        "240.683",
+        "284.545"
       ],
       "Taban Puan": [
-        "329.268",
-        "317.604",
-        "345.039",
-        "357.457"
+        "346.064",
+        "324.959",
+        "318.879",
+        "320.914"
       ],
-      "Şehir": "MERSİN",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -437,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "162.931",
         "196.460",
         "244.448",
-        "256.174",
-        "236.894"
+        "256.174"
       ],
       "Taban Puan": [
+        "345.143",
         "329.120",
         "318.110",
-        "326.548",
-        "333.057"
+        "326.548"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -478,15 +396,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "167.055",
         "204.903",
         "284.013",
-        "",
         ""
       ],
       "Taban Puan": [
+        "343.812",
         "327.085",
         "310.649",
-        "",
         ""
       ],
       "Şehir": "SAKARYA",
@@ -519,26 +437,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "167.622",
         "207.871",
         "229.567",
-        "272.378",
-        "248.001"
+        "272.378"
       ],
       "Taban Puan": [
+        "343.643",
         "326.385",
         "321.221",
-        "323.295",
-        "330.396"
+        "323.295"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201790439",
-      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Program Kodu": "204090398",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -548,9 +466,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
-        "6",
-        "5",
+        "9",
+        "9",
+        "7",
         "5"
       ],
       "Yerleşen": [
@@ -560,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "213.989",
-        "240.683",
-        "284.545",
-        ""
+        "170.810",
+        "169.406",
+        "188.876",
+        "162.062"
       ],
       "Taban Puan": [
-        "324.959",
-        "318.879",
-        "320.914",
+        "342.641",
+        "336.226",
+        "330.768",
+        "349.768"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201610284",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Taban Sıralama": [
+        "187.666",
+        "186.036",
+        "210.669",
+        "228.622"
+      ],
+      "Taban Puan": [
+        "337.558",
+        "331.752",
+        "325.467",
+        "332.498"
+      ],
+      "Şehir": "GAZİANTEP",
       "Ücret": "Burslu"
     },
     {
@@ -601,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "191.805",
         "218.088",
         "277.670",
-        "316.973",
-        "348.529"
+        "316.973"
       ],
       "Taban Puan": [
+        "336.366",
         "324.002",
         "311.762",
-        "314.959",
-        "309.978"
+        "314.959"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -642,18 +601,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "192.376",
         "226.956",
         "262.170",
-        "274.935",
-        "274.143"
+        "274.935"
       ],
       "Taban Puan": [
+        "336.213",
         "322.019",
         "314.644",
-        "322.792",
-        "324.464"
+        "322.792"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201010642",
+      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "5",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "198.028",
+        "195.877",
+        "246.932",
+        "178.363"
+      ],
+      "Taban Puan": [
+        "334.621",
+        "329.268",
+        "317.604",
+        "345.039"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205590146",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "208.296",
+        "249.675",
+        "400.120",
+        "210.112"
+      ],
+      "Taban Puan": [
+        "331.871",
+        "317.204",
+        "292.898",
+        "336.851"
+      ],
+      "Şehir": "MERSİN",
       "Ücret": "Burslu"
     },
     {
@@ -683,26 +724,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "219.511",
         "233.502",
         "312.974",
-        "372.417",
-        "401.608"
+        "372.417"
       ],
       "Taban Puan": [
+        "329.019",
         "320.587",
         "305.774",
-        "305.901",
-        "301.260"
+        "305.901"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "205590146",
-      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Program Kodu": "210100451",
+      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -713,9 +754,9 @@
       ],
       "Kontenjan": [
         "5",
-        "5",
-        "5",
-        "3"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -724,19 +765,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "249.675",
-        "400.120",
-        "210.112",
-        "185.420"
+        "240.697",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "317.204",
-        "292.898",
-        "336.851",
-        "347.157"
+        "323.933",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "MERSİN",
+      "Şehir": "ANTALYA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111810844",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "70",
+        "70",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "241.139",
+        "299.960",
+        "415.806",
+        "454.857"
+      ],
+      "Taban Puan": [
+        "323.834",
+        "307.807",
+        "290.837",
+        "294.186"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102790184",
@@ -765,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "242.043",
         "267.271",
         "331.810",
-        "384.652",
-        "418.170"
+        "384.652"
       ],
       "Taban Puan": [
+        "323.625",
         "313.756",
         "302.733",
-        "304.061",
-        "298.766"
+        "304.061"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -806,16 +888,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "243.646",
         "272.908",
         "354.266",
-        "409.863",
-        "423.320"
+        "409.863"
       ],
       "Taban Puan": [
+        "323.257",
         "312.685",
         "299.309",
-        "300.375",
-        "298.020"
+        "300.375"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -847,59 +929,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "244.142",
         "287.800",
         "383.430",
-        "420.399",
-        "444.158"
+        "420.399"
       ],
       "Taban Puan": [
+        "323.144",
         "309.971",
         "295.189",
-        "298.891",
-        "294.990"
+        "298.891"
       ],
       "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111810844",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "70",
-        "70",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "299.960",
-        "415.806",
-        "454.857",
-        "485.445"
-      ],
-      "Taban Puan": [
-        "307.807",
-        "290.837",
-        "294.186",
-        "289.400"
-      ],
-      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,15 +970,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "251.780",
         "312.284",
         "424.797",
-        "",
         ""
       ],
       "Taban Puan": [
+        "321.387",
         "305.697",
         "289.681",
-        "",
         ""
       ],
       "Şehir": "ISPARTA",
@@ -970,16 +1011,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "301.619",
         "343.459",
         "428.709",
-        "493.825",
-        "489.541"
+        "493.825"
       ],
       "Taban Puan": [
+        "311.160",
         "300.742",
         "289.184",
-        "289.218",
-        "288.874"
+        "289.218"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -1011,59 +1052,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "314.936",
         "357.947",
         "461.227",
-        "439.332",
-        "451.861"
+        "439.332"
       ],
       "Taban Puan": [
+        "308.672",
         "298.564",
         "285.183",
-        "296.286",
-        "293.888"
+        "296.286"
       ],
       "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108690260",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ (Çivril)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "403.883",
-        "461.746",
-        "504.134",
-        "501.110"
-      ],
-      "Taban Puan": [
-        "292.009",
-        "285.120",
-        "287.945",
-        "287.374"
-      ],
-      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1093,18 +1093,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "344.039",
         "416.111",
         "550.069",
-        "625.669",
-        "615.479"
+        "625.669"
       ],
       "Taban Puan": [
+        "303.461",
         "290.373",
         "275.256",
-        "274.202",
-        "274.121"
+        "274.202"
       ],
       "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210100465",
+      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "344.291",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "303.421",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112010621",
+      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "70",
+        "70",
+        "70",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "350.087",
+        "463.468",
+        "569.951",
+        "647.256"
+      ],
+      "Taban Puan": [
+        "302.426",
+        "284.397",
+        "273.176",
+        "271.946"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108690260",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ (Çivril)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.163",
+        "403.883",
+        "461.746",
+        "504.134"
+      ],
+      "Taban Puan": [
+        "301.564",
+        "292.009",
+        "285.120",
+        "287.945"
+      ],
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,16 +1257,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "357.176",
         "420.627",
         "499.222",
-        "534.756",
-        "575.315"
+        "534.756"
       ],
       "Taban Puan": [
+        "301.229",
         "289.779",
         "280.747",
-        "284.278",
-        "278.521"
+        "284.278"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -1175,59 +1298,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "357.801",
         "431.170",
         "587.837",
-        "658.217",
-        ""
+        "658.217"
       ],
       "Taban Puan": [
+        "301.122",
         "288.400",
         "271.375",
-        "270.827",
-        ""
+        "270.827"
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112010621",
-      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "70",
-        "70",
-        "70",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "463.468",
-        "569.951",
-        "647.256",
-        "665.176"
-      ],
-      "Taban Puan": [
-        "284.397",
-        "273.176",
-        "271.946",
-        "268.992"
-      ],
-      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1257,16 +1339,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "386.336",
         "488.968",
         "659.712",
-        "680.495",
-        "731.240"
+        "680.495"
       ],
       "Taban Puan": [
+        "296.497",
         "281.372",
         "264.479",
-        "268.592",
-        "262.648"
+        "268.592"
       ],
       "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
@@ -1298,16 +1380,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "431.296",
         "541.734",
         "678.048",
-        "747.837",
-        "784.670"
+        "747.837"
       ],
       "Taban Puan": [
+        "289.752",
         "275.413",
         "262.837",
-        "262.153",
-        "257.831"
+        "262.153"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
@@ -1339,16 +1421,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "461.669",
         "578.641",
         "702.075",
-        "757.449",
-        "805.498"
+        "757.449"
       ],
       "Taban Puan": [
+        "285.492",
         "271.459",
         "260.723",
-        "261.246",
-        "256.016"
+        "261.246"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
@@ -1380,101 +1462,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "464.817",
         "597.745",
         "702.030",
-        "770.675",
-        "829.571"
+        "770.675"
       ],
       "Taban Puan": [
+        "285.079",
         "269.496",
         "260.728",
-        "260.037",
-        "253.963"
+        "260.037"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105690659",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "400",
-        "400",
-        "400",
-        "250"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "603.500",
-        "781.213",
-        "679.556",
-        "716.253"
-      ],
-      "Taban Puan": [
-        "268.924",
-        "254.043",
-        "268.684",
-        "264.065"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201610293",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "23",
-        "22",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "607.211",
-        "659.160",
-        "733.536",
-        "614.662"
-      ],
-      "Taban Puan": [
-        "268.551",
-        "264.531",
-        "263.468",
-        "274.207"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "106490163",
@@ -1503,16 +1503,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "465.702",
         "612.232",
         "797.232",
-        "872.105",
-        "932.665"
+        "872.105"
       ],
       "Taban Puan": [
+        "284.959",
         "268.039",
         "252.739",
-        "251.135",
-        "245.602"
+        "251.135"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -1544,60 +1544,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "505.200",
         "637.400",
         "765.136",
-        "797.193",
-        "885.734"
+        "797.193"
       ],
       "Taban Puan": [
+        "279.770",
         "265.552",
         "255.348",
-        "257.637",
-        "249.355"
+        "257.637"
       ],
       "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201790446",
-      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "38",
-        "35",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "675.953",
-        "817.223",
-        "772.996",
-        ""
-      ],
-      "Taban Puan": [
-        "261.858",
-        "251.127",
-        "259.826",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "102610616",
@@ -1626,27 +1585,27 @@
         ""
       ],
       "Taban Sıralama": [
+        "555.789",
         "702.889",
         "894.270",
-        "937.274",
-        "1.000.323"
+        "937.274"
       ],
       "Taban Puan": [
+        "273.472",
         "259.319",
         "245.158",
-        "245.789",
-        "240.443"
+        "245.789"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101090741",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Program Kodu": "105690659",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Uluslararası Ticaret ve Lojistik (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
         "2026",
@@ -1655,10 +1614,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "480",
-        "480",
-        "",
-        ""
+        "400",
+        "400",
+        "400",
+        "250"
       ],
       "Yerleşen": [
         "",
@@ -1667,18 +1626,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "736.054",
-        "925.470",
-        "",
-        "820.952"
+        "580.825",
+        "603.500",
+        "781.213",
+        "679.556"
       ],
       "Taban Puan": [
-        "256.289",
-        "242.823",
-        "",
-        "254.695"
+        "270.513",
+        "268.924",
+        "254.043",
+        "268.684"
       ],
-      "Şehir": "ESKİŞEHİR",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1708,183 +1667,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "602.533",
         "747.447",
         "917.766",
-        "968.723",
-        "857.775"
+        "968.723"
       ],
       "Taban Puan": [
+        "268.034",
         "255.259",
         "243.395",
-        "243.269",
-        "251.605"
+        "243.269"
       ],
       "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204090412",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "26",
-        "21",
-        "23"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "767.801",
-        "758.457",
-        "708.818",
-        "685.258"
-      ],
-      "Taban Puan": [
-        "253.432",
-        "255.894",
-        "265.838",
-        "267.013"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "204090433",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "28",
-        "21",
-        "14",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "810.566",
-        "933.592",
-        "369.784",
-        "455.552"
-      ],
-      "Taban Puan": [
-        "249.675",
-        "242.211",
-        "306.294",
-        "293.364"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200210785",
-      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "31",
-        "31",
-        "31",
-        "31"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "813.686",
-        "645.014",
-        "572.099",
-        "560.287"
-      ],
-      "Taban Puan": [
-        "249.405",
-        "265.864",
-        "280.028",
-        "280.229"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210402054",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "814.508",
-        "654.194",
-        "585.079",
-        "589.396"
-      ],
-      "Taban Puan": [
-        "249.326",
-        "264.993",
-        "278.561",
-        "276.938"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "105190095",
@@ -1913,18 +1708,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "614.063",
         "814.966",
         "975.460",
-        "1.034.141",
-        "1.013.801"
+        "1.034.141"
       ],
       "Taban Puan": [
+        "266.739",
         "249.286",
         "239.145",
-        "238.208",
-        "239.433"
+        "238.208"
       ],
       "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108710342",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "FINDIKLI UYGULAMALI BİLİMLER YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "635.071",
+        "899.926",
+        "1.015.441",
+        "1.028.371"
+      ],
+      "Taban Puan": [
+        "264.416",
+        "242.036",
+        "236.265",
+        "238.654"
+      ],
+      "Şehir": "RİZE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1954,18 +1790,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "638.237",
         "833.879",
         "968.543",
-        "1.012.188",
-        "1.010.686"
+        "1.012.188"
       ],
       "Taban Puan": [
+        "264.069",
         "247.666",
         "239.657",
-        "239.910",
-        "239.666"
+        "239.910"
       ],
       "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106390227",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "50",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "638.292",
+        "852.940",
+        "971.583",
+        "1.040.829"
+      ],
+      "Taban Puan": [
+        "264.064",
+        "246.036",
+        "239.432",
+        "237.697"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101090741",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "480",
+        "480",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "646.153",
+        "736.054",
+        "925.470",
+        ""
+      ],
+      "Taban Puan": [
+        "263.213",
+        "256.289",
+        "242.823",
+        ""
+      ],
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1995,24 +1913,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "648.472",
         "844.417",
         "960.237",
-        "1.104.111",
-        "1.335.167"
+        "1.104.111"
       ],
       "Taban Puan": [
+        "262.963",
         "246.759",
         "240.260",
-        "232.961",
-        "216.729"
+        "232.961"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "106390227",
-      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Program Kodu": "201790446",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "38",
+        "35",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "699.885",
+        "675.953",
+        "817.223",
+        "772.996"
+      ],
+      "Taban Puan": [
+        "257.601",
+        "261.858",
+        "251.127",
+        "259.826"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "104310658",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "TURHAL UYGULAMALI BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Uluslararası Ticaret ve Lojistik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2027,7 +1986,7 @@
         "50",
         "50",
         "50",
-        ""
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -2036,18 +1995,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "852.940",
-        "971.583",
-        "1.040.829",
-        ""
+        "714.984",
+        "940.912",
+        "1.080.437",
+        "1.050.018"
       ],
       "Taban Puan": [
-        "246.036",
-        "239.432",
-        "237.697",
-        ""
+        "256.060",
+        "238.574",
+        "231.665",
+        "236.997"
       ],
-      "Şehir": "KARAMAN",
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2077,23 +2036,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "734.443",
         "854.549",
         "674.866",
-        "",
         ""
       ],
       "Taban Puan": [
+        "254.091",
         "245.898",
         "263.115",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210402061",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Program Kodu": "200210785",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "31",
+        "31",
+        "31",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "755.565",
+        "813.686",
+        "645.014",
+        "572.099"
+      ],
+      "Taban Puan": [
+        "251.996",
+        "249.405",
+        "265.864",
+        "280.028"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204090412",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
@@ -2106,10 +2106,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "58",
-        "58",
-        "50",
-        "41"
+        "35",
+        "26",
+        "21",
+        "23"
       ],
       "Yerleşen": [
         "",
@@ -2118,108 +2118,26 @@
         ""
       ],
       "Taban Sıralama": [
-        "899.884",
-        "640.567",
-        "575.414",
-        "574.714"
+        "788.010",
+        "767.801",
+        "758.457",
+        "708.818"
       ],
       "Taban Puan": [
-        "242.040",
-        "266.271",
-        "279.650",
-        "278.588"
+        "248.837",
+        "253.432",
+        "255.894",
+        "265.838"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "KONYA",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "108710342",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "FINDIKLI UYGULAMALI BİLİMLER YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "60",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "899.926",
-        "1.015.441",
-        "1.028.371",
-        "1.050.947"
-      ],
-      "Taban Puan": [
-        "242.036",
-        "236.265",
-        "238.654",
-        "236.721"
-      ],
-      "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104310658",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "TURHAL UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "50",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "940.912",
-        "1.080.437",
-        "1.050.018",
-        "1.056.694"
-      ],
-      "Taban Puan": [
-        "238.574",
-        "231.665",
-        "236.997",
-        "236.308"
-      ],
-      "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201010669",
-      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "Program Kodu": "206210925",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
       "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -2229,10 +2147,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "38",
-        "38",
-        "34",
-        "33"
+        "47",
+        "47",
+        "40",
+        "31"
       ],
       "Yerleşen": [
         "",
@@ -2241,18 +2159,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "978.964",
-        "1.031.326",
-        "788.844",
-        "597.419"
+        "826.915",
+        "1.050.718",
+        "791.487",
+        "630.550"
       ],
       "Taban Puan": [
-        "235.370",
-        "235.137",
-        "258.386",
-        "276.066"
+        "245.106",
+        "229.284",
+        "253.198",
+        "273.688"
       ],
-      "Şehir": "MERSİN",
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -2282,60 +2200,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "832.640",
         "1.039.353",
         "1.218.810",
-        "1.126.157",
-        "1.107.234"
+        "1.126.157"
       ],
       "Taban Puan": [
+        "244.572",
         "230.247",
         "221.963",
-        "231.362",
-        "232.657"
+        "231.362"
       ],
       "Şehir": "KİLİS",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206210925",
-      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "47",
-        "47",
-        "40",
-        "31"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.050.718",
-        "791.487",
-        "630.550",
-        "610.519"
-      ],
-      "Taban Puan": [
-        "229.284",
-        "253.198",
-        "273.688",
-        "274.657"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "204190409",
@@ -2364,18 +2241,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "854.751",
         "1.054.510",
         "806.816",
-        "",
         ""
       ],
       "Taban Puan": [
+        "242.521",
         "228.957",
         "251.969",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201610293",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "23",
+        "22",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "865.612",
+        "607.211",
+        "659.160",
+        "733.536"
+      ],
+      "Taban Puan": [
+        "241.502",
+        "268.551",
+        "264.531",
+        "263.468"
+      ],
+      "Şehir": "GAZİANTEP",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -2405,26 +2323,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "870.169",
         "1.061.957",
         "1.270.899",
-        "1.081.564",
-        "1.163.864"
+        "1.081.564"
       ],
       "Taban Puan": [
+        "241.076",
         "228.328",
         "218.292",
-        "234.637",
-        "228.675"
+        "234.637"
       ],
       "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204190917",
-      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "204090433",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Ücretli)",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "EA",
       "Yıl": [
@@ -2434,10 +2352,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "6",
-        "13",
-        "4"
+        "28",
+        "21",
+        "14",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -2446,16 +2364,221 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.068.990",
-        "983.655",
-        "700.862",
-        "1.209.759"
+        "892.820",
+        "810.566",
+        "933.592",
+        "369.784"
       ],
       "Taban Puan": [
-        "227.724",
-        "238.553",
-        "266.600",
-        "225.457"
+        "238.968",
+        "249.675",
+        "242.211",
+        "306.294"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "105910385",
+      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "60",
+        "60",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "942.790",
+        "1.180.321",
+        "1.289.565",
+        "1.351.490"
+      ],
+      "Taban Puan": [
+        "234.399",
+        "217.868",
+        "216.967",
+        "215.442"
+      ],
+      "Şehir": "KARS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201650276",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "8",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.150.070",
+        "1.156.556",
+        "710.517",
+        "825.527"
+      ],
+      "Taban Puan": [
+        "214.858",
+        "220.020",
+        "259.990",
+        "255.151"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "201010669",
+      "Üniversite": "ÇAĞ ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "38",
+        "38",
+        "34",
+        "33"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.168.372",
+        "978.964",
+        "1.031.326",
+        "788.844"
+      ],
+      "Taban Puan": [
+        "212.982",
+        "235.370",
+        "235.137",
+        "258.386"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402061",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "58",
+        "58",
+        "50",
+        "41"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.171.606",
+        "899.884",
+        "640.567",
+        "575.414"
+      ],
+      "Taban Puan": [
+        "212.653",
+        "242.040",
+        "266.271",
+        "279.650"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210402054",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.183.410",
+        "814.508",
+        "654.194",
+        "585.079"
+      ],
+      "Taban Puan": [
+        "211.421",
+        "249.326",
+        "264.993",
+        "278.561"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -2487,101 +2610,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.193.659",
         "1.137.752",
         "1.189.029",
-        "956.176",
-        "1.247.438"
+        "956.176"
       ],
       "Taban Puan": [
+        "210.339",
         "221.704",
         "224.062",
-        "244.261",
-        "222.866"
+        "244.261"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "201650276",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "8",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.156.556",
-        "710.517",
-        "825.527",
-        ""
-      ],
-      "Taban Puan": [
-        "220.020",
-        "259.990",
-        "255.151",
-        ""
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "105910385",
-      "Üniversite": "KAFKAS ÜNİVERSİTESİ (KARS)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "60",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.180.321",
-        "1.289.565",
-        "1.351.490",
-        "1.383.288"
-      ],
-      "Taban Puan": [
-        "217.868",
-        "216.967",
-        "215.442",
-        "213.330"
-      ],
-      "Şehir": "KARS",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "205590279",
@@ -2610,14 +2651,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.199.343",
         "1.297.457",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "209.718",
         "206.392",
-        "",
         "",
         ""
       ],
@@ -2707,47 +2748,6 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210100465",
-      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "210100472",
       "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
       "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
@@ -2787,47 +2787,6 @@
       ],
       "Şehir": "ANTALYA",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210100451",
-      "Üniversite": "ALANYA ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210100458",
@@ -2939,15 +2898,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "918.910",
-        "837.471",
-        "756.610"
+        "837.471"
       ],
       "Taban Puan": [
         "",
+        "",
         "243.310",
-        "254.117",
-        "260.326"
+        "254.117"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2980,15 +2939,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.227.649",
-        "1.236.548",
-        ""
+        "1.236.548"
       ],
       "Taban Puan": [
         "",
+        "",
         "221.351",
-        "223.458",
-        ""
+        "223.458"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretli"
@@ -3021,17 +2980,58 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.327.484",
-        "1.433.490",
-        ""
+        "1.433.490"
       ],
       "Taban Puan": [
         "",
+        "",
         "214.251",
-        "209.732",
-        ""
+        "209.732"
       ],
       "Şehir": "KONYA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "204190917",
+      "Üniversite": "MALTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME VE YÖNETİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası Ticaret ve Lojistik (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "6",
+        "13",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.068.990",
+        "983.655",
+        "700.862"
+      ],
+      "Taban Puan": [
+        "",
+        "227.724",
+        "238.553",
+        "266.600"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     }
   ]

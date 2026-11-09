@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "509.024",
         "400.262",
         "381.061",
-        "493.030",
-        "224.463"
+        "493.030"
       ],
       "Taban Puan": [
+        "335.740",
         "349.615",
         "355.117",
-        "340.281",
-        "388.290"
+        "340.281"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "551.181",
         "676.599",
         "691.639",
-        "733.999",
-        "743.688"
+        "733.999"
       ],
       "Taban Puan": [
+        "330.295",
         "315.774",
         "316.390",
-        "313.271",
-        "305.393"
+        "313.271"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,15 +109,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "808.214",
         "912.659",
         "990.424",
-        "",
         ""
       ],
       "Taban Puan": [
+        "303.161",
         "294.988",
         "291.916",
-        "",
         ""
       ],
       "Şehir": "ANKARA",
@@ -150,223 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "971.114",
         "983.912",
         "1.086.447",
-        "1.094.438",
-        "1.195.072"
+        "1.094.438"
       ],
       "Taban Puan": [
+        "289.179",
         "289.404",
         "285.150",
-        "283.588",
-        "269.206"
+        "283.588"
       ],
       "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106950821",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "İZMİT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.214.653",
-        "1.242.149",
-        "1.247.163",
-        "1.141.163"
-      ],
-      "Taban Puan": [
-        "272.543",
-        "274.836",
-        "272.901",
-        "272.879"
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101190519",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "KALECİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.304.516",
-        "1.444.450",
-        "1.494.072",
-        "1.600.544"
-      ],
-      "Taban Puan": [
-        "266.308",
-        "262.253",
-        "257.146",
-        "245.324"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103451596",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "ÖDEMİŞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.318.192",
-        "1.378.204",
-        "1.474.948",
-        "1.464.930"
-      ],
-      "Taban Puan": [
-        "265.348",
-        "266.299",
-        "258.308",
-        "252.653"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112690289",
-      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.348.988",
-        "1.602.248",
-        "1.863.643",
-        "1.768.516"
-      ],
-      "Taban Puan": [
-        "263.227",
-        "252.921",
-        "236.080",
-        "236.961"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108750386",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "PAZAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.351.474",
-        "1.402.076",
-        "1.807.187",
-        "1.980.055"
-      ],
-      "Taban Puan": [
-        "263.056",
-        "264.838",
-        "239.138",
-        "227.448"
-      ],
-      "Şehir": "RİZE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -396,16 +191,221 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.150.520",
         "1.423.539",
         "1.580.310",
-        "1.757.234",
-        "1.604.188"
+        "1.757.234"
       ],
       "Taban Puan": [
+        "275.127",
         "258.140",
         "254.210",
-        "241.875",
-        "245.139"
+        "241.875"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106950821",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "İZMİT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.153.966",
+        "1.214.653",
+        "1.242.149",
+        "1.247.163"
+      ],
+      "Taban Puan": [
+        "274.864",
+        "272.543",
+        "274.836",
+        "272.901"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103451596",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "ÖDEMİŞ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.154.621",
+        "1.318.192",
+        "1.378.204",
+        "1.474.948"
+      ],
+      "Taban Puan": [
+        "274.815",
+        "265.348",
+        "266.299",
+        "258.308"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101190519",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "KALECİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.156.134",
+        "1.304.516",
+        "1.444.450",
+        "1.494.072"
+      ],
+      "Taban Puan": [
+        "274.698",
+        "266.308",
+        "262.253",
+        "257.146"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112690289",
+      "Üniversite": "AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.273.340",
+        "1.348.988",
+        "1.602.248",
+        "1.863.643"
+      ],
+      "Taban Puan": [
+        "266.053",
+        "263.227",
+        "252.921",
+        "236.080"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100790595",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "KORKUTELİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.331.857",
+        "1.474.285",
+        "1.555.421",
+        ""
+      ],
+      "Taban Puan": [
+        "261.845",
+        "254.673",
+        "255.660",
+        ""
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -437,24 +437,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.342.057",
         "1.470.410",
         "1.784.975",
-        "1.818.860",
-        "1.628.376"
+        "1.818.860"
       ],
       "Taban Puan": [
+        "261.105",
         "254.937",
         "242.481",
-        "238.505",
-        "243.896"
+        "238.505"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100790595",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "KORKUTELİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "108750386",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "PAZAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -466,10 +466,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        ""
+        "25",
+        "20",
+        "20",
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -478,100 +478,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.474.285",
-        "1.555.421",
-        "",
-        ""
+        "1.397.629",
+        "1.351.474",
+        "1.402.076",
+        "1.807.187"
       ],
       "Taban Puan": [
-        "254.673",
-        "255.660",
-        "",
-        ""
+        "257.149",
+        "263.056",
+        "264.838",
+        "239.138"
       ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101550716",
-      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "ALTINOLUK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.497.999",
-        "1.619.951",
-        "1.616.644",
-        "1.535.488"
-      ],
-      "Taban Puan": [
-        "253.066",
-        "251.889",
-        "249.879",
-        "248.760"
-      ],
-      "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102950903",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "KARAİSALI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.546.000",
-        "1.731.109",
-        "1.612.452",
-        "1.864.534"
-      ],
-      "Taban Puan": [
-        "249.772",
-        "245.518",
-        "250.121",
-        "232.511"
-      ],
-      "Şehir": "ADANA",
+      "Şehir": "RİZE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,24 +519,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.421.230",
         "1.548.959",
         "1.804.664",
-        "1.918.933",
-        "1.769.314"
+        "1.918.933"
       ],
       "Taban Puan": [
+        "255.472",
         "249.569",
         "241.380",
-        "233.126",
-        "236.923"
+        "233.126"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103350669",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "ÇİLİMLİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "102950903",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "KARAİSALI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -642,24 +560,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.573.935",
-        "1.780.935",
-        "1.880.716",
-        "2.292.851"
+        "1.423.269",
+        "1.546.000",
+        "1.731.109",
+        "1.612.452"
       ],
       "Taban Puan": [
-        "247.873",
-        "242.711",
-        "235.161",
-        "214.637"
+        "255.326",
+        "249.772",
+        "245.518",
+        "250.121"
       ],
-      "Şehir": "DÜZCE",
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112550749",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ATABEY MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101550716",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "ALTINOLUK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -671,10 +589,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
+        "45",
+        "40",
+        "40",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -683,59 +601,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.578.969",
-        "1.828.884",
-        "1.925.605",
-        "1.994.031"
+        "1.425.283",
+        "1.497.999",
+        "1.619.951",
+        "1.616.644"
       ],
       "Taban Puan": [
-        "247.529",
-        "240.031",
-        "232.768",
-        "226.855"
+        "255.183",
+        "253.066",
+        "251.889",
+        "249.879"
       ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108650836",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "TAVAS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.591.933",
-        "1.827.672",
-        "1.901.023",
-        "2.038.705"
-      ],
-      "Taban Puan": [
-        "246.659",
-        "240.102",
-        "234.071",
-        "224.977"
-      ],
-      "Şehir": "DENİZLİ",
+      "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -765,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.452.500",
         "1.601.000",
         "1.848.851",
-        "1.871.312",
-        "1.923.262"
+        "1.871.312"
       ],
       "Taban Puan": [
+        "253.260",
         "246.037",
         "238.920",
-        "235.661",
-        "229.893"
+        "235.661"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -806,18 +683,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.474.646",
         "1.603.032",
         "1.828.721",
-        "1.959.323",
-        "1.949.227"
+        "1.959.323"
       ],
       "Taban Puan": [
+        "251.714",
         "245.897",
         "240.040",
-        "230.990",
-        "228.770"
+        "230.990"
       ],
       "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108650836",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "TAVAS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.477.849",
+        "1.591.933",
+        "1.827.672",
+        "1.901.023"
+      ],
+      "Taban Puan": [
+        "251.491",
+        "246.659",
+        "240.102",
+        "234.071"
+      ],
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,18 +765,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.484.999",
         "1.620.641",
         "1.867.490",
-        "1.926.615",
-        "1.995.955"
+        "1.926.615"
       ],
       "Taban Puan": [
+        "250.994",
         "244.701",
         "237.889",
-        "232.718",
-        "226.774"
+        "232.718"
       ],
       "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112550749",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ATABEY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.486.861",
+        "1.578.969",
+        "1.828.884",
+        "1.925.605"
+      ],
+      "Taban Puan": [
+        "250.864",
+        "247.529",
+        "240.031",
+        "232.768"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103350669",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "ÇİLİMLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.491.672",
+        "1.573.935",
+        "1.780.935",
+        "1.880.716"
+      ],
+      "Taban Puan": [
+        "250.522",
+        "247.873",
+        "242.711",
+        "235.161"
+      ],
+      "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,100 +888,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.498.622",
         "1.636.312",
         "1.837.859",
-        "1.990.185",
-        "2.148.458"
+        "1.990.185"
       ],
       "Taban Puan": [
+        "250.031",
         "243.634",
         "239.531",
-        "229.379",
-        "220.450"
+        "229.379"
       ],
       "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100850646",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "AKSARAY TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.657.208",
-        "1.819.583",
-        "1.933.834",
-        "1.945.703"
-      ],
-      "Taban Puan": [
-        "242.209",
-        "240.549",
-        "232.336",
-        "228.923"
-      ],
-      "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108090101",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "AVANOS GÜZEL SANATLAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.670.520",
-        "1.886.488",
-        "1.985.342",
-        "2.092.713"
-      ],
-      "Taban Puan": [
-        "241.296",
-        "236.831",
-        "229.632",
-        "222.728"
-      ],
-      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,24 +929,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.511.804",
         "1.676.200",
         "1.936.233",
-        "1.828.968",
-        "2.091.005"
+        "1.828.968"
       ],
       "Taban Puan": [
+        "249.104",
         "240.909",
         "234.100",
-        "237.955",
-        "222.801"
+        "237.955"
       ],
       "Şehir": "KİLİS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107751457",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "ALTINÖZÜ TARIM BİLİMLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100850646",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "AKSARAY TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1052,100 +970,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.707.693",
-        "1.968.799",
-        "2.021.633",
-        "1.871.084"
+        "1.532.224",
+        "1.657.208",
+        "1.819.583",
+        "1.933.834"
       ],
       "Taban Puan": [
-        "238.770",
-        "232.336",
-        "227.751",
-        "232.218"
+        "247.677",
+        "242.209",
+        "240.549",
+        "232.336"
       ],
-      "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104550937",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "ESPİYE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.712.057",
-        "1.953.763",
-        "2.038.130",
-        "2.201.247"
-      ],
-      "Taban Puan": [
-        "238.468",
-        "233.150",
-        "226.902",
-        "218.326"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101790104",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "SASON MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.715.395",
-        "1.907.263",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "238.241",
-        "235.686",
-        "",
-        ""
-      ],
-      "Şehir": "BATMAN",
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1175,18 +1011,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.553.984",
         "1.732.989",
         "1.989.453",
-        "",
         ""
       ],
       "Taban Puan": [
+        "246.155",
         "237.044",
         "231.210",
-        "",
         ""
       ],
       "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108090101",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "AVANOS GÜZEL SANATLAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.554.585",
+        "1.670.520",
+        "1.886.488",
+        "1.985.342"
+      ],
+      "Taban Puan": [
+        "246.112",
+        "241.296",
+        "236.831",
+        "229.632"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,24 +1093,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.569.318",
         "1.734.890",
         "2.022.420",
-        "",
         ""
       ],
       "Taban Puan": [
+        "245.076",
         "236.905",
         "229.444",
-        "",
         ""
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102890228",
-      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
-      "Fakülte": "GIDA VE TARIM MESLEK YÜKSEKOKULU",
+      "Program Kodu": "104550937",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "ESPİYE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1248,6 +1125,47 @@
         "35",
         "30",
         "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.570.661",
+        "1.712.057",
+        "1.953.763",
+        "2.038.130"
+      ],
+      "Taban Puan": [
+        "244.980",
+        "238.468",
+        "233.150",
+        "226.902"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101370391",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "ŞAVŞAT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -1257,24 +1175,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.738.628",
-        "2.055.740",
+        "1.574.268",
+        "1.908.562",
         "",
         ""
       ],
       "Taban Puan": [
-        "236.655",
-        "227.622",
+        "244.733",
+        "224.747",
         "",
         ""
       ],
-      "Şehir": "ÇANKIRI",
+      "Şehir": "ARTVİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102090231",
-      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107751457",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "ALTINÖZÜ TARIM BİLİMLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1298,18 +1216,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.751.529",
-        "1.955.359",
-        "2.076.063",
-        ""
+        "1.574.954",
+        "1.707.693",
+        "1.968.799",
+        "2.021.633"
       ],
       "Taban Puan": [
-        "235.773",
-        "233.061",
-        "224.956",
-        ""
+        "244.687",
+        "238.770",
+        "232.336",
+        "227.751"
       ],
-      "Şehir": "BİNGÖL",
+      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1339,16 +1257,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.579.950",
         "1.753.290",
         "1.937.553",
-        "1.866.298",
-        "1.828.378"
+        "1.866.298"
       ],
       "Taban Puan": [
+        "244.337",
         "235.650",
         "234.029",
-        "235.934",
-        "234.169"
+        "235.934"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
@@ -1380,24 +1298,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.591.159",
         "1.781.394",
         "1.976.773",
-        "2.048.229",
-        ""
+        "2.048.229"
       ],
       "Taban Puan": [
+        "243.554",
         "233.714",
         "231.898",
-        "226.380",
-        ""
+        "226.380"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101370391",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "ŞAVŞAT MESLEK YÜKSEKOKULU",
+      "Program Kodu": "102890228",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "GIDA VE TARIM MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi ve Aromatik Bitkiler",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1411,7 +1329,7 @@
       "Kontenjan": [
         "35",
         "30",
-        "",
+        "30",
         ""
       ],
       "Yerleşen": [
@@ -1421,18 +1339,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.908.562",
-        "",
-        "",
+        "1.591.248",
+        "1.738.628",
+        "2.055.740",
         ""
       ],
       "Taban Puan": [
-        "224.747",
+        "243.547",
+        "236.655",
+        "227.622",
+        ""
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101790104",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "SASON MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
         "",
         "",
         ""
       ],
-      "Şehir": "ARTVİN",
+      "Taban Sıralama": [
+        "1.602.552",
+        "1.715.395",
+        "1.907.263",
+        ""
+      ],
+      "Taban Puan": [
+        "242.755",
+        "238.241",
+        "235.686",
+        ""
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102090231",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi ve Aromatik Bitkiler",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.627.810",
+        "1.751.529",
+        "1.955.359",
+        "2.076.063"
+      ],
+      "Taban Puan": [
+        "240.989",
+        "235.773",
+        "233.061",
+        "224.956"
+      ],
+      "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1463,15 +1463,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.240.786",
-        "2.205.864",
-        "1.964.267"
+        "2.205.864"
       ],
       "Taban Puan": [
         "",
+        "",
         "217.587",
-        "218.450",
-        "228.129"
+        "218.450"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

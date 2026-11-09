@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "710.608",
         "784.644",
         "907.136",
-        "929.283",
-        "1.040.053"
+        "929.283"
       ],
       "Taban Puan": [
+        "312.471",
         "305.708",
         "298.110",
-        "296.169",
-        "280.151"
+        "296.169"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "806.976",
         "929.754",
         "1.115.107",
-        "1.280.369",
-        "1.186.828"
+        "1.280.369"
       ],
       "Taban Puan": [
+        "303.271",
         "293.639",
         "283.206",
-        "270.692",
-        "269.758"
+        "270.692"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "821.810",
         "943.826",
         "1.066.338",
-        "1.165.908",
-        "1.196.969"
+        "1.165.908"
       ],
       "Taban Puan": [
+        "301.937",
         "292.514",
         "286.535",
-        "278.493",
-        "269.082"
+        "278.493"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -129,7 +129,7 @@
       "Fakülte": "AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çağrı Merkezi Hizmetleri (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
         "2026",
@@ -150,18 +150,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "912.483",
         "1.034.714",
         "1.378.832",
-        "1.286.454",
-        "1.369.218"
+        "1.286.454"
       ],
       "Taban Puan": [
+        "294.065",
         "285.555",
         "266.259",
-        "270.287",
-        "258.206"
+        "270.287"
       ],
       "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104251338",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "NİZİP MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "46",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.060.526",
+        "1.216.647",
+        "1.408.531",
+        "1.473.755"
+      ],
+      "Taban Puan": [
+        "282.043",
+        "272.407",
+        "264.439",
+        "258.383"
+      ],
+      "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.067.238",
         "1.136.736",
         "1.378.302",
-        "1.489.746",
-        "1.440.503"
+        "1.489.746"
       ],
       "Taban Puan": [
+        "281.509",
         "278.083",
         "266.293",
-        "257.409",
-        "254.038"
+        "257.409"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
@@ -232,100 +273,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.083.371",
         "1.213.279",
         "1.497.414",
-        "1.390.243",
-        "1.560.036"
+        "1.390.243"
       ],
       "Taban Puan": [
+        "280.244",
         "272.641",
         "259.074",
-        "263.566",
-        "247.443"
+        "263.566"
       ],
       "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104251338",
-      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "NİZİP MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "46",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.216.647",
-        "1.408.531",
-        "1.473.755",
-        "1.527.151"
-      ],
-      "Taban Puan": [
-        "272.407",
-        "264.439",
-        "258.383",
-        "249.211"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106051201",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri (Uzaktan Öğretim)",
-      "Öğretim Türü": "Uzaktan Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.238.409",
-        "1.422.503",
-        "1.375.058",
-        "1.569.277"
-      ],
-      "Taban Puan": [
-        "270.892",
-        "263.573",
-        "264.539",
-        "246.957"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,109 +314,27 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.108.978",
         "1.252.346",
         "1.436.352",
-        "1.652.455",
-        "1.674.990"
+        "1.652.455"
       ],
       "Taban Puan": [
+        "278.266",
         "269.924",
         "262.735",
-        "247.795",
-        "241.519"
+        "247.795"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108090105",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "GÜLŞEHİR SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "106051201",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "70",
-        "65",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.262.899",
-        "1.474.533",
-        "1.610.273",
-        "1.566.812"
-      ],
-      "Taban Puan": [
-        "269.182",
-        "260.432",
-        "250.249",
-        "247.088"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109752219",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "ORHANELİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "55",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.272.568",
-        "1.491.306",
-        "1.595.336",
-        "1.533.095"
-      ],
-      "Taban Puan": [
-        "268.515",
-        "259.436",
-        "251.126",
-        "248.890"
-      ],
-      "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108251186",
-      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "ÇARŞAMBA TİCARET BORSASI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
+      "Program Adı": "Çağrı Merkezi Hizmetleri (Uzaktan Öğretim)",
+      "Öğretim Türü": "Uzaktan Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
         "2026",
@@ -469,7 +346,7 @@
         "65",
         "60",
         "60",
-        "60"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -478,24 +355,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.318.923",
-        "1.671.189",
-        "1.710.623",
-        "1.733.478"
+        "1.119.756",
+        "1.238.409",
+        "1.422.503",
+        "1.375.058"
       ],
       "Taban Puan": [
-        "265.297",
-        "248.937",
-        "244.482",
-        "238.644"
+        "277.452",
+        "270.892",
+        "263.573",
+        "264.539"
       ],
-      "Şehir": "SAMSUN",
+      "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106350396",
-      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "KAZIM KARABEKİR MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103350696",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çağrı Merkezi Hizmetleri",
       "Öğretim Türü": "Örgün Öğretim",
@@ -507,10 +384,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
         "30",
-        "30",
-        "30"
+        "75",
+        "75",
+        "75"
       ],
       "Yerleşen": [
         "",
@@ -519,100 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.339.998",
-        "1.567.162",
-        "1.639.870",
-        "1.717.946"
+        "1.128.095",
+        "1.402.783",
+        "1.687.726",
+        "1.861.274"
       ],
       "Taban Puan": [
-        "263.853",
-        "254.973",
-        "248.530",
-        "239.398"
+        "276.818",
+        "259.557",
+        "247.988",
+        "236.206"
       ],
-      "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390132",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "BUHARKENT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.342.777",
-        "1.503.203",
-        "1.626.806",
-        "1.588.606"
-      ],
-      "Taban Puan": [
-        "263.659",
-        "258.728",
-        "249.284",
-        "245.953"
-      ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100490186",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.344.793",
-        "1.633.285",
-        "1.720.860",
-        "1.753.663"
-      ],
-      "Taban Puan": [
-        "263.517",
-        "251.116",
-        "243.910",
-        "237.679"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
+      "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -642,18 +437,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.166.325",
         "1.356.730",
         "1.629.627",
-        "1.803.639",
-        "1.829.662"
+        "1.803.639"
       ],
       "Taban Puan": [
+        "273.929",
         "262.696",
         "251.324",
-        "239.327",
-        "234.108"
+        "239.327"
       ],
       "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109752219",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "ORHANELİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.172.651",
+        "1.272.568",
+        "1.491.306",
+        "1.595.336"
+      ],
+      "Taban Puan": [
+        "273.453",
+        "268.515",
+        "259.436",
+        "251.126"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106350396",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "KAZIM KARABEKİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.176.607",
+        "1.339.998",
+        "1.567.162",
+        "1.639.870"
+      ],
+      "Taban Puan": [
+        "273.160",
+        "263.853",
+        "254.973",
+        "248.530"
+      ],
+      "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108251186",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "ÇARŞAMBA TİCARET BORSASI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.179.500",
+        "1.318.923",
+        "1.671.189",
+        "1.710.623"
+      ],
+      "Taban Puan": [
+        "272.945",
+        "265.297",
+        "248.937",
+        "244.482"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108090105",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "GÜLŞEHİR SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "70",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.189.434",
+        "1.262.899",
+        "1.474.533",
+        "1.610.273"
+      ],
+      "Taban Puan": [
+        "272.198",
+        "269.182",
+        "260.432",
+        "250.249"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,100 +642,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.225.401",
         "1.360.413",
         "1.597.679",
-        "1.687.935",
-        "1.633.727"
+        "1.687.935"
       ],
       "Taban Puan": [
+        "269.536",
         "262.445",
         "253.186",
-        "245.773",
-        "243.625"
+        "245.773"
       ],
       "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105090093",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "BİRECİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.365.353",
-        "1.622.668",
-        "1.632.373",
-        "1.634.810"
-      ],
-      "Taban Puan": [
-        "262.102",
-        "251.730",
-        "248.962",
-        "243.567"
-      ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109090048",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.367.380",
-        "1.585.977",
-        "1.594.996",
-        "1.509.315"
-      ],
-      "Taban Puan": [
-        "261.967",
-        "253.874",
-        "251.146",
-        "250.188"
-      ],
-      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,16 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.246.371",
         "1.389.942",
         "1.671.929",
-        "1.790.151",
-        "1.802.167"
+        "1.790.151"
       ],
       "Taban Puan": [
+        "268.013",
         "260.428",
         "248.895",
-        "240.066",
-        "235.384"
+        "240.066"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -847,106 +724,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.247.699",
         "1.400.312",
         "1.636.750",
-        "1.744.095",
-        "1.781.756"
+        "1.744.095"
       ],
       "Taban Puan": [
+        "267.915",
         "259.724",
         "250.917",
-        "242.608",
-        "236.338"
+        "242.608"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112151208",
-      "Üniversite": "TRABZON ÜNİVERSİTESİ",
-      "Fakülte": "BEŞİKDÜZÜ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.401.417",
-        "1.643.417",
-        "1.751.165",
-        "1.763.959"
-      ],
-      "Taban Puan": [
-        "259.650",
-        "250.526",
-        "242.213",
-        "237.180"
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103350696",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "75",
-        "75",
-        "75"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.402.783",
-        "1.687.726",
-        "1.861.274",
-        "1.973.905"
-      ],
-      "Taban Puan": [
-        "259.557",
-        "247.988",
-        "236.206",
-        "227.711"
-      ],
-      "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102050427",
-      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "BİNGÖL SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100390132",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "BUHARKENT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çağrı Merkezi Hizmetleri",
       "Öğretim Türü": "Örgün Öğretim",
@@ -970,18 +765,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.407.046",
-        "1.587.063",
-        "1.720.041",
-        "1.768.920"
+        "1.249.114",
+        "1.342.777",
+        "1.503.203",
+        "1.626.806"
       ],
       "Taban Puan": [
-        "259.263",
-        "253.810",
-        "243.955",
-        "236.943"
+        "267.815",
+        "263.659",
+        "258.728",
+        "249.284"
       ],
-      "Şehir": "BİNGÖL",
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090093",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "BİRECİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.264.920",
+        "1.365.353",
+        "1.622.668",
+        "1.632.373"
+      ],
+      "Taban Puan": [
+        "266.657",
+        "262.102",
+        "251.730",
+        "248.962"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100490186",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.267.168",
+        "1.344.793",
+        "1.633.285",
+        "1.720.860"
+      ],
+      "Taban Puan": [
+        "266.496",
+        "263.517",
+        "251.116",
+        "243.910"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,141 +888,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.283.236",
         "1.410.931",
         "1.705.457",
-        "1.759.973",
-        "1.767.694"
+        "1.759.973"
       ],
       "Taban Puan": [
+        "265.342",
         "258.998",
         "246.980",
-        "241.724",
-        "236.999"
+        "241.724"
       ],
       "Şehir": "BİTLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111570280",
-      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "DOĞANŞEHİR VAHAP KÜÇÜK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.461.636",
-        "1.705.366",
-        "1.830.933",
-        "1.569.713"
-      ],
-      "Taban Puan": [
-        "255.533",
-        "246.985",
-        "237.847",
-        "246.935"
-      ],
-      "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104550964",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "DERELİ MESLEK YÜKSEKOKULU (Keşap)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.472.555",
-        "1.754.199",
-        "1.875.041",
-        "1.915.168"
-      ],
-      "Taban Puan": [
-        "254.791",
-        "244.220",
-        "235.465",
-        "230.252"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100990021",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "GÜMÜŞHACIKÖY HASAN DUMAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.487.817",
-        "1.764.238",
-        "1.886.514",
-        "1.896.947"
-      ],
-      "Taban Puan": [
-        "253.758",
-        "243.649",
-        "234.852",
-        "231.062"
-      ],
-      "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1175,18 +929,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.284.532",
         "1.489.213",
         "1.823.411",
-        "",
-        "1.885.026"
+        ""
       ],
       "Taban Puan": [
+        "265.250",
         "253.663",
         "240.340",
-        "",
-        "231.590"
+        ""
       ],
       "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112151208",
+      "Üniversite": "TRABZON ÜNİVERSİTESİ",
+      "Fakülte": "BEŞİKDÜZÜ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.284.570",
+        "1.401.417",
+        "1.643.417",
+        "1.751.165"
+      ],
+      "Taban Puan": [
+        "265.247",
+        "259.650",
+        "250.526",
+        "242.213"
+      ],
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,65 +1011,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.293.298",
         "1.501.605",
         "1.820.794",
-        "1.967.128",
-        "1.753.117"
+        "1.967.128"
       ],
       "Taban Puan": [
+        "264.615",
         "252.819",
         "240.482",
-        "230.582",
-        "237.707"
+        "230.582"
       ],
       "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112552718",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "GÖNEN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.512.894",
-        "1.742.223",
-        "1.921.556",
-        "1.951.146"
-      ],
-      "Taban Puan": [
-        "252.042",
-        "244.892",
-        "232.990",
-        "228.688"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104351461",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "ARTOVA MESLEK YÜKSEKOKULU",
+      "Program Kodu": "111570280",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "DOĞANŞEHİR VAHAP KÜÇÜK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çağrı Merkezi Hizmetleri",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1287,9 +1041,9 @@
       ],
       "Kontenjan": [
         "35",
-        "30",
-        "30",
-        "20"
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -1298,18 +1052,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.539.045",
-        "1.866.507",
-        "1.938.941",
-        "1.893.687"
+        "1.294.710",
+        "1.461.636",
+        "1.705.366",
+        "1.830.933"
       ],
       "Taban Puan": [
-        "250.243",
-        "237.944",
-        "232.068",
-        "231.203"
+        "264.514",
+        "255.533",
+        "246.985",
+        "237.847"
       ],
-      "Şehir": "TOKAT",
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101400500",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "PASİNLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.302.169",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.975",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1339,24 +1134,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.322.505",
         "1.550.156",
         "1.794.642",
-        "1.935.718",
-        "2.070.618"
+        "1.935.718"
       ],
       "Taban Puan": [
+        "262.516",
         "249.490",
         "241.935",
-        "232.236",
-        "223.636"
+        "232.236"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104390078",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "REŞADİYE MESLEK YÜKSEKOKULU",
+      "Program Kodu": "102050427",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "BİNGÖL SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Çağrı Merkezi Hizmetleri",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1368,10 +1163,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
+        "45",
+        "40",
+        "40",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -1380,18 +1175,141 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.550.904",
-        "1.792.771",
-        "1.934.479",
-        "2.016.641"
+        "1.325.870",
+        "1.407.046",
+        "1.587.063",
+        "1.720.041"
       ],
       "Taban Puan": [
-        "249.439",
-        "242.043",
-        "232.303",
-        "225.899"
+        "262.268",
+        "259.263",
+        "253.810",
+        "243.955"
       ],
-      "Şehir": "TOKAT",
+      "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104550964",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "DERELİ MESLEK YÜKSEKOKULU (Keşap)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.330.100",
+        "1.472.555",
+        "1.754.199",
+        "1.875.041"
+      ],
+      "Taban Puan": [
+        "261.967",
+        "254.791",
+        "244.220",
+        "235.465"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109090048",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.334.599",
+        "1.367.380",
+        "1.585.977",
+        "1.594.996"
+      ],
+      "Taban Puan": [
+        "261.647",
+        "261.967",
+        "253.874",
+        "251.146"
+      ],
+      "Şehir": "SİİRT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112552718",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "GÖNEN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.335.755",
+        "1.512.894",
+        "1.742.223",
+        "1.921.556"
+      ],
+      "Taban Puan": [
+        "261.562",
+        "252.042",
+        "244.892",
+        "232.990"
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1421,18 +1339,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.343.274",
         "1.553.503",
         "1.781.720",
-        "1.909.848",
-        "1.857.517"
+        "1.909.848"
       ],
       "Taban Puan": [
+        "261.015",
         "249.262",
         "242.667",
-        "233.607",
-        "232.832"
+        "233.607"
       ],
       "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100990021",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "GÜMÜŞHACIKÖY HASAN DUMAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.351.968",
+        "1.487.817",
+        "1.764.238",
+        "1.886.514"
+      ],
+      "Taban Puan": [
+        "260.394",
+        "253.758",
+        "243.649",
+        "234.852"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104390078",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "REŞADİYE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.360.899",
+        "1.550.904",
+        "1.792.771",
+        "1.934.479"
+      ],
+      "Taban Puan": [
+        "259.762",
+        "249.439",
+        "242.043",
+        "232.303"
+      ],
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1462,15 +1462,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.405.933",
         "1.614.563",
         "1.803.999",
-        "",
         ""
       ],
       "Taban Puan": [
+        "256.562",
         "245.110",
         "241.414",
-        "",
         ""
       ],
       "Şehir": "ERZİNCAN",
@@ -1503,18 +1503,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.421.142",
         "1.621.905",
         "1.834.012",
-        "1.960.422",
-        "2.048.638"
+        "1.960.422"
       ],
       "Taban Puan": [
+        "255.479",
         "244.617",
         "239.745",
-        "230.933",
-        "224.561"
+        "230.933"
       ],
       "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104351461",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "ARTOVA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çağrı Merkezi Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.424.393",
+        "1.539.045",
+        "1.866.507",
+        "1.938.941"
+      ],
+      "Taban Puan": [
+        "255.247",
+        "250.243",
+        "237.944",
+        "232.068"
+      ],
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1544,59 +1585,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.452.195",
         "1.627.911",
         "1.851.950",
-        "1.946.659",
-        "1.933.145"
+        "1.946.659"
       ],
       "Taban Puan": [
+        "253.282",
         "244.204",
         "238.745",
-        "231.664",
-        "229.469"
+        "231.664"
       ],
       "Şehir": "IĞDIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101400500",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "PASİNLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çağrı Merkezi Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     }
   ]

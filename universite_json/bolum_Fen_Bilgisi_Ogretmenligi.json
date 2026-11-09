@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "100.229",
         "97.610",
         "115.537",
-        "81.588",
-        "82.159"
+        "81.588"
       ],
       "Taban Puan": [
+        "414.390",
         "401.131",
         "371.865",
-        "425.721",
-        "422.651"
+        "425.721"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "116.043",
         "114.975",
         "113.848",
-        "88.351",
-        "98.236"
+        "88.351"
       ],
       "Taban Puan": [
+        "400.726",
         "387.371",
         "373.190",
-        "419.268",
-        "407.156"
+        "419.268"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,57 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "154.928",
         "174.769",
         "183.588",
-        "167.688",
-        "171.793"
+        "167.688"
       ],
       "Taban Puan": [
+        "371.821",
         "349.786",
         "330.963",
-        "361.202",
-        "352.413"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111610413",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fen Bilgisi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "35",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "253.570",
-        "289.264",
-        "227.980",
-        "214.327"
-      ],
-      "Taban Puan": [
-        "316.713",
-        "293.020",
-        "332.407",
-        "330.468"
+        "361.202"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,18 +150,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "213.643",
         "257.801",
         "",
-        "138.860",
-        "139.907"
+        "138.860"
       ],
       "Taban Puan": [
+        "338.564",
         "315.294",
         "",
-        "379.088",
-        "372.982"
+        "379.088"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111610413",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fen Bilgisi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "35",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "224.624",
+        "253.570",
+        "289.264",
+        "227.980"
+      ],
+      "Taban Puan": [
+        "333.389",
+        "316.713",
+        "293.020",
+        "332.407"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "229.200",
         "276.885",
         "",
-        "186.249",
-        "183.625"
+        "186.249"
       ],
       "Taban Puan": [
+        "331.351",
         "309.205",
         "",
-        "351.237",
-        "345.742"
+        "351.237"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -273,18 +273,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "239.156",
         "286.405",
         "",
-        "162.093",
-        "156.295"
+        "162.093"
       ],
       "Taban Puan": [
+        "327.011",
         "306.321",
         "",
-        "364.425",
-        "361.878"
+        "364.425"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103410775",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fen Bilgisi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "25",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "271.214",
+        "",
+        "",
+        "183.216"
+      ],
+      "Taban Puan": [
+        "314.119",
+        "",
+        "",
+        "352.796"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109710048",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fen Bilgisi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "18",
+        "30",
+        "40",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "275.151",
+        "",
+        "",
+        "208.647"
+      ],
+      "Taban Puan": [
+        "312.644",
+        "",
+        "",
+        "340.576"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106910019",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fen Bilgisi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "20",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "279.213",
+        "",
+        "",
+        "248.980"
+      ],
+      "Taban Puan": [
+        "311.106",
+        "",
+        "",
+        "324.341"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103810029",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Fen Bilgisi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "18",
+        "30",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "298.324",
+        "",
+        "",
+        "197.010"
+      ],
+      "Taban Puan": [
+        "304.336",
+        "",
+        "",
+        "345.957"
+      ],
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -317,13 +481,13 @@
         "",
         "",
         "",
-        "269.399"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "308.214"
+        ""
       ],
       "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
@@ -357,14 +521,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "284.824",
-        "274.010"
+        "",
+        "284.824"
       ],
       "Taban Puan": [
         "",
         "",
-        "312.213",
-        "306.576"
+        "",
+        "312.213"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
@@ -439,14 +603,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "231.246",
-        "219.556"
+        "",
+        "231.246"
       ],
       "Taban Puan": [
         "",
         "",
-        "331.119",
-        "328.120"
+        "",
+        "331.119"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -481,13 +645,13 @@
         "",
         "",
         "",
-        "299.399"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "298.136"
+        ""
       ],
       "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
@@ -521,14 +685,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "279.208",
-        "272.164"
+        "",
+        "279.208"
       ],
       "Taban Puan": [
         "",
         "",
-        "314.004",
-        "307.226"
+        "",
+        "314.004"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -563,13 +727,13 @@
         "",
         "",
         "",
-        "295.597"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "299.326"
+        ""
       ],
       "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
@@ -603,14 +767,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "295.774",
-        "273.516"
+        "",
+        "295.774"
       ],
       "Taban Puan": [
         "",
         "",
-        "308.910",
-        "306.755"
+        "",
+        "308.910"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
@@ -644,14 +808,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "269.199",
-        "249.330"
+        "",
+        "269.199"
       ],
       "Taban Puan": [
         "",
         "",
-        "317.280",
-        "315.677"
+        "",
+        "317.280"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -685,14 +849,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "269.924",
-        "261.933"
+        "",
+        "269.924"
       ],
       "Taban Puan": [
         "",
         "",
-        "317.038",
-        "310.898"
+        "",
+        "317.038"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -808,14 +972,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "269.932",
-        "259.724"
+        "",
+        "269.932"
       ],
       "Taban Puan": [
         "",
         "",
-        "317.034",
-        "311.709"
+        "",
+        "317.034"
       ],
       "Şehir": "BOLU",
       "Ücret": "Ücretsiz"
@@ -850,56 +1014,15 @@
         "",
         "",
         "",
-        "285.515"
+        ""
       ],
       "Taban Puan": [
-        "",
-        "",
-        "",
-        "302.624"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109710048",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fen Bilgisi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "18",
-        "30",
-        "40",
-        "50"
-      ],
-      "Yerleşen": [
         "",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "208.647",
-        "214.904"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "340.576",
-        "330.222"
-      ],
-      "Şehir": "BURSA",
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -931,14 +1054,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "260.530",
-        "251.193"
+        "",
+        "260.530"
       ],
       "Taban Puan": [
         "",
         "",
-        "320.227",
-        "314.922"
+        "",
+        "320.227"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -972,14 +1095,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "227.348",
-        "223.378"
+        "",
+        "227.348"
       ],
       "Taban Puan": [
         "",
         "",
-        "332.655",
-        "326.405"
+        "",
+        "332.655"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
@@ -1013,14 +1136,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "249.281",
-        "243.950"
+        "",
+        "249.281"
       ],
       "Taban Puan": [
         "",
         "",
-        "324.231",
-        "317.808"
+        "",
+        "324.231"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
@@ -1054,14 +1177,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "226.669",
-        "217.423"
+        "",
+        "226.669"
       ],
       "Taban Puan": [
         "",
         "",
-        "332.944",
-        "329.079"
+        "",
+        "332.944"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -1095,57 +1218,16 @@
       "Taban Sıralama": [
         "",
         "",
-        "295.473",
-        "299.345"
+        "",
+        "295.473"
       ],
       "Taban Puan": [
         "",
         "",
-        "308.998",
-        "298.153"
+        "",
+        "308.998"
       ],
       "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103410775",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fen Bilgisi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "25",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "183.216",
-        "180.530"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "352.796",
-        "347.453"
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1177,14 +1259,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "242.135",
-        "228.199"
+        "",
+        "242.135"
       ],
       "Taban Puan": [
         "",
         "",
-        "326.866",
-        "324.339"
+        "",
+        "326.866"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -1231,47 +1313,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103810029",
-      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fen Bilgisi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "18",
-        "30",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "197.010",
-        "190.220"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "345.957",
-        "342.213"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "103910028",
       "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
@@ -1300,14 +1341,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "275.887",
-        "264.031"
+        "",
+        "275.887"
       ],
       "Taban Puan": [
         "",
         "",
-        "315.093",
-        "310.112"
+        "",
+        "315.093"
       ],
       "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
@@ -1423,14 +1464,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "275.169",
-        "264.545"
+        "",
+        "275.169"
       ],
       "Taban Puan": [
         "",
         "",
-        "315.331",
-        "309.930"
+        "",
+        "315.331"
       ],
       "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
@@ -1465,13 +1506,13 @@
         "",
         "",
         "",
-        "253.230"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "314.108"
+        ""
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
@@ -1505,14 +1546,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "295.406",
-        "254.858"
+        "",
+        "295.406"
       ],
       "Taban Puan": [
         "",
         "",
-        "309.013",
-        "313.499"
+        "",
+        "309.013"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
@@ -1587,14 +1628,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "291.169",
-        "245.045"
+        "",
+        "291.169"
       ],
       "Taban Puan": [
         "",
         "",
-        "310.264",
-        "317.370"
+        "",
+        "310.264"
       ],
       "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
@@ -1629,13 +1670,13 @@
         "",
         "",
         "",
-        "294.069"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "299.819"
+        ""
       ],
       "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
@@ -1710,14 +1751,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "285.341",
-        "278.431"
+        "",
+        "285.341"
       ],
       "Taban Puan": [
         "",
         "",
-        "312.056",
-        "305.082"
+        "",
+        "312.056"
       ],
       "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
@@ -1752,13 +1793,13 @@
         "",
         "",
         "",
-        "291.037"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "300.819"
+        ""
       ],
       "Şehir": "KIRŞEHİR",
       "Ücret": "Ücretsiz"
@@ -1805,47 +1846,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106910019",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Fen Bilgisi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "20",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "248.980",
-        "242.756"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "324.341",
-        "318.296"
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "103210423",
       "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
@@ -1874,14 +1874,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "284.200",
-        "274.675"
+        "",
+        "284.200"
       ],
       "Taban Puan": [
         "",
         "",
-        "312.407",
-        "306.340"
+        "",
+        "312.407"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
@@ -1915,14 +1915,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "295.713",
-        "283.284"
+        "",
+        "295.713"
       ],
       "Taban Puan": [
         "",
         "",
-        "308.931",
-        "303.381"
+        "",
+        "308.931"
       ],
       "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
@@ -1956,14 +1956,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "244.127",
-        "228.676"
+        "",
+        "244.127"
       ],
       "Taban Puan": [
         "",
         "",
-        "326.129",
-        "324.136"
+        "",
+        "326.129"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
@@ -1997,14 +1997,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "271.964",
-        "258.291"
+        "",
+        "271.964"
       ],
       "Taban Puan": [
         "",
         "",
-        "316.355",
-        "312.231"
+        "",
+        "316.355"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
@@ -2079,14 +2079,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "241.918",
-        "236.159"
+        "",
+        "241.918"
       ],
       "Taban Puan": [
         "",
         "",
-        "326.946",
-        "320.987"
+        "",
+        "326.946"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -2120,14 +2120,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "284.719",
-        "276.067"
+        "",
+        "284.719"
       ],
       "Taban Puan": [
         "",
         "",
-        "312.244",
-        "305.858"
+        "",
+        "312.244"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
@@ -2161,14 +2161,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "290.653",
-        "282.669"
+        "",
+        "290.653"
       ],
       "Taban Puan": [
         "",
         "",
-        "310.417",
-        "303.593"
+        "",
+        "310.417"
       ],
       "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
@@ -2202,14 +2202,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "238.659",
-        "228.469"
+        "",
+        "238.659"
       ],
       "Taban Puan": [
         "",
         "",
-        "328.210",
-        "324.224"
+        "",
+        "328.210"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -2243,14 +2243,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "293.511",
-        "283.138"
+        "",
+        "293.511"
       ],
       "Taban Puan": [
         "",
         "",
-        "309.564",
-        "303.427"
+        "",
+        "309.564"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
@@ -2284,14 +2284,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "255.864",
-        "243.179"
+        "",
+        "255.864"
       ],
       "Taban Puan": [
         "",
         "",
-        "321.838",
-        "318.129"
+        "",
+        "321.838"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
@@ -2366,14 +2366,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "274.167",
-        "269.562"
+        "",
+        "274.167"
       ],
       "Taban Puan": [
         "",
         "",
-        "315.641",
-        "308.150"
+        "",
+        "315.641"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
@@ -2408,13 +2408,13 @@
         "",
         "",
         "",
-        "291.574"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "300.647"
+        ""
       ],
       "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
@@ -2489,14 +2489,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "260.758",
-        "249.559"
+        "",
+        "260.758"
       ],
       "Taban Puan": [
         "",
         "",
-        "320.147",
-        "315.572"
+        "",
+        "320.147"
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
@@ -2530,14 +2530,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "263.677",
-        "256.399"
+        "",
+        "263.677"
       ],
       "Taban Puan": [
         "",
         "",
-        "319.143",
-        "312.919"
+        "",
+        "319.143"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
@@ -2612,14 +2612,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "285.434",
-        "266.673"
+        "",
+        "285.434"
       ],
       "Taban Puan": [
         "",
         "",
-        "312.026",
-        "309.177"
+        "",
+        "312.026"
       ],
       "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
@@ -2654,13 +2654,13 @@
         "",
         "",
         "",
-        "297.749"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "298.646"
+        ""
       ],
       "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
@@ -2694,14 +2694,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "296.750",
-        "279.074"
+        "",
+        "296.750"
       ],
       "Taban Puan": [
         "",
         "",
-        "308.611",
-        "304.844"
+        "",
+        "308.611"
       ],
       "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
@@ -2735,14 +2735,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "261.969",
-        "252.250"
+        "",
+        "261.969"
       ],
       "Taban Puan": [
         "",
         "",
-        "319.728",
-        "314.505"
+        "",
+        "319.728"
       ],
       "Şehir": "VAN",
       "Ücret": "Ücretsiz"

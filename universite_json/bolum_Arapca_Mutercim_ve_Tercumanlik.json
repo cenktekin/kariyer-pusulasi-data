@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.707",
         "21.238",
         "24.688",
-        "17.616",
-        "5.852"
+        "17.616"
       ],
       "Taban Puan": [
+        "418.482",
         "400.989",
         "399.516",
-        "427.835",
-        "469.795"
+        "427.835"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "18.073",
         "21.628",
         "25.730",
-        "25.766",
-        "27.422"
+        "25.766"
       ],
       "Taban Puan": [
+        "411.489",
         "399.948",
         "396.994",
-        "406.360",
-        "389.801"
+        "406.360"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "21.698",
         "29.208",
         "29.998",
-        "31.153",
-        ""
+        "31.153"
       ],
       "Taban Puan": [
+        "401.611",
         "381.715",
         "386.850",
-        "393.205",
-        ""
+        "393.205"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,60 +150,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "23.739",
         "35.987",
         "38.746",
-        "49.189",
-        ""
+        "49.189"
       ],
       "Taban Puan": [
+        "396.269",
         "365.991",
         "367.224",
-        "351.973",
-        ""
+        "351.973"
       ],
       "Şehir": "KONYA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "111790330",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Arapça Mütercim ve Tercümanlık",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "DİL",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "59",
-        "65",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "49.004",
-        "53.416",
-        "54.960",
-        "54.852"
-      ],
-      "Taban Puan": [
-        "337.234",
-        "337.091",
-        "339.362",
-        "318.481"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101090748",
@@ -232,18 +191,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "36.038",
         "53.647",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "366.620",
+        "327.510",
+        "",
+        ""
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111790330",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Arapça Mütercim ve Tercümanlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "59",
+        "65",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "37.491",
+        "49.004",
+        "53.416",
+        "54.960"
+      ],
+      "Taban Puan": [
+        "363.025",
+        "337.234",
+        "337.091",
+        "339.362"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110900115",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "YABANCI DİLLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Arapça Mütercim ve Tercümanlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "42.134",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "327.510",
+        "352.431",
         "",
         "",
         ""
       ],
-      "Şehir": "ESKİŞEHİR",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "45.478",
         "56.872",
         "67.064",
-        "60.826",
-        "52.874"
+        "60.826"
       ],
       "Taban Puan": [
+        "344.454",
         "320.818",
         "310.824",
-        "326.910",
-        "323.423"
+        "326.910"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -314,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "50.472",
         "65.774",
         "84.522",
-        "79.710",
-        ""
+        "79.710"
       ],
       "Taban Puan": [
+        "333.003",
         "302.946",
         "280.003",
-        "290.245",
-        ""
+        "290.245"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -355,59 +396,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "52.809",
         "69.042",
         "82.550",
-        "83.842",
-        ""
+        "83.842"
       ],
       "Taban Puan": [
+        "327.775",
         "296.351",
         "283.453",
-        "282.630",
-        ""
+        "282.630"
       ],
       "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690370",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Arapça Mütercim ve Tercümanlık",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "DİL",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "55",
-        "55",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "87.883",
-        "99.025",
-        "90.724",
-        ""
-      ],
-      "Taban Puan": [
-        "261.663",
-        "257.024",
-        "270.693",
-        ""
-      ],
-      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "60.247",
         "88.728",
         "95.258",
-        "79.246",
-        ""
+        "79.246"
       ],
       "Taban Puan": [
+        "311.513",
         "260.184",
         "262.791",
-        "291.070",
-        ""
+        "291.070"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -467,7 +467,7 @@
       ],
       "Kontenjan": [
         "27",
-        "30",
+        "",
         "",
         ""
       ],
@@ -478,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "67.449",
         "94.915",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "296.639",
         "249.689",
-        "",
         "",
         ""
       ],
       "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690370",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Arapça Mütercim ve Tercümanlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "55",
+        "55",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "68.142",
+        "87.883",
+        "99.025",
+        "90.724"
+      ],
+      "Taban Puan": [
+        "295.259",
+        "261.663",
+        "257.024",
+        "270.693"
+      ],
+      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "80.277",
         "106.447",
         "112.511",
-        "107.986",
-        ""
+        "107.986"
       ],
       "Taban Puan": [
+        "271.535",
         "231.339",
         "237.644",
-        "243.149",
-        ""
+        "243.149"
       ],
       "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
@@ -560,16 +601,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "93.744",
         "119.059",
         "128.708",
-        "116.112",
-        ""
+        "116.112"
       ],
       "Taban Puan": [
+        "247.443",
         "212.766",
         "215.932",
-        "230.969",
-        ""
+        "230.969"
       ],
       "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
@@ -601,26 +642,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "121.416",
         "136.386",
         "88.439",
-        "90.248",
-        "58.759"
+        "90.248"
       ],
       "Taban Puan": [
+        "199.905",
         "178.818",
         "273.693",
-        "271.424",
-        "309.132"
+        "271.424"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "110900115",
-      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "YABANCI DİLLER FAKÜLTESİ",
+      "Program Kodu": "109000115",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Arapça Mütercim ve Tercümanlık",
+      "Program Adı": "Arapça Mütercim ve Tercümanlık (Arapça)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "DİL",
       "Yıl": [
@@ -642,18 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "124.988",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "192.053",
         "",
         "",
         ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -736,47 +777,6 @@
         ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109000115",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Arapça Mütercim ve Tercümanlık",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "DİL",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {

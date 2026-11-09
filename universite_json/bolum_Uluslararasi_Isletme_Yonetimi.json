@@ -16,9 +16,9 @@
       ],
       "Kontenjan": [
         "4",
-        "4",
-        "3",
-        "4"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "5.987",
         "5.771",
         "6.023",
-        "8.409",
-        "11.480"
+        "8.409"
       ],
       "Taban Puan": [
+        "446.776",
         "437.203",
         "442.944",
-        "441.360",
-        "441.553"
+        "441.360"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,19 +68,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "210.677",
         "248.905",
         "314.786",
-        "335.689",
-        "290.904"
+        "335.689"
       ],
       "Taban Puan": [
+        "331.260",
         "317.360",
         "305.476",
-        "311.772",
-        "320.903"
+        "311.772"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206100598",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İŞLETME FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İşletme Yönetimi (Almanca) (UOLP-Fh Kıel Uygulamalı Bilimler Üniversitesi) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "440.708",
+        "663.966",
+        "184.805",
+        "186.897"
+      ],
+      "Taban Puan": [
+        "288.404",
+        "262.999",
+        "331.834",
+        "342.723"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300590393",
@@ -109,60 +150,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "490.907",
         "593.841",
         "847.259",
-        "934.673",
-        "1.652.316"
+        "934.673"
       ],
       "Taban Puan": [
+        "281.606",
         "269.894",
         "248.765",
-        "246.005",
-        "190.895"
+        "246.005"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206100598",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İŞLETME FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İşletme Yönetimi (Almanca) (UOLP-Fh Kıel Uygulamalı Bilimler Üniversitesi) (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "2",
-        "2",
-        "2"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "663.966",
-        "184.805",
-        "186.897",
-        "220.878"
-      ],
-      "Taban Puan": [
-        "262.999",
-        "331.834",
-        "342.723",
-        "337.123"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300290405",
@@ -191,57 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "793.784",
         "945.805",
         "903.990",
-        "1.089.114",
-        "1.677.072"
+        "1.089.114"
       ],
       "Taban Puan": [
+        "248.286",
         "238.159",
         "244.423",
-        "234.073",
-        "188.070"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "300790048",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Uluslararası İşletme Yönetimi (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "EA",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.012.156",
-        "1.159.157",
-        "1.244.111",
-        "1.547.332"
-      ],
-      "Taban Puan": [
-        "232.551",
-        "226.161",
-        "222.927",
-        "200.787"
+        "234.073"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -273,19 +232,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "862.981",
         "1.081.958",
         "1.294.543",
-        "1.304.624",
-        "1.441.459"
+        "1.304.624"
       ],
       "Taban Puan": [
+        "241.746",
         "226.600",
         "216.612",
-        "218.689",
-        "209.079"
+        "218.689"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300790048",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "İKTİSADİ VE İDARİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Uluslararası İşletme Yönetimi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "EA",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "884.918",
+        "1.012.156",
+        "1.159.157",
+        "1.244.111"
+      ],
+      "Taban Puan": [
+        "239.693",
+        "232.551",
+        "226.161",
+        "222.927"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "201050720",
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.194.003",
         "1.182.312",
         "1.203.184",
-        "941.239",
-        "865.926"
+        "941.239"
       ],
       "Taban Puan": [
+        "210.300",
         "217.679",
         "223.055",
-        "245.464",
-        "250.950"
+        "245.464"
       ],
       "Şehir": "MERSİN",
       "Ücret": "%50 İndirimli"
@@ -344,9 +344,9 @@
       ],
       "Kontenjan": [
         "25",
-        "29",
-        "23",
-        "21"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -356,15 +356,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "361.401",
-        "369.309",
-        "280.524"
+        "369.309"
       ],
       "Taban Puan": [
         "",
+        "",
         "298.271",
-        "306.368",
-        "323.076"
+        "306.368"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -520,14 +520,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.542.845",
         "",
+        "1.542.845",
         ""
       ],
       "Taban Puan": [
         "",
-        "197.117",
         "",
+        "197.117",
         ""
       ],
       "Şehir": "KIBRIS",
@@ -603,14 +603,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.476.784",
-        ""
+        "",
+        "1.476.784"
       ],
       "Taban Puan": [
         "",
         "",
-        "206.708",
-        ""
+        "",
+        "206.708"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

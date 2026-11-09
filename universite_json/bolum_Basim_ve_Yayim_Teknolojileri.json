@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "545.225",
         "629.500",
         "724.806",
-        "724.087",
-        "693.994"
+        "724.087"
       ],
       "Taban Puan": [
+        "331.025",
         "320.607",
         "313.315",
-        "314.229",
-        "310.376"
+        "314.229"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "625.742",
         "746.045",
         "856.187",
-        "863.920",
-        "847.430"
+        "863.920"
       ],
       "Taban Puan": [
+        "321.467",
         "309.186",
         "302.083",
-        "301.569",
-        "295.756"
+        "301.569"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "686.697",
         "752.691",
         "805.252",
-        "845.022",
-        "826.756"
+        "845.022"
       ],
       "Taban Puan": [
+        "314.922",
         "308.585",
         "306.270",
-        "303.193",
-        "297.605"
+        "303.193"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "852.196",
         "958.410",
         "1.098.235",
-        "1.076.104",
-        "1.034.127"
+        "1.076.104"
       ],
       "Taban Puan": [
+        "299.241",
         "291.370",
         "284.352",
-        "284.916",
-        "280.600"
+        "284.916"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "952.082",
         "1.041.274",
         "1.273.203",
-        "1.331.252",
-        "1.252.394"
+        "1.331.252"
       ],
       "Taban Puan": [
+        "290.763",
         "285.068",
         "272.843",
-        "267.349",
-        "265.442"
+        "267.349"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -232,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.033.884",
         "1.082.311",
         "1.258.970",
-        "1.367.970",
-        "1.266.796"
+        "1.367.970"
       ],
       "Taban Puan": [
+        "284.141",
         "282.019",
         "273.754",
-        "264.988",
-        "264.517"
+        "264.988"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100390220",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "AYDIN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.178.309",
-        "1.365.653",
-        "1.426.863",
-        "1.334.182"
-      ],
-      "Taban Puan": [
-        "275.109",
-        "267.084",
-        "261.267",
-        "260.322"
-      ],
-      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,18 +273,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.067.565",
         "1.243.807",
         "1.446.531",
-        "1.524.606",
-        "1.362.559"
+        "1.524.606"
       ],
       "Taban Puan": [
+        "281.482",
         "270.519",
         "262.125",
-        "255.302",
-        "258.603"
+        "255.302"
       ],
       "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100390220",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "AYDIN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.093.890",
+        "1.178.309",
+        "1.365.653",
+        "1.426.863"
+      ],
+      "Taban Puan": [
+        "279.427",
+        "275.109",
+        "267.084",
+        "261.267"
+      ],
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.107.053",
         "1.245.411",
         "1.389.353",
-        "1.654.681",
-        "1.587.192"
+        "1.654.681"
       ],
       "Taban Puan": [
+        "278.418",
         "270.411",
         "265.619",
-        "247.670",
-        "246.026"
+        "247.670"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.158.262",
         "1.426.165",
         "1.668.988",
-        "1.749.349",
-        "1.653.191"
+        "1.749.349"
       ],
       "Taban Puan": [
+        "274.542",
         "257.956",
         "249.062",
-        "242.313",
-        "242.623"
+        "242.313"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.236.952",
         "1.428.978",
         "1.746.508",
-        "1.422.291",
-        "1.524.369"
+        "1.422.291"
       ],
       "Taban Puan": [
+        "268.691",
         "257.764",
         "244.648",
-        "261.549",
-        "249.364"
+        "261.549"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
@@ -478,59 +478,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.326.000",
         "1.483.353",
         "1.737.737",
-        "1.786.925",
-        "1.885.977"
+        "1.786.925"
       ],
       "Taban Puan": [
+        "262.257",
         "254.052",
         "245.147",
-        "240.241",
-        "231.549"
+        "240.241"
       ],
       "Şehir": "EDİRNE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104790058",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "TORUL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.586.895",
-        "2.148.850",
-        "1.803.547",
-        "2.616.448"
-      ],
-      "Taban Puan": [
-        "247.000",
-        "222.604",
-        "239.331",
-        "201.081"
-      ],
-      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,182 +519,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.400.363",
         "1.606.420",
         "1.927.371",
-        "1.978.544",
-        "1.809.814"
+        "1.978.544"
       ],
       "Taban Puan": [
+        "256.959",
         "245.667",
         "234.587",
-        "229.983",
-        "235.024"
+        "229.983"
       ],
       "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103690130",
-      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.630.736",
-        "2.089.240",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "244.009",
-        "225.826",
-        "",
-        ""
-      ],
-      "Şehir": "ERZİNCAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390127",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "60",
-        "55",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.635.260",
-        "1.890.618",
-        "2.013.651",
-        "2.120.096"
-      ],
-      "Taban Puan": [
-        "243.703",
-        "236.603",
-        "228.160",
-        "221.594"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100990033",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "MERZİFON MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.637.280",
-        "1.923.729",
-        "1.899.623",
-        "2.065.510"
-      ],
-      "Taban Puan": [
-        "243.568",
-        "234.783",
-        "234.146",
-        "223.848"
-      ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106770732",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.645.532",
-        "1.970.741",
-        "1.975.574",
-        "2.202.434"
-      ],
-      "Taban Puan": [
-        "243.006",
-        "232.229",
-        "230.136",
-        "218.278"
-      ],
-      "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -765,18 +560,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.440.159",
         "1.651.873",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "254.139",
         "242.574",
-        "",
         "",
         ""
       ],
       "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106770732",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.472.139",
+        "1.645.532",
+        "1.970.741",
+        "1.975.574"
+      ],
+      "Taban Puan": [
+        "251.893",
+        "243.006",
+        "232.229",
+        "230.136"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390127",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "60",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.476.728",
+        "1.635.260",
+        "1.890.618",
+        "2.013.651"
+      ],
+      "Taban Puan": [
+        "251.569",
+        "243.703",
+        "236.603",
+        "228.160"
+      ],
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,59 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.484.510",
         "1.676.112",
         "1.971.419",
-        "2.053.185",
-        "1.916.284"
+        "2.053.185"
       ],
       "Taban Puan": [
+        "251.027",
         "240.914",
         "232.191",
-        "226.130",
-        "230.201"
+        "226.130"
       ],
       "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101990040",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "SÖĞÜT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Basım ve Yayım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.703.772",
-        "1.932.406",
-        "1.917.149",
-        "2.143.014"
-      ],
-      "Taban Puan": [
-        "239.038",
-        "234.309",
-        "233.219",
-        "220.664"
-      ],
-      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,18 +724,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.492.061",
         "1.713.454",
         "1.959.126",
-        "1.878.756",
-        "2.248.903"
+        "1.878.756"
       ],
       "Taban Puan": [
+        "250.493",
         "238.376",
         "232.854",
-        "235.265",
-        "216.397"
+        "235.265"
       ],
       "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101990040",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "SÖĞÜT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.507.490",
+        "1.703.772",
+        "1.932.406",
+        "1.917.149"
+      ],
+      "Taban Puan": [
+        "249.413",
+        "239.038",
+        "234.309",
+        "233.219"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100990033",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "MERZİFON MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.521.543",
+        "1.637.280",
+        "1.923.729",
+        "1.899.623"
+      ],
+      "Taban Puan": [
+        "248.424",
+        "243.568",
+        "234.783",
+        "234.146"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103690130",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.557.739",
+        "1.630.736",
+        "2.089.240",
+        ""
+      ],
+      "Taban Puan": [
+        "245.887",
+        "244.009",
+        "225.826",
+        ""
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104790058",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "TORUL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Basım ve Yayım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.668.738",
+        "1.586.895",
+        "2.148.850",
+        "1.803.547"
+      ],
+      "Taban Puan": [
+        "238.126",
+        "247.000",
+        "222.604",
+        "239.331"
+      ],
+      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     }
   ]

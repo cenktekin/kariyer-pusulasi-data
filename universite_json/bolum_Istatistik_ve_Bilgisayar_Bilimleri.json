@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "210302530",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İstatistik ve Bilgisayar Bilimleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "176.451",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "358.268",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
       "Program Kodu": "102690127",
       "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
       "Fakülte": "FEN FAKÜLTESİ",
@@ -27,59 +68,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "318.359",
         "330.117",
         "339.009",
-        "312.733",
-        "347.674"
+        "312.733"
       ],
       "Taban Puan": [
+        "297.841",
         "294.387",
         "280.724",
-        "304.071",
-        "284.159"
+        "304.071"
       ],
       "Şehir": "SİVAS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101990042",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "FEN FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İstatistik ve Bilgisayar Bilimleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "55",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "341.639",
-        "347.078",
-        "334.388",
-        "395.499"
-      ],
-      "Taban Puan": [
-        "291.608",
-        "278.948",
-        "298.243",
-        "272.599"
-      ],
-      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -109,19 +109,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "324.454",
         "345.713",
         "322.074",
-        "329.383",
-        "474.323"
+        "329.383"
       ],
       "Taban Puan": [
+        "295.964",
         "290.619",
         "284.649",
-        "299.528",
-        "257.315"
+        "299.528"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101990042",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İstatistik ve Bilgisayar Bilimleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "55",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "327.187",
+        "341.639",
+        "347.078",
+        "334.388"
+      ],
+      "Taban Puan": [
+        "295.105",
+        "291.608",
+        "278.948",
+        "298.243"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101990085",
@@ -150,60 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "",
         "1.047.648",
         "969.550",
-        "",
         ""
       ],
       "Taban Puan": [
+        "",
         "210.461",
         "212.530",
-        "",
         ""
       ],
       "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "210302530",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İstatistik ve Bilgisayar Bilimleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210302537",
@@ -275,14 +275,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "546.023",
-        ""
+        "",
+        "546.023"
       ],
       "Taban Puan": [
         "",
         "",
-        "258.314",
-        ""
+        "",
+        "258.314"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -316,14 +316,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "610.003",
-        "709.461"
+        "",
+        "610.003"
       ],
       "Taban Puan": [
         "",
         "",
-        "250.092",
-        "228.326"
+        "",
+        "250.092"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

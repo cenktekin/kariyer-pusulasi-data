@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "418.763",
         "478.801",
         "662.021",
-        "808.183",
-        "872.245"
+        "808.183"
       ],
       "Taban Puan": [
+        "348.914",
         "338.370",
         "319.257",
-        "306.425",
-        "293.601"
+        "306.425"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "481.573",
         "592.810",
         "725.492",
-        "883.534",
-        "958.666"
+        "883.534"
       ],
       "Taban Puan": [
+        "339.508",
         "324.546",
         "313.251",
-        "299.924",
-        "286.427"
+        "299.924"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -88,7 +88,7 @@
       "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
         "2026",
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "512.787",
         "623.137",
         "1.175.953",
-        "1.161.931",
-        "1.308.101"
+        "1.161.931"
       ],
       "Taban Puan": [
+        "335.244",
         "321.283",
         "279.127",
-        "278.768",
-        "261.914"
+        "278.768"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -150,100 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "549.368",
         "645.302",
         "820.151",
-        "929.170",
-        "943.936"
+        "929.170"
       ],
       "Taban Puan": [
+        "330.523",
         "318.953",
         "305.021",
-        "296.178",
-        "287.613"
+        "296.178"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109751636",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "684.320",
-        "900.784",
-        "1.141.769",
-        "1.158.655"
-      ],
-      "Taban Puan": [
-        "315.017",
-        "298.598",
-        "280.187",
-        "271.668"
-      ],
-      "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101150702",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "ELMADAĞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "45",
-        "45",
-        "45"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "702.321",
-        "858.408",
-        "1.129.722",
-        "1.142.890"
-      ],
-      "Taban Puan": [
-        "313.281",
-        "301.896",
-        "281.037",
-        "272.761"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +191,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "576.033",
         "712.091",
         "1.014.126",
-        "1.364.321",
-        "1.412.492"
+        "1.364.321"
       ],
       "Taban Puan": [
+        "327.237",
         "312.356",
         "290.221",
-        "265.220",
-        "255.664"
+        "265.220"
       ],
       "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109751636",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "584.644",
+        "684.320",
+        "900.784",
+        "1.141.769"
+      ],
+      "Taban Puan": [
+        "326.201",
+        "315.017",
+        "298.598",
+        "280.187"
+      ],
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -293,7 +252,7 @@
       "Fakülte": "AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
         "2026",
@@ -314,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "587.221",
         "737.470",
         "1.237.490",
-        "1.319.511",
-        "1.461.734"
+        "1.319.511"
       ],
       "Taban Puan": [
+        "325.896",
         "309.970",
         "275.147",
-        "268.115",
-        "252.830"
+        "268.115"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
@@ -355,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "603.631",
         "749.786",
         "1.090.963",
-        "1.194.567",
-        "1.343.376"
+        "1.194.567"
       ],
       "Taban Puan": [
+        "323.981",
         "308.850",
         "284.842",
-        "276.501",
-        "259.759"
+        "276.501"
       ],
       "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103950954",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "756.666",
-        "1.125.837",
-        "1.309.232",
-        "1.530.662"
-      ],
-      "Taban Puan": [
-        "308.226",
-        "282.483",
-        "268.787",
-        "249.022"
-      ],
-      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,18 +355,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "622.636",
         "763.444",
         "997.704",
-        "1.275.444",
-        "1.262.026"
+        "1.275.444"
       ],
       "Taban Puan": [
+        "321.823",
         "307.612",
         "291.388",
-        "271.010",
-        "264.823"
+        "271.010"
       ],
       "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101150702",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "ELMADAĞ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "45",
+        "45",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "633.097",
+        "702.321",
+        "858.408",
+        "1.129.722"
+      ],
+      "Taban Puan": [
+        "320.649",
+        "313.281",
+        "301.896",
+        "281.037"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103950954",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "649.469",
+        "756.666",
+        "1.125.837",
+        "1.309.232"
+      ],
+      "Taban Puan": [
+        "318.859",
+        "308.226",
+        "282.483",
+        "268.787"
+      ],
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,141 +478,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "667.325",
         "774.973",
         "1.052.904",
-        "1.287.318",
-        "1.260.131"
+        "1.287.318"
       ],
       "Taban Puan": [
+        "316.943",
         "306.575",
         "287.476",
-        "270.228",
-        "264.943"
+        "270.228"
       ],
       "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111851541",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "SAKARYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "825.814",
-        "1.067.648",
-        "1.347.017",
-        "1.354.380"
-      ],
-      "Taban Puan": [
-        "302.153",
-        "286.446",
-        "266.349",
-        "259.097"
-      ],
-      "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101551353",
-      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
-      "Fakülte": "BALIKESİR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "45"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "844.062",
-        "1.107.376",
-        "1.353.613",
-        "1.387.859"
-      ],
-      "Taban Puan": [
-        "300.604",
-        "283.739",
-        "265.920",
-        "257.094"
-      ],
-      "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110251115",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "VAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "862.756",
-        "1.128.392",
-        "1.401.296",
-        "1.407.990"
-      ],
-      "Taban Puan": [
-        "299.047",
-        "282.313",
-        "262.872",
-        "255.919"
-      ],
-      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -642,18 +519,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "682.393",
         "868.846",
         "1.134.012",
-        "1.291.735",
-        "1.437.290"
+        "1.291.735"
       ],
       "Taban Puan": [
+        "315.372",
         "298.544",
         "281.939",
-        "269.931",
-        "254.228"
+        "269.931"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101551353",
+      "Üniversite": "BALIKESİR ÜNİVERSİTESİ",
+      "Fakülte": "BALIKESİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "690.689",
+        "844.062",
+        "1.107.376",
+        "1.353.613"
+      ],
+      "Taban Puan": [
+        "314.505",
+        "300.604",
+        "283.739",
+        "265.920"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111851541",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "SAKARYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "692.386",
+        "825.814",
+        "1.067.648",
+        "1.347.017"
+      ],
+      "Taban Puan": [
+        "314.333",
+        "302.153",
+        "286.446",
+        "266.349"
+      ],
+      "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110251115",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "VAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "714.436",
+        "862.756",
+        "1.128.392",
+        "1.401.296"
+      ],
+      "Taban Puan": [
+        "312.090",
+        "299.047",
+        "282.313",
+        "262.872"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106050963",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "726.148",
+        "933.457",
+        "1.479.979",
+        "1.639.865"
+      ],
+      "Taban Puan": [
+        "310.927",
+        "293.341",
+        "260.110",
+        "248.530"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108050339",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "727.836",
+        "903.681",
+        "1.281.256",
+        "1.589.962"
+      ],
+      "Taban Puan": [
+        "310.758",
+        "295.714",
+        "272.333",
+        "251.437"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,16 +765,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "732.156",
         "888.760",
         "1.232.088",
-        "1.568.494",
-        "1.519.253"
+        "1.568.494"
       ],
       "Taban Puan": [
+        "310.328",
         "296.921",
         "275.487",
-        "252.705",
-        "249.644"
+        "252.705"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -724,100 +806,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "747.012",
         "900.044",
         "1.162.338",
-        "1.423.146",
-        "1.686.645"
+        "1.423.146"
       ],
       "Taban Puan": [
+        "308.865",
         "296.002",
         "280.039",
-        "261.500",
-        "240.932"
+        "261.500"
       ],
       "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108050339",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "903.681",
-        "1.281.256",
-        "1.589.962",
-        "1.627.637"
-      ],
-      "Taban Puan": [
-        "295.714",
-        "272.333",
-        "251.437",
-        "243.933"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106050963",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "933.457",
-        "1.479.979",
-        "1.639.865",
-        "1.577.689"
-      ],
-      "Taban Puan": [
-        "293.341",
-        "260.110",
-        "248.530",
-        "246.525"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "755.333",
         "936.810",
         "1.363.270",
-        "1.665.229",
-        "1.815.318"
+        "1.665.229"
       ],
       "Taban Puan": [
+        "308.071",
         "293.074",
         "267.233",
-        "247.061",
-        "234.772"
+        "247.061"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
@@ -888,59 +888,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "780.601",
         "939.970",
         "1.202.616",
-        "1.524.351",
-        "1.663.711"
+        "1.524.351"
       ],
       "Taban Puan": [
+        "305.702",
         "292.820",
         "277.402",
-        "255.316",
-        "242.095"
+        "255.316"
       ],
       "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107951146",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "946.123",
-        "1.353.160",
-        "1.632.532",
-        "1.673.124"
-      ],
-      "Taban Puan": [
-        "292.330",
-        "267.864",
-        "248.954",
-        "241.611"
-      ],
-      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,24 +929,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "782.573",
         "953.662",
         "1.261.348",
-        "1.457.428",
-        "1.463.203"
+        "1.457.428"
       ],
       "Taban Puan": [
+        "305.519",
         "291.738",
         "273.605",
-        "259.384",
-        "252.748"
+        "259.384"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102950948",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "CEYHAN MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107951146",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -999,10 +958,10 @@
         "2023"
       ],
       "Kontenjan": [
+        "45",
         "40",
-        "35",
-        "70",
-        "70"
+        "80",
+        "80"
       ],
       "Yerleşen": [
         "",
@@ -1011,100 +970,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "957.992",
-        "1.448.107",
-        "1.626.142",
-        "1.726.552"
+        "791.726",
+        "946.123",
+        "1.353.160",
+        "1.632.532"
       ],
       "Taban Puan": [
-        "291.403",
-        "262.030",
-        "249.322",
-        "238.979"
+        "304.670",
+        "292.330",
+        "267.864",
+        "248.954"
       ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100950248",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "AMASYA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "961.653",
-        "1.348.364",
-        "1.655.428",
-        "1.796.486"
-      ],
-      "Taban Puan": [
-        "291.111",
-        "268.157",
-        "247.629",
-        "235.646"
-      ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110550026",
-      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "AKSEKİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "976.936",
-        "1.253.168",
-        "1.518.445",
-        "1.504.798"
-      ],
-      "Taban Puan": [
-        "289.945",
-        "274.123",
-        "255.668",
-        "250.437"
-      ],
-      "Şehir": "ANTALYA",
+      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,59 +1011,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "804.351",
         "979.767",
         "1.377.197",
-        "1.611.968",
-        "1.642.943"
+        "1.611.968"
       ],
       "Taban Puan": [
+        "303.504",
         "289.720",
         "266.359",
-        "250.151",
-        "243.148"
+        "250.151"
       ],
       "Şehir": "NİĞDE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106951679",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "GAZANFER BİLGE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "988.382",
-        "1.410.375",
-        "1.685.636",
-        "1.650.172"
-      ],
-      "Taban Puan": [
-        "289.057",
-        "264.326",
-        "245.903",
-        "242.778"
-      ],
-      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,24 +1052,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "811.937",
         "994.791",
         "1.325.085",
-        "1.728.536",
-        "1.907.859"
+        "1.728.536"
       ],
       "Taban Puan": [
+        "302.816",
         "288.565",
         "269.598",
-        "243.475",
-        "230.575"
+        "243.475"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108750429",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100950248",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "AMASYA SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "812.151",
+        "961.653",
+        "1.348.364",
+        "1.655.428"
+      ],
+      "Taban Puan": [
+        "302.798",
+        "291.111",
+        "268.157",
+        "247.629"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102950948",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "CEYHAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1257,24 +1134,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.003.676",
-        "1.449.160",
-        "1.827.924",
-        "1.899.565"
+        "815.743",
+        "957.992",
+        "1.448.107",
+        "1.626.142"
       ],
       "Taban Puan": [
-        "287.889",
-        "261.966",
-        "238.013",
-        "230.946"
+        "302.471",
+        "291.403",
+        "262.030",
+        "249.322"
       ],
-      "Şehir": "RİZE",
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104590239",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "GİRESUN MESLEK YÜKSEKOKULU",
+      "Program Kodu": "106951679",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "GAZANFER BİLGE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1298,24 +1175,147 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.024.135",
-        "1.503.541",
-        "1.857.516",
-        "1.910.839"
+        "817.666",
+        "988.382",
+        "1.410.375",
+        "1.685.636"
       ],
       "Taban Puan": [
-        "286.344",
-        "258.708",
-        "236.408",
-        "230.447"
+        "302.304",
+        "289.057",
+        "264.326",
+        "245.903"
       ],
-      "Şehir": "GİRESUN",
+      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109751645",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "ORHANELİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100650499",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "828.660",
+        "1.072.844",
+        "1.557.244",
+        "1.856.594"
+      ],
+      "Taban Puan": [
+        "301.325",
+        "282.712",
+        "255.553",
+        "236.458"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110750175",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "İSKENDERUN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "844.199",
+        "1.064.099",
+        "1.591.681",
+        "1.745.536"
+      ],
+      "Taban Puan": [
+        "299.949",
+        "283.365",
+        "253.538",
+        "242.525"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110550026",
+      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "AKSEKİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "858.598",
+        "976.936",
+        "1.253.168",
+        "1.518.445"
+      ],
+      "Taban Puan": [
+        "298.680",
+        "289.945",
+        "274.123",
+        "255.668"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104351073",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "TOKAT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1329,8 +1329,8 @@
       "Kontenjan": [
         "45",
         "40",
-        "40",
-        "40"
+        "80",
+        "80"
       ],
       "Yerleşen": [
         "",
@@ -1339,18 +1339,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.029.585",
-        "1.309.550",
-        "1.559.346",
-        "1.637.513"
+        "859.999",
+        "1.053.450",
+        "1.465.556",
+        "1.794.706"
       ],
       "Taban Puan": [
-        "285.934",
-        "270.560",
-        "253.242",
-        "243.427"
+        "298.562",
+        "284.165",
+        "260.978",
+        "239.816"
       ],
-      "Şehir": "BURSA",
+      "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1380,16 +1380,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "866.764",
         "1.041.949",
         "1.353.905",
-        "1.638.512",
-        "1.720.773"
+        "1.638.512"
       ],
       "Taban Puan": [
+        "297.966",
         "285.017",
         "267.817",
-        "248.606",
-        "239.257"
+        "248.606"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
@@ -1421,141 +1421,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "868.912",
         "1.043.678",
         "1.584.153",
-        "1.873.972",
-        "2.028.601"
+        "1.873.972"
       ],
       "Taban Puan": [
+        "297.776",
         "284.888",
         "253.983",
-        "235.521",
-        "225.404"
+        "235.521"
       ],
       "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106650569",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "FATMA ŞENSES SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.046.434",
-        "1.456.396",
-        "1.690.885",
-        "1.901.162"
-      ],
-      "Taban Puan": [
-        "284.686",
-        "261.529",
-        "245.607",
-        "230.874"
-      ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104351073",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "TOKAT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.053.450",
-        "1.465.556",
-        "1.794.706",
-        "1.874.848"
-      ],
-      "Taban Puan": [
-        "284.165",
-        "260.978",
-        "239.816",
-        "232.047"
-      ],
-      "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110750175",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "İSKENDERUN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.064.099",
-        "1.591.681",
-        "1.745.536",
-        "1.646.535"
-      ],
-      "Taban Puan": [
-        "283.365",
-        "253.538",
-        "242.525",
-        "242.962"
-      ],
-      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1585,23 +1462,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "868.937",
         "1.072.283",
         "1.481.753",
-        "1.797.286",
-        "1.994.577"
+        "1.797.286"
       ],
       "Taban Puan": [
+        "297.774",
         "282.755",
         "260.007",
-        "239.675",
-        "226.833"
+        "239.675"
       ],
       "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100650499",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Program Kodu": "108750429",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
       "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
@@ -1616,8 +1493,8 @@
       "Kontenjan": [
         "40",
         "35",
-        "75",
-        "75"
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -1626,24 +1503,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.072.844",
-        "1.557.244",
-        "1.856.594",
-        "1.977.155"
+        "870.465",
+        "1.003.676",
+        "1.449.160",
+        "1.827.924"
       ],
       "Taban Puan": [
-        "282.712",
-        "255.553",
-        "236.458",
-        "227.572"
+        "297.641",
+        "287.889",
+        "261.966",
+        "238.013"
       ],
-      "Şehir": "KIRŞEHİR",
+      "Şehir": "RİZE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107850176",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "104590239",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "GİRESUN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1655,10 +1532,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
+        "45",
+        "40",
+        "80",
+        "80"
       ],
       "Yerleşen": [
         "",
@@ -1667,24 +1544,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.086.928",
-        "1.387.795",
-        "1.590.065",
-        "1.716.841"
+        "880.466",
+        "1.024.135",
+        "1.503.541",
+        "1.857.516"
       ],
       "Taban Puan": [
-        "281.685",
-        "265.714",
-        "251.430",
-        "239.448"
+        "296.775",
+        "286.344",
+        "258.708",
+        "236.408"
       ],
-      "Şehir": "MUŞ",
+      "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103650684",
-      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "106650569",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "FATMA ŞENSES SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1698,8 +1575,8 @@
       "Kontenjan": [
         "40",
         "35",
-        "60",
-        "60"
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -1708,18 +1585,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.090.042",
-        "1.553.028",
-        "1.889.736",
-        "1.977.377"
+        "886.995",
+        "1.046.434",
+        "1.456.396",
+        "1.690.885"
       ],
       "Taban Puan": [
-        "281.455",
-        "255.802",
-        "234.677",
-        "227.563"
+        "296.227",
+        "284.686",
+        "261.529",
+        "245.607"
       ],
-      "Şehir": "ERZİNCAN",
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109751645",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "ORHANELİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "889.511",
+        "1.029.585",
+        "1.309.550",
+        "1.559.346"
+      ],
+      "Taban Puan": [
+        "296.011",
+        "285.934",
+        "270.560",
+        "253.242"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109050327",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "908.445",
+        "1.129.245",
+        "1.359.609",
+        "1.666.802"
+      ],
+      "Taban Puan": [
+        "294.404",
+        "278.623",
+        "267.461",
+        "246.969"
+      ],
+      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1749,16 +1708,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "918.626",
         "1.108.481",
         "1.514.601",
-        "1.745.161",
-        "1.878.692"
+        "1.745.161"
       ],
       "Taban Puan": [
+        "293.549",
         "280.122",
         "258.051",
-        "242.548",
-        "231.877"
+        "242.548"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -1790,182 +1749,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "924.509",
         "1.111.067",
         "1.583.611",
-        "1.846.535",
-        "1.905.912"
+        "1.846.535"
       ],
       "Taban Puan": [
+        "293.054",
         "279.937",
         "254.015",
-        "237.000",
-        "230.660"
+        "237.000"
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109050327",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.129.245",
-        "1.359.609",
-        "1.666.802",
-        "1.766.843"
-      ],
-      "Taban Puan": [
-        "278.623",
-        "267.461",
-        "246.969",
-        "237.041"
-      ],
-      "Şehir": "SİİRT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112552506",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "EĞİRDİR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.134.879",
-        "1.500.025",
-        "1.823.762",
-        "1.939.479"
-      ],
-      "Taban Puan": [
-        "278.214",
-        "258.919",
-        "238.238",
-        "229.195"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103050672",
-      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "ÇERMİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.150.079",
-        "1.458.283",
-        "1.499.284",
-        "1.738.018"
-      ],
-      "Taban Puan": [
-        "277.128",
-        "261.415",
-        "256.822",
-        "238.428"
-      ],
-      "Şehir": "DİYARBAKIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102550864",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "AHMETLİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "95",
-        "95"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.157.641",
-        "1.631.915",
-        "1.917.363",
-        "2.025.129"
-      ],
-      "Taban Puan": [
-        "276.584",
-        "251.193",
-        "233.208",
-        "225.551"
-      ],
-      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1995,18 +1790,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "927.552",
         "1.166.514",
         "1.649.081",
-        "1.937.045",
-        "1.986.301"
+        "1.937.045"
       ],
       "Taban Puan": [
+        "292.802",
         "275.957",
         "250.205",
-        "232.167",
-        "227.181"
+        "232.167"
       ],
       "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107850176",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "927.624",
+        "1.086.928",
+        "1.387.795",
+        "1.590.065"
+      ],
+      "Taban Puan": [
+        "292.796",
+        "281.685",
+        "265.714",
+        "251.430"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112552506",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "EĞİRDİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "946.824",
+        "1.134.879",
+        "1.500.025",
+        "1.823.762"
+      ],
+      "Taban Puan": [
+        "291.188",
+        "278.214",
+        "258.919",
+        "238.238"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103350766",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "DR. ENGİN PAK CUMAYERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "957.990",
+        "1.199.147",
+        "1.572.551",
+        "1.826.375"
+      ],
+      "Taban Puan": [
+        "290.273",
+        "273.631",
+        "254.660",
+        "238.098"
+      ],
+      "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2036,16 +1954,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "958.673",
         "1.169.366",
         "1.631.189",
-        "1.675.994",
-        "1.873.782"
+        "1.675.994"
       ],
       "Taban Puan": [
+        "290.216",
         "275.747",
         "251.235",
-        "246.446",
-        "232.096"
+        "246.446"
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
@@ -2077,146 +1995,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "962.781",
         "1.193.206",
         "1.583.641",
-        "1.842.158",
-        "1.854.338"
+        "1.842.158"
       ],
       "Taban Puan": [
+        "289.874",
         "274.039",
         "254.013",
-        "237.238",
-        "232.976"
+        "237.238"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100451781",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.198.823",
-        "1.549.418",
-        "1.721.092",
-        "1.792.374"
-      ],
-      "Taban Puan": [
-        "273.651",
-        "256.011",
-        "243.897",
-        "235.839"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103350766",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "DR. ENGİN PAK CUMAYERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.199.147",
-        "1.572.551",
-        "1.826.375",
-        "1.878.077"
-      ],
-      "Taban Puan": [
-        "273.631",
-        "254.660",
-        "238.098",
-        "231.904"
-      ],
-      "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101650345",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "ULUS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.199.873",
-        "1.556.436",
-        "1.809.865",
-        "1.899.700"
-      ],
-      "Taban Puan": [
-        "273.577",
-        "255.603",
-        "238.992",
-        "230.939"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102850349",
-      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Program Kodu": "103650684",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
@@ -2229,92 +2024,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "45",
         "40",
-        "40",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.212.650",
-        "1.621.715",
-        "1.832.046",
-        "1.916.058"
-      ],
-      "Taban Puan": [
-        "272.685",
-        "251.787",
-        "237.783",
-        "230.212"
-      ],
-      "Şehir": "ÇANKIRI",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112552499",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ATABEY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.230.666",
-        "1.513.896",
-        "1.871.514",
-        "1.944.173"
-      ],
-      "Taban Puan": [
-        "271.433",
-        "258.093",
-        "235.650",
-        "228.989"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103251517",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "TAVŞANLI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
         "35",
-        "30",
-        "30",
-        "30"
+        "60",
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -2323,65 +2036,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.238.030",
-        "1.631.790",
-        "1.864.510",
-        "2.053.677"
+        "965.977",
+        "1.090.042",
+        "1.553.028",
+        "1.889.736"
       ],
       "Taban Puan": [
-        "270.918",
-        "251.201",
-        "236.031",
-        "224.344"
+        "289.609",
+        "281.455",
+        "255.802",
+        "234.677"
       ],
-      "Şehir": "KÜTAHYA",
+      "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108650906",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "ACIPAYAM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.238.664",
-        "1.539.388",
-        "1.818.646",
-        "1.921.836"
-      ],
-      "Taban Puan": [
-        "270.875",
-        "256.600",
-        "238.516",
-        "229.957"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102390133",
-      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "YOZGAT MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103050672",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "ÇERMİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2405,24 +2077,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.239.596",
-        "1.608.831",
-        "1.908.946",
-        "1.986.283"
+        "978.047",
+        "1.150.079",
+        "1.458.283",
+        "1.499.284"
       ],
       "Taban Puan": [
-        "270.813",
-        "252.537",
-        "233.657",
-        "227.182"
+        "288.604",
+        "277.128",
+        "261.415",
+        "256.822"
       ],
-      "Şehir": "YOZGAT",
+      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111550884",
-      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "ARAPGİR MESLEK YÜKSEKOKULU",
+      "Program Kodu": "102550864",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "AHMETLİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2434,10 +2106,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
+        "45",
+        "40",
+        "95",
+        "95"
       ],
       "Yerleşen": [
         "",
@@ -2446,18 +2118,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.255.605",
-        "1.671.770",
-        "1.937.958",
-        "1.939.753"
+        "985.397",
+        "1.157.641",
+        "1.631.915",
+        "1.917.363"
       ],
       "Taban Puan": [
-        "269.691",
-        "248.905",
-        "232.117",
-        "229.184"
+        "288.001",
+        "276.584",
+        "251.193",
+        "233.208"
       ],
-      "Şehir": "MALATYA",
+      "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2487,592 +2159,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "991.106",
         "1.258.117",
         "1.702.437",
-        "1.880.779",
-        "1.812.183"
+        "1.880.779"
       ],
       "Taban Puan": [
+        "287.544",
         "269.518",
         "247.153",
-        "235.157",
-        "234.916"
+        "235.157"
       ],
       "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108990303",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "HADİM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.280.836",
-        "1.615.735",
-        "1.733.190",
-        "2.057.203"
-      ],
-      "Taban Puan": [
-        "267.944",
-        "252.137",
-        "243.219",
-        "224.197"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112552515",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "GÖNEN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.289.445",
-        "1.667.370",
-        "1.965.415",
-        "2.042.360"
-      ],
-      "Taban Puan": [
-        "267.340",
-        "249.158",
-        "230.669",
-        "224.827"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100850513",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "ORTAKÖY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.299.324",
-        "1.736.146",
-        "1.954.877",
-        "2.174.959"
-      ],
-      "Taban Puan": [
-        "266.660",
-        "245.237",
-        "231.227",
-        "219.391"
-      ],
-      "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101350145",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "ARTVİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.303.431",
-        "1.637.720",
-        "1.907.038",
-        "2.090.611"
-      ],
-      "Taban Puan": [
-        "266.382",
-        "250.861",
-        "233.757",
-        "222.816"
-      ],
-      "Şehir": "ARTVİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103252003",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "GEDİZ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.311.371",
-        "1.662.312",
-        "1.917.684",
-        "2.082.157"
-      ],
-      "Taban Puan": [
-        "265.829",
-        "249.446",
-        "233.191",
-        "223.164"
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102550873",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "GÖRDES MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.311.585",
-        "1.715.100",
-        "1.969.491",
-        "2.076.776"
-      ],
-      "Taban Puan": [
-        "265.814",
-        "246.435",
-        "230.459",
-        "223.383"
-      ],
-      "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109850549",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "EŞME MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.313.848",
-        "1.622.245",
-        "1.914.432",
-        "1.946.789"
-      ],
-      "Taban Puan": [
-        "265.652",
-        "251.755",
-        "233.364",
-        "228.874"
-      ],
-      "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109350087",
-      "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
-      "Fakülte": "ŞIRNAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.318.200",
-        "1.702.463",
-        "1.915.432",
-        "1.886.749"
-      ],
-      "Taban Puan": [
-        "265.348",
-        "247.151",
-        "233.312",
-        "231.515"
-      ],
-      "Şehir": "ŞIRNAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104351082",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "ERBAA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.326.124",
-        "1.686.138",
-        "1.904.301",
-        "1.958.027"
-      ],
-      "Taban Puan": [
-        "264.795",
-        "248.078",
-        "233.904",
-        "228.391"
-      ],
-      "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107951164",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "MARMARA EREĞLİSİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.330.503",
-        "1.679.006",
-        "1.816.546",
-        "1.979.467"
-      ],
-      "Taban Puan": [
-        "264.503",
-        "248.489",
-        "238.628",
-        "227.472"
-      ],
-      "Şehir": "TEKİRDAĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100351782",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "BUHARKENT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.333.736",
-        "1.720.700",
-        "1.946.832",
-        "1.994.532"
-      ],
-      "Taban Puan": [
-        "264.281",
-        "246.120",
-        "231.656",
-        "226.835"
-      ],
-      "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101950696",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "SÖĞÜT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.333.824",
-        "1.712.435",
-        "2.004.141",
-        "1.999.490"
-      ],
-      "Taban Puan": [
-        "264.273",
-        "246.585",
-        "228.650",
-        "226.622"
-      ],
-      "Şehir": "BİLECİK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100250591",
-      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "GÖLBAŞI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.335.686",
-        "1.673.421",
-        "1.869.953",
-        "1.962.878"
-      ],
-      "Taban Puan": [
-        "264.144",
-        "248.807",
-        "235.735",
-        "228.188"
-      ],
-      "Şehir": "ADIYAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100290123",
-      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "BESNİ ALİ ERDEMOĞLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.339.367",
-        "1.686.122",
-        "1.827.488",
-        "1.934.051"
-      ],
-      "Taban Puan": [
-        "263.894",
-        "248.079",
-        "238.036",
-        "229.429"
-      ],
-      "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3102,18 +2200,305 @@
         ""
       ],
       "Taban Sıralama": [
+        "994.525",
         "1.341.451",
         "1.677.047",
-        "1.934.550",
-        "2.029.133"
+        "1.934.550"
       ],
       "Taban Puan": [
+        "287.265",
         "263.752",
         "248.599",
-        "232.299",
-        "225.383"
+        "232.299"
       ],
       "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103251517",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "TAVŞANLI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "995.879",
+        "1.238.030",
+        "1.631.790",
+        "1.864.510"
+      ],
+      "Taban Puan": [
+        "287.154",
+        "270.918",
+        "251.201",
+        "236.031"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112552499",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ATABEY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.020.299",
+        "1.230.666",
+        "1.513.896",
+        "1.871.514"
+      ],
+      "Taban Puan": [
+        "285.224",
+        "271.433",
+        "258.093",
+        "235.650"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102850349",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.021.401",
+        "1.212.650",
+        "1.621.715",
+        "1.832.046"
+      ],
+      "Taban Puan": [
+        "285.135",
+        "272.685",
+        "251.787",
+        "237.783"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100451781",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.025.881",
+        "1.198.823",
+        "1.549.418",
+        "1.721.092"
+      ],
+      "Taban Puan": [
+        "284.788",
+        "273.651",
+        "256.011",
+        "243.897"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108650906",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "ACIPAYAM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.027.071",
+        "1.238.664",
+        "1.539.388",
+        "1.818.646"
+      ],
+      "Taban Puan": [
+        "284.687",
+        "270.875",
+        "256.600",
+        "238.516"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101650345",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "ULUS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.033.664",
+        "1.199.873",
+        "1.556.436",
+        "1.809.865"
+      ],
+      "Taban Puan": [
+        "284.158",
+        "273.577",
+        "255.603",
+        "238.992"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102390133",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "YOZGAT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.033.846",
+        "1.239.596",
+        "1.608.831",
+        "1.908.946"
+      ],
+      "Taban Puan": [
+        "284.144",
+        "270.813",
+        "252.537",
+        "233.657"
+      ],
+      "Şehir": "YOZGAT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3143,24 +2528,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.039.259",
         "1.341.468",
         "1.726.510",
-        "1.951.958",
-        "2.071.931"
+        "1.951.958"
       ],
       "Taban Puan": [
+        "283.718",
         "263.751",
         "245.786",
-        "231.386",
-        "223.581"
+        "231.386"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101290205",
-      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107951164",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "MARMARA EREĞLİSİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3172,9 +2557,50 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "20",
-        "20",
+        "45",
+        "40",
+        "40",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.042.139",
+        "1.330.503",
+        "1.679.006",
+        "1.816.546"
+      ],
+      "Taban Puan": [
+        "283.496",
+        "264.503",
+        "248.489",
+        "238.628"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108990303",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "HADİM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
         "20"
       ],
       "Yerleşen": [
@@ -3184,24 +2610,106 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.345.454",
-        "1.750.382",
-        "1.897.911",
-        "2.048.548"
+        "1.044.242",
+        "1.280.836",
+        "1.615.735",
+        "1.733.190"
       ],
       "Taban Puan": [
-        "263.471",
-        "244.433",
-        "234.237",
-        "224.564"
+        "283.331",
+        "267.944",
+        "252.137",
+        "243.219"
       ],
-      "Şehir": "ARDAHAN",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107951173",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "HAYRABOLU MESLEK YÜKSEKOKULU",
+      "Program Kodu": "111550884",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "ARAPGİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.045.723",
+        "1.255.605",
+        "1.671.770",
+        "1.937.958"
+      ],
+      "Taban Puan": [
+        "283.213",
+        "269.691",
+        "248.905",
+        "232.117"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102550873",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "GÖRDES MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.053.525",
+        "1.311.585",
+        "1.715.100",
+        "1.969.491"
+      ],
+      "Taban Puan": [
+        "282.599",
+        "265.814",
+        "246.435",
+        "230.459"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103252003",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "GEDİZ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3225,18 +2733,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.349.652",
-        "1.745.015",
-        "1.942.970",
-        "2.009.859"
+        "1.057.011",
+        "1.311.371",
+        "1.662.312",
+        "1.917.684"
       ],
       "Taban Puan": [
-        "263.182",
-        "244.732",
-        "231.858",
-        "226.186"
+        "282.330",
+        "265.829",
+        "249.446",
+        "233.191"
       ],
-      "Şehir": "TEKİRDAĞ",
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104351082",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "ERBAA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.057.397",
+        "1.326.124",
+        "1.686.138",
+        "1.904.301"
+      ],
+      "Taban Puan": [
+        "282.297",
+        "264.795",
+        "248.078",
+        "233.904"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101350145",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "ARTVİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.071.443",
+        "1.303.431",
+        "1.637.720",
+        "1.907.038"
+      ],
+      "Taban Puan": [
+        "281.173",
+        "266.382",
+        "250.861",
+        "233.757"
+      ],
+      "Şehir": "ARTVİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3266,18 +2856,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.072.564",
         "1.352.221",
         "1.767.063",
-        "1.931.960",
-        "1.933.161"
+        "1.931.960"
       ],
       "Taban Puan": [
+        "281.084",
         "263.006",
         "243.495",
-        "232.437",
-        "229.468"
+        "232.437"
       ],
       "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109350087",
+      "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
+      "Fakülte": "ŞIRNAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.074.351",
+        "1.318.200",
+        "1.702.463",
+        "1.915.432"
+      ],
+      "Taban Puan": [
+        "280.946",
+        "265.348",
+        "247.151",
+        "233.312"
+      ],
+      "Şehir": "ŞIRNAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112552515",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "GÖNEN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.076.477",
+        "1.289.445",
+        "1.667.370",
+        "1.965.415"
+      ],
+      "Taban Puan": [
+        "280.779",
+        "267.340",
+        "249.158",
+        "230.669"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100351782",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "BUHARKENT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.080.037",
+        "1.333.736",
+        "1.720.700",
+        "1.946.832"
+      ],
+      "Taban Puan": [
+        "280.510",
+        "264.281",
+        "246.120",
+        "231.656"
+      ],
+      "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100850513",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "ORTAKÖY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.086.456",
+        "1.299.324",
+        "1.736.146",
+        "1.954.877"
+      ],
+      "Taban Puan": [
+        "280.008",
+        "266.660",
+        "245.237",
+        "231.227"
+      ],
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3307,24 +3061,106 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.089.294",
         "1.385.232",
         "1.751.930",
-        "1.971.780",
-        "2.182.121"
+        "1.971.780"
       ],
       "Taban Puan": [
+        "279.787",
         "260.753",
         "244.347",
-        "230.337",
-        "219.105"
+        "230.337"
       ],
       "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106450411",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "DEVREKANİ TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "109850549",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "EŞME MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.089.594",
+        "1.313.848",
+        "1.622.245",
+        "1.914.432"
+      ],
+      "Taban Puan": [
+        "279.764",
+        "265.652",
+        "251.755",
+        "233.364"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100290123",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "BESNİ ALİ ERDEMOĞLU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.095.065",
+        "1.339.367",
+        "1.686.122",
+        "1.827.488"
+      ],
+      "Taban Puan": [
+        "279.333",
+        "263.894",
+        "248.079",
+        "238.036"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100250591",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "GÖLBAŞI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3339,7 +3175,7 @@
         "35",
         "30",
         "30",
-        "25"
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -3348,24 +3184,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.395.796",
-        "1.758.297",
-        "1.949.415",
-        "2.241.917"
+        "1.097.447",
+        "1.335.686",
+        "1.673.421",
+        "1.869.953"
       ],
       "Taban Puan": [
-        "260.028",
-        "243.988",
-        "231.518",
-        "216.677"
+        "279.147",
+        "264.144",
+        "248.807",
+        "235.735"
       ],
-      "Şehir": "KASTAMONU",
+      "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106750559",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "BABAESKİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101950696",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "SÖĞÜT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3380,7 +3216,7 @@
         "30",
         "25",
         "25",
-        "20"
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -3389,65 +3225,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.423.577",
-        "1.783.830",
-        "2.005.706",
-        "2.132.855"
+        "1.101.980",
+        "1.333.824",
+        "1.712.435",
+        "2.004.141"
       ],
       "Taban Puan": [
-        "258.137",
-        "242.544",
-        "228.570",
-        "221.075"
-      ],
-      "Şehir": "KIRKLARELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101950687",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "GÖLPAZARI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.423.752",
-        "1.774.750",
-        "1.959.288",
-        "1.951.406"
-      ],
-      "Taban Puan": [
-        "258.125",
-        "243.065",
-        "230.991",
-        "228.677"
+        "278.808",
+        "264.273",
+        "246.585",
+        "228.650"
       ],
       "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100650515",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "ÇİÇEKDAĞI MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107951173",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "HAYRABOLU MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3459,132 +3254,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
         "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.430.387",
-        "1.733.477",
-        "1.965.594",
-        "2.015.339"
-      ],
-      "Taban Puan": [
-        "257.666",
-        "245.386",
-        "230.660",
-        "225.954"
-      ],
-      "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104351258",
-      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
-      "Fakülte": "ALMUS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
         "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.431.572",
-        "1.783.190",
-        "1.999.585",
-        "2.105.135"
-      ],
-      "Taban Puan": [
-        "257.586",
-        "242.580",
-        "228.888",
-        "222.216"
-      ],
-      "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390231",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "AĞLASUN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.435.618",
-        "1.712.697",
-        "1.997.609",
-        ""
-      ],
-      "Taban Puan": [
-        "257.308",
-        "246.570",
-        "228.990",
-        ""
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101350154",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "ARHAVİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
+        "25",
         "25"
       ],
       "Yerleşen": [
@@ -3594,18 +3266,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.439.900",
-        "1.744.999",
-        "1.890.234",
-        "2.070.787"
+        "1.104.534",
+        "1.349.652",
+        "1.745.015",
+        "1.942.970"
       ],
       "Taban Puan": [
-        "257.007",
-        "244.733",
-        "234.650",
-        "223.630"
+        "278.608",
+        "263.182",
+        "244.732",
+        "231.858"
       ],
-      "Şehir": "ARTVİN",
+      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3635,16 +3307,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.122.790",
         "1.443.081",
         "1.763.817",
-        "1.990.373",
-        "2.095.611"
+        "1.990.373"
       ],
       "Taban Puan": [
+        "277.215",
         "256.789",
         "243.673",
-        "229.369",
-        "222.606"
+        "229.369"
       ],
       "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
@@ -3676,18 +3348,387 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.126.554",
         "1.446.891",
         "1.812.976",
-        "2.010.339",
-        "2.177.469"
+        "2.010.339"
       ],
       "Taban Puan": [
+        "276.937",
         "256.534",
         "240.918",
-        "228.331",
-        "219.290"
+        "228.331"
       ],
       "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106750559",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "BABAESKİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "25",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.133.208",
+        "1.423.577",
+        "1.783.830",
+        "2.005.706"
+      ],
+      "Taban Puan": [
+        "276.428",
+        "258.137",
+        "242.544",
+        "228.570"
+      ],
+      "Şehir": "KIRKLARELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100650515",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "ÇİÇEKDAĞI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.142.116",
+        "1.430.387",
+        "1.733.477",
+        "1.965.594"
+      ],
+      "Taban Puan": [
+        "275.760",
+        "257.666",
+        "245.386",
+        "230.660"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101350154",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "ARHAVİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.155.461",
+        "1.439.900",
+        "1.744.999",
+        "1.890.234"
+      ],
+      "Taban Puan": [
+        "274.749",
+        "257.007",
+        "244.733",
+        "234.650"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106450411",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "DEVREKANİ TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.164.949",
+        "1.395.796",
+        "1.758.297",
+        "1.949.415"
+      ],
+      "Taban Puan": [
+        "274.033",
+        "260.028",
+        "243.988",
+        "231.518"
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390231",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "AĞLASUN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.165.249",
+        "1.435.618",
+        "1.712.697",
+        "1.997.609"
+      ],
+      "Taban Puan": [
+        "274.011",
+        "257.308",
+        "246.570",
+        "228.990"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101290205",
+      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.187.476",
+        "1.345.454",
+        "1.750.382",
+        "1.897.911"
+      ],
+      "Taban Puan": [
+        "272.344",
+        "263.471",
+        "244.433",
+        "234.237"
+      ],
+      "Şehir": "ARDAHAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104351258",
+      "Üniversite": "TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ",
+      "Fakülte": "ALMUS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.203.106",
+        "1.431.572",
+        "1.783.190",
+        "1.999.585"
+      ],
+      "Taban Puan": [
+        "271.184",
+        "257.586",
+        "242.580",
+        "228.888"
+      ],
+      "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101950687",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "GÖLPAZARI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.216.110",
+        "1.423.752",
+        "1.774.750",
+        "1.959.288"
+      ],
+      "Taban Puan": [
+        "270.228",
+        "258.125",
+        "243.065",
+        "230.991"
+      ],
+      "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112552533",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ŞARKİKARAAĞAÇ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.221.541",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "269.827",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3717,16 +3758,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.226.832",
         "1.477.556",
         "1.785.014",
-        "1.920.631",
-        "2.185.878"
+        "1.920.631"
       ],
       "Taban Puan": [
+        "269.433",
         "254.454",
         "242.479",
-        "233.038",
-        "218.952"
+        "233.038"
       ],
       "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
@@ -3758,16 +3799,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.804.122",
         "2.125.028",
         "2.265.197",
-        "1.867.572",
-        "1.820.686"
+        "1.867.572"
       ],
       "Taban Puan": [
+        "228.447",
         "207.826",
         "216.249",
-        "235.867",
-        "234.530"
+        "235.867"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -3811,47 +3852,6 @@
         ""
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112552533",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ŞARKİKARAAĞAÇ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Büro Yönetimi ve Yönetici Asistanlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     }
   ]

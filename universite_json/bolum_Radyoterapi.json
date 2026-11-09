@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "337.811",
         "387.231",
         "443.068",
-        "489.060",
-        "487.653"
+        "489.060"
       ],
       "Taban Puan": [
+        "363.259",
         "351.677",
         "345.289",
-        "340.798",
-        "335.363"
+        "340.798"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "376.085",
         "400.548",
         "467.764",
-        "542.558",
-        "568.069"
+        "542.558"
       ],
       "Taban Puan": [
+        "356.102",
         "349.570",
         "341.754",
-        "333.950",
-        "324.618"
+        "333.950"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -109,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "377.222",
         "427.367",
         "494.719",
-        "570.133",
-        "573.012"
+        "570.133"
       ],
       "Taban Puan": [
+        "355.900",
         "345.541",
         "338.134",
-        "330.627",
-        "324.002"
+        "330.627"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103150371",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyoterapi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "472.555",
-        "548.357",
-        "580.588",
-        "551.649"
-      ],
-      "Taban Puan": [
-        "339.202",
-        "331.431",
-        "329.386",
-        "326.678"
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "402.589",
         "486.659",
         "576.117",
-        "631.611",
-        "579.924"
+        "631.611"
       ],
       "Taban Puan": [
+        "351.539",
         "337.321",
         "328.219",
-        "323.639",
-        "323.146"
+        "323.639"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -232,60 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "403.146",
         "490.203",
         "511.458",
-        "575.287",
-        "552.177"
+        "575.287"
       ],
       "Taban Puan": [
+        "351.442",
         "336.853",
         "335.946",
-        "330.020",
-        "326.613"
+        "330.020"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103550216",
-      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "HALİL BAYRAKTAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyoterapi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "50",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "526.676",
-        "586.009",
-        "679.542",
-        "646.940"
-      ],
-      "Taban Puan": [
-        "332.227",
-        "327.122",
-        "318.620",
-        "315.428"
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "200150088",
@@ -314,16 +232,139 @@
         ""
       ],
       "Taban Sıralama": [
+        "409.714",
         "530.362",
         "582.509",
-        "542.961",
-        "523.544"
+        "542.961"
       ],
       "Taban Puan": [
+        "350.381",
         "331.781",
         "327.514",
-        "333.901",
-        "330.367"
+        "333.901"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103150371",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "409.867",
+        "472.555",
+        "548.357",
+        "580.588"
+      ],
+      "Taban Puan": [
+        "350.354",
+        "339.202",
+        "331.431",
+        "329.386"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103550216",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "HALİL BAYRAKTAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "50",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "433.808",
+        "526.676",
+        "586.009",
+        "679.542"
+      ],
+      "Taban Puan": [
+        "346.556",
+        "332.227",
+        "327.122",
+        "318.620"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208450079",
+      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "7",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "445.930",
+        "611.063",
+        "710.157",
+        "784.137"
+      ],
+      "Taban Puan": [
+        "344.742",
+        "322.580",
+        "314.666",
+        "308.581"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -355,60 +396,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "452.572",
         "542.262",
         "588.965",
-        "651.484",
-        "549.467"
+        "651.484"
       ],
       "Taban Puan": [
+        "343.732",
         "330.355",
         "326.807",
-        "321.523",
-        "326.962"
+        "321.523"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110251293",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "VAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Radyoterapi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "559.529",
-        "684.643",
-        "748.340",
-        "673.644"
-      ],
-      "Taban Puan": [
-        "328.318",
-        "317.046",
-        "311.898",
-        "312.531"
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "203150273",
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "467.122",
         "587.064",
         "641.675",
-        "714.229",
-        "619.777"
+        "714.229"
       ],
       "Taban Puan": [
+        "341.570",
         "325.189",
         "321.278",
-        "315.183",
-        "318.455"
+        "315.183"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -478,16 +478,139 @@
         ""
       ],
       "Taban Sıralama": [
+        "484.230",
         "596.477",
         "642.411",
-        "692.130",
-        "645.439"
+        "692.130"
       ],
       "Taban Puan": [
+        "339.138",
         "324.154",
         "321.202",
-        "317.347",
-        "315.600"
+        "317.347"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209010066",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "5",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "503.966",
+        "622.286",
+        "697.062",
+        "785.671"
+      ],
+      "Taban Puan": [
+        "336.416",
+        "321.375",
+        "315.877",
+        "308.444"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110251293",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "VAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Radyoterapi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "504.146",
+        "559.529",
+        "684.643",
+        "748.340"
+      ],
+      "Taban Puan": [
+        "336.394",
+        "328.318",
+        "317.046",
+        "311.898"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204752481",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "505.979",
+        "610.300",
+        "646.524",
+        "774.819"
+      ],
+      "Taban Puan": [
+        "336.148",
+        "322.660",
+        "320.790",
+        "309.427"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -519,23 +642,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "514.979",
         "606.831",
         "713.550",
-        "798.130",
-        "748.220"
+        "798.130"
       ],
       "Taban Puan": [
+        "334.945",
         "323.029",
         "314.348",
-        "307.313",
-        "304.960"
+        "307.313"
       ],
       "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "204752481",
-      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Program Kodu": "206551779",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyoterapi (Burslu)",
@@ -548,10 +671,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "3",
-        "3",
-        "3"
+        "10",
+        "10",
+        "10",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -560,139 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "610.300",
-        "646.524",
-        "774.819",
-        "700.725"
+        "518.814",
+        "640.034",
+        "693.971",
+        "768.584"
       ],
       "Taban Puan": [
-        "322.660",
-        "320.790",
-        "309.427",
-        "309.679"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208450079",
-      "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "7",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "611.063",
-        "710.157",
-        "784.137",
-        "741.549"
-      ],
-      "Taban Puan": [
-        "322.580",
-        "314.666",
-        "308.581",
-        "305.592"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203851883",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "622.110",
-        "664.563",
-        "776.942",
-        "805.597"
-      ],
-      "Taban Puan": [
-        "321.395",
-        "319.005",
-        "309.230",
-        "299.548"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209010066",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "5",
-        "5",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "622.286",
-        "697.062",
-        "785.671",
-        "731.949"
-      ],
-      "Taban Puan": [
-        "321.375",
-        "315.877",
-        "308.444",
-        "306.529"
+        "334.424",
+        "319.503",
+        "316.172",
+        "310.011"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -724,24 +724,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "530.951",
         "638.793",
         "715.675",
-        "775.486",
-        "710.180"
+        "775.486"
       ],
       "Taban Puan": [
+        "332.851",
         "319.631",
         "314.153",
-        "309.362",
-        "308.716"
+        "309.362"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "206551779",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "203851883",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyoterapi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -753,10 +753,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
+        "7",
+        "7",
+        "7",
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -765,18 +765,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "640.034",
-        "693.971",
-        "768.584",
-        "718.433"
+        "534.635",
+        "622.110",
+        "664.563",
+        "776.942"
       ],
       "Taban Puan": [
-        "319.503",
-        "316.172",
-        "310.011",
-        "307.881"
+        "332.383",
+        "321.395",
+        "319.005",
+        "309.230"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
     },
     {
@@ -806,57 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "544.718",
         "649.325",
         "757.376",
-        "855.127",
-        "730.060"
+        "855.127"
       ],
       "Taban Puan": [
+        "331.087",
         "318.521",
         "310.372",
-        "302.313",
-        "306.724"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208150116",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "658.791",
-        "757.742",
-        "827.653",
-        "740.404"
-      ],
-      "Taban Puan": [
-        "317.561",
-        "310.339",
-        "304.717",
-        "305.704"
+        "302.313"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -888,18 +847,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "546.143",
         "660.922",
         "749.765",
-        "847.985",
-        "768.313"
+        "847.985"
       ],
       "Taban Puan": [
+        "330.917",
         "317.337",
         "311.048",
-        "302.936",
-        "303.036"
+        "302.936"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200390511",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "548.869",
+        "810.420",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "330.581",
+        "303.472",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
       "Ücret": "Burslu"
     },
     {
@@ -929,57 +929,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "552.635",
         "666.530",
         "759.327",
-        "787.767",
-        "778.391"
+        "787.767"
       ],
       "Taban Puan": [
+        "330.114",
         "316.774",
         "310.204",
-        "308.248",
-        "302.079"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "206850821",
-      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
-      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "674.400",
-        "798.912",
-        "863.112",
-        "853.601"
-      ],
-      "Taban Puan": [
-        "315.996",
-        "306.802",
-        "301.634",
-        "295.208"
+        "308.248"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1011,26 +970,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "556.630",
         "681.439",
         "765.989",
-        "855.912",
-        "767.539"
+        "855.912"
       ],
       "Taban Puan": [
+        "329.619",
         "315.298",
         "309.627",
-        "302.246",
-        "303.113"
+        "302.246"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "210400458",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Program Kodu": "208150116",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Ücretli)",
+      "Program Adı": "Radyoterapi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1040,10 +999,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
+        "4",
+        "4",
+        "5",
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -1052,19 +1011,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "770.534",
-        "2.125.367",
-        "2.142.084",
-        "2.021.445"
+        "572.244",
+        "658.791",
+        "757.742",
+        "827.653"
       ],
       "Taban Puan": [
-        "306.971",
-        "223.865",
-        "221.621",
-        "225.699"
+        "327.707",
+        "317.561",
+        "310.339",
+        "304.717"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206850821",
+      "Üniversite": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "582.871",
+        "674.400",
+        "798.912",
+        "863.112"
+      ],
+      "Taban Puan": [
+        "326.411",
+        "315.996",
+        "306.802",
+        "301.634"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300150906",
@@ -1093,26 +1093,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "727.081",
         "795.304",
         "960.983",
-        "1.165.992",
-        "1.598.943"
+        "1.165.992"
       ],
       "Taban Puan": [
+        "310.833",
         "304.780",
         "294.083",
-        "278.488",
-        "245.402"
+        "278.488"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "200390511",
+      "Program Kodu": "200300150",
       "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Burslu)",
+      "Program Adı": "Radyoterapi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1122,8 +1122,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "4",
+        "15",
+        "",
         "",
         ""
       ],
@@ -1134,19 +1134,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "810.420",
+        "987.540",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "303.472",
+        "287.829",
         "",
         "",
         ""
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Burslu"
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300250659",
@@ -1175,60 +1175,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.073.840",
         "1.116.730",
         "1.257.044",
-        "1.515.658",
-        "1.825.822"
+        "1.515.658"
       ],
       "Taban Puan": [
+        "280.987",
         "279.528",
         "273.878",
-        "255.833",
-        "234.289"
+        "255.833"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200950159",
-      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "23",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.141.275",
-        "1.188.193",
-        "2.135.327",
-        "1.297.137"
-      ],
-      "Taban Puan": [
-        "277.759",
-        "278.338",
-        "221.962",
-        "262.599"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300350737",
@@ -1257,19 +1216,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.084.446",
         "1.256.579",
         "1.429.523",
-        "1.573.386",
-        "1.906.794"
+        "1.573.386"
       ],
       "Taban Puan": [
+        "280.162",
         "269.627",
         "263.142",
-        "252.416",
-        "230.622"
+        "252.416"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209200318",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "47",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.106.644",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "278.448",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "200390518",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.188.718",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "272.251",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300550902",
@@ -1298,60 +1339,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.196.366",
         "1.362.510",
         "1.458.765",
-        "1.564.541",
-        "1.884.237"
+        "1.564.541"
       ],
       "Taban Puan": [
+        "271.680",
         "262.295",
         "261.386",
-        "252.937",
-        "231.625"
+        "252.937"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200150282",
-      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "31",
-        "31",
-        "31"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.675.005",
-        "2.258.818",
-        "2.151.398",
-        "2.498.609"
-      ],
-      "Taban Puan": [
-        "240.990",
-        "216.600",
-        "221.163",
-        "206.303"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "206870146",
@@ -1380,60 +1380,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.556.161",
         "1.702.137",
         "2.344.664",
-        "1.211.084",
-        ""
+        "1.211.084"
       ],
       "Taban Puan": [
+        "245.999",
         "239.152",
         "211.848",
-        "275.337",
-        ""
+        "275.337"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "209010067",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "31",
-        "33",
-        "37",
-        "42"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.739.251",
-        "2.250.176",
-        "2.310.359",
-        "2.503.432"
-      ],
-      "Taban Puan": [
-        "236.613",
-        "217.072",
-        "213.333",
-        "206.098"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "206850839",
@@ -1462,19 +1421,183 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.728.138",
         "2.051.864",
         "2.067.834",
-        "2.325.562",
-        "2.165.543"
+        "2.325.562"
       ],
       "Taban Puan": [
+        "233.940",
         "213.963",
         "226.974",
-        "212.578",
-        "219.764"
+        "212.578"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200150282",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "31",
+        "31",
+        "31"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.735.836",
+        "1.675.005",
+        "2.258.818",
+        "2.151.398"
+      ],
+      "Taban Puan": [
+        "233.387",
+        "240.990",
+        "216.600",
+        "221.163"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100661",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "48",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.764.802",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "231.311",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210400458",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.801.325",
+        "770.534",
+        "2.125.367",
+        "2.142.084"
+      ],
+      "Taban Puan": [
+        "228.662",
+        "306.971",
+        "223.865",
+        "221.621"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203100465",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.815.539",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "227.623",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300150915",
@@ -1503,16 +1626,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.126.382",
         "2.262.389",
         "",
-        "2.108.262",
-        "2.100.449"
+        "2.108.262"
       ],
       "Taban Puan": [
+        "198.956",
         "191.584",
         "",
-        "223.319",
-        "222.408"
+        "223.319"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -1544,16 +1667,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.155.303",
         "2.291.416",
         "2.520.718",
-        "2.566.264",
-        ""
+        "2.566.264"
       ],
       "Taban Puan": [
+        "193.265",
         "184.152",
         "201.249",
-        "200.522",
-        ""
+        "200.522"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -1627,104 +1750,22 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.431.884",
-        "2.530.888",
-        "1.530.488"
+        "2.530.888"
       ],
       "Taban Puan": [
         "",
+        "",
         "206.802",
-        "202.366",
-        "249.030"
+        "202.366"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209200318",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "47",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "200390518",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "25",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "200300150",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Program Kodu": "200950159",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Radyoterapi (%50 İndirimli)",
@@ -1737,10 +1778,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "15",
-        "",
-        "",
-        ""
+        "25",
+        "23",
+        "20",
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -1750,17 +1791,58 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "1.141.275",
+        "1.188.193",
+        "2.135.327"
       ],
       "Taban Puan": [
         "",
+        "277.759",
+        "278.338",
+        "221.962"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209010067",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Radyoterapi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "31",
+        "33",
+        "37",
+        "42"
+      ],
+      "Yerleşen": [
+        "",
         "",
         "",
         ""
       ],
-      "Şehir": "TRABZON",
+      "Taban Sıralama": [
+        "",
+        "1.739.251",
+        "2.250.176",
+        "2.310.359"
+      ],
+      "Taban Puan": [
+        "",
+        "236.613",
+        "217.072",
+        "213.333"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -1791,15 +1873,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.602.202",
-        "2.428.465",
-        "1.573.031"
+        "2.428.465"
       ],
       "Taban Puan": [
         "",
+        "",
         "195.411",
-        "207.509",
-        "246.760"
+        "207.509"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1832,15 +1914,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.710.171",
-        "2.774.494",
-        ""
+        "2.774.494"
       ],
       "Taban Puan": [
         "",
+        "",
         "183.680",
-        "187.570",
-        ""
+        "187.570"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1875,98 +1957,16 @@
         "",
         "",
         "",
-        "1.913.811"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "230.313"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203100465",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "203100661",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Radyoterapi (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "48",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210400465",
@@ -1996,15 +1996,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.380.519",
-        "2.127.594",
-        "1.903.011"
+        "2.127.594"
       ],
       "Taban Puan": [
         "",
+        "",
         "209.813",
-        "222.353",
-        "230.790"
+        "222.353"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2037,15 +2037,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.836.550",
-        "1.992.432",
-        "2.069.842"
+        "1.992.432"
       ],
       "Taban Puan": [
         "",
+        "",
         "239.603",
-        "229.262",
-        "223.668"
+        "229.262"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2078,15 +2078,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.695.841",
-        "2.505.325",
-        "2.680.939"
+        "2.505.325"
       ],
       "Taban Puan": [
         "",
+        "",
         "185.915",
-        "203.685",
-        "197.883"
+        "203.685"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2120,14 +2120,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.380.916",
-        "2.361.872"
+        "",
+        "2.380.916"
       ],
       "Taban Puan": [
         "",
         "",
-        "209.851",
-        "211.891"
+        "",
+        "209.851"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2160,15 +2160,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.105.364",
-        "1.931.935",
-        "2.617.389"
+        "1.931.935"
       ],
       "Taban Puan": [
         "",
+        "",
         "224.961",
-        "232.438",
-        "201.034"
+        "232.438"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "%50 İndirimli"
@@ -2201,15 +2201,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.999.369",
-        "1.767.582",
-        "1.675.874"
+        "1.767.582"
       ],
       "Taban Puan": [
         "",
+        "",
         "230.678",
-        "241.306",
-        "241.474"
+        "241.306"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -2242,15 +2242,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.668.722",
-        "2.559.154",
-        "2.552.462"
+        "2.559.154"
       ],
       "Taban Puan": [
         "",
+        "",
         "189.300",
-        "200.902",
-        "203.989"
+        "200.902"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -2283,15 +2283,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.674.737",
-        "2.491.562",
-        ""
+        "2.491.562"
       ],
       "Taban Puan": [
         "",
+        "",
         "188.619",
-        "204.358",
-        ""
+        "204.358"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

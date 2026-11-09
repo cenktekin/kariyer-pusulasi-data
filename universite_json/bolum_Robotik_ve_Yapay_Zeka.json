@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "112490489",
-      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Robotik ve Yapay Zeka",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "223.205",
-        "238.515",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "384.203",
-        "385.761",
-        "",
-        ""
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "203190862",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -68,14 +27,219 @@
         ""
       ],
       "Taban Sıralama": [
+        "251.460",
         "233.522",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "382.812",
+        "381.684",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203100479",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "263.565",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "381.684",
+        "379.737",
         "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112490489",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Robotik ve Yapay Zeka",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "290.555",
+        "223.205",
+        "238.515",
+        ""
+      ],
+      "Taban Puan": [
+        "373.334",
+        "384.203",
+        "385.761",
+        ""
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201991455",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "324.537",
+        "326.723",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "365.909",
+        "362.098",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200600444",
+      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "327.273",
+        "447.361",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "365.354",
+        "342.655",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207651020",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "327.315",
+        "344.012",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "365.348",
+        "358.977",
         "",
         ""
       ],
@@ -109,23 +273,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "333.308",
         "301.921",
         "350.329",
-        "",
         ""
       ],
       "Taban Puan": [
+        "364.140",
         "366.831",
         "360.681",
-        "",
         ""
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201991455",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "209210208",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
@@ -138,9 +302,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
-        "6",
-        "",
+        "10",
+        "10",
+        "51",
         ""
       ],
       "Yerleşen": [
@@ -150,23 +314,64 @@
         ""
       ],
       "Taban Sıralama": [
-        "326.723",
-        "",
+        "342.075",
+        "381.006",
         "",
         ""
       ],
       "Taban Puan": [
-        "362.098",
-        "",
+        "362.426",
+        "352.679",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "207651020",
-      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "210500479",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "358.270",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "359.322",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201290614",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
@@ -191,14 +396,14 @@
         ""
       ],
       "Taban Sıralama": [
-        "344.012",
-        "",
+        "362.796",
+        "379.908",
         "",
         ""
       ],
       "Taban Puan": [
-        "358.977",
-        "",
+        "358.476",
+        "352.859",
         "",
         ""
       ],
@@ -232,101 +437,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "373.681",
         "375.753",
         "",
-        "511.013",
-        "509.590"
+        "511.013"
       ],
       "Taban Puan": [
+        "356.523",
         "353.540",
         "",
-        "337.922",
-        "332.280"
+        "337.922"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201290614",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "379.908",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "352.859",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209210208",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "51",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "381.006",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "352.679",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "100790623",
@@ -355,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "387.857",
         "395.144",
         "",
-        "610.311",
-        "630.923"
+        "610.311"
       ],
       "Taban Puan": [
+        "354.037",
         "350.420",
         "",
-        "325.981",
-        "317.196"
+        "325.981"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -396,65 +519,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "414.824",
         "426.906",
         "425.867",
-        "",
         ""
       ],
       "Taban Puan": [
+        "349.540",
         "345.607",
         "347.867",
-        "",
         ""
       ],
       "Şehir": "GAZİANTEP",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "111890336",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "HENDEK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Robotik ve Yapay Zeka",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "436.741",
-        "456.580",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "344.149",
-        "343.326",
-        "",
-        ""
-      ],
-      "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200600444",
-      "Üniversite": "BAŞKENT ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "201400157",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -466,8 +548,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
-        "6",
+        "3",
+        "",
         "",
         ""
       ],
@@ -478,18 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "447.361",
+        "423.870",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "342.655",
+        "348.110",
         "",
         "",
         ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -519,14 +601,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "474.960",
         "471.831",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "340.449",
         "339.293",
-        "",
         "",
         ""
       ],
@@ -534,9 +616,9 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109490377",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "111890336",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "HENDEK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Robotik ve Yapay Zeka",
       "Öğretim Türü": "Örgün Öğretim",
@@ -548,9 +630,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
         "30",
-        "30",
+        "25",
+        "25",
         ""
       ],
       "Yerleşen": [
@@ -560,18 +642,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "543.410",
-        "533.585",
-        "",
+        "490.116",
+        "436.741",
+        "456.580",
         ""
       ],
       "Taban Puan": [
-        "330.221",
-        "333.187",
-        "",
+        "338.327",
+        "344.149",
+        "343.326",
         ""
       ],
-      "Şehir": "EDİRNE",
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,14 +683,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "550.627",
         "561.553",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "330.371",
         "328.089",
-        "",
         "",
         ""
       ],
@@ -642,24 +724,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "567.975",
         "586.211",
         "",
-        "880.741",
-        "836.679"
+        "880.741"
       ],
       "Taban Puan": [
+        "328.233",
         "325.281",
         "",
-        "300.150",
-        "296.699"
+        "300.150"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105090333",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ŞANLIURFA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "207500101",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "589.803",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "325.591",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "109490377",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Robotik ve Yapay Zeka",
       "Öğretim Türü": "Örgün Öğretim",
@@ -671,7 +794,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
+        "35",
         "30",
         "30",
         ""
@@ -683,18 +806,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "667.223",
-        "680.195",
-        "",
+        "590.554",
+        "543.410",
+        "533.585",
         ""
       ],
       "Taban Puan": [
-        "316.706",
-        "317.481",
-        "",
+        "325.506",
+        "330.221",
+        "333.187",
         ""
       ],
-      "Şehir": "ŞANLIURFA",
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,14 +847,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "655.533",
         "672.821",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "318.201",
         "316.155",
-        "",
         "",
         ""
       ],
@@ -765,19 +888,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "675.909",
         "676.122",
         "",
-        "1.083.457",
-        "1.014.614"
+        "1.083.457"
       ],
       "Taban Puan": [
+        "316.050",
         "315.819",
         "",
-        "284.376",
-        "282.065"
+        "284.376"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090333",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "ŞANLIURFA TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Robotik ve Yapay Zeka",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "684.951",
+        "667.223",
+        "680.195",
+        ""
+      ],
+      "Taban Puan": [
+        "315.106",
+        "316.706",
+        "317.481",
+        ""
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203800122",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "716.463",
+        "1.016.169",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "311.888",
+        "286.947",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108190457",
@@ -806,14 +1011,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "722.531",
         "717.622",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "311.284",
         "311.823",
-        "",
         "",
         ""
       ],
@@ -847,14 +1052,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "756.274",
         "756.170",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "307.979",
         "308.271",
-        "",
         "",
         ""
       ],
@@ -888,100 +1093,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "858.830",
         "882.183",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "298.660",
         "297.452",
-        "",
         "",
         ""
       ],
       "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203800122",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.016.169",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "286.947",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106490290",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "TOSYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Robotik ve Yapay Zeka",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "42",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.121.254",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "279.202",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,18 +1134,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "913.932",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "293.939",
         "",
         "",
         ""
       ],
       "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106490290",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "TOSYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Robotik ve Yapay Zeka",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "42",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.065.585",
+        "1.121.254",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "281.645",
+        "279.202",
+        "",
+        ""
+      ],
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1082,7 +1246,7 @@
       ],
       "Kontenjan": [
         "24",
-        "24",
+        "",
         "",
         ""
       ],
@@ -1190,47 +1354,6 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "201400157",
-      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "201400164",
       "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -1311,47 +1434,6 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "207500101",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "207500108",
@@ -1436,47 +1518,6 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "203100479",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "203100472",
       "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -1516,47 +1557,6 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "210500479",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Robotik ve Yapay Zeka (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210500486",
@@ -1615,7 +1615,7 @@
       ],
       "Kontenjan": [
         "42",
-        "42",
+        "",
         "",
         ""
       ],

@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "99",
         "64",
         "43",
-        "39",
-        "169"
+        "39"
       ],
       "Taban Puan": [
+        "504.233",
         "494.564",
         "526.017",
-        "522.814",
-        "503.678"
+        "522.814"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "188",
         "287",
         "363",
-        "364",
-        "980"
+        "364"
       ],
       "Taban Puan": [
+        "492.602",
         "468.297",
         "494.419",
-        "486.864",
-        "471.917"
+        "486.864"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "511",
         "340",
         "259",
-        "",
-        "812"
+        ""
       ],
       "Taban Puan": [
+        "473.875",
         "465.240",
         "501.115",
-        "",
-        "476.000"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -139,9 +139,9 @@
       ],
       "Kontenjan": [
         "10",
-        "3",
-        "3",
-        "3"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "744",
         "724",
         "416",
-        "604",
-        "858"
+        "604"
       ],
       "Taban Puan": [
+        "465.675",
         "449.974",
         "492.266",
-        "475.427",
-        "474.629"
+        "475.427"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "975",
         "912",
         "856",
-        "2.977",
-        "1.331"
+        "2.977"
       ],
       "Taban Puan": [
+        "459.601",
         "445.163",
         "477.454",
-        "442.333",
-        "465.039"
+        "442.333"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.234",
         "950",
         "766",
-        "1.398",
-        "2.239"
+        "1.398"
       ],
       "Taban Puan": [
+        "454.648",
         "444.356",
         "479.575",
-        "457.918",
-        "453.378"
+        "457.918"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -273,19 +273,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.402",
         "1.565",
         "2.063",
-        "7.159",
-        "7.810"
+        "7.159"
       ],
       "Taban Puan": [
+        "440.829",
         "433.945",
         "460.274",
-        "424.454",
-        "425.313"
+        "424.454"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208600122",
+      "Üniversite": "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "3.603",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "432.597",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "101110324",
@@ -314,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "3.822",
         "2.277",
         "2.523",
-        "7.857",
-        "12.692"
+        "7.857"
       ],
       "Taban Puan": [
+        "431.434",
         "426.522",
         "456.153",
-        "422.577",
-        "414.258"
+        "422.577"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -355,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "4.443",
         "3.557",
         "3.958",
-        "13.073",
-        "22.585"
+        "13.073"
       ],
       "Taban Puan": [
+        "428.165",
         "416.945",
         "446.969",
-        "411.536",
-        "400.110"
+        "411.536"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -396,24 +437,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "5.058",
         "4.067",
         "5.815",
-        "19.676",
-        "21.393"
+        "19.676"
       ],
       "Taban Puan": [
+        "425.467",
         "414.420",
         "439.018",
-        "401.934",
-        "401.517"
+        "401.934"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203211165",
-      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "204090377",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Tarih (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -425,9 +466,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "10",
-        "5",
+        "2",
         "3",
+        "4",
         "4"
       ],
       "Yerleşen": [
@@ -437,18 +478,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "6.690",
-        "9.430",
-        "14.675",
-        "8.014"
+        "5.858",
+        "78.743",
+        "109.964",
+        "109.267"
       ],
       "Taban Puan": [
-        "404.011",
-        "428.844",
-        "408.930",
-        "424.680"
+        "422.288",
+        "340.642",
+        "359.652",
+        "350.242"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "KONYA",
       "Ücret": "Burslu"
     },
     {
@@ -478,60 +519,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.406",
         "8.855",
         "4.632",
-        "7.691",
-        "1.578"
+        "7.691"
       ],
       "Taban Puan": [
+        "414.325",
         "397.927",
         "443.810",
-        "423.030",
-        "461.609"
+        "423.030"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107510065",
-      "Üniversite": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "9.422",
-        "16.025",
-        "38.994",
-        "46.775"
-      ],
-      "Taban Puan": [
-        "396.490",
-        "417.142",
-        "383.815",
-        "379.520"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110910102",
@@ -560,19 +560,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.514",
         "9.918",
         "15.064",
-        "32.708",
-        "41.422"
+        "32.708"
       ],
       "Taban Puan": [
+        "414.051",
         "395.353",
         "418.546",
-        "388.691",
-        "383.194"
+        "388.691"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107510065",
+      "Üniversite": "MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.815",
+        "9.422",
+        "16.025",
+        "38.994"
+      ],
+      "Taban Puan": [
+        "410.828",
+        "396.490",
+        "417.142",
+        "383.815"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203910196",
+      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İNSANİ BİLİMLER VE EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "8",
+        "6",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "10.660",
+        "360.704",
+        "6.237",
+        "9.442"
+      ],
+      "Taban Puan": [
+        "408.914",
+        "283.017",
+        "437.601",
+        "418.634"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "103410121",
@@ -601,59 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.078",
         "15.491",
         "21.268",
-        "60.417",
-        "64.033"
+        "60.417"
       ],
       "Taban Puan": [
+        "400.620",
         "384.991",
         "410.509",
-        "370.535",
-        "369.432"
+        "370.535"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111710166",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "22.628",
-        "32.531",
-        "78.137",
-        "92.516"
-      ],
-      "Taban Puan": [
-        "375.874",
-        "399.498",
-        "362.119",
-        "356.632"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,26 +724,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "22.312",
         "27.198",
         "31.641",
-        "47.870",
-        "51.475"
+        "47.870"
       ],
       "Taban Puan": [
+        "390.523",
         "371.072",
         "400.241",
-        "377.770",
-        "376.549"
+        "377.770"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202412543",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih (Burslu)",
+      "Program Kodu": "102270224",
+      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih (İngilizce) (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -712,10 +753,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "4",
-        "4",
-        "5"
+        "1",
+        "2",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -724,19 +765,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "28.229",
-        "27.584",
-        "62.520",
-        "64.549"
+        "25.399",
+        "25.218",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "370.088",
-        "403.880",
-        "369.459",
-        "369.163"
+        "387.013",
+        "373.071",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "105410027",
@@ -765,23 +806,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "26.164",
         "29.767",
         "36.735",
-        "67.128",
-        "71.858"
+        "67.128"
       ],
       "Taban Puan": [
+        "386.185",
         "368.735",
         "396.109",
-        "367.215",
-        "365.536"
+        "367.215"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103110275",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Program Kodu": "111710166",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
       "Fakülte": "EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih",
@@ -794,10 +835,10 @@
         "2023"
       ],
       "Kontenjan": [
+        "40",
         "30",
         "30",
-        "30",
-        "60"
+        "80"
       ],
       "Yerleşen": [
         "",
@@ -806,18 +847,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "31.832",
-        "44.408",
-        "85.839",
-        "93.551"
+        "26.704",
+        "22.628",
+        "32.531",
+        "78.137"
       ],
       "Taban Puan": [
-        "366.887",
-        "390.642",
-        "358.913",
-        "356.241"
+        "385.628",
+        "375.874",
+        "399.498",
+        "362.119"
       ],
-      "Şehir": "İZMİR",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,16 +888,180 @@
         ""
       ],
       "Taban Sıralama": [
+        "27.470",
         "31.961",
         "31.580",
-        "57.972",
-        "56.837"
+        "57.972"
       ],
       "Taban Puan": [
+        "384.816",
         "366.775",
         "400.291",
-        "371.854",
-        "373.370"
+        "371.854"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202412543",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "4",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "28.626",
+        "28.229",
+        "27.584",
+        "62.520"
+      ],
+      "Taban Puan": [
+        "383.660",
+        "370.088",
+        "403.880",
+        "369.459"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103110275",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "31.961",
+        "31.832",
+        "44.408",
+        "85.839"
+      ],
+      "Taban Puan": [
+        "380.514",
+        "366.887",
+        "390.642",
+        "358.913"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100710127",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "36.495",
+        "39.703",
+        "61.834",
+        "129.021"
+      ],
+      "Taban Puan": [
+        "376.573",
+        "360.886",
+        "380.416",
+        "343.979"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203211165",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "5",
+        "3",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "38.269",
+        "6.690",
+        "9.430",
+        "14.675"
+      ],
+      "Taban Puan": [
+        "375.125",
+        "404.011",
+        "428.844",
+        "408.930"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -888,101 +1093,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "41.959",
         "32.367",
         "45.187",
-        "58.899",
-        "56.846"
+        "58.899"
       ],
       "Taban Puan": [
+        "372.310",
         "366.454",
         "390.133",
-        "371.350",
-        "373.367"
+        "371.350"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205090520",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "36.049",
-        "61.536",
-        "",
-        "76.074"
-      ],
-      "Taban Puan": [
-        "363.516",
-        "380.586",
-        "",
-        "363.534"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "100710127",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "39.703",
-        "61.834",
-        "129.021",
-        "143.535"
-      ],
-      "Taban Puan": [
-        "360.886",
-        "380.416",
-        "343.979",
-        "340.033"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "101010061",
@@ -1011,16 +1134,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "42.571",
         "42.737",
         "64.165",
-        "98.185",
-        "105.290"
+        "98.185"
       ],
       "Taban Puan": [
+        "371.860",
         "358.808",
         "379.210",
-        "354.169",
-        "351.928"
+        "354.169"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -1052,16 +1175,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "43.846",
         "45.510",
         "53.619",
-        "75.954",
-        "64.664"
+        "75.954"
       ],
       "Taban Puan": [
+        "370.955",
         "357.038",
         "385.021",
-        "363.073",
-        "369.108"
+        "363.073"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1093,19 +1216,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "45.880",
         "50.275",
         "67.844",
-        "118.011",
-        "126.794"
+        "118.011"
       ],
       "Taban Puan": [
+        "369.552",
         "354.163",
         "377.333",
-        "347.388",
-        "344.841"
+        "347.388"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "205090520",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "4",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "46.337",
+        "36.049",
+        "61.536",
+        ""
+      ],
+      "Taban Puan": [
+        "369.262",
+        "363.516",
+        "380.586",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110010147",
@@ -1134,59 +1298,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "52.279",
         "61.294",
         "79.738",
-        "134.989",
-        "148.393"
+        "134.989"
       ],
       "Taban Puan": [
+        "365.396",
         "348.278",
         "371.649",
-        "342.219",
-        "338.667"
+        "342.219"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101010916",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "100",
-        "100",
-        "200",
-        "2400"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "70.503",
-        "209.999",
-        "787.466",
-        "870.365"
-      ],
-      "Taban Puan": [
-        "344.034",
-        "332.150",
-        "252.273",
-        "245.429"
-      ],
-      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1216,109 +1339,27 @@
         ""
       ],
       "Taban Sıralama": [
+        "67.221",
         "74.269",
         "90.469",
-        "146.479",
-        "155.598"
+        "146.479"
       ],
       "Taban Puan": [
+        "357.144",
         "342.452",
         "367.124",
-        "338.974",
-        "336.721"
+        "338.974"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103490589",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "76.904",
-        "459.864",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "341.393",
-        "291.470",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204090377",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "İKTİSADİ, İDARİ VE SOSYAL BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "3",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "78.743",
-        "109.964",
-        "109.267",
-        "146.282"
-      ],
-      "Taban Puan": [
-        "340.642",
-        "359.652",
-        "350.242",
-        "339.260"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105611305",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Program Kodu": "101010916",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
         "2026",
@@ -1330,7 +1371,7 @@
         "100",
         "100",
         "200",
-        "1000"
+        "2400"
       ],
       "Yerleşen": [
         "",
@@ -1339,18 +1380,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "83.461",
-        "226.676",
-        "533.414",
-        "681.131"
+        "70.864",
+        "70.503",
+        "209.999",
+        "787.466"
       ],
       "Taban Puan": [
-        "338.802",
-        "328.545",
-        "277.211",
-        "262.644"
+        "355.350",
+        "344.034",
+        "332.150",
+        "252.273"
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1380,18 +1421,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "76.532",
         "95.808",
         "101.082",
-        "162.707",
-        "193.171"
+        "162.707"
       ],
       "Taban Puan": [
+        "352.661",
         "334.285",
         "362.954",
-        "334.692",
-        "327.741"
+        "334.692"
       ],
       "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105611305",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "100",
+        "100",
+        "200",
+        "1000"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "78.932",
+        "83.461",
+        "226.676",
+        "533.414"
+      ],
+      "Taban Puan": [
+        "351.557",
+        "338.802",
+        "328.545",
+        "277.211"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1421,16 +1503,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "88.867",
         "99.742",
         "108.441",
-        "197.157",
-        "211.207"
+        "197.157"
       ],
       "Taban Puan": [
+        "347.340",
         "332.911",
         "360.193",
-        "326.585",
-        "323.909"
+        "326.585"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -1462,16 +1544,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "95.988",
         "107.154",
         "147.777",
-        "218.580",
-        "226.280"
+        "218.580"
       ],
       "Taban Puan": [
+        "344.536",
         "330.536",
         "347.729",
-        "322.098",
-        "320.871"
+        "322.098"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -1503,18 +1585,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "100.412",
         "113.904",
         "145.753",
-        "204.538",
-        "224.667"
+        "204.538"
       ],
       "Taban Puan": [
+        "342.897",
         "328.495",
         "348.306",
-        "325.017",
-        "321.191"
+        "325.017"
       ],
       "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108810208",
+      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "100"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "105.471",
+        "130.132",
+        "144.974",
+        "261.686"
+      ],
+      "Taban Puan": [
+        "341.091",
+        "323.851",
+        "348.530",
+        "313.905"
+      ],
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1523,7 +1646,7 @@
       "Fakülte": "AÇIK VE UZAKTAN ÖĞRETİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
+      "Öğretim Türü": "Açık Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
         "2026",
@@ -1544,16 +1667,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "112.168",
         "124.342",
         "312.704",
-        "748.483",
-        "871.387"
+        "748.483"
       ],
       "Taban Puan": [
+        "338.803",
         "325.466",
         "312.520",
-        "255.822",
-        "245.338"
+        "255.822"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
@@ -1585,59 +1708,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "114.132",
         "125.540",
         "152.966",
-        "272.779",
-        "270.694"
+        "272.779"
       ],
       "Taban Puan": [
+        "338.145",
         "325.121",
         "346.250",
-        "311.959",
-        "312.831"
+        "311.959"
       ],
       "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108810208",
-      "Üniversite": "SAKARYA ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "100"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "130.132",
-        "144.974",
-        "261.686",
-        "292.997"
-      ],
-      "Taban Puan": [
-        "323.851",
-        "348.530",
-        "313.905",
-        "309.192"
-      ],
-      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1667,264 +1749,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "119.896",
         "140.587",
         "164.992",
-        "221.477",
-        "240.195"
+        "221.477"
       ],
       "Taban Puan": [
+        "336.243",
         "321.137",
         "342.989",
-        "321.535",
-        "318.211"
+        "321.535"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106210211",
-      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "158.355",
-        "185.925",
-        "309.772",
-        "296.642"
-      ],
-      "Taban Puan": [
-        "316.852",
-        "337.762",
-        "305.884",
-        "308.610"
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108910376",
-      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "159.145",
-        "169.456",
-        "311.077",
-        "315.461"
-      ],
-      "Taban Puan": [
-        "316.661",
-        "341.853",
-        "305.680",
-        "305.658"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107610179",
-      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "161.113",
-        "162.725",
-        "247.558",
-        "242.436"
-      ],
-      "Taban Puan": [
-        "316.218",
-        "343.567",
-        "316.454",
-        "317.810"
-      ],
-      "Şehir": "MUĞLA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111110066",
-      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "161.272",
-        "183.379",
-        "256.078",
-        "265.567"
-      ],
-      "Taban Puan": [
-        "316.180",
-        "338.371",
-        "314.911",
-        "313.708"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104210068",
-      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "24",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "166.947",
-        "149.607",
-        "187.699",
-        "295.376"
-      ],
-      "Taban Puan": [
-        "314.923",
-        "347.209",
-        "328.697",
-        "308.810"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107910334",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "168.020",
-        "206.957",
-        "354.570",
-        "383.780"
-      ],
-      "Taban Puan": [
-        "314.677",
-        "332.839",
-        "299.209",
-        "295.852"
-      ],
-      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1954,18 +1790,305 @@
         ""
       ],
       "Taban Sıralama": [
+        "126.061",
         "182.267",
         "178.247",
-        "246.597",
-        "267.646"
+        "246.597"
       ],
       "Taban Puan": [
+        "334.290",
         "311.618",
         "339.624",
-        "316.637",
-        "313.351"
+        "316.637"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108910376",
+      "Üniversite": "SELÇUK ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "126.706",
+        "159.145",
+        "169.456",
+        "311.077"
+      ],
+      "Taban Puan": [
+        "334.090",
+        "316.661",
+        "341.853",
+        "305.680"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106210211",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "130.178",
+        "158.355",
+        "185.925",
+        "309.772"
+      ],
+      "Taban Puan": [
+        "333.040",
+        "316.852",
+        "337.762",
+        "305.884"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107610179",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "132.034",
+        "161.113",
+        "162.725",
+        "247.558"
+      ],
+      "Taban Puan": [
+        "332.490",
+        "316.218",
+        "343.567",
+        "316.454"
+      ],
+      "Şehir": "MUĞLA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104210068",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "24",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "132.739",
+        "166.947",
+        "149.607",
+        "187.699"
+      ],
+      "Taban Puan": [
+        "332.282",
+        "314.923",
+        "347.209",
+        "328.697"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111110066",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "134.781",
+        "161.272",
+        "183.379",
+        "256.078"
+      ],
+      "Taban Puan": [
+        "331.664",
+        "316.180",
+        "338.371",
+        "314.911"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107910334",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "136.020",
+        "168.020",
+        "206.957",
+        "354.570"
+      ],
+      "Taban Puan": [
+        "331.310",
+        "314.677",
+        "332.839",
+        "299.209"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610176",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "148.686",
+        "205.801",
+        "210.432",
+        "311.260"
+      ],
+      "Taban Puan": [
+        "327.703",
+        "306.999",
+        "332.051",
+        "305.650"
+      ],
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1995,16 +2118,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "150.683",
         "183.454",
         "207.877",
-        "263.135",
-        "279.522"
+        "263.135"
       ],
       "Taban Puan": [
+        "327.165",
         "311.367",
         "332.623",
-        "313.655",
-        "311.368"
+        "313.655"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -2036,59 +2159,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "158.118",
         "204.853",
         "187.252",
-        "299.226",
-        "326.878"
+        "299.226"
       ],
       "Taban Puan": [
+        "325.135",
         "307.172",
         "337.445",
-        "307.539",
-        "303.934"
+        "307.539"
       ],
       "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108610176",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "205.801",
-        "210.432",
-        "311.260",
-        "347.292"
-      ],
-      "Taban Puan": [
-        "306.999",
-        "332.051",
-        "305.650",
-        "300.934"
-      ],
-      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2118,16 +2200,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "166.977",
         "213.434",
         "224.020",
-        "385.734",
-        "422.975"
+        "385.734"
       ],
       "Taban Puan": [
+        "322.880",
         "305.577",
         "329.123",
-        "294.887",
-        "290.761"
+        "294.887"
       ],
       "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
@@ -2159,100 +2241,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "178.689",
         "215.582",
         "237.219",
-        "398.180",
-        "390.739"
+        "398.180"
       ],
       "Taban Puan": [
+        "319.966",
         "305.187",
         "326.325",
-        "293.258",
-        "294.925"
+        "293.258"
       ],
       "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107010316",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "223.680",
-        "232.401",
-        "407.102",
-        "409.068"
-      ],
-      "Taban Puan": [
-        "303.710",
-        "327.322",
-        "292.101",
-        "292.534"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109410139",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "228.428",
-        "246.595",
-        "440.840",
-        "451.426"
-      ],
-      "Taban Puan": [
-        "302.888",
-        "324.455",
-        "287.878",
-        "287.234"
-      ],
-      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2282,387 +2282,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "181.152",
         "229.312",
         "251.537",
-        "403.834",
-        ""
+        "403.834"
       ],
       "Taban Puan": [
+        "319.348",
         "302.728",
         "323.518",
-        "292.524",
-        ""
+        "292.524"
       ],
       "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100110178",
-      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "231.666",
-        "240.315",
-        "367.065",
-        "346.710"
-      ],
-      "Taban Puan": [
-        "302.316",
-        "325.712",
-        "297.451",
-        "301.014"
-      ],
-      "Şehir": "BOLU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410172",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "232.769",
-        "252.773",
-        "448.835",
-        "435.519"
-      ],
-      "Taban Puan": [
-        "302.119",
-        "323.277",
-        "286.900",
-        "289.186"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110670127",
-      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "247.709",
-        "274.193",
-        "443.374",
-        "448.276"
-      ],
-      "Taban Puan": [
-        "299.571",
-        "319.211",
-        "287.569",
-        "287.626"
-      ],
-      "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109290466",
-      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "260.958",
-        "284.087",
-        "439.158",
-        ""
-      ],
-      "Taban Puan": [
-        "297.412",
-        "317.460",
-        "288.079",
-        ""
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112771190",
-      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "272.696",
-        "287.048",
-        "401.362",
-        ""
-      ],
-      "Taban Puan": [
-        "295.566",
-        "316.935",
-        "292.851",
-        ""
-      ],
-      "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690433",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "277.527",
-        "270.417",
-        "454.005",
-        ""
-      ],
-      "Taban Puan": [
-        "294.817",
-        "319.925",
-        "286.282",
-        ""
-      ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110910140",
-      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "282.672",
-        "806.703",
-        "97.118",
-        "175.619"
-      ],
-      "Taban Puan": [
-        "294.013",
-        "255.015",
-        "354.565",
-        "331.728"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103210123",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "287.390",
-        "330.972",
-        "553.102",
-        "505.446"
-      ],
-      "Taban Puan": [
-        "293.289",
-        "309.540",
-        "275.091",
-        "280.873"
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103090352",
-      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
-      "Fakülte": "SEZAİ KARAKOÇ EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "24",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "291.843",
-        "218.128",
-        "317.571",
-        ""
-      ],
-      "Taban Puan": [
-        "292.604",
-        "330.354",
-        "304.681",
-        ""
-      ],
-      "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2692,23 +2323,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "185.312",
         "296.596",
         "256.673",
-        "467.246",
-        "411.666"
+        "467.246"
       ],
       "Taban Puan": [
+        "318.358",
         "291.902",
         "322.532",
-        "284.716",
-        "292.211"
+        "284.716"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103310404",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Program Kodu": "109410139",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "187.659",
+        "228.428",
+        "246.595",
+        "440.840"
+      ],
+      "Taban Puan": [
+        "317.805",
+        "302.888",
+        "324.455",
+        "287.878"
+      ],
+      "Şehir": "EDİRNE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100110178",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
       "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih",
@@ -2724,7 +2396,7 @@
         "30",
         "30",
         "30",
-        "70"
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -2733,24 +2405,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "312.522",
-        "349.114",
-        "552.412",
-        "531.426"
+        "190.482",
+        "231.666",
+        "240.315",
+        "367.065"
       ],
       "Taban Puan": [
-        "289.569",
-        "306.741",
-        "275.169",
-        "277.982"
+        "317.144",
+        "302.316",
+        "325.712",
+        "297.451"
       ],
-      "Şehir": "DÜZCE",
+      "Şehir": "BOLU",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108290235",
-      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "ÇARŞAMBA İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "107010316",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2765,7 +2437,7 @@
         "30",
         "30",
         "30",
-        "50"
+        "65"
       ],
       "Yerleşen": [
         "",
@@ -2774,18 +2446,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "339.681",
-        "379.370",
-        "462.030",
-        "492.785"
+        "191.706",
+        "223.680",
+        "232.401",
+        "407.102"
       ],
       "Taban Puan": [
-        "285.796",
-        "302.298",
-        "285.331",
-        "282.322"
+        "316.849",
+        "303.710",
+        "327.322",
+        "292.101"
       ],
-      "Şehir": "SAMSUN",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2815,18 +2487,551 @@
         ""
       ],
       "Taban Sıralama": [
+        "195.333",
         "342.693",
         "301.811",
-        "334.815",
-        "442.710"
+        "334.815"
       ],
       "Taban Puan": [
+        "316.024",
         "285.386",
         "314.358",
-        "302.064",
-        "288.312"
+        "302.064"
       ],
       "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110670127",
+      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "195.954",
+        "247.709",
+        "274.193",
+        "443.374"
+      ],
+      "Taban Puan": [
+        "315.876",
+        "299.571",
+        "319.211",
+        "287.569"
+      ],
+      "Şehir": "BALIKESİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410172",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "198.644",
+        "232.769",
+        "252.773",
+        "448.835"
+      ],
+      "Taban Puan": [
+        "315.259",
+        "302.119",
+        "323.277",
+        "286.900"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109290466",
+      "Üniversite": "SÜLEYMAN DEMİREL ÜNİVERSİTESİ (ISPARTA)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "205.560",
+        "260.958",
+        "284.087",
+        "439.158"
+      ],
+      "Taban Puan": [
+        "313.737",
+        "297.412",
+        "317.460",
+        "288.079"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690433",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "212.799",
+        "277.527",
+        "270.417",
+        "454.005"
+      ],
+      "Taban Puan": [
+        "312.165",
+        "294.817",
+        "319.925",
+        "286.282"
+      ],
+      "Şehir": "KIRIKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "405210044",
+      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "10",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "214.920",
+        "",
+        "282.276",
+        "394.090"
+      ],
+      "Taban Puan": [
+        "311.708",
+        "",
+        "317.781",
+        "293.790"
+      ],
+      "Şehir": "",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103210123",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "231.916",
+        "287.390",
+        "330.972",
+        "553.102"
+      ],
+      "Taban Puan": [
+        "308.183",
+        "293.289",
+        "309.540",
+        "275.091"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112771190",
+      "Üniversite": "SAMSUN ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "231.964",
+        "272.696",
+        "287.048",
+        "401.362"
+      ],
+      "Taban Puan": [
+        "308.171",
+        "295.566",
+        "316.935",
+        "292.851"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103090352",
+      "Üniversite": "DİCLE ÜNİVERSİTESİ (DİYARBAKIR)",
+      "Fakülte": "SEZAİ KARAKOÇ EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "24",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "237.132",
+        "291.843",
+        "218.128",
+        "317.571"
+      ],
+      "Taban Puan": [
+        "307.114",
+        "292.604",
+        "330.354",
+        "304.681"
+      ],
+      "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103310404",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "244.801",
+        "312.522",
+        "349.114",
+        "552.412"
+      ],
+      "Taban Puan": [
+        "305.566",
+        "289.569",
+        "306.741",
+        "275.169"
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103490589",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "1",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "256.238",
+        "76.904",
+        "459.864",
+        ""
+      ],
+      "Taban Puan": [
+        "303.398",
+        "341.393",
+        "291.470",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108290235",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "ÇARŞAMBA İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "257.976",
+        "339.681",
+        "379.370",
+        "462.030"
+      ],
+      "Taban Puan": [
+        "303.068",
+        "285.796",
+        "302.298",
+        "285.331"
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103990399",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "24",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "259.944",
+        "404.862",
+        "354.808",
+        "563.652"
+      ],
+      "Taban Puan": [
+        "302.697",
+        "277.456",
+        "305.886",
+        "273.967"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100410139",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "262.454",
+        "391.179",
+        "418.189",
+        "622.333"
+      ],
+      "Taban Puan": [
+        "302.234",
+        "279.137",
+        "296.920",
+        "267.932"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2856,16 +3061,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "264.193",
         "358.285",
         "290.906",
-        "460.386",
-        "436.123"
+        "460.386"
       ],
       "Taban Puan": [
+        "301.925",
         "283.327",
         "316.257",
-        "285.528",
-        "289.113"
+        "285.528"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
@@ -2897,67 +3102,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "267.335",
         "359.738",
         "399.946",
-        "682.516",
-        "717.839"
+        "682.516"
       ],
       "Taban Puan": [
+        "301.347",
         "283.139",
         "299.416",
-        "262.051",
-        "259.132"
+        "262.051"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "203910196",
-      "Üniversite": "KOÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İNSANİ BİLİMLER VE EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "8",
-        "6",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "360.704",
-        "6.237",
-        "9.442",
-        "17.421"
-      ],
-      "Taban Puan": [
-        "283.017",
-        "437.601",
-        "418.634",
-        "406.678"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "100410139",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Program Kodu": "110910140",
+      "Üniversite": "ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
+      "Program Adı": "Tarih (İngilizce) (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -2967,10 +3131,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
+        "2",
+        "1",
+        "1",
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -2979,18 +3143,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "391.179",
-        "418.189",
-        "622.333",
-        "580.161"
+        "271.804",
+        "282.672",
+        "806.703",
+        "97.118"
       ],
       "Taban Puan": [
-        "279.137",
-        "296.920",
-        "267.932",
-        "272.780"
+        "300.524",
+        "294.013",
+        "255.015",
+        "354.565"
       ],
-      "Şehir": "AFYONKARAHİSAR",
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3020,59 +3184,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "273.146",
         "399.292",
         "400.892",
-        "578.588",
-        ""
+        "578.588"
       ],
       "Taban Puan": [
+        "300.274",
         "278.130",
         "299.286",
-        "272.384",
-        ""
+        "272.384"
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103990399",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "24",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "404.862",
-        "354.808",
-        "563.652",
-        ""
-      ],
-      "Taban Puan": [
-        "277.456",
-        "305.886",
-        "273.967",
-        ""
-      ],
-      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3102,16 +3225,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "275.648",
         "406.233",
         "434.760",
-        "652.416",
-        "701.552"
+        "652.416"
       ],
       "Taban Puan": [
+        "299.819",
         "277.297",
         "294.723",
-        "264.953",
-        "260.671"
+        "264.953"
       ],
       "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
@@ -3143,838 +3266,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "299.391",
         "406.672",
         "389.599",
-        "",
-        "592.669"
+        ""
       ],
       "Taban Puan": [
+        "295.606",
         "277.248",
         "300.870",
-        "",
-        "271.492"
+        ""
       ],
       "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108710121",
-      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "423.531",
-        "424.444",
-        "640.549",
-        "534.143"
-      ],
-      "Taban Puan": [
-        "275.238",
-        "296.079",
-        "266.114",
-        "277.689"
-      ],
-      "Şehir": "RİZE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106010082",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "24",
-        "24",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "430.688",
-        "410.677",
-        "756.837",
-        "558.455"
-      ],
-      "Taban Puan": [
-        "274.387",
-        "297.942",
-        "255.057",
-        "275.053"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108010094",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "449.479",
-        "439.817",
-        "624.548",
-        "526.101"
-      ],
-      "Taban Puan": [
-        "272.220",
-        "294.045",
-        "267.708",
-        "278.562"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109110151",
-      "Üniversite": "SİNOP ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "450.773",
-        "451.554",
-        "711.699",
-        "736.582"
-      ],
-      "Taban Puan": [
-        "272.074",
-        "292.528",
-        "259.274",
-        "257.408"
-      ],
-      "Şehir": "SİNOP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107310367",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "454.663",
-        "419.335",
-        "669.680",
-        "691.834"
-      ],
-      "Taban Puan": [
-        "271.631",
-        "296.764",
-        "263.277",
-        "261.596"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102610219",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "455.653",
-        "367.759",
-        "544.115",
-        "529.713"
-      ],
-      "Taban Puan": [
-        "271.525",
-        "303.965",
-        "276.051",
-        "278.174"
-      ],
-      "Şehir": "SİVAS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100210186",
-      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "24",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "466.510",
-        "383.488",
-        "420.174",
-        "616.659"
-      ],
-      "Taban Puan": [
-        "270.279",
-        "301.718",
-        "290.440",
-        "269.030"
-      ],
-      "Şehir": "ADIYAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104510108",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "476.411",
-        "429.952",
-        "654.146",
-        "600.978"
-      ],
-      "Taban Puan": [
-        "269.166",
-        "295.349",
-        "264.788",
-        "270.637"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109890244",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "485.663",
-        "451.113",
-        "636.669",
-        ""
-      ],
-      "Taban Puan": [
-        "268.152",
-        "292.578",
-        "266.501",
-        ""
-      ],
-      "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101600164",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "495.316",
-        "517.041",
-        "757.132",
-        "706.715"
-      ],
-      "Taban Puan": [
-        "267.091",
-        "284.593",
-        "255.032",
-        "260.185"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105490239",
-      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "1",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "499.833",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "266.598",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110210224",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "501.722",
-        "343.760",
-        "481.668",
-        "489.388"
-      ],
-      "Taban Puan": [
-        "266.394",
-        "307.560",
-        "283.034",
-        "282.709"
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100900157",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "503.270",
-        "458.677",
-        "665.829",
-        "553.572"
-      ],
-      "Taban Puan": [
-        "266.225",
-        "291.623",
-        "263.654",
-        "275.571"
-      ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111570427",
-      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "24",
-        "24",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "559.287",
-        "618.143",
-        "768.160",
-        ""
-      ],
-      "Taban Puan": [
-        "260.255",
-        "273.513",
-        "254.037",
-        ""
-      ],
-      "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112370762",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "DEVELİ SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "559.682",
-        "540.658",
-        "807.685",
-        "811.971"
-      ],
-      "Taban Puan": [
-        "260.214",
-        "281.898",
-        "250.461",
-        "250.602"
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108570641",
-      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "24",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "572.055",
-        "519.222",
-        "635.619",
-        ""
-      ],
-      "Taban Puan": [
-        "258.902",
-        "284.338",
-        "266.603",
-        ""
-      ],
-      "Şehir": "OSMANİYE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103710075",
-      "Üniversite": "ERZURUM TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "578.108",
-        "499.127",
-        "754.000",
-        "782.968"
-      ],
-      "Taban Puan": [
-        "258.275",
-        "286.689",
-        "255.319",
-        "253.193"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106410087",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "581.217",
-        "555.776",
-        "798.390",
-        "769.382"
-      ],
-      "Taban Puan": [
-        "257.955",
-        "280.203",
-        "251.284",
-        "254.414"
-      ],
-      "Şehir": "KASTAMONU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107710081",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "24",
-        "24",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "594.787",
-        "379.398",
-        "315.956",
-        "475.840"
-      ],
-      "Taban Puan": [
-        "256.566",
-        "302.294",
-        "304.928",
-        "284.277"
-      ],
-      "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100810171",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "595.167",
-        "491.934",
-        "738.117",
-        "741.298"
-      ],
-      "Taban Puan": [
-        "256.526",
-        "287.553",
-        "256.787",
-        "256.980"
-      ],
-      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4004,18 +3307,715 @@
         ""
       ],
       "Taban Sıralama": [
+        "307.039",
         "608.843",
         "375.604",
-        "594.448",
-        "702.637"
+        "594.448"
       ],
       "Taban Puan": [
+        "294.306",
         "255.115",
         "302.830",
-        "270.739",
-        "260.570"
+        "270.739"
       ],
       "Şehir": "MARDİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109890244",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "309.749",
+        "485.663",
+        "451.113",
+        "636.669"
+      ],
+      "Taban Puan": [
+        "293.834",
+        "268.152",
+        "292.578",
+        "266.501"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107310367",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "318.891",
+        "454.663",
+        "419.335",
+        "669.680"
+      ],
+      "Taban Puan": [
+        "292.323",
+        "271.631",
+        "296.764",
+        "263.277"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109110151",
+      "Üniversite": "SİNOP ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "323.052",
+        "450.773",
+        "451.554",
+        "711.699"
+      ],
+      "Taban Puan": [
+        "291.646",
+        "272.074",
+        "292.528",
+        "259.274"
+      ],
+      "Şehir": "SİNOP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108010094",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "331.838",
+        "449.479",
+        "439.817",
+        "624.548"
+      ],
+      "Taban Puan": [
+        "290.222",
+        "272.220",
+        "294.045",
+        "267.708"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108710121",
+      "Üniversite": "RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ (RİZE)",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "336.291",
+        "423.531",
+        "424.444",
+        "640.549"
+      ],
+      "Taban Puan": [
+        "289.518",
+        "275.238",
+        "296.079",
+        "266.114"
+      ],
+      "Şehir": "RİZE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102610219",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "341.222",
+        "455.653",
+        "367.759",
+        "544.115"
+      ],
+      "Taban Puan": [
+        "288.755",
+        "271.525",
+        "303.965",
+        "276.051"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106010082",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "24",
+        "24",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "344.072",
+        "430.688",
+        "410.677",
+        "756.837"
+      ],
+      "Taban Puan": [
+        "288.303",
+        "274.387",
+        "297.942",
+        "255.057"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510108",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "351.406",
+        "476.411",
+        "429.952",
+        "654.146"
+      ],
+      "Taban Puan": [
+        "287.172",
+        "269.166",
+        "295.349",
+        "264.788"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107710081",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "24",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "355.405",
+        "594.787",
+        "379.398",
+        "315.956"
+      ],
+      "Taban Puan": [
+        "286.556",
+        "256.566",
+        "302.294",
+        "304.928"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101600164",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "359.602",
+        "495.316",
+        "517.041",
+        "757.132"
+      ],
+      "Taban Puan": [
+        "285.919",
+        "267.091",
+        "284.593",
+        "255.032"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110210224",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "367.896",
+        "501.722",
+        "343.760",
+        "481.668"
+      ],
+      "Taban Puan": [
+        "284.672",
+        "266.394",
+        "307.560",
+        "283.034"
+      ],
+      "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103710075",
+      "Üniversite": "ERZURUM TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "378.367",
+        "578.108",
+        "499.127",
+        "754.000"
+      ],
+      "Taban Puan": [
+        "283.114",
+        "258.275",
+        "286.689",
+        "255.319"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111570427",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "24",
+        "24",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "380.418",
+        "559.287",
+        "618.143",
+        "768.160"
+      ],
+      "Taban Puan": [
+        "282.818",
+        "260.255",
+        "273.513",
+        "254.037"
+      ],
+      "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100210186",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "24",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "386.545",
+        "466.510",
+        "383.488",
+        "420.174"
+      ],
+      "Taban Puan": [
+        "281.935",
+        "270.279",
+        "301.718",
+        "290.440"
+      ],
+      "Şehir": "ADIYAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108570641",
+      "Üniversite": "OSMANİYE KORKUT ATA ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "24",
+        "24",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "387.315",
+        "572.055",
+        "519.222",
+        "635.619"
+      ],
+      "Taban Puan": [
+        "281.825",
+        "258.902",
+        "284.338",
+        "266.603"
+      ],
+      "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370762",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "DEVELİ SOSYAL VE BEŞERİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "388.905",
+        "559.682",
+        "540.658",
+        "807.685"
+      ],
+      "Taban Puan": [
+        "281.594",
+        "260.214",
+        "281.898",
+        "250.461"
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100900157",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "392.852",
+        "503.270",
+        "458.677",
+        "665.829"
+      ],
+      "Taban Puan": [
+        "281.014",
+        "266.225",
+        "291.623",
+        "263.654"
+      ],
+      "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4045,59 +4045,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "404.372",
         "629.936",
         "564.436",
-        "740.584",
-        ""
+        "740.584"
       ],
       "Taban Puan": [
+        "279.375",
         "252.952",
         "279.273",
-        "256.562",
-        ""
+        "256.562"
       ],
       "Şehir": "NİĞDE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100610094",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "633.226",
-        "558.367",
-        "733.743",
-        "694.840"
-      ],
-      "Taban Puan": [
-        "252.610",
-        "279.925",
-        "257.195",
-        "261.314"
-      ],
-      "Şehir": "KIRŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4127,23 +4086,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "417.846",
         "638.490",
         "507.721",
-        "774.808",
-        "752.693"
+        "774.808"
       ],
       "Taban Puan": [
+        "277.489",
         "252.075",
         "285.680",
-        "253.427",
-        "255.930"
+        "253.427"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102890305",
-      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Program Kodu": "106410087",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
       "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih",
@@ -4159,7 +4118,7 @@
         "30",
         "30",
         "30",
-        ""
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -4168,24 +4127,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "638.796",
-        "646.584",
-        "881.687",
-        ""
+        "421.223",
+        "581.217",
+        "555.776",
+        "798.390"
       ],
       "Taban Puan": [
-        "252.044",
-        "270.586",
-        "243.872",
-        ""
+        "277.024",
+        "257.955",
+        "280.203",
+        "251.284"
       ],
-      "Şehir": "ÇANKIRI",
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105190187",
-      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Program Kodu": "100810171",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih",
       "Öğretim Türü": "Örgün Öğretim",
@@ -4199,8 +4158,8 @@
       "Kontenjan": [
         "30",
         "30",
-        "",
-        ""
+        "30",
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -4209,18 +4168,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "643.937",
-        "505.454",
-        "",
-        "818.041"
+        "426.940",
+        "595.167",
+        "491.934",
+        "738.117"
       ],
       "Taban Puan": [
-        "251.534",
-        "285.943",
-        "",
-        "250.069"
+        "276.236",
+        "256.526",
+        "287.553",
+        "256.787"
       ],
-      "Şehir": "ÇORUM",
+      "Şehir": "AKSARAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100610094",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "429.477",
+        "633.226",
+        "558.367",
+        "733.743"
+      ],
+      "Taban Puan": [
+        "275.887",
+        "252.610",
+        "279.925",
+        "257.195"
+      ],
+      "Şehir": "KIRŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4250,223 +4250,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "451.941",
         "656.919",
         "566.273",
-        "793.247",
-        "849.932"
+        "793.247"
       ],
       "Taban Puan": [
+        "272.909",
         "250.215",
         "279.069",
-        "251.750",
-        "247.234"
+        "251.750"
       ],
       "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106190481",
-      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "660.689",
-        "661.013",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "249.818",
-        "269.132",
-        "",
-        ""
-      ],
-      "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101310101",
-      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "672.330",
-        "676.249",
-        "856.525",
-        "978.302"
-      ],
-      "Taban Puan": [
-        "248.634",
-        "267.593",
-        "246.090",
-        "236.052"
-      ],
-      "Şehir": "ARTVİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102310055",
-      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "697.458",
-        "687.433",
-        "892.675",
-        "912.901"
-      ],
-      "Taban Puan": [
-        "246.065",
-        "266.488",
-        "242.900",
-        "241.715"
-      ],
-      "Şehir": "YOZGAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103610216",
-      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "714.795",
-        "650.823",
-        "800.788",
-        "899.479"
-      ],
-      "Taban Puan": [
-        "244.284",
-        "270.154",
-        "251.070",
-        "242.892"
-      ],
-      "Şehir": "ERZİNCAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104710203",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "714.847",
-        "705.391",
-        "961.953",
-        "1.189.585"
-      ],
-      "Taban Puan": [
-        "244.279",
-        "264.709",
-        "236.773",
-        "216.969"
-      ],
-      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4496,16 +4291,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "464.543",
         "728.089",
         "572.290",
-        "736.516",
-        "863.210"
+        "736.516"
       ],
       "Taban Puan": [
+        "271.261",
         "242.898",
         "278.426",
-        "256.940",
-        "246.058"
+        "256.940"
       ],
       "Şehir": "BATMAN",
       "Ücret": "Ücretsiz"
@@ -4537,18 +4332,305 @@
         ""
       ],
       "Taban Sıralama": [
+        "470.002",
         "736.525",
         "627.324",
-        "847.801",
-        "879.002"
+        "847.801"
       ],
       "Taban Puan": [
+        "270.564",
         "242.039",
         "272.564",
-        "246.871",
-        "244.675"
+        "246.871"
       ],
       "Şehir": "KİLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190187",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "470.865",
+        "643.937",
+        "505.454",
+        ""
+      ],
+      "Taban Puan": [
+        "270.458",
+        "251.534",
+        "285.943",
+        ""
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102890305",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "474.764",
+        "638.796",
+        "646.584",
+        "881.687"
+      ],
+      "Taban Puan": [
+        "269.959",
+        "252.044",
+        "270.586",
+        "243.872"
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101310101",
+      "Üniversite": "ARTVİN ÇORUH ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "498.459",
+        "672.330",
+        "676.249",
+        "856.525"
+      ],
+      "Taban Puan": [
+        "266.973",
+        "248.634",
+        "267.593",
+        "246.090"
+      ],
+      "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106190481",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "498.673",
+        "660.689",
+        "661.013",
+        ""
+      ],
+      "Taban Puan": [
+        "266.945",
+        "249.818",
+        "269.132",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610216",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "502.007",
+        "714.795",
+        "650.823",
+        "800.788"
+      ],
+      "Taban Puan": [
+        "266.520",
+        "244.284",
+        "270.154",
+        "251.070"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102310055",
+      "Üniversite": "YOZGAT BOZOK ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "516.228",
+        "697.458",
+        "687.433",
+        "892.675"
+      ],
+      "Taban Puan": [
+        "264.769",
+        "246.065",
+        "266.488",
+        "242.900"
+      ],
+      "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104710203",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "532.891",
+        "714.847",
+        "705.391",
+        "961.953"
+      ],
+      "Taban Puan": [
+        "262.754",
+        "244.279",
+        "264.709",
+        "236.773"
+      ],
+      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4578,223 +4660,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "558.016",
         "750.024",
         "835.776",
-        "987.868",
-        "978.216"
+        "987.868"
       ],
       "Taban Puan": [
+        "259.760",
         "240.651",
         "252.278",
-        "234.491",
-        "236.059"
+        "234.491"
       ],
       "Şehir": "KARS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109010152",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "782.899",
-        "800.293",
-        "896.994",
-        "994.665"
-      ],
-      "Taban Puan": [
-        "237.224",
-        "255.622",
-        "242.515",
-        "234.625"
-      ],
-      "Şehir": "SİİRT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101810168",
-      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "786.199",
-        "775.614",
-        "976.230",
-        "1.149.026"
-      ],
-      "Taban Puan": [
-        "236.868",
-        "257.961",
-        "235.513",
-        "220.811"
-      ],
-      "Şehir": "BAYBURT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102110048",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "790.260",
-        "781.560",
-        "931.466",
-        "978.500"
-      ],
-      "Taban Puan": [
-        "236.443",
-        "257.395",
-        "239.459",
-        "236.033"
-      ],
-      "Şehir": "BİTLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107810141",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "90"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "823.822",
-        "844.377",
-        "1.007.889",
-        "1.282.608"
-      ],
-      "Taban Puan": [
-        "232.825",
-        "251.475",
-        "232.738",
-        "207.419"
-      ],
-      "Şehir": "MUŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109510174",
-      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "833.968",
-        "871.263",
-        "961.743",
-        "1.405.691"
-      ],
-      "Taban Puan": [
-        "231.721",
-        "248.952",
-        "236.789",
-        "191.411"
-      ],
-      "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4824,23 +4701,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "620.516",
         "840.664",
         "756.622",
-        "871.716",
-        "1.017.120"
+        "871.716"
       ],
       "Taban Puan": [
+        "252.567",
         "230.968",
         "259.771",
-        "244.748",
-        "232.627"
+        "244.748"
       ],
       "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105210108",
-      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Program Kodu": "101810168",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "623.559",
+        "786.199",
+        "775.614",
+        "976.230"
+      ],
+      "Taban Puan": [
+        "252.214",
+        "236.868",
+        "257.961",
+        "235.513"
+      ],
+      "Şehir": "BAYBURT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109010152",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
       "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tarih",
@@ -4865,18 +4783,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "872.600",
-        "899.560",
-        "1.036.420",
-        "1.230.790"
+        "636.667",
+        "782.899",
+        "800.293",
+        "896.994"
       ],
       "Taban Puan": [
-        "227.395",
-        "246.290",
-        "230.196",
-        "212.863"
+        "250.706",
+        "237.224",
+        "255.622",
+        "242.515"
       ],
-      "Şehir": "IĞDIR",
+      "Şehir": "SİİRT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107810141",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "90"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "637.639",
+        "823.822",
+        "844.377",
+        "1.007.889"
+      ],
+      "Taban Puan": [
+        "250.593",
+        "232.825",
+        "251.475",
+        "232.738"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102110048",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "647.054",
+        "790.260",
+        "781.560",
+        "931.466"
+      ],
+      "Taban Puan": [
+        "249.533",
+        "236.443",
+        "257.395",
+        "239.459"
+      ],
+      "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4906,18 +4906,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "652.384",
         "887.834",
         "762.104",
-        "923.909",
-        "939.647"
+        "923.909"
       ],
       "Taban Puan": [
+        "248.926",
         "225.648",
         "259.234",
-        "240.126",
-        "239.414"
+        "240.126"
       ],
       "Şehir": "AĞRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109510174",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "658.718",
+        "833.968",
+        "871.263",
+        "961.743"
+      ],
+      "Taban Puan": [
+        "248.210",
+        "231.721",
+        "248.952",
+        "236.789"
+      ],
+      "Şehir": "TUNCELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105210108",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "672.613",
+        "872.600",
+        "899.560",
+        "1.036.420"
+      ],
+      "Taban Puan": [
+        "246.636",
+        "227.395",
+        "246.290",
+        "230.196"
+      ],
+      "Şehir": "IĞDIR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -4947,16 +5029,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "682.323",
         "890.816",
         "900.624",
-        "1.046.400",
-        "1.335.288"
+        "1.046.400"
       ],
       "Taban Puan": [
+        "245.519",
         "225.309",
         "246.194",
-        "229.314",
-        "201.302"
+        "229.314"
       ],
       "Şehir": "ARDAHAN",
       "Ücret": "Ücretsiz"
@@ -4988,67 +5070,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "767.374",
         "968.656",
         "1.012.311",
-        "1.040.691",
-        "1.332.458"
+        "1.040.691"
       ],
       "Taban Puan": [
+        "235.710",
         "215.702",
         "235.599",
-        "229.809",
-        "201.653"
+        "229.809"
       ],
       "Şehir": "MARDİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "405210044",
-      "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
-      "Fakülte": "Edebiyat Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "10",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "282.276",
-        "394.090",
-        "757.208"
-      ],
-      "Taban Puan": [
-        "",
-        "317.781",
-        "293.790",
-        "255.514"
-      ],
-      "Şehir": "",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102200115",
-      "Üniversite": "BOĞAZİÇİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "203211226",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
       "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih (İngilizce) (KKTC Uyruklu)",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SÖZ",
       "Yıl": [
@@ -5058,10 +5099,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
+        "10",
+        "20",
+        "25",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -5070,19 +5111,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "859.458",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "224.164",
         "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "103100416",
@@ -5126,6 +5167,47 @@
       "Ücret": "Ücretli"
     },
     {
+      "Program Kodu": "105490239",
+      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "499.833",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "266.598",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
       "Program Kodu": "201410038",
       "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
@@ -5144,47 +5226,6 @@
         "21",
         "25",
         "34"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        "493.574"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        "282.226"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "208600122",
-      "Üniversite": "İBN HALDUN ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "",
-        "",
-        ""
       ],
       "Yerleşen": [
         "",
@@ -5237,13 +5278,13 @@
         "",
         "",
         "",
-        "911.004"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "241.882"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5317,56 +5358,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "837.294",
-        "",
-        "845.187"
-      ],
-      "Taban Puan": [
-        "",
-        "252.137",
-        "",
-        "247.655"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203211226",
-      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "20",
-        "25",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
         ""
       ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        "1.099.642"
-      ],
       "Taban Puan": [
         "",
         "",
-        "",
-        "225.298"
+        "252.137",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5440,14 +5440,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.373.680",
         "",
+        "1.373.680",
         ""
       ],
       "Taban Puan": [
         "",
-        "188.784",
         "",
+        "188.784",
         ""
       ],
       "Şehir": "KONYA",
@@ -5481,15 +5481,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "215.608",
-        "471.308",
-        ""
+        "471.308"
       ],
       "Taban Puan": [
         "",
+        "",
         "330.916",
-        "284.234",
-        ""
+        "284.234"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -5522,15 +5522,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "588.826",
-        "674.901",
-        "786.963"
+        "674.901"
       ],
       "Taban Puan": [
         "",
+        "",
         "276.647",
-        "262.782",
-        "252.831"
+        "262.782"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5551,9 +5551,9 @@
       ],
       "Kontenjan": [
         "5",
-        "15",
-        "19",
-        "25"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -5565,13 +5565,13 @@
         "",
         "",
         "",
-        "876.176"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "244.921"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5604,14 +5604,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "1.228.815",
         "",
+        "1.228.815",
         ""
       ],
       "Taban Puan": [
         "",
-        "212.347",
         "",
+        "212.347",
         ""
       ],
       "Şehir": "KIBRIS",

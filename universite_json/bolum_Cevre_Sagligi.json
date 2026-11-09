@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "495.563",
         "665.491",
         "656.865",
-        "653.741",
-        "487.872"
+        "653.741"
       ],
       "Taban Puan": [
+        "337.577",
         "316.885",
         "319.758",
-        "321.279",
-        "335.332"
+        "321.279"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "569.309",
         "748.176",
         "791.631",
-        "767.828",
-        "618.943"
+        "767.828"
       ],
       "Taban Puan": [
+        "328.070",
         "308.993",
         "307.423",
-        "310.081",
-        "318.549"
+        "310.081"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "587.877",
         "783.082",
         "867.157",
-        "781.573",
-        "551.951"
+        "781.573"
       ],
       "Taban Puan": [
+        "325.818",
         "305.845",
         "301.211",
-        "308.809",
-        "326.639"
+        "308.809"
       ],
       "Şehir": "BİNGÖL",
       "Ücret": "Ücretsiz"
@@ -150,100 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "647.250",
         "837.311",
         "1.032.011",
-        "1.080.332",
-        "753.331"
+        "1.080.332"
       ],
       "Taban Puan": [
+        "319.100",
         "301.179",
         "288.941",
-        "284.605",
-        "304.471"
+        "284.605"
       ],
       "Şehir": "SİNOP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104950263",
-      "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çevre Sağlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "914.923",
-        "1.040.054",
-        "949.872",
-        "779.956"
-      ],
-      "Taban Puan": [
-        "294.807",
-        "288.376",
-        "294.515",
-        "301.929"
-      ],
-      "Şehir": "HAKKARİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105290085",
-      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Çevre Sağlığı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "937.753",
-        "1.012.992",
-        "950.383",
-        "769.123"
-      ],
-      "Taban Puan": [
-        "292.998",
-        "290.302",
-        "294.476",
-        "302.961"
-      ],
-      "Şehir": "IĞDIR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +191,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "678.242",
         "940.795",
         "1.042.857",
-        "1.127.610",
-        "759.190"
+        "1.127.610"
       ],
       "Taban Puan": [
+        "315.803",
         "292.756",
         "288.180",
-        "281.187",
-        "303.902"
+        "281.187"
       ],
       "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105290085",
+      "Üniversite": "IĞDIR ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çevre Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "774.584",
+        "937.753",
+        "1.012.992",
+        "950.383"
+      ],
+      "Taban Puan": [
+        "306.255",
+        "292.998",
+        "290.302",
+        "294.476"
+      ],
+      "Şehir": "IĞDIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104950263",
+      "Üniversite": "HAKKARİ ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Çevre Sağlığı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "779.200",
+        "914.923",
+        "1.040.054",
+        "949.872"
+      ],
+      "Taban Puan": [
+        "305.835",
+        "294.807",
+        "288.376",
+        "294.515"
+      ],
+      "Şehir": "HAKKARİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -315,15 +315,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.572.472",
-        "2.816.003",
-        "2.080.089"
+        "2.816.003"
       ],
       "Taban Puan": [
         "",
+        "",
         "197.677",
-        "183.643",
-        "223.247"
+        "183.643"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "372.624",
         "419.989",
         "454.918",
-        "483.764",
-        "485.904"
+        "483.764"
       ],
       "Taban Puan": [
+        "282.460",
         "275.230",
         "259.835",
-        "267.643",
-        "255.396"
+        "267.643"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "726.468",
         "830.452",
         "898.535",
-        "947.330",
-        "1.087.969"
+        "947.330"
       ],
       "Taban Puan": [
+        "224.726",
         "228.420",
         "218.147",
-        "218.943",
-        "198.475"
+        "218.943"
       ],
       "Şehir": "OSMANİYE",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "770.776",
         "913.293",
         "980.758",
-        "1.018.972",
-        "1.368.134"
+        "1.018.972"
       ],
       "Taban Puan": [
+        "219.772",
         "221.751",
         "211.616",
-        "213.395",
-        "174.913"
+        "213.395"
       ],
       "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "465.617",
         "540.320",
         "657.864",
-        "682.917",
-        "633.979"
+        "682.917"
       ],
       "Taban Puan": [
+        "341.792",
         "330.583",
         "319.662",
-        "318.272",
-        "316.861"
+        "318.272"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,18 +191,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "473.063",
         "540.395",
         "692.307",
-        "705.294",
-        "626.568"
+        "705.294"
       ],
       "Taban Puan": [
+        "340.727",
         "330.573",
         "316.326",
-        "316.040",
-        "317.674"
+        "316.040"
       ],
       "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109750223",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "488.708",
+        "595.568",
+        "833.785",
+        "934.493"
+      ],
+      "Taban Puan": [
+        "338.522",
+        "324.250",
+        "303.906",
+        "295.756"
+      ],
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,139 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "523.837",
         "546.779",
         "639.329",
-        "653.531",
-        "755.692"
+        "653.531"
       ],
       "Taban Puan": [
+        "333.781",
         "329.820",
         "321.510",
-        "321.301",
-        "304.235"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "109750223",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "595.568",
-        "833.785",
-        "934.493",
-        "837.575"
-      ],
-      "Taban Puan": [
-        "324.250",
-        "303.906",
-        "295.756",
-        "296.619"
-      ],
-      "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206550524",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "10",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "617.508",
-        "643.901",
-        "722.289",
-        "710.966"
-      ],
-      "Taban Puan": [
-        "321.882",
-        "321.053",
-        "314.400",
-        "308.633"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202753625",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "635.225",
-        "728.314",
-        "870.572",
-        "797.804"
-      ],
-      "Taban Puan": [
-        "319.999",
-        "312.994",
-        "301.009",
-        "300.268"
+        "321.301"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -396,16 +314,98 @@
         ""
       ],
       "Taban Sıralama": [
+        "548.009",
         "647.183",
         "718.594",
-        "748.688",
-        "722.737"
+        "748.688"
       ],
       "Taban Puan": [
+        "330.689",
         "318.747",
         "313.893",
-        "311.869",
-        "307.450"
+        "311.869"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206550524",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "10",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "555.938",
+        "617.508",
+        "643.901",
+        "722.289"
+      ],
+      "Taban Puan": [
+        "329.704",
+        "321.882",
+        "321.053",
+        "314.400"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202753625",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "562.335",
+        "635.225",
+        "728.314",
+        "870.572"
+      ],
+      "Taban Puan": [
+        "328.920",
+        "319.999",
+        "312.994",
+        "301.009"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -426,9 +426,9 @@
       ],
       "Kontenjan": [
         "30",
-        "35",
-        "50",
-        "50"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -437,100 +437,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "620.545",
         "697.697",
         "870.136",
-        "970.130",
-        "924.403"
+        "970.130"
       ],
       "Taban Puan": [
+        "322.059",
         "313.715",
         "300.987",
-        "292.921",
-        "289.210"
+        "292.921"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207590506",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "4",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "757.833",
-        "862.234",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "308.121",
-        "301.595",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103190563",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "EFES MESLEK YÜKSEKOKULU (Selçuk)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "792.289",
-        "971.078",
-        "1.025.763",
-        "965.672"
-      ],
-      "Taban Puan": [
-        "305.042",
-        "293.329",
-        "288.663",
-        "285.862"
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,18 +478,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "624.430",
         "809.410",
         "832.882",
-        "1.100.312",
-        "1.014.068"
+        "1.100.312"
       ],
       "Taban Puan": [
+        "321.620",
         "303.558",
         "303.980",
-        "283.158",
-        "282.106"
+        "283.158"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207590506",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "4",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "628.279",
+        "757.833",
+        "862.234",
+        ""
+      ],
+      "Taban Puan": [
+        "321.184",
+        "308.121",
+        "301.595",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -601,59 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "683.425",
         "827.536",
         "1.113.651",
-        "1.211.948",
-        "1.060.617"
+        "1.211.948"
       ],
       "Taban Puan": [
+        "315.261",
         "302.001",
         "283.304",
-        "275.278",
-        "278.624"
+        "275.278"
       ],
       "Şehir": "MERSİN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106950812",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
-      "Fakülte": "İZMİT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "830.432",
-        "1.066.004",
-        "1.169.810",
-        "1.035.457"
-      ],
-      "Taban Puan": [
-        "301.762",
-        "286.559",
-        "278.221",
-        "280.502"
-      ],
-      "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,18 +601,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "695.223",
         "835.519",
         "1.128.715",
-        "1.304.754",
-        "1.117.994"
+        "1.304.754"
       ],
       "Taban Puan": [
+        "314.037",
         "301.328",
         "282.290",
-        "269.075",
-        "274.487"
+        "269.075"
       ],
       "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106950812",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Fakülte": "İZMİT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "697.837",
+        "830.432",
+        "1.066.004",
+        "1.169.810"
+      ],
+      "Taban Puan": [
+        "313.769",
+        "301.762",
+        "286.559",
+        "278.221"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103190563",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "EFES MESLEK YÜKSEKOKULU (Selçuk)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "699.488",
+        "792.289",
+        "971.078",
+        "1.025.763"
+      ],
+      "Taban Puan": [
+        "313.602",
+        "305.042",
+        "293.329",
+        "288.663"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,16 +724,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "752.610",
         "850.796",
         "1.174.617",
-        "1.282.494",
-        "1.162.642"
+        "1.282.494"
       ],
       "Taban Puan": [
+        "308.327",
         "300.051",
         "279.218",
-        "270.546",
-        "271.397"
+        "270.546"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -765,16 +765,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "772.382",
         "851.370",
         "1.035.258",
-        "1.178.322",
-        "1.095.326"
+        "1.178.322"
       ],
       "Taban Puan": [
+        "306.455",
         "300.005",
         "288.708",
-        "277.634",
-        "276.112"
+        "277.634"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -806,16 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "772.878",
         "889.013",
         "1.125.823",
-        "1.196.977",
-        "1.060.146"
+        "1.196.977"
       ],
       "Taban Puan": [
+        "306.409",
         "296.900",
         "282.485",
-        "276.332",
-        "278.654"
+        "276.332"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -847,59 +847,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "778.680",
         "897.896",
         "1.192.801",
-        "1.339.335",
-        "1.119.005"
+        "1.339.335"
       ],
       "Taban Puan": [
+        "305.881",
         "296.175",
         "278.036",
-        "266.837",
-        "274.417"
+        "266.837"
       ],
       "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101150129",
-      "Üniversite": "ANKARA ÜNİVERSİTESİ",
-      "Fakülte": "KALECİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "902.290",
-        "1.113.327",
-        "1.327.958",
-        "1.154.835"
-      ],
-      "Taban Puan": [
-        "295.826",
-        "283.325",
-        "267.568",
-        "271.930"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,18 +888,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "792.592",
         "930.596",
         "1.304.956",
-        "1.455.028",
-        "1.246.084"
+        "1.455.028"
       ],
       "Taban Puan": [
+        "304.591",
         "293.572",
         "270.847",
-        "259.529",
-        "265.858"
+        "259.529"
       ],
       "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101150129",
+      "Üniversite": "ANKARA ÜNİVERSİTESİ",
+      "Fakülte": "KALECİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "808.196",
+        "902.290",
+        "1.113.327",
+        "1.327.958"
+      ],
+      "Taban Puan": [
+        "303.163",
+        "295.826",
+        "283.325",
+        "267.568"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109750586",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "KARACABEY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "824.546",
+        "989.630",
+        "1.350.572",
+        "1.515.098"
+      ],
+      "Taban Puan": [
+        "301.698",
+        "288.962",
+        "268.020",
+        "255.866"
+      ],
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,18 +1011,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "844.236",
         "960.974",
         "1.268.368",
-        "",
         ""
       ],
       "Taban Puan": [
+        "299.947",
         "291.166",
         "273.153",
-        "",
         ""
       ],
       "Şehir": "BOLU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102550352",
+      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
+      "Fakülte": "SARUHANLI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "857.274",
+        "987.303",
+        "1.188.531",
+        "1.387.331"
+      ],
+      "Taban Puan": [
+        "298.798",
+        "289.146",
+        "278.316",
+        "263.745"
+      ],
+      "Şehir": "MANİSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102751012",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "BİGA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "884.480",
+        "1.047.976",
+        "1.326.174",
+        "1.472.936"
+      ],
+      "Taban Puan": [
+        "296.441",
+        "284.571",
+        "269.530",
+        "258.432"
+      ],
+      "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,16 +1134,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "885.240",
         "971.565",
         "1.317.109",
-        "1.499.008",
-        "1.250.891"
+        "1.499.008"
       ],
       "Taban Puan": [
+        "296.380",
         "290.348",
         "270.088",
-        "256.840",
-        "265.540"
+        "256.840"
       ],
       "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
@@ -1052,100 +1175,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "886.603",
         "986.043",
         "1.286.337",
-        "1.438.725",
-        "1.321.332"
+        "1.438.725"
       ],
       "Taban Puan": [
+        "296.260",
         "289.242",
         "272.019",
-        "260.524",
-        "261.105"
+        "260.524"
       ],
       "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102550352",
-      "Üniversite": "MANİSA CELÂL BAYAR ÜNİVERSİTESİ",
-      "Fakülte": "SARUHANLI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "987.303",
-        "1.188.531",
-        "1.387.331",
-        "1.229.252"
-      ],
-      "Taban Puan": [
-        "289.146",
-        "278.316",
-        "263.745",
-        "266.956"
-      ],
-      "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109750586",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "KARACABEY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "30",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "989.630",
-        "1.350.572",
-        "1.515.098",
-        "1.373.074"
-      ],
-      "Taban Puan": [
-        "288.962",
-        "268.020",
-        "255.866",
-        "257.975"
-      ],
-      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1175,100 +1216,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "896.178",
         "1.036.755",
         "1.307.391",
-        "1.477.459",
-        "1.282.203"
+        "1.477.459"
       ],
       "Taban Puan": [
+        "295.446",
         "285.401",
         "270.694",
-        "258.153",
-        "263.538"
+        "258.153"
       ],
       "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102751012",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "BİGA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.047.976",
-        "1.326.174",
-        "1.472.936",
-        "1.276.303"
-      ],
-      "Taban Puan": [
-        "284.571",
-        "269.530",
-        "258.432",
-        "263.910"
-      ],
-      "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111850773",
-      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "PAMUKOVA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.065.678",
-        "1.294.067",
-        "1.390.837",
-        "1.251.676"
-      ],
-      "Taban Puan": [
-        "283.248",
-        "271.533",
-        "263.529",
-        "265.486"
-      ],
-      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1298,59 +1257,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "924.274",
         "1.068.155",
         "1.324.833",
-        "1.456.761",
-        "1.353.288"
+        "1.456.761"
       ],
       "Taban Puan": [
+        "293.072",
         "283.061",
         "269.613",
-        "259.422",
-        "259.162"
+        "259.422"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109750532",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "İZNİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "30",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.069.324",
-        "1.425.073",
-        "1.603.660",
-        "1.411.684"
-      ],
-      "Taban Puan": [
-        "282.972",
-        "263.416",
-        "250.633",
-        "255.708"
-      ],
-      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1380,65 +1298,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "930.884",
         "1.085.726",
         "1.531.343",
-        "1.681.127",
-        "1.602.929"
+        "1.681.127"
       ],
       "Taban Puan": [
+        "292.523",
         "281.771",
         "257.071",
-        "246.154",
-        "245.202"
+        "246.154"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109750692",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "MUSTAFAKEMALPAŞA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "30",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.101.937",
-        "1.472.237",
-        "1.627.768",
-        "1.445.365"
-      ],
-      "Taban Puan": [
-        "280.604",
-        "260.574",
-        "249.225",
-        "253.759"
-      ],
-      "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107950493",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "ÇORLU MESLEK YÜKSEKOKULU",
+      "Program Kodu": "111850773",
+      "Üniversite": "SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "PAMUKOVA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1462,223 +1339,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.133.193",
-        "1.439.226",
-        "1.568.202",
-        "1.442.150"
+        "931.807",
+        "1.065.678",
+        "1.294.067",
+        "1.390.837"
       ],
       "Taban Puan": [
-        "278.338",
-        "262.563",
-        "252.721",
-        "253.943"
+        "292.450",
+        "283.248",
+        "271.533",
+        "263.529"
       ],
-      "Şehir": "TEKİRDAĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101450832",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.135.884",
-        "1.530.771",
-        "1.638.309",
-        "1.523.027"
-      ],
-      "Taban Puan": [
-        "278.144",
-        "257.105",
-        "248.617",
-        "249.436"
-      ],
-      "Şehir": "ERZURUM",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109950275",
-      "Üniversite": "YALOVA ÜNİVERSİTESİ",
-      "Fakülte": "ARMUTLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.144.453",
-        "1.501.300",
-        "1.629.098",
-        "1.353.105"
-      ],
-      "Taban Puan": [
-        "277.537",
-        "258.839",
-        "249.150",
-        "259.174"
-      ],
-      "Şehir": "YALOVA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106350024",
-      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.151.148",
-        "1.577.612",
-        "1.712.141",
-        "1.452.371"
-      ],
-      "Taban Puan": [
-        "277.051",
-        "254.371",
-        "244.396",
-        "253.365"
-      ],
-      "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103350642",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "AKÇAKOCA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "45",
-        "45"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.164.612",
-        "1.460.834",
-        "1.668.627",
-        "1.489.509"
-      ],
-      "Taban Puan": [
-        "276.098",
-        "261.260",
-        "246.868",
-        "251.276"
-      ],
-      "Şehir": "DÜZCE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101950078",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.166.110",
-        "1.490.833",
-        "1.686.211",
-        "1.473.954"
-      ],
-      "Taban Puan": [
-        "275.986",
-        "259.465",
-        "245.871",
-        "252.149"
-      ],
-      "Şehir": "BİLECİK",
+      "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1708,24 +1380,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "934.365",
         "1.180.852",
         "1.426.574",
-        "1.350.337",
-        "1.417.847"
+        "1.350.337"
       ],
       "Taban Puan": [
+        "292.236",
         "274.923",
         "263.326",
-        "266.130",
-        "255.351"
+        "266.130"
       ],
       "Şehir": "DİYARBAKIR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112070690",
-      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "109750532",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "İZNİK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1738,9 +1410,9 @@
       ],
       "Kontenjan": [
         "25",
-        "35",
-        "40",
-        "40"
+        "30",
+        "50",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -1749,18 +1421,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.182.766",
-        "1.516.286",
-        "1.583.163",
-        "1.581.766"
+        "940.652",
+        "1.069.324",
+        "1.425.073",
+        "1.603.660"
       ],
       "Taban Puan": [
-        "274.783",
-        "257.952",
-        "251.834",
-        "246.313"
+        "291.710",
+        "282.972",
+        "263.416",
+        "250.633"
       ],
-      "Şehir": "MERSİN",
+      "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1790,18 +1462,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "958.563",
         "1.186.044",
         "1.595.835",
-        "1.601.731",
-        "1.472.472"
+        "1.601.731"
       ],
       "Taban Puan": [
+        "290.224",
         "274.554",
         "253.296",
-        "250.743",
-        "252.230"
+        "250.743"
       ],
       "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107950493",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "ÇORLU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "966.000",
+        "1.133.193",
+        "1.439.226",
+        "1.568.202"
+      ],
+      "Taban Puan": [
+        "289.606",
+        "278.338",
+        "262.563",
+        "252.721"
+      ],
+      "Şehir": "TEKİRDAĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112070690",
+      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "975.396",
+        "1.182.766",
+        "1.516.286",
+        "1.583.163"
+      ],
+      "Taban Puan": [
+        "288.827",
+        "274.783",
+        "257.952",
+        "251.834"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109950275",
+      "Üniversite": "YALOVA ÜNİVERSİTESİ",
+      "Fakülte": "ARMUTLU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "976.882",
+        "1.144.453",
+        "1.501.300",
+        "1.629.098"
+      ],
+      "Taban Puan": [
+        "288.703",
+        "277.537",
+        "258.839",
+        "249.150"
+      ],
+      "Şehir": "YALOVA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109750692",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "MUSTAFAKEMALPAŞA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "984.877",
+        "1.101.937",
+        "1.472.237",
+        "1.627.768"
+      ],
+      "Taban Puan": [
+        "288.045",
+        "280.604",
+        "260.574",
+        "249.225"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101950078",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "996.859",
+        "1.166.110",
+        "1.490.833",
+        "1.686.211"
+      ],
+      "Taban Puan": [
+        "287.077",
+        "275.986",
+        "259.465",
+        "245.871"
+      ],
+      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1831,24 +1708,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "999.575",
         "1.194.286",
         "1.578.309",
-        "1.700.078",
-        "1.500.755"
+        "1.700.078"
       ],
       "Taban Puan": [
+        "286.863",
         "273.967",
         "254.331",
-        "245.083",
-        "250.658"
+        "245.083"
       ],
       "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109750859",
-      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
-      "Fakülte": "YENİŞEHİR İBRAHİM ORHAN MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103350642",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "AKÇAKOCA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1861,7 +1738,7 @@
       ],
       "Kontenjan": [
         "25",
-        "30",
+        "35",
         "45",
         "45"
       ],
@@ -1872,24 +1749,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.212.157",
-        "1.536.515",
-        "1.680.553",
-        "1.613.415"
+        "1.022.619",
+        "1.164.612",
+        "1.460.834",
+        "1.668.627"
       ],
       "Taban Puan": [
-        "272.718",
-        "256.767",
-        "246.186",
-        "244.660"
+        "285.043",
+        "276.098",
+        "261.260",
+        "246.868"
       ],
-      "Şehir": "BURSA",
+      "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100350263",
-      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
-      "Fakülte": "ÇİNE MESLEK YÜKSEKOKULU",
+      "Program Kodu": "106350024",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1903,8 +1780,8 @@
       "Kontenjan": [
         "30",
         "35",
-        "65",
-        "65"
+        "55",
+        "55"
       ],
       "Yerleşen": [
         "",
@@ -1913,18 +1790,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.222.747",
-        "1.623.253",
-        "1.782.794",
-        "1.768.422"
+        "1.023.295",
+        "1.151.148",
+        "1.577.612",
+        "1.712.141"
       ],
       "Taban Puan": [
-        "271.984",
-        "251.694",
-        "240.467",
-        "236.966"
+        "284.990",
+        "277.051",
+        "254.371",
+        "244.396"
       ],
-      "Şehir": "AYDIN",
+      "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1954,65 +1831,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.036.520",
         "1.256.703",
         "1.714.493",
-        "1.750.334",
-        "1.467.721"
+        "1.750.334"
       ],
       "Taban Puan": [
+        "283.937",
         "269.618",
         "246.468",
-        "242.257",
-        "252.495"
+        "242.257"
       ],
       "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101750265",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "35",
-        "45",
-        "45"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.273.518",
-        "1.604.752",
-        "1.712.734",
-        "1.767.845"
-      ],
-      "Taban Puan": [
-        "268.451",
-        "252.777",
-        "244.363",
-        "236.993"
-      ],
-      "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108250522",
-      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "TERME MESLEK YÜKSEKOKULU",
+      "Program Kodu": "109750859",
+      "Üniversite": "BURSA ULUDAĞ ÜNİVERSİTESİ",
+      "Fakülte": "YENİŞEHİR İBRAHİM ORHAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2025,6 +1861,47 @@
       ],
       "Kontenjan": [
         "25",
+        "30",
+        "45",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.042.369",
+        "1.212.157",
+        "1.536.515",
+        "1.680.553"
+      ],
+      "Taban Puan": [
+        "283.479",
+        "272.718",
+        "256.767",
+        "246.186"
+      ],
+      "Şehir": "BURSA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101450832",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
         "35",
         "40",
         "40"
@@ -2036,18 +1913,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.278.196",
-        "1.570.900",
-        "1.680.242",
-        "1.532.707"
+        "1.047.041",
+        "1.135.884",
+        "1.530.771",
+        "1.638.309"
       ],
       "Taban Puan": [
-        "268.132",
-        "254.756",
-        "246.202",
-        "248.911"
+        "283.108",
+        "278.144",
+        "257.105",
+        "248.617"
       ],
-      "Şehir": "SAMSUN",
+      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2077,24 +1954,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.049.717",
         "1.280.704",
         "1.704.321",
-        "1.932.761",
-        "1.764.249"
+        "1.932.761"
       ],
       "Taban Puan": [
+        "282.903",
         "267.955",
         "247.043",
-        "232.394",
-        "237.165"
+        "232.394"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106251174",
-      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "MAÇKA MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100350263",
+      "Üniversite": "AYDIN ADNAN MENDERES ÜNİVERSİTESİ",
+      "Fakülte": "ÇİNE MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2108,8 +1985,8 @@
       "Kontenjan": [
         "30",
         "35",
-        "35",
-        "35"
+        "65",
+        "65"
       ],
       "Yerleşen": [
         "",
@@ -2118,18 +1995,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.317.052",
-        "1.569.329",
-        "1.687.572",
-        "1.469.670"
+        "1.057.985",
+        "1.222.747",
+        "1.623.253",
+        "1.782.794"
       ],
       "Taban Puan": [
-        "265.425",
-        "254.847",
-        "245.793",
-        "252.388"
+        "282.249",
+        "271.984",
+        "251.694",
+        "240.467"
       ],
-      "Şehir": "TRABZON",
+      "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2159,24 +2036,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.089.546",
         "1.326.617",
         "1.537.908",
-        "1.678.468",
-        "1.264.409"
+        "1.678.468"
       ],
       "Taban Puan": [
+        "279.767",
         "264.761",
         "256.691",
-        "246.302",
-        "264.673"
+        "246.302"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108651101",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "ÇAL MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100450368",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.098.959",
+        "1.400.431",
+        "1.815.413",
+        "1.957.779"
+      ],
+      "Taban Puan": [
+        "279.033",
+        "259.714",
+        "240.781",
+        "231.070"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106251174",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "MAÇKA MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2190,6 +2108,47 @@
       "Kontenjan": [
         "30",
         "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.102.773",
+        "1.317.052",
+        "1.569.329",
+        "1.687.572"
+      ],
+      "Taban Puan": [
+        "278.744",
+        "265.425",
+        "254.847",
+        "245.793"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108250522",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "TERME MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
         "40",
         "40"
       ],
@@ -2200,18 +2159,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.346.553",
-        "1.593.685",
-        "1.708.226",
-        "1.605.900"
+        "1.105.516",
+        "1.278.196",
+        "1.570.900",
+        "1.680.242"
       ],
       "Taban Puan": [
-        "263.396",
-        "253.424",
-        "244.616",
-        "245.047"
+        "278.533",
+        "268.132",
+        "254.756",
+        "246.202"
       ],
-      "Şehir": "DENİZLİ",
+      "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2241,16 +2200,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.107.471",
         "1.350.962",
         "1.771.836",
-        "1.914.808",
-        "1.974.542"
+        "1.914.808"
       ],
       "Taban Puan": [
+        "278.387",
         "263.090",
         "243.228",
-        "233.345",
-        "227.684"
+        "233.345"
       ],
       "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
@@ -2282,16 +2241,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.152.947",
         "1.374.977",
         "1.694.635",
-        "1.816.110",
-        "1.864.403"
+        "1.816.110"
       ],
       "Taban Puan": [
+        "274.943",
         "261.452",
         "247.598",
-        "238.651",
-        "232.517"
+        "238.651"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -2323,59 +2282,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.170.491",
         "1.375.060",
         "1.689.964",
-        "1.710.055",
-        "1.657.920"
+        "1.710.055"
       ],
       "Taban Puan": [
+        "273.617",
         "261.446",
         "247.858",
-        "244.515",
-        "242.382"
+        "244.515"
       ],
       "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100450368",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.400.431",
-        "1.815.413",
-        "1.957.779",
-        "1.973.253"
-      ],
-      "Taban Puan": [
-        "259.714",
-        "240.781",
-        "231.070",
-        "227.739"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2405,16 +2323,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.172.000",
         "1.402.297",
         "1.780.861",
-        "1.900.473",
-        "1.933.286"
+        "1.900.473"
       ],
       "Taban Puan": [
+        "273.501",
         "259.591",
         "242.714",
-        "234.101",
-        "229.463"
+        "234.101"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -2446,23 +2364,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.176.503",
         "1.402.715",
         "1.710.539",
-        "1.775.953",
-        "1.744.285"
+        "1.775.953"
       ],
       "Taban Puan": [
+        "273.168",
         "259.562",
         "246.692",
-        "240.835",
-        "238.129"
+        "240.835"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100250273",
-      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Program Kodu": "101750265",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
       "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
@@ -2476,132 +2394,9 @@
       ],
       "Kontenjan": [
         "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.415.416",
-        "1.674.961",
-        "1.632.135",
-        "1.596.851"
-      ],
-      "Taban Puan": [
-        "258.694",
-        "248.718",
-        "248.977",
-        "245.510"
-      ],
-      "Şehir": "ADIYAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109890158",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "EŞME MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.439.983",
-        "1.702.874",
-        "1.827.518",
-        "1.725.417"
-      ],
-      "Taban Puan": [
-        "257.001",
-        "247.126",
-        "238.035",
-        "239.032"
-      ],
-      "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103250458",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "ALTINTAŞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.444.162",
-        "1.715.154",
-        "1.811.876",
-        "1.877.376"
-      ],
-      "Taban Puan": [
-        "256.718",
-        "246.432",
-        "238.880",
-        "231.936"
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108350469",
-      "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "ULUBEY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
         "35",
-        "40",
-        "40"
+        "45",
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -2610,18 +2405,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.458.107",
-        "1.725.889",
-        "1.914.860",
-        "1.786.524"
+        "1.177.303",
+        "1.273.518",
+        "1.604.752",
+        "1.712.734"
       ],
       "Taban Puan": [
-        "255.768",
-        "245.825",
-        "233.342",
-        "236.118"
+        "273.109",
+        "268.451",
+        "252.777",
+        "244.363"
       ],
-      "Şehir": "ORDU",
+      "Şehir": "BATMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2651,24 +2446,106 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.181.253",
         "1.460.136",
         "1.740.798",
-        "1.890.552",
-        "1.779.325"
+        "1.890.552"
       ],
       "Taban Puan": [
+        "272.819",
         "255.631",
         "244.972",
-        "234.632",
-        "236.455"
+        "234.632"
       ],
       "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100950309",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "SULUOVA MESLEK YÜKSEKOKULU",
+      "Program Kodu": "108651101",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "ÇAL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.188.636",
+        "1.346.553",
+        "1.593.685",
+        "1.708.226"
+      ],
+      "Taban Puan": [
+        "272.258",
+        "263.396",
+        "253.424",
+        "244.616"
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104200360",
+      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
+      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.191.757",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "272.024",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112551305",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "ŞARKİKARAAĞAÇ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2682,8 +2559,8 @@
       "Kontenjan": [
         "25",
         "35",
-        "50",
-        "45"
+        "40",
+        "40"
       ],
       "Yerleşen": [
         "",
@@ -2692,59 +2569,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.470.145",
-        "1.834.460",
-        "1.974.679",
-        "1.912.267"
+        "1.207.530",
+        "1.508.688",
+        "1.829.773",
+        "1.982.089"
       ],
       "Taban Puan": [
-        "254.954",
-        "239.721",
-        "230.184",
-        "230.384"
+        "270.862",
+        "252.334",
+        "239.981",
+        "229.798"
       ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100850346",
-      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
-      "Fakülte": "GÜZELYURT MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.480.133",
-        "1.748.856",
-        "1.933.551",
-        "1.963.019"
-      ],
-      "Taban Puan": [
-        "254.276",
-        "244.516",
-        "232.352",
-        "228.182"
-      ],
-      "Şehir": "AKSARAY",
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2774,16 +2610,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.211.591",
         "1.487.149",
         "1.819.489",
-        "1.990.176",
-        "1.987.573"
+        "1.990.176"
       ],
       "Taban Puan": [
+        "270.565",
         "253.802",
         "240.554",
-        "229.379",
-        "227.129"
+        "229.379"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
@@ -2815,24 +2651,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.221.926",
         "1.487.615",
         "1.859.553",
-        "1.908.832",
-        "1.658.912"
+        "1.908.832"
       ],
       "Taban Puan": [
+        "269.795",
         "253.771",
         "238.327",
-        "233.662",
-        "242.334"
+        "233.662"
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112551305",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "ŞARKİKARAAĞAÇ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "109890158",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "EŞME MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2844,10 +2680,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -2856,24 +2692,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.508.688",
-        "1.829.773",
-        "1.982.089",
-        "2.078.293"
+        "1.226.005",
+        "1.439.983",
+        "1.702.874",
+        "1.827.518"
       ],
       "Taban Puan": [
-        "252.334",
-        "239.981",
-        "229.798",
-        "223.320"
+        "269.493",
+        "257.001",
+        "247.126",
+        "238.035"
       ],
-      "Şehir": "ISPARTA",
+      "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112550907",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "GELENDOST MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103250458",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "ALTINTAŞ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2886,9 +2722,9 @@
       ],
       "Kontenjan": [
         "25",
-        "35",
-        "40",
-        "40"
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -2897,100 +2733,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.509.491",
-        "1.791.055",
-        "1.921.956",
-        "1.999.959"
+        "1.236.541",
+        "1.444.162",
+        "1.715.154",
+        "1.811.876"
       ],
       "Taban Puan": [
-        "252.280",
-        "242.143",
-        "232.968",
-        "226.604"
+        "268.721",
+        "256.718",
+        "246.432",
+        "238.880"
       ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106850285",
-      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.524.725",
-        "1.854.213",
-        "1.884.377",
-        "1.954.839"
-      ],
-      "Taban Puan": [
-        "251.223",
-        "238.621",
-        "234.967",
-        "228.531"
-      ],
-      "Şehir": "KİLİS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109050106",
-      "Üniversite": "SİİRT ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.549.059",
-        "1.864.270",
-        "1.961.581",
-        "2.025.332"
-      ],
-      "Taban Puan": [
-        "249.563",
-        "238.066",
-        "230.870",
-        "225.542"
-      ],
-      "Şehir": "SİİRT",
+      "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3020,18 +2774,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.245.190",
         "1.550.261",
         "1.821.501",
-        "1.904.815",
-        "1.900.873"
+        "1.904.815"
       ],
       "Taban Puan": [
+        "268.099",
         "249.482",
         "240.442",
-        "233.876",
-        "230.886"
+        "233.876"
       ],
       "Şehir": "OSMANİYE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100950309",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "SULUOVA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "50",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.248.741",
+        "1.470.145",
+        "1.834.460",
+        "1.974.679"
+      ],
+      "Taban Puan": [
+        "267.840",
+        "254.954",
+        "239.721",
+        "230.184"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106850285",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.262.924",
+        "1.524.725",
+        "1.854.213",
+        "1.884.377"
+      ],
+      "Taban Puan": [
+        "266.809",
+        "251.223",
+        "238.621",
+        "234.967"
+      ],
+      "Şehir": "KİLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108350469",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "ULUBEY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.268.246",
+        "1.458.107",
+        "1.725.889",
+        "1.914.860"
+      ],
+      "Taban Puan": [
+        "266.415",
+        "255.768",
+        "245.825",
+        "233.342"
+      ],
+      "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112550907",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "GELENDOST MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.284.230",
+        "1.509.491",
+        "1.791.055",
+        "1.921.956"
+      ],
+      "Taban Puan": [
+        "265.270",
+        "252.280",
+        "242.143",
+        "232.968"
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3061,100 +2979,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.289.875",
         "1.560.343",
         "1.944.771",
-        "1.779.880",
-        "1.993.448"
+        "1.779.880"
       ],
       "Taban Puan": [
+        "264.863",
         "248.801",
         "233.637",
-        "240.620",
-        "226.880"
+        "240.620"
       ],
       "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100650093",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "KAMAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.563.969",
-        "1.920.289",
-        "2.012.590",
-        "2.027.171"
-      ],
-      "Taban Puan": [
-        "248.554",
-        "234.969",
-        "228.214",
-        "225.464"
-      ],
-      "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110290213",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "ÖZALP MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.566.765",
-        "1.790.560",
-        "1.934.608",
-        "1.979.351"
-      ],
-      "Taban Puan": [
-        "248.358",
-        "242.170",
-        "232.296",
-        "227.477"
-      ],
-      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3184,24 +3020,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.302.590",
         "1.573.174",
         "1.868.918",
-        "1.993.082",
-        "2.110.087"
+        "1.993.082"
       ],
       "Taban Puan": [
+        "263.945",
         "247.924",
         "237.813",
-        "229.228",
-        "222.006"
+        "229.228"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100450792",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "SULTANDAĞI MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100250273",
+      "Üniversite": "ADIYAMAN ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3213,7 +3049,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
+        "30",
         "30",
         "30",
         "30"
@@ -3225,24 +3061,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.578.394",
-        "1.866.169",
-        "1.960.366",
-        "1.958.107"
+        "1.303.858",
+        "1.415.416",
+        "1.674.961",
+        "1.632.135"
       ],
       "Taban Puan": [
-        "247.570",
-        "237.962",
-        "230.936",
-        "228.388"
+        "263.856",
+        "258.694",
+        "248.718",
+        "248.977"
       ],
-      "Şehir": "AFYONKARAHİSAR",
+      "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105150392",
-      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "ALACA AVNİ ÇELİK MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100850346",
+      "Üniversite": "AKSARAY ÜNİVERSİTESİ",
+      "Fakülte": "GÜZELYURT MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3255,9 +3091,9 @@
       ],
       "Kontenjan": [
         "25",
-        "30",
-        "30",
-        "30"
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -3266,18 +3102,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.586.840",
-        "1.910.336",
-        "1.993.212",
-        "2.000.090"
+        "1.304.466",
+        "1.480.133",
+        "1.748.856",
+        "1.933.551"
       ],
       "Taban Puan": [
-        "247.004",
-        "235.517",
-        "229.221",
-        "226.599"
+        "263.808",
+        "254.276",
+        "244.516",
+        "232.352"
       ],
-      "Şehir": "ÇORUM",
+      "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3307,59 +3143,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.319.348",
         "1.591.553",
         "1.871.256",
-        "1.936.446",
-        "2.218.298"
+        "1.936.446"
       ],
       "Taban Puan": [
+        "262.743",
         "246.686",
         "237.682",
-        "232.199",
-        "217.637"
+        "232.199"
       ],
       "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103251438",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "PAZARLAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "35",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.592.294",
-        "1.880.911",
-        "1.999.792",
-        "2.143.072"
-      ],
-      "Taban Puan": [
-        "246.636",
-        "237.138",
-        "228.877",
-        "220.663"
-      ],
-      "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3389,24 +3184,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.326.998",
         "1.608.180",
         "1.874.407",
-        "1.759.881",
-        "1.824.539"
+        "1.759.881"
       ],
       "Taban Puan": [
+        "262.184",
         "245.544",
         "237.500",
-        "241.729",
-        "234.349"
+        "241.729"
       ],
       "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102090108",
-      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
-      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Program Kodu": "100450792",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "SULTANDAĞI MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3430,18 +3225,182 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.634.628",
-        "1.896.593",
-        "2.045.952",
-        "2.148.116"
+        "1.334.805",
+        "1.578.394",
+        "1.866.169",
+        "1.960.366"
       ],
       "Taban Puan": [
-        "243.748",
-        "236.269",
-        "226.496",
-        "220.463"
+        "261.632",
+        "247.570",
+        "237.962",
+        "230.936"
       ],
-      "Şehir": "BİNGÖL",
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103251438",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "PAZARLAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.334.897",
+        "1.592.294",
+        "1.880.911",
+        "1.999.792"
+      ],
+      "Taban Puan": [
+        "261.626",
+        "246.636",
+        "237.138",
+        "228.877"
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105150392",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "ALACA AVNİ ÇELİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.338.625",
+        "1.586.840",
+        "1.910.336",
+        "1.993.212"
+      ],
+      "Taban Puan": [
+        "261.349",
+        "247.004",
+        "235.517",
+        "229.221"
+      ],
+      "Şehir": "ÇORUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100650093",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "KAMAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.339.338",
+        "1.563.969",
+        "1.920.289",
+        "2.012.590"
+      ],
+      "Taban Puan": [
+        "261.300",
+        "248.554",
+        "234.969",
+        "228.214"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109050106",
+      "Üniversite": "SİİRT ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "35",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.369.487",
+        "1.549.059",
+        "1.864.270",
+        "1.961.581"
+      ],
+      "Taban Puan": [
+        "259.148",
+        "249.563",
+        "238.066",
+        "230.870"
+      ],
+      "Şehir": "SİİRT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3471,18 +3430,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.372.184",
         "1.637.731",
         "1.917.437",
-        "2.059.067",
-        "2.138.319"
+        "2.059.067"
       ],
       "Taban Puan": [
+        "258.955",
         "243.538",
         "235.129",
-        "225.821",
-        "220.854"
+        "225.821"
       ],
       "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112270943",
+      "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
+      "Fakülte": "TÜRKOĞLU MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.376.038",
+        "1.726.419",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "258.681",
+        "237.492",
+        "",
+        ""
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3512,24 +3512,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.388.391",
         "1.661.217",
         "1.945.353",
-        "2.054.331",
-        "2.244.649"
+        "2.054.331"
       ],
       "Taban Puan": [
+        "257.806",
         "241.933",
         "233.608",
-        "226.069",
-        "216.567"
+        "226.069"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "107850034",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "110290213",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "ÖZALP MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3541,10 +3541,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "25"
+        "30",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -3553,18 +3553,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.668.025",
-        "1.937.555",
-        "2.036.943",
-        "1.938.400"
+        "1.397.104",
+        "1.566.765",
+        "1.790.560",
+        "1.934.608"
       ],
       "Taban Puan": [
-        "241.470",
-        "234.029",
-        "226.963",
-        "229.242"
+        "257.185",
+        "248.358",
+        "242.170",
+        "232.296"
       ],
-      "Şehir": "MUŞ",
+      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3594,24 +3594,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.406.276",
         "1.670.490",
         "1.962.259",
-        "2.050.179",
-        "1.936.459"
+        "2.050.179"
       ],
       "Taban Puan": [
+        "256.538",
         "241.298",
         "232.682",
-        "226.282",
-        "229.326"
+        "226.282"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "109550085",
-      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
-      "Fakülte": "TUNCELİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107850034",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Gıda Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3623,10 +3623,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
+        "25",
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -3635,59 +3635,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.678.459",
-        "1.952.219",
-        "2.052.107",
-        "2.001.485"
+        "1.422.561",
+        "1.668.025",
+        "1.937.555",
+        "2.036.943"
       ],
       "Taban Puan": [
-        "240.757",
-        "233.231",
-        "226.184",
-        "226.541"
+        "255.377",
+        "241.470",
+        "234.029",
+        "226.963"
       ],
-      "Şehir": "TUNCELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101850194",
-      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
-      "Fakülte": "AYDINTEPE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.703.865",
-        "1.889.853",
-        "1.886.472",
-        "2.357.429"
-      ],
-      "Taban Puan": [
-        "239.030",
-        "236.647",
-        "234.854",
-        "212.065"
-      ],
-      "Şehir": "BAYBURT",
+      "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3717,18 +3676,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.441.863",
         "1.709.883",
         "1.950.483",
-        "2.043.485",
-        "2.143.214"
+        "2.043.485"
       ],
       "Taban Puan": [
+        "254.014",
         "238.619",
         "233.327",
-        "226.623",
-        "220.657"
+        "226.623"
       ],
       "Şehir": "YOZGAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109550085",
+      "Üniversite": "MUNZUR ÜNİVERSİTESİ (TUNCELİ)",
+      "Fakülte": "TUNCELİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.467.126",
+        "1.678.459",
+        "1.952.219",
+        "2.052.107"
+      ],
+      "Taban Puan": [
+        "252.237",
+        "240.757",
+        "233.231",
+        "226.184"
+      ],
+      "Şehir": "TUNCELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102090108",
+      "Üniversite": "BİNGÖL ÜNİVERSİTESİ",
+      "Fakülte": "GIDA, TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.467.719",
+        "1.634.628",
+        "1.896.593",
+        "2.045.952"
+      ],
+      "Taban Puan": [
+        "252.195",
+        "243.748",
+        "236.269",
+        "226.496"
+      ],
+      "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102190176",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.486.778",
+        "1.725.832",
+        "1.928.293",
+        "2.088.820"
+      ],
+      "Taban Puan": [
+        "250.869",
+        "237.530",
+        "234.536",
+        "224.306"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101850194",
+      "Üniversite": "BAYBURT ÜNİVERSİTESİ",
+      "Fakülte": "AYDINTEPE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gıda Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.499.103",
+        "1.703.865",
+        "1.889.853",
+        "1.886.472"
+      ],
+      "Taban Puan": [
+        "249.997",
+        "239.030",
+        "236.647",
+        "234.854"
+      ],
+      "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3758,16 +3881,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.499.160",
         "1.710.759",
         "1.947.891",
-        "2.015.013",
-        "2.112.456"
+        "2.015.013"
       ],
       "Taban Puan": [
+        "249.993",
         "238.557",
         "233.470",
-        "228.092",
-        "221.909"
+        "228.092"
       ],
       "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
@@ -3799,26 +3922,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.510.582",
         "1.717.993",
         "1.956.437",
-        "2.043.044",
-        "2.089.373"
+        "2.043.044"
       ],
       "Taban Puan": [
+        "249.192",
         "238.064",
         "233.003",
-        "226.646",
-        "222.866"
+        "226.646"
       ],
       "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102190176",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
+      "Program Kodu": "202490646",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -3828,10 +3951,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
         "30",
-        "30",
-        "30"
+        "70",
+        "70",
+        "69"
       ],
       "Yerleşen": [
         "",
@@ -3840,26 +3963,26 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.725.832",
-        "1.928.293",
-        "2.088.820",
+        "1.810.987",
+        "",
+        "",
         ""
       ],
       "Taban Puan": [
-        "237.530",
-        "234.536",
-        "224.306",
+        "227.946",
+        "",
+        "",
         ""
       ],
-      "Şehir": "BİTLİS",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "112270943",
-      "Üniversite": "KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ",
-      "Fakülte": "TÜRKOĞLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi",
+      "Program Kodu": "202753634",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gıda Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -3869,10 +3992,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
+        "21",
         "30",
-        "",
-        ""
+        "30",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -3881,60 +4004,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.726.419",
+        "1.983.460",
         "",
-        "",
+        "2.746.144",
         ""
       ],
       "Taban Puan": [
-        "237.492",
+        "214.506",
         "",
-        "",
+        "172.806",
         ""
       ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104200360",
-      "Üniversite": "GAZİANTEP ÜNİVERSİTESİ",
-      "Fakülte": "NACİ TOPÇUOĞLU MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gıda Teknolojisi (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "112370760",
@@ -4005,58 +4087,17 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.322.196",
-        "2.140.419",
-        "2.228.609"
+        "2.140.419"
       ],
       "Taban Puan": [
+        "",
         "",
         "213.096",
-        "221.702",
-        "217.219"
+        "221.702"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202490646",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "70",
-        "70",
-        "69"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        "1.986.951"
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        "227.154"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -4101,47 +4142,6 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202753634",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gıda Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "21",
-        "30",
-        "30",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.746.144",
-        "",
-        "2.207.974"
-      ],
-      "Taban Puan": [
-        "",
-        "172.806",
-        "",
-        "218.052"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "208450422",
       "Üniversite": "İSTİNYE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -4170,14 +4170,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.346.707",
-        "2.619.994"
+        "",
+        "2.346.707"
       ],
       "Taban Puan": [
         "",
         "",
-        "211.533",
-        "200.914"
+        "",
+        "211.533"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4210,15 +4210,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.185.475",
-        "2.101.445",
-        "2.155.278"
+        "2.101.445"
       ],
       "Taban Puan": [
         "",
+        "",
         "220.610",
-        "223.662",
-        "220.169"
+        "223.662"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

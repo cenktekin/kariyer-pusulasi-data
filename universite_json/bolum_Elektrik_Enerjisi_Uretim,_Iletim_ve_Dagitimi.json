@@ -16,9 +16,9 @@
       ],
       "Kontenjan": [
         "55",
-        "60",
-        "60",
-        "60"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "339.779",
         "315.551",
         "387.516",
-        "435.025",
-        "418.927"
+        "435.025"
       ],
       "Taban Puan": [
+        "362.871",
         "364.187",
         "354.032",
-        "348.443",
-        "345.915"
+        "348.443"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,60 +68,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "416.697",
         "513.239",
         "700.112",
-        "794.481",
-        "759.685"
+        "794.481"
       ],
       "Taban Puan": [
+        "349.249",
         "333.893",
         "315.597",
-        "307.647",
-        "303.857"
+        "307.647"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202391158",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "7",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "622.465",
-        "",
-        "809.398",
-        "727.690"
-      ],
-      "Taban Puan": [
-        "321.356",
-        "",
-        "306.314",
-        "306.953"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202791124",
@@ -150,16 +109,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "536.284",
         "649.100",
         "",
-        "779.534",
-        "708.927"
+        "779.534"
       ],
       "Taban Puan": [
+        "332.177",
         "318.546",
         "",
-        "308.994",
-        "308.845"
+        "308.994"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202391158",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "7",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "546.273",
+        "622.465",
+        "",
+        "809.398"
+      ],
+      "Taban Puan": [
+        "330.899",
+        "321.356",
+        "",
+        "306.314"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "575.876",
         "684.467",
         "849.161",
-        "934.237",
-        "948.407"
+        "934.237"
       ],
       "Taban Puan": [
+        "327.258",
         "315.004",
         "302.659",
-        "295.775",
-        "287.244"
+        "295.775"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -232,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "591.732",
         "711.730",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "325.369",
         "312.389",
-        "",
         "",
         ""
       ],
@@ -273,14 +273,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "790.253",
         "881.526",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "304.804",
         "297.509",
-        "",
         "",
         ""
       ],
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "875.085",
         "974.405",
         "",
-        "1.179.770",
-        "1.091.818"
+        "1.179.770"
       ],
       "Taban Puan": [
+        "297.242",
         "290.132",
         "",
-        "277.533",
-        "276.358"
+        "277.533"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "883.216",
         "1.006.709",
         "",
-        "1.094.757",
-        "1.040.100"
+        "1.094.757"
       ],
       "Taban Puan": [
+        "296.547",
         "287.660",
         "",
-        "283.565",
-        "280.147"
+        "283.565"
       ],
       "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "990.262",
         "1.087.508",
         "1.271.493",
-        "1.450.467",
-        "1.370.107"
+        "1.450.467"
       ],
       "Taban Puan": [
+        "287.615",
         "281.637",
         "272.955",
-        "259.809",
-        "258.150"
+        "259.809"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.043.655",
         "1.159.068",
         "",
-        "1.328.694",
-        "1.194.160"
+        "1.328.694"
       ],
       "Taban Puan": [
+        "283.379",
         "276.486",
         "",
-        "267.521",
-        "269.270"
+        "267.521"
       ],
       "Şehir": "OSMANİYE",
       "Ücret": "Ücretsiz"
@@ -478,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.048.503",
         "1.159.603",
         "",
-        "1.365.653",
-        "1.291.156"
+        "1.365.653"
       ],
       "Taban Puan": [
+        "282.991",
         "276.447",
         "",
-        "265.134",
-        "262.970"
+        "265.134"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
@@ -519,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.073.709",
         "1.181.727",
         "1.389.183",
-        "1.583.815",
-        "1.522.246"
+        "1.583.815"
       ],
       "Taban Puan": [
+        "280.997",
         "274.859",
         "265.630",
-        "251.797",
-        "249.476"
+        "251.797"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -560,100 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.089.270",
         "1.186.094",
         "",
-        "1.189.724",
-        ""
+        "1.189.724"
       ],
       "Taban Puan": [
+        "279.789",
         "274.550",
         "",
-        "276.838",
-        ""
+        "276.838"
       ],
       "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103950812",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "KEBAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.300.782",
-        "1.555.000",
-        "1.632.549",
-        "1.595.344"
-      ],
-      "Taban Puan": [
-        "266.561",
-        "255.686",
-        "248.953",
-        "245.591"
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108050418",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "HACIBEKTAŞ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "45",
-        "45",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.304.237",
-        "1.526.604",
-        "1.656.759",
-        "1.574.191"
-      ],
-      "Taban Puan": [
-        "266.328",
-        "257.351",
-        "247.553",
-        "246.702"
-      ],
-      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,18 +601,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.121.628",
         "1.317.792",
         "1.524.924",
-        "1.678.277",
-        "1.662.638"
+        "1.678.277"
       ],
       "Taban Puan": [
+        "277.304",
         "265.378",
         "257.446",
-        "246.313",
-        "242.151"
+        "246.313"
       ],
       "Şehir": "BİLECİK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108050418",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "HACIBEKTAŞ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "45",
+        "45",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.172.349",
+        "1.304.237",
+        "1.526.604",
+        "1.656.759"
+      ],
+      "Taban Puan": [
+        "273.475",
+        "266.328",
+        "257.351",
+        "247.553"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,18 +683,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.186.962",
         "1.325.699",
         "",
-        "1.599.636",
-        "1.559.276"
+        "1.599.636"
       ],
       "Taban Puan": [
+        "272.381",
         "264.824",
         "",
-        "250.870",
-        "247.483"
+        "250.870"
       ],
       "Şehir": "VAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103950812",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "KEBAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.188.965",
+        "1.300.782",
+        "1.555.000",
+        "1.632.549"
+      ],
+      "Taban Puan": [
+        "272.232",
+        "266.561",
+        "255.686",
+        "248.953"
+      ],
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -765,18 +765,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.221.535",
         "1.363.078",
         "1.543.994",
-        "1.639.413",
-        "1.617.486"
+        "1.639.413"
       ],
       "Taban Puan": [
+        "269.827",
         "262.258",
         "256.329",
-        "248.555",
-        "244.451"
+        "248.555"
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112300129",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "YAHYALI MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.248.636",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "267.848",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390117",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "BUCAK EMİN GÜLMEZ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.260.453",
+        "1.414.567",
+        "1.649.233",
+        "1.807.444"
+      ],
+      "Taban Puan": [
+        "266.991",
+        "258.754",
+        "250.196",
+        "239.123"
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106700108",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.262.501",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "266.839",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,16 +929,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.266.645",
         "1.388.616",
         "1.652.376",
-        "1.752.340",
-        "1.729.413"
+        "1.752.340"
       ],
       "Taban Puan": [
+        "266.532",
         "260.517",
         "250.015",
-        "242.146",
-        "238.840"
+        "242.146"
       ],
       "Şehir": "GİRESUN",
       "Ücret": "Ücretsiz"
@@ -847,100 +970,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.305.791",
         "1.388.866",
         "1.609.831",
-        "1.657.662",
-        "1.530.133"
+        "1.657.662"
       ],
       "Taban Puan": [
+        "263.711",
         "260.501",
         "252.482",
-        "247.501",
-        "249.049"
+        "247.501"
       ],
       "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390117",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "BUCAK EMİN GÜLMEZ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.414.567",
-        "1.649.233",
-        "1.807.444",
-        "1.808.787"
-      ],
-      "Taban Puan": [
-        "258.754",
-        "250.196",
-        "239.123",
-        "235.072"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108390189",
-      "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "GÖLKÖY MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.433.674",
-        "1.586.339",
-        "1.681.749",
-        ""
-      ],
-      "Taban Puan": [
-        "257.443",
-        "253.853",
-        "246.120",
-        ""
-      ],
-      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -970,18 +1011,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.308.869",
         "1.486.223",
         "1.629.521",
-        "1.782.397",
-        "1.776.715"
+        "1.782.397"
       ],
       "Taban Puan": [
+        "263.496",
         "253.864",
         "251.330",
-        "240.486",
-        "236.577"
+        "240.486"
       ],
       "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108390189",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "GÖLKÖY MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.313.374",
+        "1.433.674",
+        "1.586.339",
+        "1.681.749"
+      ],
+      "Taban Puan": [
+        "263.168",
+        "257.443",
+        "253.853",
+        "246.120"
+      ],
+      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,59 +1093,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.317.062",
         "1.488.462",
         "1.723.942",
-        "1.854.855",
-        "1.736.844"
+        "1.854.855"
       ],
       "Taban Puan": [
+        "262.904",
         "253.713",
         "245.930",
-        "236.556",
-        "238.485"
+        "236.556"
       ],
       "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104750556",
-      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
-      "Fakülte": "KELKİT AYDIN DOĞAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.534.080",
-        "1.746.677",
-        "1.899.990",
-        "1.863.117"
-      ],
-      "Taban Puan": [
-        "250.584",
-        "244.638",
-        "234.126",
-        "232.575"
-      ],
-      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1093,24 +1134,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.324.538",
         "1.570.360",
         "",
-        "1.797.127",
-        "1.758.958"
+        "1.797.127"
       ],
       "Taban Puan": [
+        "262.364",
         "248.111",
         "",
-        "239.684",
-        "237.423"
+        "239.684"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103690200",
-      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
-      "Fakülte": "TERCAN MESLEK YÜKSEKOKULU",
+      "Program Kodu": "104750556",
+      "Üniversite": "GÜMÜŞHANE ÜNİVERSİTESİ",
+      "Fakülte": "KELKİT AYDIN DOĞAN MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1122,10 +1163,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
         "25",
-        "",
-        ""
+        "20",
+        "20",
+        "20"
       ],
       "Yerleşen": [
         "",
@@ -1134,18 +1175,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.664.647",
-        "",
-        "1.860.572",
-        "2.019.378"
+        "1.389.294",
+        "1.534.080",
+        "1.746.677",
+        "1.899.990"
       ],
       "Taban Puan": [
-        "241.698",
-        "",
-        "236.242",
-        "225.782"
+        "257.740",
+        "250.584",
+        "244.638",
+        "234.126"
       ],
-      "Şehir": "ERZİNCAN",
+      "Şehir": "GÜMÜŞHANE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1175,16 +1216,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.407.669",
         "1.715.392",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "256.443",
         "238.242",
+        "",
+        ""
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103690200",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "TERCAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
         "",
         "",
         ""
+      ],
+      "Taban Sıralama": [
+        "1.411.624",
+        "1.664.647",
+        "",
+        "1.860.572"
+      ],
+      "Taban Puan": [
+        "256.157",
+        "241.698",
+        "",
+        "236.242"
       ],
       "Şehir": "ERZİNCAN",
       "Ücret": "Ücretsiz"
@@ -1272,88 +1354,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112300129",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "YAHYALI MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106700108",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektrik Enerjisi Üretim, İletim ve Dağıtımı",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIRKLARELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "202391165",
       "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -1382,14 +1382,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.850.083",
-        "1.891.532"
+        "",
+        "2.850.083"
       ],
       "Taban Puan": [
         "",
         "",
-        "179.116",
-        "231.301"
+        "",
+        "179.116"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1464,14 +1464,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "2.379.119",
-        "1.836.630"
+        "",
+        "2.379.119"
       ],
       "Taban Puan": [
         "",
         "",
-        "209.944",
-        "233.788"
+        "",
+        "209.944"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

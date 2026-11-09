@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "208300101",
+      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Dijital Tarım Teknolojileri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "755.559",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "308.046",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Burslu"
+    },
+    {
       "Program Kodu": "109490398",
       "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "EDİRNE TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
@@ -27,14 +68,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.233.422",
         "1.291.918",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "268.950",
         "267.167",
-        "",
         "",
         ""
       ],
@@ -68,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.422.102",
         "1.533.097",
         "",
-        "1.853.901",
-        "1.918.819"
+        "1.853.901"
       ],
       "Taban Puan": [
+        "255.409",
         "250.653",
         "",
-        "236.607",
-        "230.092"
+        "236.607"
       ],
       "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
@@ -109,18 +150,223 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.494.900",
         "1.662.853",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "250.291",
         "241.821",
-        "",
         "",
         ""
       ],
       "Şehir": "AYDIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107390378",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "BURDUR GIDA TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Tarım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.533.992",
+        "1.786.881",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "247.554",
+        "233.340",
+        "",
+        ""
+      ],
+      "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106490262",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "DEVREKANİ TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Tarım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.540.254",
+        "1.968.624",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "247.116",
+        "220.373",
+        "",
+        ""
+      ],
+      "Şehir": "KASTAMONU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108690429",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "ÇAL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Tarım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.547.687",
+        "1.804.673",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "246.594",
+        "232.099",
+        "",
+        ""
+      ],
+      "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103290338",
+      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
+      "Fakülte": "ŞAPHANE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Tarım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.555.227",
+        "1.947.932",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "246.064",
+        "221.884",
+        "",
+        ""
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106690524",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "DELİCE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Dijital Tarım Teknolojileri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.561.304",
+        "1.852.367",
+        "",
+        "2.192.990"
+      ],
+      "Taban Puan": [
+        "245.633",
+        "228.768",
+        "",
+        "219.085"
+      ],
+      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,14 +396,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.565.774",
         "1.684.155",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "245.326",
         "240.371",
-        "",
         "",
         ""
       ],
@@ -191,223 +437,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.569.811",
         "1.738.515",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "245.040",
         "236.662",
-        "",
         "",
         ""
       ],
       "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390378",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "BURDUR GIDA TARIM VE HAYVANCILIK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Dijital Tarım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.786.881",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "233.340",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108690429",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
-      "Fakülte": "ÇAL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Dijital Tarım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.804.673",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "232.099",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106690524",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "DELİCE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Dijital Tarım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.852.367",
-        "",
-        "2.192.990",
-        ""
-      ],
-      "Taban Puan": [
-        "228.768",
-        "",
-        "219.085",
-        ""
-      ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103290338",
-      "Üniversite": "KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ",
-      "Fakülte": "ŞAPHANE MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Dijital Tarım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.947.932",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "221.884",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106490262",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
-      "Fakülte": "DEVREKANİ TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Dijital Tarım Teknolojileri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.968.624",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "220.373",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,60 +478,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "2.081.617",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "204.915",
         "",
         "",
         ""
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "208300101",
-      "Üniversite": "KONYA GIDA VE TARIM ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Dijital Tarım Teknolojileri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "208300115",
@@ -519,13 +519,13 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "2.154.470",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "193.470",
         "",
         "",
         ""

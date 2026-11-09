@@ -16,9 +16,9 @@
       ],
       "Kontenjan": [
         "5",
-        "9",
-        "11",
-        "10"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "57.367",
         "55.244",
         "53.080",
-        "42.090",
-        "36.103"
+        "42.090"
       ],
       "Taban Puan": [
+        "456.618",
         "440.162",
         "431.418",
-        "468.196",
-        "474.486"
+        "468.196"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "60.633",
         "60.691",
         "52.095",
-        "49.797",
-        "49.678"
+        "49.797"
       ],
       "Taban Puan": [
+        "453.223",
         "434.627",
         "432.666",
-        "459.419",
-        "457.986"
+        "459.419"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Burslu"
@@ -109,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "87.705",
         "84.171",
         "140.008",
-        "75.377",
-        "67.202"
+        "75.377"
       ],
       "Taban Puan": [
+        "425.934",
         "412.673",
         "354.940",
-        "431.782",
-        "438.206"
+        "431.782"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "408810981",
+      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Genetik ve Biyomühendislik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "189.646",
+        "265.216",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "350.860",
+        "312.861",
+        "",
+        ""
+      ],
+      "Şehir": "",
       "Ücret": "Burslu"
     },
     {
@@ -150,101 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "203.586",
         "243.858",
         "260.278",
-        "273.143",
-        ""
+        "273.143"
       ],
       "Taban Puan": [
+        "343.530",
         "320.136",
         "301.455",
-        "315.974",
-        ""
+        "315.974"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "408810981",
-      "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
-      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Genetik ve Biyomühendislik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "265.216",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "312.861",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203511471",
-      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Genetik ve Biyomühendislik (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "280.647",
-        "297.016",
-        "168.978",
-        "188.694"
-      ],
-      "Taban Puan": [
-        "308.059",
-        "290.921",
-        "360.460",
-        "343.052"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "109410809",
@@ -273,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "248.443",
         "281.030",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "323.145",
         "307.944",
-        "",
         "",
         ""
       ],
@@ -331,7 +290,7 @@
     {
       "Program Kodu": "408810848",
       "Üniversite": "ULUSLARARASI SARAYBOSNA ÜNİVERSİTESİ (SARAYBOSNA - BOSNA - HERSEK)",
-      "Fakülte": "Mühendislik ve Doğa Bilimleri Fakültesi",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Genetik ve Biyomühendislik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -493,6 +452,47 @@
       "Ücret": "%50 İndirimli"
     },
     {
+      "Program Kodu": "203511471",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Genetik ve Biyomühendislik (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "280.647",
+        "297.016",
+        "168.978"
+      ],
+      "Taban Puan": [
+        "",
+        "308.059",
+        "290.921",
+        "360.460"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
       "Program Kodu": "206100724",
       "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
@@ -508,9 +508,9 @@
       ],
       "Kontenjan": [
         "37",
-        "59",
-        "66",
-        "66"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -521,14 +521,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "204.595",
-        "158.381"
+        "",
+        "204.595"
       ],
       "Taban Puan": [
         "",
         "",
-        "342.414",
-        "360.474"
+        "",
+        "342.414"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

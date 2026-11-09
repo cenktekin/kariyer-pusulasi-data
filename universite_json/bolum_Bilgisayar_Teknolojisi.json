@@ -1,8 +1,8 @@
 {
   "yks": [
     {
-      "Program Kodu": "201950111",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "203490328",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
@@ -15,10 +15,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "6"
+        "5",
+        "5",
+        "4",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "367.430",
-        "350.807",
-        "303.540",
-        "310.629"
+        "378.591",
+        "382.810",
+        "405.123",
+        ""
       ],
       "Taban Puan": [
-        "354.932",
-        "360.586",
-        "371.603",
-        "366.501"
+        "355.664",
+        "352.400",
+        "351.109",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,23 +68,105 @@
         ""
       ],
       "Taban Sıralama": [
+        "414.982",
         "377.883",
         "390.330",
-        "344.654",
-        "375.853"
+        "344.654"
       ],
       "Taban Puan": [
+        "349.516",
         "353.193",
         "353.562",
-        "363.476",
-        "353.396"
+        "363.476"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "203490328",
-      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Program Kodu": "201950111",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "423.972",
+        "367.430",
+        "350.807",
+        "303.540"
+      ],
+      "Taban Puan": [
+        "348.096",
+        "354.932",
+        "360.586",
+        "371.603"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205850409",
+      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "6",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "453.291",
+        "493.423",
+        "435.354",
+        "468.999"
+      ],
+      "Taban Puan": [
+        "343.621",
+        "336.438",
+        "346.426",
+        "343.558"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210302152",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
@@ -99,6 +181,47 @@
       "Kontenjan": [
         "5",
         "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "459.948",
+        "423.106",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "342.632",
+        "346.179",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "205090254",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
+        "8",
         "4",
         ""
       ],
@@ -109,15 +232,15 @@
         ""
       ],
       "Taban Sıralama": [
-        "382.810",
-        "405.123",
-        "",
+        "462.133",
+        "456.299",
+        "498.387",
         ""
       ],
       "Taban Puan": [
-        "352.400",
-        "351.109",
-        "",
+        "342.306",
+        "341.423",
+        "337.639",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -150,57 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "473.474",
         "411.234",
         "430.533",
-        "359.923",
-        "382.303"
+        "359.923"
       ],
       "Taban Puan": [
+        "340.667",
         "347.952",
         "347.161",
-        "360.690",
-        "352.214"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210302152",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "423.106",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "346.179",
-        "",
-        "",
-        ""
+        "360.690"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -232,100 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "496.385",
         "442.362",
         "437.251",
-        "393.888",
-        "392.683"
+        "393.888"
       ],
       "Taban Puan": [
+        "337.460",
         "343.350",
         "346.143",
-        "354.871",
-        "350.381"
+        "354.871"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205090254",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "4",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "456.299",
-        "498.387",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "341.423",
-        "337.639",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205850409",
-      "Üniversite": "UFUK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "6",
-        "6",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "493.423",
-        "435.354",
-        "468.999",
-        "437.847"
-      ],
-      "Taban Puan": [
-        "336.438",
-        "346.426",
-        "343.558",
-        "342.851"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
@@ -355,15 +355,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "503.789",
         "534.550",
         "685.886",
-        "",
         ""
       ],
       "Taban Puan": [
+        "336.442",
         "331.283",
         "316.928",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "708.599",
         "694.771",
         "717.109",
-        "744.732",
-        "726.332"
+        "744.732"
       ],
       "Taban Puan": [
+        "312.680",
         "313.997",
         "314.025",
-        "312.242",
-        "307.086"
+        "312.242"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -437,19 +437,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "721.720",
         "758.183",
         "790.460",
-        "743.070",
-        "817.652"
+        "743.070"
       ],
       "Taban Puan": [
+        "311.368",
         "308.089",
         "307.529",
-        "312.410",
-        "298.443"
+        "312.410"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203800101",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "847.087",
+        "1.159.284",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "299.692",
+        "276.471",
+        "",
+        ""
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101790107",
@@ -478,100 +519,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "910.643",
         "973.327",
         "1.051.961",
-        "879.416",
-        "957.579"
+        "879.416"
       ],
       "Taban Puan": [
+        "294.218",
         "290.216",
         "287.541",
-        "300.261",
-        "286.507"
+        "300.261"
       ],
       "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203490335",
-      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "26",
-        "25",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.027.585",
-        "1.248.587",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "286.080",
-        "274.415",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "110351362",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "KARADENİZ EREĞLİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgisayar Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.076.192",
-        "1.168.870",
-        "1.283.969",
-        "1.251.684"
-      ],
-      "Taban Puan": [
-        "282.470",
-        "279.597",
-        "270.453",
-        "265.486"
-      ],
-      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,16 +560,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "953.312",
         "1.079.891",
         "1.181.238",
-        "1.263.003",
-        "1.232.699"
+        "1.263.003"
       ],
       "Taban Puan": [
+        "290.662",
         "282.192",
         "278.790",
-        "271.836",
-        "266.728"
+        "271.836"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
@@ -642,141 +601,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.020.569",
         "1.091.554",
         "1.169.922",
-        "1.157.511",
-        "1.175.605"
+        "1.157.511"
       ],
       "Taban Puan": [
+        "285.203",
         "281.347",
         "279.528",
-        "279.083",
-        "270.510"
+        "279.083"
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203800101",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgisayar Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "5",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.159.284",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "276.471",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106190118",
-      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgisayar Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.163.115",
-        "1.227.090",
-        "1.222.846",
-        "1.177.586"
-      ],
-      "Taban Puan": [
-        "276.207",
-        "275.813",
-        "274.543",
-        "270.375"
-      ],
-      "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100650551",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgisayar Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "50",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.228.366",
-        "1.330.734",
-        "1.401.232",
-        "1.346.770"
-      ],
-      "Taban Puan": [
-        "271.595",
-        "269.248",
-        "262.877",
-        "259.554"
-      ],
-      "Şehir": "KIRŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -806,18 +642,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.061.764",
         "1.254.323",
         "1.401.017",
-        "1.191.881",
-        "1.199.962"
+        "1.191.881"
       ],
       "Taban Puan": [
+        "281.942",
         "269.786",
         "264.901",
-        "276.688",
-        "268.885"
+        "276.688"
       ],
       "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110351362",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "KARADENİZ EREĞLİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgisayar Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.090.284",
+        "1.076.192",
+        "1.168.870",
+        "1.283.969"
+      ],
+      "Taban Puan": [
+        "279.711",
+        "282.470",
+        "279.597",
+        "270.453"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100650551",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgisayar Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "50",
+        "50",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.094.086",
+        "1.228.366",
+        "1.330.734",
+        "1.401.232"
+      ],
+      "Taban Puan": [
+        "279.412",
+        "271.595",
+        "269.248",
+        "262.877"
+      ],
+      "Şehir": "KIRŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,24 +765,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.148.715",
         "1.258.526",
         "1.389.376",
-        "1.377.210",
-        "1.442.217"
+        "1.377.210"
       ],
       "Taban Puan": [
+        "275.262",
         "269.489",
         "265.617",
-        "264.399",
-        "253.939"
+        "264.399"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102190057",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "TATVAN MESLEK YÜKSEKOKULU",
+      "Program Kodu": "106190118",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "SAFRANBOLU ŞEFİK YILMAZ DİZDAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Bilgisayar Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -879,7 +797,7 @@
         "55",
         "50",
         "50",
-        "30"
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -888,18 +806,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.518.584",
-        "1.621.602",
-        "1.530.644",
-        "1.600.368"
+        "1.226.582",
+        "1.163.115",
+        "1.227.090",
+        "1.222.846"
       ],
       "Taban Puan": [
-        "251.651",
-        "251.793",
-        "254.936",
-        "245.333"
+        "269.451",
+        "276.207",
+        "275.813",
+        "274.543"
       ],
-      "Şehir": "BİTLİS",
+      "Şehir": "KARABÜK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -929,18 +847,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.292.913",
         "1.520.819",
         "1.767.905",
-        "1.596.630",
-        "1.535.104"
+        "1.596.630"
       ],
       "Taban Puan": [
+        "264.644",
         "251.497",
         "243.449",
-        "251.049",
-        "248.781"
+        "251.049"
       ],
       "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102190057",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "TATVAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgisayar Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "50",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.385.525",
+        "1.518.584",
+        "1.621.602",
+        "1.530.644"
+      ],
+      "Taban Puan": [
+        "258.002",
+        "251.651",
+        "251.793",
+        "254.936"
+      ],
+      "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1012,15 +971,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.658.832",
-        "1.419.966",
-        "1.355.088"
+        "1.419.966"
       ],
       "Taban Puan": [
         "",
+        "",
         "249.649",
-        "261.692",
-        "259.053"
+        "261.692"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1055,13 +1014,13 @@
         "",
         "",
         "",
-        "1.042.161"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "279.993"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1177,14 +1136,55 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.574.162",
-        "1.291.889"
+        "",
+        "1.574.162"
       ],
       "Taban Puan": [
         "",
         "",
-        "252.368",
-        "262.921"
+        "",
+        "252.368"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203490335",
+      "Üniversite": "İSTANBUL TİCARET ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgisayar Teknolojisi (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "26",
+        "25",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.027.585",
+        "1.248.587",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "286.080",
+        "274.415",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1217,14 +1217,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "2.209.607",
         "",
+        "2.209.607",
         ""
       ],
       "Taban Puan": [
         "",
-        "219.296",
         "",
+        "219.296",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -1259,14 +1259,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.207.760",
-        "1.366.524"
+        "",
+        "1.207.760"
       ],
       "Taban Puan": [
         "",
         "",
-        "275.568",
-        "258.365"
+        "",
+        "275.568"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1287,8 +1287,8 @@
       ],
       "Kontenjan": [
         "42",
-        "42",
-        "34",
+        "",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -1340,15 +1340,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.243.441",
-        "1.730.705",
-        "1.594.672"
+        "1.730.705"
       ],
       "Taban Puan": [
         "",
+        "",
         "217.439",
-        "243.353",
-        "245.626"
+        "243.353"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"

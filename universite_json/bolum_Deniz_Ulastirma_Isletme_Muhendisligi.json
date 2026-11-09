@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "105510035",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "DENİZCİLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (UOLP-SUNY Maritime) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "22.962",
-        "40.670",
-        "76.609",
-        "43.135"
-      ],
-      "Taban Puan": [
-        "478.988",
-        "447.142",
-        "430.583",
-        "465.867"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "105510017",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "DENİZCİLİK FAKÜLTESİ",
@@ -68,19 +27,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "39.344",
         "43.430",
         "49.222",
-        "53.217",
-        "63.451"
+        "53.217"
       ],
       "Taban Puan": [
+        "476.144",
         "452.993",
         "436.159",
-        "455.402",
-        "442.328"
+        "455.402"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105510962",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "5",
+        "5",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "49.194",
+        "54.861",
+        "63.001",
+        "68.257"
+      ],
+      "Taban Puan": [
+        "465.338",
+        "440.592",
+        "420.050",
+        "439.200"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "204910166",
@@ -109,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "50.367",
         "54.833",
         "58.422",
-        "62.564",
-        "74.389"
+        "62.564"
       ],
       "Taban Puan": [
+        "464.034",
         "440.613",
         "425.232",
-        "445.289",
-        "430.493"
+        "445.289"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105510962",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "54.861",
-        "63.001",
-        "68.257",
-        "86.463"
-      ],
-      "Taban Puan": [
-        "440.592",
-        "420.050",
-        "439.200",
-        "418.273"
-      ],
-      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
@@ -191,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "60.281",
         "65.168",
         "73.488",
-        "77.779",
-        "90.743"
+        "77.779"
       ],
       "Taban Puan": [
+        "453.594",
         "430.230",
         "408.957",
-        "429.406",
-        "414.151"
+        "429.406"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -232,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "72.199",
         "82.283",
         "92.394",
-        "98.615",
-        "112.984"
+        "98.615"
       ],
       "Taban Puan": [
+        "441.154",
         "414.445",
         "390.983",
-        "410.086",
-        "394.023"
+        "410.086"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -273,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "79.655",
         "90.028",
         "120.488",
-        "",
         ""
       ],
       "Taban Puan": [
+        "433.759",
         "407.414",
         "368.127",
-        "",
         ""
       ],
       "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106210486",
-      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SÜRMENE DENİZ BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "85",
-        "85",
-        "85",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "102.444",
-        "126.669",
-        "118.999",
-        "135.852"
-      ],
-      "Taban Puan": [
-        "397.107",
-        "363.825",
-        "393.469",
-        "375.918"
-      ],
-      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,19 +273,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "85.088",
         "108.561",
         "",
-        "131.266",
-        ""
+        "131.266"
       ],
       "Taban Puan": [
+        "428.482",
         "392.235",
         "",
-        "384.394",
-        ""
+        "384.394"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106210486",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SÜRMENE DENİZ BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "85",
+        "85",
+        "85",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "91.890",
+        "102.444",
+        "126.669",
+        "118.999"
+      ],
+      "Taban Puan": [
+        "422.005",
+        "397.107",
+        "363.825",
+        "393.469"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105510971",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "92.192",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "421.736",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "107490541",
@@ -396,14 +396,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "93.419",
         "118.849",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "420.599",
         "384.484",
-        "",
         "",
         ""
       ],
@@ -437,16 +437,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "104.840",
         "123.816",
         "151.961",
-        "144.271",
-        "166.636"
+        "144.271"
       ],
       "Taban Puan": [
+        "410.236",
         "380.865",
         "347.712",
-        "375.501",
-        "355.432"
+        "375.501"
       ],
       "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
@@ -478,101 +478,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "108.259",
         "143.797",
         "189.385",
-        "186.848",
-        "188.302"
+        "186.848"
       ],
       "Taban Puan": [
+        "407.222",
         "367.325",
         "328.311",
-        "350.942",
-        "343.261"
+        "350.942"
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204910175",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "DENİZCİLİK FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "72",
-        "69",
-        "69",
-        "72"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "144.888",
-        "141.743",
-        "161.212",
-        "190.479"
-      ],
-      "Taban Puan": [
-        "366.604",
-        "353.892",
-        "364.912",
-        "342.087"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300700108",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK, MAVİ EKONOMİ VE DENİZ BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "148.832",
-        "180.195",
-        "184.729",
-        "282.652"
-      ],
-      "Taban Puan": [
-        "364.187",
-        "332.588",
-        "352.005",
-        "303.601"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108710421",
@@ -601,19 +519,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "118.576",
         "164.853",
         "198.007",
-        "192.326",
-        "221.164"
+        "192.326"
       ],
       "Taban Puan": [
+        "398.657",
         "354.985",
         "324.429",
-        "348.244",
-        "327.417"
+        "348.244"
       ],
       "Şehir": "RİZE",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300700108",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK, MAVİ EKONOMİ VE DENİZ BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "129.897",
+        "148.832",
+        "180.195",
+        "184.729"
+      ],
+      "Taban Puan": [
+        "389.681",
+        "364.187",
+        "332.588",
+        "352.005"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300290407",
@@ -642,19 +601,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "147.337",
         "170.632",
         "199.863",
-        "215.525",
-        ""
+        "215.525"
       ],
       "Taban Puan": [
+        "376.846",
         "351.919",
         "323.612",
-        "337.598",
-        ""
+        "337.598"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204910175",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "DENİZCİLİK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "72",
+        "69",
+        "69",
+        "72"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "156.873",
+        "144.888",
+        "141.743",
+        "161.212"
+      ],
+      "Taban Puan": [
+        "370.581",
+        "366.604",
+        "353.892",
+        "364.912"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300700115",
@@ -672,9 +672,9 @@
       ],
       "Kontenjan": [
         "21",
-        "21",
-        "21",
-        "21"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -683,14 +683,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "193.292",
         "238.362",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "348.926",
         "322.147",
-        "",
         "",
         ""
       ],
@@ -698,11 +698,11 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "204910157",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "DENİZCİLİK FAKÜLTESİ",
+      "Program Kodu": "300290429",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK VE ULAŞTIRMA YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Ücretli)",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -712,10 +712,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "34",
-        "37",
-        "37",
-        "30"
+        "19",
+        "17",
+        "14",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -724,19 +724,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "283.791",
-        "274.585",
-        "262.670",
-        "289.595"
+        "253.301",
+        "",
+        "278.294",
+        ""
       ],
       "Taban Puan": [
-        "307.102",
-        "297.193",
-        "319.482",
-        "301.303"
+        "321.144",
+        "",
+        "296.109",
+        ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "103100409",
@@ -765,19 +765,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "261.497",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "317.879",
         "",
         "",
         ""
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300290428",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK VE ULAŞTIRMA YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "7",
+        "9",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "271.043",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "314.180",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "105510026",
@@ -807,18 +848,59 @@
       ],
       "Taban Sıralama": [
         "",
-        "255.413",
         "",
+        "255.413",
         ""
       ],
       "Taban Puan": [
         "",
-        "302.984",
         "",
+        "302.984",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "105510035",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "DENİZCİLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (UOLP-SUNY Maritime) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "22.962",
+        "40.670",
+        "76.609"
+      ],
+      "Taban Puan": [
+        "",
+        "478.988",
+        "447.142",
+        "430.583"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "105510944",
@@ -835,7 +917,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
+        "28",
         "25",
         "25",
         "25"
@@ -849,14 +931,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "247.190",
-        "288.343"
+        "",
+        "247.190"
       ],
       "Taban Puan": [
         "",
         "",
-        "324.992",
-        "301.695"
+        "",
+        "324.992"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -903,9 +985,9 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "300290428",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK VE ULAŞTIRMA YÜKSEKOKULU",
+      "Program Kodu": "204910157",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "DENİZCİLİK FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -917,10 +999,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "7",
-        "9",
-        "10"
+        "34",
+        "37",
+        "37",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -930,59 +1012,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "283.791",
+        "274.585",
+        "262.670"
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        ""
+        "307.102",
+        "297.193",
+        "319.482"
       ],
-      "Şehir": "KIBRIS",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300290429",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK VE ULAŞTIRMA YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz Ulaştırma İşletme Mühendisliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "19",
-        "17",
-        "14",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "278.294",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "296.109",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
     }
   ]
 }

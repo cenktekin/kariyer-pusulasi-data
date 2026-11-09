@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "278.502",
         "314.700",
         "367.518",
-        "469.896",
-        "549.738"
+        "469.896"
       ],
       "Taban Puan": [
+        "311.375",
         "298.399",
         "274.728",
-        "269.969",
-        "246.042"
+        "269.969"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,19 +68,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "304.627",
         "345.326",
         "394.449",
-        "476.990",
-        "503.822"
+        "476.990"
       ],
       "Taban Puan": [
+        "302.281",
         "290.714",
         "269.634",
-        "268.768",
-        "252.584"
+        "268.768"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "208151358",
+      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gerontoloji (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "11",
+        "14",
+        "29",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "309.605",
+        "381.280",
+        "553.303",
+        ""
+      ],
+      "Taban Puan": [
+        "300.640",
+        "282.768",
+        "247.506",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "107690333",
@@ -109,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "316.356",
         "351.381",
         "381.756",
-        "496.862",
-        ""
+        "496.862"
       ],
       "Taban Puan": [
+        "298.483",
         "289.309",
         "271.931",
-        "265.563",
-        ""
+        "265.563"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "321.910",
         "363.099",
         "401.555",
-        "524.585",
-        ""
+        "524.585"
       ],
       "Taban Puan": [
+        "296.740",
         "286.666",
         "268.386",
-        "261.359",
-        ""
+        "261.359"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
@@ -191,60 +232,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "327.133",
         "374.217",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "295.124",
         "284.257",
-        "",
         "",
         ""
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208151358",
-      "Üniversite": "İSTANBUL RUMELİ ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gerontoloji (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "11",
-        "14",
-        "29",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "381.280",
-        "553.303",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "282.768",
-        "247.506",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "107390308",
@@ -273,15 +273,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "361.384",
         "390.496",
         "425.944",
-        "",
         ""
       ],
       "Taban Puan": [
+        "285.446",
         "280.826",
         "264.313",
-        "",
         ""
       ],
       "Şehir": "BURDUR",
@@ -314,100 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "378.277",
         "400.134",
         "440.166",
-        "617.807",
-        ""
+        "617.807"
       ],
       "Taban Puan": [
+        "281.024",
         "278.937",
         "262.056",
-        "249.144",
-        ""
+        "249.144"
       ],
       "Şehir": "OSMANİYE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107890049",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gerontoloji",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "438.775",
-        "463.937",
-        "689.584",
-        "822.536"
-      ],
-      "Taban Puan": [
-        "271.865",
-        "258.553",
-        "241.329",
-        "218.524"
-      ],
-      "Şehir": "MUŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102800143",
-      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gerontoloji",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ÇANKIRI",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,18 +355,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "380.691",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "280.410",
         "",
         "",
         ""
       ],
       "Şehir": "MALATYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102800143",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gerontoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "412.354",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "272.914",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107890049",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gerontoloji",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "427.190",
+        "438.775",
+        "463.937",
+        "689.584"
+      ],
+      "Taban Puan": [
+        "269.631",
+        "271.865",
+        "258.553",
+        "241.329"
+      ],
+      "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
     },
     {

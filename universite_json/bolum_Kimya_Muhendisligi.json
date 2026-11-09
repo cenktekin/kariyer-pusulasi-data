@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "11.093",
         "7.818",
         "6.399",
-        "6.071",
-        "6.490"
+        "6.071"
       ],
       "Taban Puan": [
+        "512.913",
         "507.938",
         "512.078",
-        "524.413",
-        "520.449"
+        "524.413"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.990",
         "8.924",
         "9.610",
-        "11.921",
-        "18.184"
+        "11.921"
       ],
       "Taban Puan": [
+        "509.837",
         "505.074",
         "502.375",
-        "511.551",
-        "499.062"
+        "511.551"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "14.792",
         "12.541",
         "13.547",
-        "17.442",
-        "26.082"
+        "17.442"
       ],
       "Taban Puan": [
+        "507.052",
         "496.823",
         "492.443",
-        "501.963",
-        "487.509"
+        "501.963"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "25.560",
         "23.852",
         "23.360",
-        "29.203",
-        "38.518"
+        "29.203"
       ],
       "Taban Puan": [
+        "492.306",
         "477.665",
         "473.327",
-        "484.454",
-        "471.422"
+        "484.454"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "30.169",
         "30.176",
         "31.383",
-        "41.104",
-        "49.462"
+        "41.104"
       ],
       "Taban Puan": [
+        "486.764",
         "469.013",
         "460.405",
-        "469.354",
-        "458.241"
+        "469.354"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "32.854",
         "32.370",
         "35.349",
-        "40.836",
-        "50.290"
+        "40.836"
       ],
       "Taban Puan": [
+        "483.576",
         "466.103",
         "454.532",
-        "469.657",
-        "457.267"
+        "469.657"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -262,9 +262,9 @@
       ],
       "Kontenjan": [
         "8",
-        "7",
-        "7",
-        "6"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "40.300",
         "37.874",
         "33.050",
-        "35.628",
-        "33.217"
+        "35.628"
       ],
       "Taban Puan": [
+        "475.073",
         "459.434",
         "457.947",
-        "476.141",
-        "478.098"
+        "476.141"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "40.950",
         "38.989",
         "40.710",
-        "45.791",
-        "56.619"
+        "45.791"
       ],
       "Taban Puan": [
+        "474.396",
         "458.132",
         "447.094",
-        "463.994",
-        "449.968"
+        "463.994"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -355,59 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "47.116",
         "48.641",
         "55.434",
-        "58.387",
-        "70.910"
+        "58.387"
       ],
       "Taban Puan": [
+        "467.561",
         "447.204",
         "428.658",
-        "449.810",
-        "434.167"
+        "449.810"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103410396",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "70",
-        "70",
-        "70",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "51.706",
-        "55.647",
-        "56.026",
-        "64.186"
-      ],
-      "Taban Puan": [
-        "443.948",
-        "428.390",
-        "452.268",
-        "441.532"
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,18 +396,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "47.303",
         "52.495",
         "62.437",
-        "67.749",
-        "82.127"
+        "67.749"
       ],
       "Taban Puan": [
+        "467.361",
         "443.152",
         "420.704",
-        "439.734",
-        "422.679"
+        "439.734"
       ],
       "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103410396",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "70",
+        "70",
+        "70",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "52.492",
+        "51.706",
+        "55.647",
+        "56.026"
+      ],
+      "Taban Puan": [
+        "461.878",
+        "443.948",
+        "428.390",
+        "452.268"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "53.375",
         "53.512",
         "59.071",
-        "65.015",
-        "80.884"
+        "65.015"
       ],
       "Taban Puan": [
+        "460.918",
         "442.099",
         "424.537",
-        "442.603",
-        "423.882"
+        "442.603"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -519,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "54.110",
         "57.462",
         "62.622",
-        "61.094",
-        "69.074"
+        "61.094"
       ],
       "Taban Puan": [
+        "460.110",
         "437.941",
         "420.500",
-        "446.857",
-        "436.173"
+        "446.857"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -560,18 +560,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "56.535",
         "58.719",
         "67.718",
-        "74.602",
-        "91.332"
+        "74.602"
       ],
       "Taban Puan": [
+        "457.562",
         "436.667",
         "414.907",
-        "432.534",
-        "413.622"
+        "432.534"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111610758",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "50",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "57.254",
+        "62.394",
+        "71.072",
+        "74.747"
+      ],
+      "Taban Puan": [
+        "456.733",
+        "432.985",
+        "411.420",
+        "432.402"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,60 +642,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "59.472",
         "59.941",
         "77.947",
-        "80.597",
-        "101.848"
+        "80.597"
       ],
       "Taban Puan": [
+        "454.388",
         "435.394",
         "404.518",
-        "426.715",
-        "403.788"
+        "426.715"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "111610758",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "50",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "62.394",
-        "71.072",
-        "74.747",
-        "83.959"
-      ],
-      "Taban Puan": [
-        "432.985",
-        "411.420",
-        "432.402",
-        "420.772"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112411059",
@@ -683,16 +683,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "64.303",
         "67.245",
         "79.830",
-        "84.992",
-        "105.245"
+        "84.992"
       ],
       "Taban Puan": [
+        "449.370",
         "428.193",
         "402.662",
-        "422.535",
-        "400.731"
+        "422.535"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103810223",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK-MİMARLIK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "65",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "73.026",
+        "76.956",
+        "87.919",
+        "94.154"
+      ],
+      "Taban Puan": [
+        "440.310",
+        "419.153",
+        "395.022",
+        "413.937"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -724,60 +765,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "75.132",
         "76.130",
         "83.727",
-        "92.134",
-        "101.324"
+        "92.134"
       ],
       "Taban Puan": [
+        "438.274",
         "419.887",
         "398.985",
-        "415.777",
-        "404.284"
+        "415.777"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103810223",
-      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK-MİMARLIK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "65",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "76.956",
-        "87.919",
-        "94.154",
-        "120.045"
-      ],
-      "Taban Puan": [
-        "419.153",
-        "395.022",
-        "413.937",
-        "388.086"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106910382",
@@ -806,60 +806,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "75.470",
         "83.296",
         "97.286",
-        "98.111",
-        "119.358"
+        "98.111"
       ],
       "Taban Puan": [
+        "437.933",
         "413.475",
         "386.711",
-        "410.537",
-        "388.670"
+        "410.537"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206552493",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kimya Mühendisliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "6",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "84.635",
-        "90.170",
-        "84.524",
-        "93.249"
-      ],
-      "Taban Puan": [
-        "412.269",
-        "393.008",
-        "422.959",
-        "411.841"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102410054",
@@ -888,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "82.650",
         "89.844",
         "106.434",
-        "104.633",
-        "135.512"
+        "104.633"
       ],
       "Taban Puan": [
+        "430.842",
         "407.580",
         "379.051",
-        "404.951",
-        "376.168"
+        "404.951"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -929,19 +888,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "87.961",
         "96.620",
         "110.278",
-        "111.151",
-        "139.796"
+        "111.151"
       ],
       "Taban Puan": [
+        "425.704",
         "401.910",
         "375.989",
-        "399.620",
-        "373.085"
+        "399.620"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206552493",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya Mühendisliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "89.114",
+        "84.635",
+        "90.170",
+        "84.524"
+      ],
+      "Taban Puan": [
+        "424.525",
+        "412.269",
+        "393.008",
+        "422.959"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207600171",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya Mühendisliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "92.241",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "421.696",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "209410131",
@@ -970,16 +1011,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "99.468",
         "113.655",
         "147.878",
-        "164.222",
-        "212.457"
+        "164.222"
       ],
       "Taban Puan": [
+        "415.084",
         "388.347",
         "350.135",
-        "363.192",
-        "331.361"
+        "363.192"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1011,60 +1052,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "104.698",
         "130.668",
         "163.532",
-        "181.278",
-        "228.868"
+        "181.278"
       ],
       "Taban Puan": [
+        "410.355",
         "376.036",
         "341.136",
-        "353.788",
-        "324.057"
+        "353.788"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104190617",
-      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "135.136",
-        "279.273",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "372.987",
-        "295.819",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "108210877",
@@ -1093,16 +1093,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "116.431",
         "135.986",
         "161.019",
-        "172.481",
-        "215.894"
+        "172.481"
       ],
       "Taban Puan": [
+        "400.409",
         "372.385",
         "342.548",
-        "358.469",
-        "329.770"
+        "358.469"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -1134,18 +1134,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "132.902",
         "147.662",
         "175.199",
-        "183.768",
-        "225.759"
+        "183.768"
       ],
       "Taban Puan": [
+        "387.336",
         "364.872",
         "335.067",
-        "352.504",
-        "325.356"
+        "352.504"
       ],
       "Şehir": "DENİZLİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104800563",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "135.278",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "385.586",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1175,16 +1216,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "142.567",
         "161.472",
         "193.669",
-        "197.989",
-        "236.242"
+        "197.989"
       ],
       "Taban Puan": [
+        "380.205",
         "356.850",
         "326.359",
-        "345.497",
-        "320.949"
+        "345.497"
       ],
       "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
@@ -1216,60 +1257,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "149.062",
         "161.500",
         "197.799",
-        "219.814",
-        "274.044"
+        "219.814"
       ],
       "Taban Puan": [
+        "375.722",
         "356.832",
         "324.520",
-        "335.768",
-        "306.563"
+        "335.768"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209410208",
-      "Üniversite": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kimya Mühendisliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "16",
-        "8",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "161.671",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "356.743",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "107410542",
@@ -1298,26 +1298,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "151.842",
         "176.148",
         "207.237",
-        "220.298",
-        "258.899"
+        "220.298"
       ],
       "Taban Puan": [
+        "373.840",
         "349.075",
         "320.532",
-        "335.562",
-        "311.995"
+        "335.562"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "209410190",
-      "Üniversite": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kimya Mühendisliği (%50 İndirimli)",
+      "Program Kodu": "108410618",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "ODTÜ KUZEY KIBRIS KAMPUSU (KKTC-GÜZELYURT)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği (İngilizce) (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -1327,8 +1327,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "16",
-        "8",
+        "30",
+        "",
         "",
         ""
       ],
@@ -1339,19 +1339,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "177.232",
+        "154.025",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "348.503",
+        "372.373",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "109290599",
@@ -1380,16 +1380,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "156.880",
         "186.754",
         "",
-        "223.733",
-        ""
+        "223.733"
       ],
       "Taban Puan": [
+        "370.574",
         "343.741",
         "",
-        "334.153",
-        ""
+        "334.153"
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
@@ -1410,9 +1410,9 @@
       ],
       "Kontenjan": [
         "50",
-        "48",
-        "48",
-        "42"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1421,16 +1421,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "180.787",
         "195.957",
         "178.289",
-        "128.060",
-        "126.593"
+        "128.060"
       ],
       "Taban Puan": [
+        "355.735",
         "339.455",
         "333.516",
-        "386.676",
-        "382.857"
+        "386.676"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1462,18 +1462,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "183.384",
         "211.487",
         "251.713",
-        "262.346",
+        "262.346"
+      ],
+      "Taban Puan": [
+        "354.263",
+        "332.646",
+        "304.161",
+        "319.599"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209410208",
+      "Üniversite": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "16",
+        "8",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "190.031",
+        "161.671",
+        "",
         ""
       ],
       "Taban Puan": [
-        "332.646",
-        "304.161",
-        "319.599",
+        "350.654",
+        "356.743",
+        "",
         ""
       ],
-      "Şehir": "AFYONKARAHİSAR",
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "101990016",
+      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "190.420",
+        "238.392",
+        "298.876",
+        ""
+      ],
+      "Taban Puan": [
+        "350.447",
+        "322.135",
+        "290.447",
+        ""
+      ],
+      "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1503,26 +1585,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "196.789",
         "229.530",
         "269.874",
-        "298.774",
-        ""
+        "298.774"
       ],
       "Taban Puan": [
+        "347.047",
         "325.409",
         "298.573",
-        "308.012",
-        ""
+        "308.012"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "101990016",
-      "Üniversite": "BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği",
+      "Program Kodu": "209410190",
+      "Üniversite": "İSTANBUL SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya Mühendisliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -1532,9 +1614,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
+        "16",
+        "8",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -1544,19 +1626,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "238.392",
-        "298.876",
+        "211.042",
+        "177.232",
         "",
         ""
       ],
       "Taban Puan": [
-        "322.135",
-        "290.447",
+        "339.878",
+        "348.503",
         "",
         ""
       ],
-      "Şehir": "BİLECİK",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "109890286",
@@ -1585,18 +1667,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "213.306",
         "259.048",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "338.732",
         "314.885",
-        "",
         "",
         ""
       ],
       "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102610343",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "215.156",
+        "270.470",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "337.822",
+        "311.215",
+        "",
+        ""
+      ],
+      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1626,26 +1749,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "220.108",
         "260.660",
         "",
-        "",
         ""
       ],
       "Taban Puan": [
+        "335.479",
         "314.347",
         "",
-        "",
         ""
       ],
       "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200290170",
-      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Program Kodu": "207600178",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kimya Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Kimya Mühendisliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -1655,10 +1778,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "14",
-        "14",
-        "12",
-        "8"
+        "34",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1667,60 +1790,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "264.588",
-        "189.555",
-        "125.967",
-        "144.017"
+        "222.305",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "313.069",
-        "328.222",
-        "388.223",
-        "370.082"
+        "334.449",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "102610343",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "270.470",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "311.215",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "SİVAS",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102890214",
@@ -1749,14 +1831,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "222.815",
         "276.127",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "334.208",
         "309.414",
-        "",
         "",
         ""
       ],
@@ -1790,14 +1872,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "225.012",
         "282.152",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "333.217",
         "307.600",
-        "",
         "",
         ""
       ],
@@ -1831,14 +1913,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "234.831",
         "290.020",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "328.918",
         "305.258",
-        "",
         "",
         ""
       ],
@@ -1846,9 +1928,132 @@
       "Ücret": "Ücretsiz"
     },
     {
+      "Program Kodu": "200290170",
+      "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kimya Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "14",
+        "14",
+        "12",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "244.800",
+        "264.588",
+        "189.555",
+        "125.967"
+      ],
+      "Taban Puan": [
+        "324.644",
+        "313.069",
+        "328.222",
+        "388.223"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "108100164",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "247.090",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "323.708",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110110561",
+      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "KİMYA-METALURJİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kimya Mühendisliği (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "283.670",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "309.473",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
       "Program Kodu": "405210238",
       "Üniversite": "KIRGIZİSTAN-TÜRKİYE MANAS ÜNİVERSİTESİ (BİŞKEK-KIRGIZİSTAN)",
-      "Fakülte": "Mühendislik Fakültesi",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Kimya Mühendisliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1916,20 +2121,20 @@
         "",
         "",
         "",
-        "261.608"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "311.015"
+        ""
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104800563",
-      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+      "Program Kodu": "104190617",
+      "Üniversite": "GAZİ ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kimya Mühendisliği (İngilizce) (KKTC Uyruklu)",
@@ -1942,9 +2147,9 @@
         "2023"
       ],
       "Kontenjan": [
+        "2",
         "1",
-        "",
-        "",
+        "1",
         ""
       ],
       "Yerleşen": [
@@ -1955,14 +2160,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
+        "135.136",
+        "279.273",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
+        "372.987",
+        "295.819",
         ""
       ],
       "Şehir": "ANKARA",
@@ -2008,88 +2213,6 @@
       ],
       "Şehir": "KARS",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108100164",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "NİĞDE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108410618",
-      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "ODTÜ KUZEY KIBRIS KAMPUSU (KKTC-GÜZELYURT)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108410963",
@@ -2174,129 +2297,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110110561",
-      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "KİMYA-METALURJİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kimya Mühendisliği (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207600171",
-      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kimya Mühendisliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "207600178",
-      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kimya Mühendisliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
       "Program Kodu": "210301914",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "MÜHENDİSLİK-MİMARLIK FAKÜLTESİ",
@@ -2365,15 +2365,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "284.338",
-        "260.777",
-        "286.077"
+        "260.777"
       ],
       "Taban Puan": [
         "",
+        "",
         "294.418",
-        "320.140",
-        "302.434"
+        "320.140"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

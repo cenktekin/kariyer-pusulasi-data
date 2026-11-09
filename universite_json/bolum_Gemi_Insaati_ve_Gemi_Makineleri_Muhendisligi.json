@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "13.287",
         "13.012",
         "16.409",
-        "24.266",
-        "33.448"
+        "24.266"
       ],
       "Taban Puan": [
+        "509.380",
         "495.882",
         "486.458",
-        "491.438",
-        "477.816"
+        "491.438"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,19 +68,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "31.107",
         "28.588",
         "32.688",
-        "40.128",
-        "50.704"
+        "40.128"
       ],
       "Taban Puan": [
+        "485.626",
         "471.094",
         "458.449",
-        "470.531",
-        "456.773"
+        "470.531"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105511024",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "5",
+        "5",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "32.072",
+        "38.784",
+        "61.202",
+        "60.381"
+      ],
+      "Taban Puan": [
+        "484.468",
+        "458.390",
+        "422.086",
+        "447.658"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "204910087",
@@ -109,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "36.201",
         "37.170",
         "42.636",
-        "52.245",
-        "59.610"
+        "52.245"
       ],
       "Taban Puan": [
+        "479.694",
         "460.255",
         "444.582",
-        "456.551",
-        "446.647"
+        "456.551"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105511024",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "38.784",
-        "61.202",
-        "60.381",
-        "96.072"
-      ],
-      "Taban Puan": [
-        "458.390",
-        "422.086",
-        "447.658",
-        "409.172"
-      ],
-      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "58.169",
         "68.203",
         "80.728",
-        "92.330",
-        "122.375"
+        "92.330"
       ],
       "Taban Puan": [
+        "455.773",
         "427.287",
         "401.838",
-        "415.602",
-        "386.254"
+        "415.602"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -232,26 +232,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "60.649",
         "72.347",
         "81.317",
-        "99.563",
-        "132.632"
+        "99.563"
       ],
       "Taban Puan": [
+        "453.210",
         "423.411",
         "401.254",
-        "409.246",
-        "378.259"
+        "409.246"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105590136",
+      "Program Kodu": "105511033",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "GEMİ İNŞAATI VE DENİZ BİLİMLERİ FAKÜLTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (UOLP-Strathclyde) (Ücretli)",
+      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -261,10 +261,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "25"
+        "6",
+        "",
+        "",
+        "8"
       ],
       "Yerleşen": [
         "",
@@ -273,19 +273,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "90.900",
-        "111.022",
+        "69.717",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
-        "406.659",
-        "375.384",
+        "443.788",
+        "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Şehir": "KIBRIS",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "110670135",
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "77.892",
         "92.896",
         "102.731",
-        "120.697",
-        "152.434"
+        "120.697"
       ],
       "Taban Puan": [
+        "435.516",
         "404.969",
         "382.076",
-        "392.175",
-        "364.397"
+        "392.175"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -355,60 +355,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "86.257",
         "98.506",
         "113.695",
-        "122.978",
-        "144.548"
+        "122.978"
       ],
       "Taban Puan": [
+        "427.320",
         "400.408",
         "373.298",
-        "390.428",
-        "369.709"
+        "390.428"
       ],
       "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204910218",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "48",
-        "44",
-        "45",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "103.878",
-        "108.605",
-        "136.175",
-        "165.631"
-      ],
-      "Taban Puan": [
-        "395.918",
-        "377.313",
-        "380.967",
-        "356.022"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "108390196",
@@ -437,15 +396,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "95.257",
         "116.403",
         "143.419",
-        "",
         ""
       ],
       "Taban Puan": [
+        "418.954",
         "386.280",
         "352.900",
-        "",
         ""
       ],
       "Şehir": "ORDU",
@@ -478,19 +437,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "112.399",
         "146.357",
         "179.919",
-        "207.736",
-        ""
+        "207.736"
       ],
       "Taban Puan": [
+        "403.685",
         "365.699",
         "332.721",
-        "340.983",
-        ""
+        "340.983"
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204910218",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "48",
+        "44",
+        "45",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "131.519",
+        "103.878",
+        "108.605",
+        "136.175"
+      ],
+      "Taban Puan": [
+        "388.444",
+        "395.918",
+        "377.313",
+        "380.967"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "105590135",
@@ -519,26 +519,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "266.617",
         "",
         "160.357",
-        "254.416",
-        "129.947"
+        "254.416"
       ],
       "Taban Puan": [
+        "315.872",
         "",
         "342.916",
-        "322.374",
-        "380.287"
+        "322.374"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105510953",
+      "Program Kodu": "105590136",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Fakülte": "GEMİ İNŞAATI VE DENİZ BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (Ücretli)",
+      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (UOLP-Strathclyde) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -561,15 +561,56 @@
       ],
       "Taban Sıralama": [
         "",
+        "90.900",
+        "111.022",
+        ""
+      ],
+      "Taban Puan": [
         "",
-        "157.810",
-        "250.546"
+        "406.659",
+        "375.384",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "105510953",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "İTÜ-KKTC EĞİTİM ARAŞTIRMA YERLEŞKESİ (GAZİMAĞUSA)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Gemi İnşaatı ve Gemi Makineleri Mühendisliği (İngilizce) (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "28",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "",
+        "",
+        "157.810"
       ],
       "Taban Puan": [
         "",
         "",
-        "366.953",
-        "315.186"
+        "",
+        "366.953"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -602,15 +643,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "234.265",
-        "284.193",
-        "250.439"
+        "284.193"
       ],
       "Taban Puan": [
         "",
+        "",
         "310.213",
-        "312.409",
-        "315.238"
+        "312.409"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"

@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "67.554",
         "60.831",
         "62.635",
-        "51.555",
-        "69.011"
+        "51.555"
       ],
       "Taban Puan": [
+        "446.001",
         "434.487",
         "420.483",
-        "457.382",
-        "436.248"
+        "457.382"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "140.888",
         "145.884",
         "140.370",
-        "147.373",
-        "165.959"
+        "147.373"
       ],
       "Taban Puan": [
+        "381.410",
         "365.977",
         "354.732",
-        "373.479",
-        "355.821"
+        "373.479"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "220.776",
         "211.293",
         "220.235",
-        "255.401",
-        "247.004"
+        "255.401"
       ],
       "Taban Puan": [
+        "335.175",
         "332.728",
         "315.381",
-        "322.013",
-        "316.615"
+        "322.013"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "248.944",
         "246.366",
         "272.811",
-        "318.430",
-        ""
+        "318.430"
       ],
       "Taban Puan": [
+        "322.928",
         "319.250",
         "297.708",
-        "302.501",
-        ""
+        "302.501"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "394.038",
         "460.704",
         "194.408",
-        "169.416",
-        "233.274"
+        "169.416"
       ],
       "Taban Puan": [
+        "277.153",
         "268.227",
         "326.039",
-        "360.201",
-        "322.186"
+        "360.201"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -232,26 +232,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "504.096",
         "555.504",
         "595.089",
-        "588.724",
-        "593.718"
+        "588.724"
       ],
       "Taban Puan": [
+        "254.889",
         "254.847",
         "243.177",
-        "252.731",
-        "240.492"
+        "252.731"
       ],
       "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "208750600",
-      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
-      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Program Kodu": "203800192",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "MİMARLIK, TASARIM VE GÜZEL SANATLAR FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kentsel Tasarım ve Peyzaj Mimarlığı (%50 İndirimli)",
+      "Program Adı": "Kentsel Tasarım ve Peyzaj Mimarlığı (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -261,10 +261,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "24",
-        "25",
-        "24"
+        "5",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -273,19 +273,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.211.912",
-        "973.383",
-        "957.066",
+        "525.633",
+        "",
+        "",
         ""
       ],
       "Taban Puan": [
-        "192.533",
-        "212.216",
-        "218.190",
+        "251.327",
+        "",
+        "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "301610164",
@@ -314,19 +314,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.078.345",
         "1.240.333",
         "1.140.481",
-        "1.457.326",
-        ""
+        "1.457.326"
       ],
       "Taban Puan": [
+        "180.166",
         "187.854",
         "197.444",
-        "173.924",
-        ""
+        "173.924"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "208750600",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
+      "Fakülte": "SANAT VE TASARIM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kentsel Tasarım ve Peyzaj Mimarlığı (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "24",
+        "25",
+        "24"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.211.912",
+        "973.383",
+        "957.066"
+      ],
+      "Taban Puan": [
+        "",
+        "192.533",
+        "212.216",
+        "218.190"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "203100864",
@@ -368,47 +409,6 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "203800192",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "MİMARLIK, TASARIM VE GÜZEL SANATLAR FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kentsel Tasarım ve Peyzaj Mimarlığı (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "203800199",
@@ -479,15 +479,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "694.990",
-        "630.026",
-        "376.674"
+        "630.026"
       ],
       "Taban Puan": [
         "",
+        "",
         "234.182",
-        "247.736",
-        "276.895"
+        "247.736"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

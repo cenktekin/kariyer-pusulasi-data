@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "296.774",
         "267.787",
         "337.239",
-        "385.695",
-        "412.473"
+        "385.695"
       ],
       "Taban Puan": [
+        "371.953",
         "373.853",
         "363.153",
-        "356.243",
-        "346.980"
+        "356.243"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "368.976",
         "420.855",
         "485.197",
-        "529.976",
-        "518.195"
+        "529.976"
       ],
       "Taban Puan": [
+        "357.362",
         "346.522",
         "339.383",
-        "335.481",
-        "331.100"
+        "335.481"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Burslu"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "396.406",
         "425.195",
         "675.826",
-        "819.468",
-        "622.384"
+        "819.468"
       ],
       "Taban Puan": [
+        "352.572",
         "345.866",
         "317.901",
-        "305.426",
-        "318.154"
+        "305.426"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,60 +150,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "500.101",
         "534.601",
         "685.779",
-        "751.836",
-        "612.738"
+        "751.836"
       ],
       "Taban Puan": [
+        "336.953",
         "331.277",
         "316.938",
-        "311.578",
-        "319.262"
+        "311.578"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "110670197",
-      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz ve Liman İşletmeciliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "40",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "653.197",
-        "863.764",
-        "998.272",
-        "1.035.871"
-      ],
-      "Taban Puan": [
-        "318.126",
-        "301.471",
-        "290.764",
-        "280.471"
-      ],
-      "Şehir": "BALIKESİR",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109750392",
@@ -232,59 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "566.854",
         "658.006",
         "899.071",
-        "1.135.268",
-        "1.047.899"
+        "1.135.268"
       ],
       "Taban Puan": [
+        "328.372",
         "317.640",
         "298.728",
-        "280.646",
-        "279.567"
+        "280.646"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107451257",
-      "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz ve Liman İşletmeciliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "35",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "668.577",
-        "1.004.201",
-        "1.155.058",
-        "1.057.753"
-      ],
-      "Taban Puan": [
-        "316.574",
-        "290.925",
-        "279.255",
-        "278.836"
-      ],
-      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,18 +232,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "568.334",
         "674.872",
         "1.023.149",
-        "1.168.738",
-        ""
+        "1.168.738"
       ],
       "Taban Puan": [
+        "328.186",
         "315.950",
         "289.569",
-        "278.297",
-        ""
+        "278.297"
       ],
       "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107451257",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz ve Liman İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "570.960",
+        "668.577",
+        "1.004.201",
+        "1.155.058"
+      ],
+      "Taban Puan": [
+        "327.862",
+        "316.574",
+        "290.925",
+        "279.255"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110670197",
+      "Üniversite": "BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ (BALIKESİR)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz ve Liman İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "40",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "579.825",
+        "653.197",
+        "863.764",
+        "998.272"
+      ],
+      "Taban Puan": [
+        "326.776",
+        "318.126",
+        "301.471",
+        "290.764"
+      ],
+      "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "618.303",
         "703.398",
         "1.031.211",
-        "1.222.465",
-        "1.078.526"
+        "1.222.465"
       ],
       "Taban Puan": [
+        "322.305",
         "313.185",
         "288.997",
-        "274.566",
-        "277.322"
+        "274.566"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "647.412",
         "718.836",
         "1.102.506",
-        "1.258.463",
-        "1.163.760"
+        "1.258.463"
       ],
       "Taban Puan": [
+        "319.083",
         "311.710",
         "284.069",
-        "272.144",
-        "271.320"
+        "272.144"
       ],
       "Şehir": "ÇANAKKALE",
       "Ücret": "Ücretsiz"
@@ -437,60 +437,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "668.723",
         "786.039",
         "1.127.326",
-        "1.286.058",
-        "1.187.041"
+        "1.286.058"
       ],
       "Taban Puan": [
+        "316.798",
         "305.588",
         "282.386",
-        "270.315",
-        "269.744"
+        "270.315"
       ],
       "Şehir": "YALOVA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204950032",
-      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz ve Liman İşletmeciliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "36",
-        "36",
-        "49"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "793.052",
-        "982.442",
-        "1.232.622",
-        "1.368.411"
-      ],
-      "Taban Puan": [
-        "304.976",
-        "292.490",
-        "273.875",
-        "258.252"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "111890215",
@@ -519,16 +478,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "683.321",
         "823.436",
         "1.113.505",
-        "1.356.246",
-        "1.254.187"
+        "1.356.246"
       ],
       "Taban Puan": [
+        "315.273",
         "302.352",
         "283.313",
-        "265.753",
-        "265.330"
+        "265.753"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
@@ -560,59 +519,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "711.334",
         "835.902",
         "1.225.606",
-        "1.370.431",
-        "1.337.310"
+        "1.370.431"
       ],
       "Taban Puan": [
+        "312.399",
         "301.296",
         "275.912",
-        "264.828",
-        "260.129"
+        "264.828"
       ],
       "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107990206",
-      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "BARBAROS DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Deniz ve Liman İşletmeciliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "869.576",
-        "1.239.066",
-        "",
-        "1.358.793"
-      ],
-      "Taban Puan": [
-        "298.484",
-        "275.040",
-        "",
-        "258.828"
-      ],
-      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -642,18 +560,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "720.240",
         "889.136",
         "1.367.104",
-        "1.512.748",
+        "1.512.748"
+      ],
+      "Taban Puan": [
+        "311.509",
+        "296.890",
+        "266.993",
+        "256.004"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107990206",
+      "Üniversite": "TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "BARBAROS DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Deniz ve Liman İşletmeciliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "720.603",
+        "869.576",
+        "1.239.066",
         ""
       ],
       "Taban Puan": [
-        "296.890",
-        "266.993",
-        "256.004",
+        "311.475",
+        "298.484",
+        "275.040",
         ""
       ],
-      "Şehir": "HATAY",
+      "Şehir": "TEKİRDAĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -683,16 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "782.963",
         "906.071",
         "1.405.259",
-        "1.579.408",
-        "1.476.988"
+        "1.579.408"
       ],
       "Taban Puan": [
+        "305.482",
         "295.526",
         "264.643",
-        "252.061",
-        "251.974"
+        "252.061"
       ],
       "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
@@ -724,60 +683,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "804.737",
         "997.870",
         "1.396.990",
-        "1.573.844",
-        "1.454.214"
+        "1.573.844"
       ],
       "Taban Puan": [
+        "303.471",
         "288.330",
         "265.147",
-        "252.387",
-        "253.261"
+        "252.387"
       ],
       "Şehir": "SİNOP",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "300750018",
-      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz ve Liman İşletmeciliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.077.359",
-        "1.297.907",
-        "1.647.886",
-        "1.823.239"
-      ],
-      "Taban Puan": [
-        "282.384",
-        "271.290",
-        "248.060",
-        "234.410"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101650266",
@@ -806,16 +724,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "933.898",
         "1.088.318",
         "1.428.292",
-        "1.610.509",
-        "1.416.816"
+        "1.610.509"
       ],
       "Taban Puan": [
+        "292.277",
         "281.580",
         "263.218",
-        "250.235",
-        "255.413"
+        "250.235"
       ],
       "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
@@ -847,16 +765,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "935.444",
         "1.125.813",
         "1.300.178",
-        "1.526.340",
-        "1.667.898"
+        "1.526.340"
       ],
       "Taban Puan": [
+        "292.147",
         "278.872",
         "271.150",
-        "255.196",
-        "241.878"
+        "255.196"
       ],
       "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
@@ -888,16 +806,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.034.552",
         "1.207.156",
         "1.637.909",
-        "1.829.789",
-        "1.786.429"
+        "1.829.789"
       ],
       "Taban Puan": [
+        "284.089",
         "273.072",
         "250.850",
-        "237.912",
-        "236.123"
+        "237.912"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -929,19 +847,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.044.299",
         "1.256.875",
         "1.596.930",
-        "1.816.850",
-        "1.801.376"
+        "1.816.850"
       ],
       "Taban Puan": [
+        "283.326",
         "269.606",
         "253.231",
-        "238.612",
-        "235.419"
+        "238.612"
       ],
       "Şehir": "ARTVİN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300750018",
+      "Üniversite": "GİRNE ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz ve Liman İşletmeciliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.064.477",
+        "1.077.359",
+        "1.297.907",
+        "1.647.886"
+      ],
+      "Taban Puan": [
+        "281.732",
+        "282.384",
+        "271.290",
+        "248.060"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204950032",
+      "Üniversite": "PİRİ REİS ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "DENİZCİLİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz ve Liman İşletmeciliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "36",
+        "36",
+        "49"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.080.468",
+        "793.052",
+        "982.442",
+        "1.232.622"
+      ],
+      "Taban Puan": [
+        "280.476",
+        "304.976",
+        "292.490",
+        "273.875"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "102190041",
@@ -970,60 +970,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.192.503",
         "1.438.666",
         "1.860.583",
-        "2.000.569",
-        "2.067.843"
+        "2.000.569"
       ],
       "Taban Puan": [
+        "271.967",
         "257.094",
         "238.270",
-        "228.836",
-        "223.749"
+        "228.836"
       ],
       "Şehir": "BİTLİS",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206050662",
-      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz ve Liman İşletmeciliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "8",
-        "7",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.584.121",
-        "1.609.930",
-        "1.603.860",
-        "1.690.141"
-      ],
-      "Taban Puan": [
-        "247.188",
-        "252.477",
-        "250.620",
-        "240.759"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "200850521",
@@ -1052,16 +1011,98 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.312.843",
         "1.650.265",
         "1.769.004",
-        "1.834.583",
-        "1.852.503"
+        "1.834.583"
       ],
       "Taban Puan": [
+        "263.208",
         "242.683",
         "243.388",
-        "237.645",
-        "233.057"
+        "237.645"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206050662",
+      "Üniversite": "YAŞAR ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz ve Liman İşletmeciliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "8",
+        "7",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.550.277",
+        "1.584.121",
+        "1.609.930",
+        "1.603.860"
+      ],
+      "Taban Puan": [
+        "246.415",
+        "247.188",
+        "252.477",
+        "250.620"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "202753582",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Deniz ve Liman İşletmeciliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "62",
+        "58"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.776.784",
+        "2.093.122",
+        "2.389.574",
+        "2.430.530"
+      ],
+      "Taban Puan": [
+        "230.439",
+        "210.576",
+        "209.283",
+        "207.407"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -1093,15 +1134,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "",
         "1.789.619",
         "1.607.287",
-        "",
         ""
       ],
       "Taban Puan": [
+        "",
         "233.149",
         "252.632",
-        "",
         ""
       ],
       "Şehir": "KOCAELİ",
@@ -1134,60 +1175,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "",
         "1.834.877",
         "1.875.550",
-        "1.874.153",
-        ""
+        "1.874.153"
       ],
       "Taban Puan": [
+        "",
         "230.011",
         "237.434",
-        "235.512",
-        ""
+        "235.512"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "202753582",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "İSTANBUL GELİŞİM MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Deniz ve Liman İşletmeciliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "62",
-        "58"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.093.122",
-        "2.389.574",
-        "2.430.530",
-        "2.024.621"
-      ],
-      "Taban Puan": [
-        "210.576",
-        "209.283",
-        "207.407",
-        "225.570"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300790059",

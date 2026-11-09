@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "202453319",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "13",
-        "13",
-        "11",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "606.661",
-        "731.136",
-        "653.770",
-        "619.863"
-      ],
-      "Taban Puan": [
-        "323.047",
-        "312.732",
-        "321.277",
-        "318.447"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "201990587",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -68,19 +27,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "514.102",
         "611.308",
         "682.831",
-        "826.435",
-        ""
+        "826.435"
       ],
       "Taban Puan": [
+        "335.069",
         "322.555",
         "317.220",
-        "304.823",
-        ""
+        "304.823"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210500493",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "530.353",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "332.924",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "101050899",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "YUNUS EMRE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "65",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "572.261",
+        "658.295",
+        "707.564",
+        "703.166"
+      ],
+      "Taban Puan": [
+        "327.705",
+        "317.613",
+        "314.905",
+        "316.244"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "206552614",
@@ -109,15 +150,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "589.330",
         "629.684",
         "798.873",
-        "",
         ""
       ],
       "Taban Puan": [
+        "325.650",
         "320.587",
         "306.806",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -150,16 +191,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "604.676",
         "633.719",
         "645.086",
-        "750.687",
-        "671.767"
+        "750.687"
       ],
       "Taban Puan": [
+        "323.867",
         "320.158",
         "320.935",
-        "311.683",
-        "312.736"
+        "311.683"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202453319",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "ANADOLU BİL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "13",
+        "13",
+        "11",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "617.799",
+        "606.661",
+        "731.136",
+        "653.770"
+      ],
+      "Taban Puan": [
+        "322.366",
+        "323.047",
+        "312.732",
+        "321.277"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -191,60 +273,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "623.921",
         "653.906",
         "746.109",
-        "832.992",
-        "667.700"
+        "832.992"
       ],
       "Taban Puan": [
+        "321.674",
         "318.054",
         "311.379",
-        "304.242",
-        "313.184"
+        "304.242"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "101050899",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "YUNUS EMRE SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "65",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "658.295",
-        "707.564",
-        "703.166",
-        "724.139"
-      ],
-      "Taban Puan": [
-        "317.613",
-        "314.905",
-        "316.244",
-        "307.306"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "107490394",
@@ -273,19 +314,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "647.677",
         "675.086",
         "803.409",
-        "",
         ""
       ],
       "Taban Puan": [
+        "319.052",
         "315.927",
         "306.425",
-        "",
         ""
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210302488",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "652.357",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "318.546",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202300864",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "661.265",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "317.599",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "206850539",
@@ -314,16 +437,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "696.592",
         "726.732",
         "751.031",
-        "740.537",
-        "560.893"
+        "740.537"
       ],
       "Taban Puan": [
+        "313.895",
         "310.960",
         "310.934",
-        "312.652",
-        "325.498"
+        "312.652"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207500115",
+      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "712.918",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.243",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -355,16 +519,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "733.251",
         "767.165",
         "900.861",
-        "718.272",
-        "850.198"
+        "718.272"
       ],
       "Taban Puan": [
+        "310.223",
         "307.273",
         "298.592",
-        "314.793",
-        "295.507"
+        "314.793"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
@@ -396,59 +560,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "733.459",
         "798.509",
         "895.221",
-        "952.979",
-        "881.711"
+        "952.979"
       ],
       "Taban Puan": [
+        "310.204",
         "304.503",
         "299.023",
-        "294.270",
-        "292.784"
+        "294.270"
       ],
       "Şehir": "MANİSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111751066",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "874.920",
-        "990.029",
-        "1.009.187",
-        "953.078"
-      ],
-      "Taban Puan": [
-        "298.047",
-        "291.943",
-        "289.924",
-        "286.863"
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,18 +601,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "766.059",
         "898.129",
         "992.284",
-        "723.729",
-        "858.682"
+        "723.729"
       ],
       "Taban Puan": [
+        "307.058",
         "296.157",
         "291.783",
-        "314.266",
-        "294.774"
+        "314.266"
       ],
       "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111751066",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "782.805",
+        "874.920",
+        "990.029",
+        "1.009.187"
+      ],
+      "Taban Puan": [
+        "305.497",
+        "298.047",
+        "291.943",
+        "289.924"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,100 +683,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "840.151",
         "954.162",
         "1.053.751",
-        "1.115.826",
-        "996.041"
+        "1.115.826"
       ],
       "Taban Puan": [
+        "300.304",
         "291.700",
         "287.417",
-        "282.029",
-        "283.508"
+        "282.029"
       ],
       "Şehir": "AYDIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101690106",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "BARTIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "35",
-        "35"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.021.480",
-        "1.211.315",
-        "1.311.337",
-        "1.172.080"
-      ],
-      "Taban Puan": [
-        "286.549",
-        "276.844",
-        "268.651",
-        "270.750"
-      ],
-      "Şehir": "BARTIN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110350982",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "AHMET ERDOĞAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "65",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.022.548",
-        "1.186.270",
-        "1.327.243",
-        "1.192.198"
-      ],
-      "Taban Puan": [
-        "286.466",
-        "278.462",
-        "267.616",
-        "269.400"
-      ],
-      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -642,19 +724,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "920.826",
         "1.037.976",
         "1.322.599",
-        "1.470.806",
-        "1.394.283"
+        "1.470.806"
       ],
       "Taban Puan": [
+        "293.364",
         "285.308",
         "269.753",
-        "258.565",
-        "256.716"
+        "258.565"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110350982",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "AHMET ERDOĞAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "65",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "934.787",
+        "1.022.548",
+        "1.186.270",
+        "1.327.243"
+      ],
+      "Taban Puan": [
+        "292.201",
+        "286.466",
+        "278.462",
+        "267.616"
+      ],
+      "Şehir": "ZONGULDAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101690106",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "BARTIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "35",
+        "35"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "940.590",
+        "1.021.480",
+        "1.211.315",
+        "1.311.337"
+      ],
+      "Taban Puan": [
+        "291.716",
+        "286.549",
+        "276.844",
+        "268.651"
+      ],
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104390110",
@@ -683,16 +847,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "963.228",
         "1.040.940",
         "1.236.867",
-        "1.345.859",
-        "1.174.083"
+        "1.345.859"
       ],
       "Taban Puan": [
+        "289.838",
         "285.093",
         "275.187",
-        "266.424",
-        "270.615"
+        "266.424"
       ],
       "Şehir": "TOKAT",
       "Ücret": "Ücretsiz"
@@ -724,16 +888,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.030.034",
         "1.124.459",
         "1.285.388",
-        "1.285.541",
-        "1.234.103"
+        "1.285.541"
       ],
       "Taban Puan": [
+        "284.445",
         "278.969",
         "272.078",
-        "270.350",
-        "266.634"
+        "270.350"
       ],
       "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
@@ -765,24 +929,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.129.371",
         "1.254.115",
         "1.406.705",
-        "1.441.963",
-        "1.344.929"
+        "1.441.963"
       ],
       "Taban Puan": [
+        "276.721",
         "269.801",
         "264.551",
-        "260.331",
-        "259.666"
+        "260.331"
       ],
       "Şehir": "ARDAHAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206552621",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "111790465",
+      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
+      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.679.335",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "237.389",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201990594",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -794,9 +999,50 @@
         "2023"
       ],
       "Kontenjan": [
-        "51",
-        "51",
-        "25",
+        "34",
+        "",
+        "",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.704.389",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "235.622",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "210500500",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -806,18 +1052,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.969.961",
-        "2.007.357",
+        "1.828.374",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
-        "220.277",
-        "230.247",
+        "226.683",
+        "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -847,15 +1093,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.834.956",
         "2.019.141",
         "2.478.865",
-        "",
         ""
       ],
       "Taban Puan": [
+        "226.204",
         "216.544",
         "203.922",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -888,23 +1134,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.017.377",
         "2.110.815",
         "2.123.081",
-        "1.652.169",
-        "1.356.106"
+        "1.652.169"
       ],
       "Taban Puan": [
+        "211.493",
         "209.076",
         "223.988",
-        "247.811",
-        "258.989"
+        "247.811"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202754156",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Program Kodu": "206552621",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (%50 İndirimli)",
@@ -917,10 +1163,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "38",
-        "38",
-        "34",
-        "34"
+        "51",
+        "51",
+        "25",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -929,16 +1175,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "2.223.520",
-        "2.510.280",
-        "2.056.994",
-        "1.647.629"
+        "2.040.969",
+        "1.969.961",
+        "2.007.357",
+        ""
       ],
       "Taban Puan": [
-        "197.521",
-        "201.927",
-        "225.929",
-        "242.907"
+        "209.256",
+        "220.277",
+        "230.247",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -970,26 +1216,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.066.112",
         "2.285.367",
         "2.240.221",
-        "2.297.864",
-        "1.761.257"
+        "2.297.864"
       ],
       "Taban Puan": [
+        "206.662",
         "186.217",
         "217.619",
-        "213.943",
-        "237.311"
+        "213.943"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "111790465",
-      "Üniversite": "ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ",
-      "Fakülte": "POLATLI SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (KKTC Uyruklu)",
+      "Program Kodu": "202754156",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -999,10 +1245,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
-        "",
-        ""
+        "38",
+        "38",
+        "34",
+        "34"
       ],
       "Yerleşen": [
         "",
@@ -1011,19 +1257,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
+        "2.101.841",
+        "2.223.520",
+        "2.510.280",
+        "2.056.994"
       ],
       "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
+        "202.467",
+        "197.521",
+        "201.927",
+        "225.929"
       ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "102590172",
@@ -1055,98 +1301,16 @@
         "",
         "",
         "",
-        "1.349.101"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "259.412"
+        ""
       ],
       "Şehir": "MANİSA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "201990594",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "",
-        "",
-        "34"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202300864",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202300871",
@@ -1190,47 +1354,6 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210302488",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "210302495",
       "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -1270,47 +1393,6 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "207500115",
-      "Üniversite": "İSTANBUL ESENYURT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "207500122",
@@ -1381,99 +1463,17 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.966.703",
-        "2.118.397",
-        "1.674.455"
+        "2.118.397"
       ],
       "Taban Puan": [
+        "",
         "",
         "232.446",
-        "222.820",
-        "241.546"
+        "222.820"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210500493",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210500500",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Saç Bakımı ve Güzellik Hizmetleri (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -1504,15 +1504,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.315.737",
-        "2.426.737",
-        "2.812.959"
+        "2.426.737"
       ],
       "Taban Puan": [
         "",
+        "",
         "213.463",
-        "207.596",
-        "189.285"
+        "207.596"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

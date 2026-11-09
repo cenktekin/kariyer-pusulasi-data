@@ -27,16 +27,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "159.479",
         "149.405",
         "142.988",
-        "110.161",
-        "115.725"
+        "110.161"
       ],
       "Taban Puan": [
+        "368.889",
         "363.820",
         "353.136",
-        "400.388",
-        "391.658"
+        "400.388"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210302544",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Matematik ve Bilgisayar Bilimleri (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "192.864",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "349.156",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "198.870",
         "163.206",
         "161.964",
-        "154.518",
-        "199.600"
+        "154.518"
       ],
       "Taban Puan": [
+        "345.940",
         "355.916",
         "341.992",
-        "368.951",
-        "337.483"
+        "368.951"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -109,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "281.438",
         "309.312",
         "295.426",
-        "271.411",
-        "308.979"
+        "271.411"
       ],
       "Taban Puan": [
+        "310.275",
         "299.831",
         "291.307",
-        "316.538",
-        "295.161"
+        "316.538"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "329.552",
         "330.378",
         "315.281",
-        "321.791",
-        "362.933"
+        "321.791"
       ],
       "Taban Puan": [
+        "294.404",
         "294.321",
         "286.291",
-        "301.585",
-        "280.227"
+        "301.585"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -191,60 +232,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "553.613",
         "530.479",
         "723.618",
-        "433.173",
-        "298.707"
+        "433.173"
       ],
       "Taban Puan": [
+        "246.966",
         "258.029",
         "231.807",
-        "276.520",
-        "298.346"
+        "276.520"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "107090445",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "FEN FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Matematik ve Bilgisayar Bilimleri (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "1",
-        "1",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "625.754",
-        "648.533",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "246.839",
-        "238.148",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "300190482",
@@ -273,26 +273,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "940.858",
         "1.274.934",
         "",
-        "645.179",
-        ""
+        "645.179"
       ],
       "Taban Puan": [
+        "200.352",
         "178.970",
         "",
-        "246.049",
-        ""
+        "246.049"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "210302544",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "FEN-EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Matematik ve Bilgisayar Bilimleri (Burslu)",
+      "Program Kodu": "107090445",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Matematik ve Bilgisayar Bilimleri (KKTC Uyruklu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -302,9 +302,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "5",
-        "",
-        "",
+        "2",
+        "1",
+        "1",
         ""
       ],
       "Yerleşen": [
@@ -315,18 +315,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
+        "625.754",
+        "648.533",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
+        "246.839",
+        "238.148",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "210302551",
@@ -398,14 +398,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "384.546",
-        "373.215"
+        "",
+        "384.546"
       ],
       "Taban Puan": [
         "",
         "",
-        "286.345",
-        "277.738"
+        "",
+        "286.345"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -438,15 +438,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.175.088",
-        "492.388",
-        "471.149"
+        "492.388"
       ],
       "Taban Puan": [
         "",
+        "",
         "193.842",
-        "266.281",
-        "257.855"
+        "266.281"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"

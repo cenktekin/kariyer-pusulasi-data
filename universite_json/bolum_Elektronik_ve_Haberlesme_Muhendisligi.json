@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.832",
         "2.126",
         "2.388",
-        "2.601",
-        "2.580"
+        "2.601"
       ],
       "Taban Puan": [
+        "536.533",
         "528.923",
         "529.417",
-        "535.185",
-        "532.119"
+        "535.185"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.802",
         "2.879",
         "3.658",
-        "4.061",
-        "4.670"
+        "4.061"
       ],
       "Taban Puan": [
+        "532.422",
         "525.130",
         "522.831",
-        "530.138",
-        "525.096"
+        "530.138"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.911",
         "12.260",
         "12.342",
-        "14.363",
-        "19.381"
+        "14.363"
       ],
       "Taban Puan": [
+        "505.416",
         "497.395",
         "495.313",
-        "507.100",
-        "497.211"
+        "507.100"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -150,26 +150,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "29.020",
         "24.094",
         "20.330",
-        "23.137",
-        "31.715"
+        "23.137"
       ],
       "Taban Puan": [
+        "488.149",
         "477.305",
         "478.848",
-        "493.053",
-        "480.078"
+        "493.053"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "105511078",
+      "Program Kodu": "105500108",
       "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
       "Fakülte": "ELEKTRİK-ELEKTRONİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (UOLP-New Jersey Institute of Technology) (Ücretli)",
+      "Program Adı": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (UOLP-Uluslararası Saraybosna Üniversitesi) (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -179,10 +179,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
+        "20",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -191,19 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "44.994",
-        "51.443",
+        "63.274",
         "",
-        "126.842"
+        "",
+        ""
       ],
       "Taban Puan": [
-        "451.292",
-        "433.438",
+        "450.412",
         "",
-        "382.655"
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Ücret": "%25 İndirimli"
     },
     {
       "Program Kodu": "106910328",
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "68.810",
         "77.708",
         "80.082",
-        "79.061",
-        "88.431"
+        "79.061"
       ],
       "Taban Puan": [
+        "444.686",
         "418.508",
         "402.446",
-        "428.186",
-        "416.315"
+        "428.186"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -273,18 +273,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "171.040",
         "131.105",
         "60.727",
-        "93.699",
-        "67.011"
+        "93.699"
       ],
       "Taban Puan": [
+        "361.553",
         "375.750",
         "422.616",
-        "414.349",
-        "438.419"
+        "414.349"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106290132",
+      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "OF TEKNOLOJİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Elektronik ve Haberleşme Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "187.345",
+        "215.225",
+        "238.939",
+        "245.509"
+      ],
+      "Taban Puan": [
+        "352.061",
+        "331.045",
+        "308.542",
+        "325.611"
+      ],
+      "Şehir": "TRABZON",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,26 +355,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "187.593",
         "209.063",
         "230.793",
-        "243.323",
-        ""
+        "243.323"
       ],
       "Taban Puan": [
+        "351.940",
         "333.663",
         "311.448",
-        "326.427",
-        ""
+        "326.427"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "106290132",
-      "Üniversite": "KARADENİZ TEKNİK ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "OF TEKNOLOJİ FAKÜLTESİ",
+      "Program Kodu": "105511078",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "ELEKTRİK-ELEKTRONİK FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektronik ve Haberleşme Mühendisliği",
+      "Program Adı": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (UOLP-New Jersey Institute of Technology) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -344,50 +385,9 @@
       ],
       "Kontenjan": [
         "30",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "215.225",
-        "238.939",
-        "245.509",
-        "272.330"
-      ],
-      "Taban Puan": [
-        "331.045",
-        "308.542",
-        "325.611",
-        "307.171"
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105500108",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "ELEKTRİK-ELEKTRONİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Elektronik ve Haberleşme Mühendisliği (İngilizce) (UOLP-Uluslararası Saraybosna Üniversitesi) (%25 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "",
-        "",
-        ""
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -397,18 +397,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
+        "44.994",
+        "51.443",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
+        "451.292",
+        "433.438",
         ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%25 İndirimli"
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "105810176",

@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "8.900",
         "8.297",
         "9.709",
-        "10.478",
-        "11.650"
+        "10.478"
       ],
       "Taban Puan": [
+        "443.190",
         "441.592",
         "445.358",
-        "451.700",
-        "440.429"
+        "451.700"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "10.790",
         "11.412",
         "12.851",
-        "13.220",
-        "13.769"
+        "13.220"
       ],
       "Taban Puan": [
+        "435.453",
         "429.475",
         "433.568",
-        "441.346",
-        "432.022"
+        "441.346"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "13.902",
         "12.124",
         "13.312",
-        "15.239",
-        "17.248"
+        "15.239"
       ],
       "Taban Puan": [
+        "424.274",
         "427.011",
         "431.989",
-        "434.883",
-        "419.890"
+        "434.883"
       ],
       "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105690657",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Almanca Mütercim ve Tercümanlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "60",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "14.311",
+        "81.572",
+        "92.465",
+        "89.049"
+      ],
+      "Taban Puan": [
+        "422.870",
+        "272.780",
+        "267.224",
+        "273.466"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,14 +191,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "23.414",
         "26.461",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "397.196",
         "388.153",
-        "",
         "",
         ""
       ],
@@ -191,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "24.662",
         "28.606",
         "32.946",
-        "35.072",
-        "37.337"
+        "35.072"
       ],
       "Taban Puan": [
+        "394.064",
         "383.089",
         "379.998",
-        "384.075",
-        "362.901"
+        "384.075"
       ],
       "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109490281",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Almanca Mütercim ve Tercümanlık",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "DİL",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "65",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "36.205",
-        "40.412",
-        "48.547",
-        "46.684"
-      ],
-      "Taban Puan": [
-        "365.519",
-        "363.695",
-        "353.455",
-        "338.800"
-      ],
-      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +273,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "27.607",
         "36.500",
         "44.021",
-        "45.565",
-        "47.416"
+        "45.565"
       ],
       "Taban Puan": [
+        "386.912",
         "364.883",
         "356.096",
-        "359.952",
-        "336.907"
+        "359.952"
       ],
       "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109490281",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
+      "Fakülte": "EDEBİYAT FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Almanca Mütercim ve Tercümanlık",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "65",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "29.511",
+        "36.205",
+        "40.412",
+        "48.547"
+      ],
+      "Taban Puan": [
+        "382.180",
+        "365.519",
+        "363.695",
+        "353.455"
+      ],
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,100 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "49.235",
         "65.771",
         "77.820",
-        "79.095",
-        ""
+        "79.095"
       ],
       "Taban Puan": [
+        "335.827",
         "302.950",
         "291.563",
-        "291.324",
-        ""
+        "291.324"
       ],
       "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105690657",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "EDEBİYAT FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Almanca Mütercim ve Tercümanlık",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "DİL",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "60",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "81.572",
-        "92.465",
-        "89.049",
-        "54.290"
-      ],
-      "Taban Puan": [
-        "272.780",
-        "267.224",
-        "273.466",
-        "319.887"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107290450",
-      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Almanca Mütercim ve Tercümanlık (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "DİL",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "119.038",
-        "74.245",
-        "40.910",
-        "96.589"
-      ],
-      "Taban Puan": [
-        "212.805",
-        "297.799",
-        "370.521",
-        "228.184"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -437,18 +396,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "67.974",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "295.606",
         "",
         "",
         ""
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107290450",
+      "Üniversite": "MARMARA ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "İNSAN VE TOPLUM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Almanca Mütercim ve Tercümanlık (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "DİL",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "90.796",
+        "119.038",
+        "74.245",
+        "40.910"
+      ],
+      "Taban Puan": [
+        "252.583",
+        "212.805",
+        "297.799",
+        "370.521"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     }
   ]

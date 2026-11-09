@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "11.292",
         "15.772",
         "25.026",
-        "26.859",
-        "34.811"
+        "26.859"
       ],
       "Taban Puan": [
+        "407.572",
         "384.555",
         "406.394",
-        "394.103",
-        "388.287"
+        "394.103"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -57,9 +57,9 @@
       ],
       "Kontenjan": [
         "4",
-        "4",
-        "4",
-        "5"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -68,60 +68,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "37.276",
         "55.497",
         "76.708",
-        "77.126",
-        "83.256"
+        "77.126"
       ],
       "Taban Puan": [
+        "375.919",
         "351.280",
         "373.030",
-        "362.550",
-        "360.363"
+        "362.550"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104890568",
-      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "İLETİŞİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İletişim Bilimleri (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "209.306",
-        "281.091",
-        "280.042",
-        ""
-      ],
-      "Taban Puan": [
-        "306.339",
-        "317.988",
-        "310.716",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "102910667",
@@ -150,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "204.061",
         "270.901",
         "324.119",
-        "215.664",
-        "326.827"
+        "215.664"
       ],
       "Taban Puan": [
+        "314.059",
         "295.846",
         "310.662",
-        "322.674",
-        "303.941"
+        "322.674"
       ],
       "Şehir": "ADANA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104890568",
+      "Üniversite": "HACETTEPE ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "İLETİŞİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İletişim Bilimleri (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "1",
+        "1"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "311.549",
+        "209.306",
+        "281.091",
+        "280.042"
+      ],
+      "Taban Puan": [
+        "293.529",
+        "306.339",
+        "317.988",
+        "310.716"
+      ],
+      "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -221,9 +221,9 @@
       ],
       "Kontenjan": [
         "30",
-        "30",
-        "30",
-        "34"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -235,13 +235,13 @@
         "",
         "",
         "",
-        "1.105.174"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "224.798"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"

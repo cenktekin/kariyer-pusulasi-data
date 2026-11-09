@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "18.014",
         "16.952",
         "14.205",
-        "21.855",
-        "23.598"
+        "21.855"
       ],
       "Taban Puan": [
+        "396.142",
         "382.721",
         "419.866",
-        "399.380",
-        "398.922"
+        "399.380"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "21.317",
         "19.728",
         "10.524",
-        "16.677",
-        "20.199"
+        "16.677"
       ],
       "Taban Puan": [
+        "391.733",
         "379.227",
         "426.558",
-        "405.921",
-        "402.930"
+        "405.921"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "42.601",
         "42.044",
         "32.755",
-        "32.603",
-        "36.639"
+        "32.603"
       ],
       "Taban Puan": [
+        "371.842",
         "359.261",
         "399.316",
-        "388.765",
-        "386.858"
+        "388.765"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "85.118",
         "141.825",
         "51.336",
-        "51.925",
-        "55.068"
+        "51.925"
       ],
       "Taban Puan": [
+        "348.872",
         "320.813",
         "386.385",
-        "375.314",
-        "374.433"
+        "375.314"
       ],
       "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101410445",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tarih Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "30",
-        "30",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "155.286",
-        "108.962",
-        "105.245",
-        "101.457"
-      ],
-      "Taban Puan": [
-        "317.570",
-        "360.002",
-        "351.619",
-        "353.321"
-      ],
-      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,18 +191,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "110.144",
         "167.489",
         "106.590",
-        "63.781",
-        "87.889"
+        "63.781"
       ],
       "Taban Puan": [
+        "339.463",
         "314.804",
         "360.914",
-        "368.840",
-        "358.448"
+        "368.840"
       ],
       "Şehir": "DİYARBAKIR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101410445",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "KAZIM KARABEKİR EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tarih Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "20",
+        "30",
+        "30",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "115.770",
+        "155.286",
+        "108.962",
+        "105.245"
+      ],
+      "Taban Puan": [
+        "337.616",
+        "317.570",
+        "360.002",
+        "351.619"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "403990060",
+      "Üniversite": "HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTAN-KAZAKİSTAN)",
+      "Fakülte": "EĞİTİM VE BEŞERİ BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tarih Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "126.813",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "334.056",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "145.231",
         "223.365",
         "126.217",
-        "85.174",
-        "96.972"
+        "85.174"
       ],
       "Taban Puan": [
+        "328.673",
         "303.771",
         "354.268",
-        "359.165",
-        "354.951"
+        "359.165"
       ],
       "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "403990060",
-      "Üniversite": "HOCA AHMET YESEVİ ULUSLARARASI TÜRK-KAZAK ÜNİVERSİTESİ (TÜRKİSTAN-KAZAKİSTAN)",
-      "Fakülte": "Eğitim ve Beşeri Bilimler Fakültesi",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tarih Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "5",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "",
       "Ücret": "Ücretsiz"
     },
     {

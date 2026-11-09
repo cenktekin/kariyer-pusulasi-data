@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "4.525",
         "3.988",
         "4.686",
-        "5.741",
-        "7.820"
+        "5.741"
       ],
       "Taban Puan": [
+        "526.852",
         "520.373",
         "518.398",
-        "525.341",
-        "517.410"
+        "525.341"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "30.763",
         "28.003",
         "34.710",
-        "27.052",
-        "25.548"
+        "27.052"
       ],
       "Taban Puan": [
+        "486.052",
         "471.845",
         "455.506",
-        "487.423",
-        "488.283"
+        "487.423"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -109,18 +109,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "124.531",
         "123.846",
         "137.662",
-        "147.688",
-        "150.276"
+        "147.688"
       ],
       "Taban Puan": [
+        "393.916",
         "380.841",
         "356.405",
-        "373.287",
-        "365.870"
+        "373.287"
       ],
       "Şehir": "KAYSERİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111900157",
+      "Üniversite": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uzay Mühendisliği (İngilizce)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "155.314",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "371.559",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105500157",
+      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "UÇAK VE UZAY BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Uzay Mühendisliği (İngilizce) (KKTC Uyruklu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "2",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "176.971",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "357.962",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "254.764",
         "249.718",
         "288.294",
-        "217.425",
-        "267.066"
+        "217.425"
       ],
       "Taban Puan": [
+        "320.566",
         "318.047",
         "293.284",
-        "336.780",
-        "309.039"
+        "336.780"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -192,99 +274,17 @@
       ],
       "Taban Sıralama": [
         "",
-        "207.030",
         "",
+        "207.030",
         ""
       ],
       "Taban Puan": [
         "",
-        "320.611",
         "",
+        "320.611",
         ""
       ],
       "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105500157",
-      "Üniversite": "İSTANBUL TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "UÇAK VE UZAY BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uzay Mühendisliği (İngilizce) (KKTC Uyruklu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "2",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111900157",
-      "Üniversite": "SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "HAVACILIK VE UZAY BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Uzay Mühendisliği (İngilizce)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "SİVAS",
       "Ücret": "Ücretsiz"
     }
   ]

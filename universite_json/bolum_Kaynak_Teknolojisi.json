@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "479.794",
         "538.913",
         "661.367",
-        "588.579",
-        "618.914"
+        "588.579"
       ],
       "Taban Puan": [
+        "339.753",
         "330.753",
         "319.322",
-        "328.475",
-        "318.552"
+        "328.475"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "626.408",
         "687.006",
         "798.773",
-        "1.000.789",
-        "1.010.014"
+        "1.000.789"
       ],
       "Taban Puan": [
+        "321.393",
         "314.757",
         "306.817",
-        "290.570",
-        "282.422"
+        "290.570"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "681.485",
         "738.635",
         "894.427",
-        "1.149.305",
-        "1.186.663"
+        "1.149.305"
       ],
       "Taban Puan": [
+        "315.465",
         "309.864",
         "299.082",
-        "279.660",
-        "269.770"
+        "279.660"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -150,18 +150,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "714.418",
         "835.151",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "312.092",
+        "301.357",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210500381",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Kaynak Teknolojisi (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "920.747",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "301.357",
+        "293.370",
         "",
         "",
         ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
@@ -191,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.019.715",
         "1.075.013",
         "1.203.541",
-        "1.479.709",
-        "1.474.227"
+        "1.479.709"
       ],
       "Taban Puan": [
+        "285.268",
         "282.558",
         "277.341",
-        "258.017",
-        "252.133"
+        "258.017"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112370826",
-      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
-      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "25",
-        "25",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.171.736",
-        "1.413.249",
-        "1.832.006",
-        ""
-      ],
-      "Taban Puan": [
-        "275.575",
-        "264.143",
-        "237.785",
-        ""
-      ],
-      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.064.568",
         "1.174.458",
         "1.428.499",
-        "1.729.408",
-        "1.689.424"
+        "1.729.408"
       ],
       "Taban Puan": [
+        "281.725",
         "275.379",
         "263.204",
-        "243.428",
-        "240.795"
+        "243.428"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -314,16 +314,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.149.972",
         "1.181.213",
         "1.479.438",
-        "",
-        "1.721.278"
+        ""
       ],
       "Taban Puan": [
+        "275.166",
         "274.897",
         "260.140",
-        "",
-        "239.233"
+        ""
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
@@ -355,100 +355,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.156.389",
         "1.230.103",
         "1.420.196",
-        "1.697.228",
-        "1.750.431"
+        "1.697.228"
       ],
       "Taban Puan": [
+        "274.679",
         "271.469",
         "263.715",
-        "245.247",
-        "237.838"
+        "245.247"
       ],
       "Şehir": "YALOVA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110790109",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "İSKENDERUN ORGANİZE SANAYİ BÖLGESİ KAYNAKÇILIK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.254.032",
-        "1.684.257",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "269.807",
-        "248.185",
-        "",
-        ""
-      ],
-      "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109850619",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.283.826",
-        "1.503.490",
-        "1.859.194",
-        "1.677.016"
-      ],
-      "Taban Puan": [
-        "267.734",
-        "258.712",
-        "236.315",
-        "241.416"
-      ],
-      "Şehir": "UŞAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -478,18 +396,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.167.331",
         "1.316.788",
         "1.571.116",
-        "1.865.393",
-        "1.850.773"
+        "1.865.393"
       ],
       "Taban Puan": [
+        "273.854",
         "265.445",
         "254.742",
-        "235.984",
-        "233.138"
+        "235.984"
       ],
       "Şehir": "SAKARYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109850619",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.204.190",
+        "1.283.826",
+        "1.503.490",
+        "1.859.194"
+      ],
+      "Taban Puan": [
+        "271.107",
+        "267.734",
+        "258.712",
+        "236.315"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112370826",
+      "Üniversite": "KAYSERİ ÜNİVERSİTESİ",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "25",
+        "25",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.234.583",
+        "1.171.736",
+        "1.413.249",
+        "1.832.006"
+      ],
+      "Taban Puan": [
+        "268.865",
+        "275.575",
+        "264.143",
+        "237.785"
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,18 +519,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.256.602",
         "1.364.932",
         "1.602.818",
-        "1.905.325",
+        "1.905.325"
+      ],
+      "Taban Puan": [
+        "267.268",
+        "262.131",
+        "252.890",
+        "233.848"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110790109",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "İSKENDERUN ORGANİZE SANAYİ BÖLGESİ KAYNAKÇILIK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.264.970",
+        "1.254.032",
+        "1.684.257",
         ""
       ],
       "Taban Puan": [
-        "262.131",
-        "252.890",
-        "233.848",
+        "266.653",
+        "269.807",
+        "248.185",
         ""
       ],
-      "Şehir": "TRABZON",
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102900416",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "ADANA ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.265.683",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "266.601",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -560,141 +642,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.296.804",
         "1.523.913",
         "1.736.300",
-        "1.964.745",
-        "1.792.688"
+        "1.964.745"
       ],
       "Taban Puan": [
+        "264.364",
         "251.283",
         "245.229",
-        "230.706",
-        "235.824"
+        "230.706"
       ],
       "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106150671",
-      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "35",
-        "35",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.544.429",
-        "1.737.226",
-        "1.895.110",
-        "1.778.249"
-      ],
-      "Taban Puan": [
-        "249.879",
-        "245.176",
-        "234.384",
-        "236.505"
-      ],
-      "Şehir": "KARABÜK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101790191",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "BEŞİRİ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.556.915",
-        "1.723.119",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "249.031",
-        "245.976",
-        "",
-        ""
-      ],
-      "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105190124",
-      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "25"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.560.904",
-        "1.685.562",
-        "1.966.375",
-        "1.873.921"
-      ],
-      "Taban Puan": [
-        "248.765",
-        "248.111",
-        "230.621",
-        "232.090"
-      ],
-      "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -724,14 +683,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.301.428",
         "1.561.153",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "264.031",
         "248.749",
-        "",
         "",
         ""
       ],
@@ -739,9 +698,91 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103951307",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "ELAZIĞ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "112000101",
+      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
+      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.309.811",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.425",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106150671",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "TÜRKİYE ODALAR VE BORSALAR BİRLİĞİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "35",
+        "35",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.386.180",
+        "1.544.429",
+        "1.737.226",
+        "1.895.110"
+      ],
+      "Taban Puan": [
+        "257.957",
+        "249.879",
+        "245.176",
+        "234.384"
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105190124",
+      "Üniversite": "HİTİT ÜNİVERSİTESİ (ÇORUM)",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Kaynak Teknolojisi",
       "Öğretim Türü": "Örgün Öğretim",
@@ -765,59 +806,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.609.629",
-        "1.806.525",
-        "1.961.409",
-        "1.865.690"
+        "1.439.001",
+        "1.560.904",
+        "1.685.562",
+        "1.966.375"
       ],
       "Taban Puan": [
-        "245.450",
-        "241.278",
-        "230.880",
-        "232.459"
+        "254.225",
+        "248.765",
+        "248.111",
+        "230.621"
       ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100490333",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.685.998",
-        "",
-        "1.687.996",
-        "1.617.510"
-      ],
-      "Taban Puan": [
-        "240.249",
-        "",
-        "245.770",
-        "244.449"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
+      "Şehir": "ÇORUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -847,18 +847,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.461.786",
         "1.832.510",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "252.607",
+        "230.175",
+        "",
+        ""
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103951307",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "ELAZIĞ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "25"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.467.310",
+        "1.609.629",
+        "1.806.525",
+        "1.961.409"
+      ],
+      "Taban Puan": [
+        "252.224",
+        "245.450",
+        "241.278",
+        "230.880"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101790191",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "BEŞİRİ ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.476.079",
+        "1.556.915",
+        "1.723.119",
+        ""
+      ],
+      "Taban Puan": [
+        "251.614",
+        "249.031",
+        "245.976",
+        ""
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100490333",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "BOLVADİN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.476.808",
+        "1.685.998",
+        "",
+        "1.687.996"
+      ],
+      "Taban Puan": [
+        "251.563",
+        "240.249",
+        "",
+        "245.770"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106700122",
+      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
+      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kaynak Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.515.708",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "230.175",
+        "248.838",
         "",
         "",
         ""
       ],
-      "Şehir": "BİTLİS",
+      "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -888,60 +1052,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.730.970",
         "1.911.659",
         "1.863.487",
-        "1.773.206",
-        "1.937.833"
+        "1.773.206"
       ],
       "Taban Puan": [
+        "233.731",
         "224.519",
         "238.110",
-        "240.984",
-        "229.266"
+        "240.984"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "102900416",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "ADANA ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ADANA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104190336",
@@ -982,88 +1105,6 @@
         ""
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106700122",
-      "Üniversite": "KIRKLARELİ ÜNİVERSİTESİ",
-      "Fakülte": "ORGANİZE SANAYİ BÖLGESİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIRKLARELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "112000101",
-      "Üniversite": "TARSUS ÜNİVERSİTESİ (MERSİN)",
-      "Fakülte": "MERSİN TARSUS ORGANİZE SANAYİ BÖLGESİ TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kaynak Teknolojisi",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1147,47 +1188,6 @@
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "210500381",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Kaynak Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "210500388",

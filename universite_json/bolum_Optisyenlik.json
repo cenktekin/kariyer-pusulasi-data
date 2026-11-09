@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "144.363",
         "221.926",
         "253.995",
-        "347.749",
-        "222.642"
+        "347.749"
       ],
       "Taban Puan": [
+        "417.295",
         "384.531",
         "381.715",
-        "362.903",
-        "388.839"
+        "362.903"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -68,24 +68,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "254.478",
         "232.725",
         "298.928",
-        "280.216",
-        "245.523"
+        "280.216"
       ],
       "Taban Puan": [
+        "382.029",
         "381.876",
         "371.081",
-        "376.735",
-        "382.342"
+        "376.735"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "209310029",
-      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "208810080",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -97,10 +97,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "3",
-        "3",
-        "3"
+        "7",
+        "7",
+        "7",
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -109,16 +109,139 @@
         ""
       ],
       "Taban Sıralama": [
-        "255.357",
-        "282.799",
-        "673.205",
-        "726.377"
+        "315.102",
+        "352.775",
+        "379.996",
+        "361.794"
       ],
       "Taban Puan": [
-        "376.619",
-        "374.685",
-        "319.264",
-        "307.082"
+        "367.926",
+        "357.439",
+        "355.313",
+        "360.342"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103451675",
+      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "65",
+        "65"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "327.928",
+        "326.474",
+        "432.808",
+        "433.496"
+      ],
+      "Taban Puan": [
+        "365.226",
+        "362.142",
+        "346.803",
+        "348.669"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203551082",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "4"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "331.611",
+        "380.764",
+        "438.017",
+        "295.406"
+      ],
+      "Taban Puan": [
+        "364.486",
+        "352.719",
+        "346.034",
+        "373.335"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200150713",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "6",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "338.724",
+        "303.624",
+        "403.749",
+        "422.508"
+      ],
+      "Taban Puan": [
+        "363.076",
+        "366.499",
+        "351.336",
+        "350.322"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,305 +273,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "348.057",
         "279.366",
         "359.217",
-        "380.539",
-        "358.686"
+        "380.539"
       ],
       "Taban Puan": [
+        "361.277",
         "371.409",
         "359.028",
-        "357.127",
-        "356.587"
+        "357.127"
       ],
       "Şehir": "KONYA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209710046",
-      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "5",
-        "3",
-        "3"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "300.189",
-        "436.022",
-        "416.583",
-        "355.755"
-      ],
-      "Taban Puan": [
-        "367.175",
-        "346.326",
-        "351.236",
-        "357.136"
-      ],
-      "Şehir": "KOCAELİ",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200150713",
-      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "6",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "303.624",
-        "403.749",
-        "422.508",
-        "567.532"
-      ],
-      "Taban Puan": [
-        "366.499",
-        "351.336",
-        "350.322",
-        "324.685"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103451675",
-      "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "ATATÜRK SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "65",
-        "65"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "326.474",
-        "432.808",
-        "433.496",
-        "415.115"
-      ],
-      "Taban Puan": [
-        "362.142",
-        "346.803",
-        "348.669",
-        "346.543"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "208810080",
-      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "352.775",
-        "379.996",
-        "361.794",
-        "312.328"
-      ],
-      "Taban Puan": [
-        "357.439",
-        "355.313",
-        "360.342",
-        "366.141"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203551082",
-      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "380.764",
-        "438.017",
-        "295.406",
-        "447.738"
-      ],
-      "Taban Puan": [
-        "352.719",
-        "346.034",
-        "373.335",
-        "341.280"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "204752693",
-      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "4",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "400.801",
-        "523.971",
-        "630.727",
-        "622.012"
-      ],
-      "Taban Puan": [
-        "349.533",
-        "334.353",
-        "323.736",
-        "318.197"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209610038",
-      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "419.686",
-        "489.623",
-        "486.090",
-        "522.051"
-      ],
-      "Taban Puan": [
-        "346.686",
-        "338.810",
-        "341.206",
-        "330.574"
-      ],
-      "Şehir": "İZMİR",
       "Ücret": "Burslu"
     },
     {
@@ -478,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "375.698",
         "421.441",
         "326.856",
-        "502.171",
-        "332.389"
+        "502.171"
       ],
       "Taban Puan": [
+        "356.170",
         "346.436",
         "365.247",
-        "339.078",
-        "361.859"
+        "339.078"
       ],
       "Şehir": "ANTALYA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200950423",
-      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "4",
-        "4"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "433.042",
-        "467.134",
-        "470.539",
-        "591.308"
-      ],
-      "Taban Puan": [
-        "344.697",
-        "341.840",
-        "343.345",
-        "321.775"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -560,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "384.769",
         "433.554",
         "467.773",
-        "547.081",
-        "443.009"
+        "547.081"
       ],
       "Taban Puan": [
+        "354.588",
         "344.620",
         "341.752",
-        "333.403",
-        "342.016"
+        "333.403"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -601,23 +396,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "386.539",
         "435.451",
         "556.528",
-        "602.318",
-        "583.565"
+        "602.318"
       ],
       "Taban Puan": [
+        "354.271",
         "344.345",
         "330.476",
-        "326.881",
-        "322.716"
+        "326.881"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207950097",
-      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Program Kodu": "209610038",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
@@ -630,8 +425,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "7",
-        "7",
+        "8",
+        "8",
         "7",
         "7"
       ],
@@ -642,18 +437,100 @@
         ""
       ],
       "Taban Sıralama": [
-        "446.401",
-        "444.708",
-        "490.611",
-        "431.318"
+        "392.956",
+        "419.686",
+        "489.623",
+        "486.090"
       ],
       "Taban Puan": [
-        "342.784",
-        "345.050",
-        "340.597",
-        "343.895"
+        "353.161",
+        "346.686",
+        "338.810",
+        "341.206"
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210500451",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "394.015",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "352.976",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202551094",
+      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "9",
+        "9",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "408.288",
+        "460.905",
+        "544.278",
+        "488.878"
+      ],
+      "Taban Puan": [
+        "350.614",
+        "340.781",
+        "331.909",
+        "340.825"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -683,23 +560,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "409.308",
         "450.405",
         "543.152",
-        "588.665",
-        "567.018"
+        "588.665"
       ],
       "Taban Puan": [
+        "350.452",
         "342.236",
         "332.038",
-        "328.464",
-        "324.750"
+        "328.464"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202551094",
-      "Üniversite": "İSTANBUL BİLGİ ÜNİVERSİTESİ",
+      "Program Kodu": "207950097",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "415.272",
+        "446.401",
+        "444.708",
+        "490.611"
+      ],
+      "Taban Puan": [
+        "349.471",
+        "342.784",
+        "345.050",
+        "340.597"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200950423",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
@@ -713,9 +631,9 @@
       ],
       "Kontenjan": [
         "5",
-        "9",
-        "9",
-        "8"
+        "5",
+        "4",
+        "4"
       ],
       "Yerleşen": [
         "",
@@ -724,57 +642,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "460.905",
-        "544.278",
-        "488.878",
-        "587.396"
+        "419.868",
+        "433.042",
+        "467.134",
+        "470.539"
       ],
       "Taban Puan": [
-        "340.781",
-        "331.909",
-        "340.825",
-        "322.255"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203151483",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "8",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "467.370",
-        "616.360",
-        "670.819",
-        "588.317"
-      ],
-      "Taban Puan": [
-        "339.891",
-        "323.877",
-        "319.517",
-        "322.138"
+        "348.736",
+        "344.697",
+        "341.840",
+        "343.345"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -806,16 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "420.743",
         "471.741",
         "548.976",
-        "415.593",
-        "476.579"
+        "415.593"
       ],
       "Taban Puan": [
+        "348.593",
         "339.304",
         "331.356",
-        "351.390",
-        "336.966"
+        "351.390"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -847,16 +724,57 @@
         ""
       ],
       "Taban Sıralama": [
+        "421.528",
         "475.708",
         "570.517",
-        "589.085",
-        "555.838"
+        "589.085"
       ],
       "Taban Puan": [
+        "348.469",
         "338.783",
         "328.857",
-        "328.418",
-        "326.138"
+        "328.418"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "204752693",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "4",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "439.116",
+        "400.801",
+        "523.971",
+        "630.727"
+      ],
+      "Taban Puan": [
+        "345.759",
+        "349.533",
+        "334.353",
+        "323.736"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -888,19 +806,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "439.824",
         "478.240",
         "569.683",
-        "641.662",
-        "645.676"
+        "641.662"
       ],
       "Taban Puan": [
+        "345.655",
         "338.449",
         "328.956",
-        "322.569",
-        "315.574"
+        "322.569"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209710046",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "5",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "447.696",
+        "300.189",
+        "436.022",
+        "416.583"
+      ],
+      "Taban Puan": [
+        "344.475",
+        "367.175",
+        "346.326",
+        "351.236"
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110050085",
@@ -929,19 +888,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "449.452",
         "479.720",
         "513.676",
-        "568.576",
-        "574.746"
+        "568.576"
       ],
       "Taban Puan": [
+        "344.204",
         "338.247",
         "335.667",
-        "330.814",
-        "323.794"
+        "330.814"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203151483",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "8",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "452.170",
+        "467.370",
+        "616.360",
+        "670.819"
+      ],
+      "Taban Puan": [
+        "343.790",
+        "339.891",
+        "323.877",
+        "319.517"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108851744",
@@ -970,23 +970,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "455.203",
         "481.610",
         "603.037",
-        "678.225",
-        "664.137"
+        "678.225"
       ],
       "Taban Puan": [
+        "343.333",
         "337.998",
         "325.272",
-        "318.754",
-        "313.568"
+        "318.754"
       ],
       "Şehir": "SAKARYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202950162",
-      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "106090053",
+      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
+      "Fakülte": "KAHRAMANMARAŞ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "40",
+        "50",
+        "50"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "462.433",
+        "586.426",
+        "746.512",
+        "739.363"
+      ],
+      "Taban Puan": [
+        "342.261",
+        "325.260",
+        "311.343",
+        "312.765"
+      ],
+      "Şehir": "KAHRAMANMARAŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206550993",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
@@ -999,10 +1040,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "5",
-        "5",
-        "5",
-        "5"
+        "10",
+        "10",
+        "10",
+        "10"
       ],
       "Yerleşen": [
         "",
@@ -1011,16 +1052,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "486.613",
-        "457.238",
-        "571.020",
-        "520.261"
+        "464.309",
+        "523.083",
+        "610.602",
+        "595.549"
       ],
       "Taban Puan": [
-        "337.326",
-        "343.237",
-        "330.517",
-        "330.820"
+        "341.990",
+        "332.665",
+        "324.464",
+        "327.662"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1052,23 +1093,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "470.789",
         "512.261",
         "621.386",
-        "594.048",
-        "605.896"
+        "594.048"
       ],
       "Taban Puan": [
+        "341.050",
         "334.013",
         "323.348",
-        "327.835",
-        "320.052"
+        "327.835"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "206550993",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "200351321",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
@@ -1081,10 +1122,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
+        "6",
+        "6",
+        "6",
+        "5"
       ],
       "Yerleşen": [
         "",
@@ -1093,16 +1134,139 @@
         ""
       ],
       "Taban Sıralama": [
-        "523.083",
-        "610.602",
-        "595.549",
-        "600.353"
+        "471.633",
+        "559.106",
+        "482.066",
+        "739.137"
       ],
       "Taban Puan": [
-        "332.665",
-        "324.464",
-        "327.662",
-        "320.699"
+        "340.935",
+        "328.364",
+        "339.799",
+        "312.786"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202950162",
+      "Üniversite": "ALTINBAŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "484.491",
+        "486.613",
+        "457.238",
+        "571.020"
+      ],
+      "Taban Puan": [
+        "339.100",
+        "337.326",
+        "343.237",
+        "330.517"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201790558",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "485.245",
+        "531.858",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "338.994",
+        "331.605",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209310029",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "3",
+        "3",
+        "3"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "489.954",
+        "255.357",
+        "282.799",
+        "673.205"
+      ],
+      "Taban Puan": [
+        "338.350",
+        "376.619",
+        "374.685",
+        "319.264"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1134,228 +1298,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "492.557",
         "531.827",
         "678.926",
-        "768.773",
-        "703.390"
+        "768.773"
       ],
       "Taban Puan": [
+        "337.984",
         "331.608",
         "317.605",
-        "309.993",
-        "309.413"
+        "309.993"
       ],
       "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201790558",
-      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "531.858",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "331.605",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "100751636",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "SERİK GÜLSÜN-SÜLEYMAN SÜRAL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "50",
-        "50",
-        "75",
-        "75"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "544.754",
-        "657.021",
-        "710.430",
-        "666.570"
-      ],
-      "Taban Puan": [
-        "330.065",
-        "319.743",
-        "315.540",
-        "313.304"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202752954",
-      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "9",
-        "11"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "557.588",
-        "674.523",
-        "786.529",
-        "693.537"
-      ],
-      "Taban Puan": [
-        "328.545",
-        "318.028",
-        "308.363",
-        "310.424"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203851501",
-      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
-      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "557.648",
-        "579.477",
-        "608.775",
-        "640.299"
-      ],
-      "Taban Puan": [
-        "328.538",
-        "327.850",
-        "326.157",
-        "316.161"
-      ],
-      "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200351321",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "6",
-        "6",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "559.106",
-        "482.066",
-        "739.137",
-        "683.731"
-      ],
-      "Taban Puan": [
-        "328.364",
-        "339.799",
-        "312.786",
-        "311.463"
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "202456367",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Program Kodu": "210400367",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
@@ -1370,8 +1329,8 @@
       "Kontenjan": [
         "10",
         "10",
-        "7",
-        "7"
+        "10",
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -1380,16 +1339,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "561.633",
-        "618.395",
-        "565.691",
-        "608.563"
+        "494.946",
+        "583.971",
+        "627.267",
+        "694.791"
       ],
       "Taban Puan": [
-        "328.078",
-        "323.675",
-        "331.156",
-        "319.746"
+        "337.657",
+        "325.531",
+        "322.732",
+        "317.075"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1421,24 +1380,147 @@
         ""
       ],
       "Taban Sıralama": [
+        "500.921",
         "568.008",
         "641.701",
-        "654.734",
-        "631.910"
+        "654.734"
       ],
       "Taban Puan": [
+        "336.841",
         "327.334",
         "321.275",
-        "321.177",
-        "317.087"
+        "321.177"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201290276",
-      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "202752954",
+      "Üniversite": "İSTANBUL GELİŞİM ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "9",
+        "11"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "513.810",
+        "557.588",
+        "674.523",
+        "786.529"
+      ],
+      "Taban Puan": [
+        "335.111",
+        "328.545",
+        "318.028",
+        "308.363"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "100751636",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "SERİK GÜLSÜN-SÜLEYMAN SÜRAL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "50",
+        "50",
+        "75",
+        "75"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "516.638",
+        "544.754",
+        "657.021",
+        "710.430"
+      ],
+      "Taban Puan": [
+        "334.718",
+        "330.065",
+        "319.743",
+        "315.540"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206250687",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "7",
+        "7"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "524.924",
+        "587.289",
+        "699.815",
+        "737.426"
+      ],
+      "Taban Puan": [
+        "333.640",
+        "325.166",
+        "315.622",
+        "312.945"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "202456367",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1452,8 +1534,8 @@
       "Kontenjan": [
         "10",
         "10",
-        "10",
-        "10"
+        "7",
+        "7"
       ],
       "Yerleşen": [
         "",
@@ -1462,16 +1544,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "568.256",
-        "672.513",
-        "759.090",
-        "679.695"
+        "528.201",
+        "561.633",
+        "618.395",
+        "565.691"
       ],
       "Taban Puan": [
-        "327.303",
-        "318.229",
-        "310.895",
-        "311.890"
+        "333.202",
+        "328.078",
+        "323.675",
+        "331.156"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1503,60 +1585,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "530.408",
         "573.511",
         "650.989",
-        "636.644",
-        "668.423"
+        "636.644"
       ],
       "Taban Puan": [
+        "332.917",
         "326.713",
         "320.351",
-        "323.111",
-        "313.104"
+        "323.111"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107790276",
-      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
-      "Fakülte": "KIRIKHAN MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "575.169",
-        "617.770",
-        "658.140",
-        "757.768"
-      ],
-      "Taban Puan": [
-        "326.525",
-        "323.735",
-        "320.824",
-        "304.036"
-      ],
-      "Şehir": "HATAY",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "110670145",
@@ -1585,23 +1626,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "531.833",
         "575.624",
         "679.729",
-        "760.669",
-        "708.477"
+        "760.669"
       ],
       "Taban Puan": [
+        "332.741",
         "326.474",
         "317.528",
-        "310.743",
-        "308.892"
+        "310.743"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210300829",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Program Kodu": "201900220",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Burslu)",
@@ -1614,10 +1655,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "10"
+        "4",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1626,303 +1667,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "578.628",
-        "665.457",
-        "705.115",
-        "691.413"
-      ],
-      "Taban Puan": [
-        "326.125",
-        "318.914",
-        "316.054",
-        "310.653"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210400367",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "10",
-        "9"
-      ],
-      "Yerleşen": [
-        "",
+        "533.543",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "583.971",
-        "627.267",
-        "694.791",
-        "699.224"
-      ],
       "Taban Puan": [
-        "325.531",
-        "322.732",
-        "317.075",
-        "309.841"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106090053",
-      "Üniversite": "KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ",
-      "Fakülte": "KAHRAMANMARAŞ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "40",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
+        "332.520",
         "",
         "",
         ""
-      ],
-      "Taban Sıralama": [
-        "586.426",
-        "746.512",
-        "739.363",
-        "693.898"
-      ],
-      "Taban Puan": [
-        "325.260",
-        "311.343",
-        "312.765",
-        "310.385"
-      ],
-      "Şehir": "KAHRAMANMARAŞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206250687",
-      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "7"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "587.289",
-        "699.815",
-        "737.426",
-        "722.315"
-      ],
-      "Taban Puan": [
-        "325.166",
-        "315.622",
-        "312.945",
-        "307.491"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "112553319",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "590.594",
-        "704.165",
-        "786.896",
-        "747.250"
-      ],
-      "Taban Puan": [
-        "324.794",
-        "315.214",
-        "308.330",
-        "305.052"
-      ],
-      "Şehir": "ISPARTA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "207450479",
-      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
-      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "9",
-        "9",
-        "9",
-        "9"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "594.315",
-        "713.056",
-        "746.291",
-        "686.568"
-      ],
-      "Taban Puan": [
-        "324.385",
-        "314.394",
-        "312.092",
-        "311.163"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104550946",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "602.590",
-        "732.140",
-        "893.069",
-        "815.902"
-      ],
-      "Taban Puan": [
-        "323.489",
-        "312.642",
-        "299.122",
-        "298.600"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202090333",
-      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "5",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "607.835",
-        "618.565",
-        "788.884",
-        "773.215"
-      ],
-      "Taban Puan": [
-        "322.924",
-        "323.658",
-        "308.152",
-        "302.570"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1954,18 +1708,305 @@
         ""
       ],
       "Taban Sıralama": [
+        "538.500",
         "612.395",
         "694.788",
-        "676.412",
-        "621.617"
+        "676.412"
       ],
       "Taban Puan": [
+        "331.893",
         "322.435",
         "316.095",
-        "318.934",
-        "318.243"
+        "318.934"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201290276",
+      "Üniversite": "DOĞUŞ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "539.132",
+        "568.256",
+        "672.513",
+        "759.090"
+      ],
+      "Taban Puan": [
+        "331.807",
+        "327.303",
+        "318.229",
+        "310.895"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107790276",
+      "Üniversite": "HATAY MUSTAFA KEMAL ÜNİVERSİTESİ",
+      "Fakülte": "KIRIKHAN MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "20",
+        "20",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "544.223",
+        "575.169",
+        "617.770",
+        "658.140"
+      ],
+      "Taban Puan": [
+        "331.145",
+        "326.525",
+        "323.735",
+        "320.824"
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210300829",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "544.769",
+        "578.628",
+        "665.457",
+        "705.115"
+      ],
+      "Taban Puan": [
+        "331.081",
+        "326.125",
+        "318.914",
+        "316.054"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112553319",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "548.250",
+        "590.594",
+        "704.165",
+        "786.896"
+      ],
+      "Taban Puan": [
+        "330.659",
+        "324.794",
+        "315.214",
+        "308.330"
+      ],
+      "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "202090333",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "7",
+        "7",
+        "5",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "552.008",
+        "607.835",
+        "618.565",
+        "788.884"
+      ],
+      "Taban Puan": [
+        "330.195",
+        "322.924",
+        "323.658",
+        "308.152"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102652462",
+      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "553.866",
+        "639.378",
+        "780.132",
+        "875.832"
+      ],
+      "Taban Puan": [
+        "329.958",
+        "319.572",
+        "308.412",
+        "300.567"
+      ],
+      "Şehir": "SİVAS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "203851501",
+      "Üniversite": "KAPADOKYA ÜNİVERSİTESİ (NEVŞEHİR)",
+      "Fakülte": "KAPADOKYA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "10",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "555.331",
+        "557.648",
+        "579.477",
+        "608.775"
+      ],
+      "Taban Puan": [
+        "329.782",
+        "328.538",
+        "327.850",
+        "326.157"
+      ],
+      "Şehir": "NEVŞEHİR",
       "Ücret": "Burslu"
     },
     {
@@ -1995,16 +2036,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "556.183",
         "620.073",
         "704.896",
-        "777.885",
-        "744.869"
+        "777.885"
       ],
       "Taban Puan": [
+        "329.675",
         "321.608",
         "315.146",
-        "309.145",
-        "305.280"
+        "309.145"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -2036,26 +2077,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "559.757",
         "621.841",
         "722.370",
-        "777.349",
-        "733.890"
+        "777.349"
       ],
       "Taban Puan": [
+        "329.234",
         "321.425",
         "313.538",
-        "309.193",
-        "306.339"
+        "309.193"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105051125",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
-      "Fakülte": "ŞANLIURFA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
+      "Program Kodu": "207450479",
+      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
+      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -2065,10 +2106,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
-        "35",
-        "45",
-        "45"
+        "9",
+        "9",
+        "9",
+        "9"
       ],
       "Yerleşen": [
         "",
@@ -2077,19 +2118,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "638.600",
-        "757.122",
-        "599.258",
-        "748.585"
+        "572.568",
+        "594.315",
+        "713.056",
+        "746.291"
       ],
       "Taban Puan": [
-        "319.651",
-        "310.394",
-        "327.238",
-        "304.924"
+        "327.670",
+        "324.385",
+        "314.394",
+        "312.092"
       ],
-      "Şehir": "ŞANLIURFA",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "101990034",
@@ -2118,24 +2159,65 @@
         ""
       ],
       "Taban Sıralama": [
+        "580.892",
         "639.034",
         "810.419",
-        "905.215",
-        "816.651"
+        "905.215"
       ],
       "Taban Puan": [
+        "326.649",
         "319.607",
         "305.840",
-        "298.119",
-        "298.534"
+        "298.119"
       ],
       "Şehir": "BİLECİK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102652462",
-      "Üniversite": "SİVAS CUMHURİYET ÜNİVERSİTESİ",
+      "Program Kodu": "104550946",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "609.168",
+        "602.590",
+        "732.140",
+        "893.069"
+      ],
+      "Taban Puan": [
+        "323.349",
+        "323.489",
+        "312.642",
+        "299.122"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108190124",
+      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
+      "Fakülte": "NİĞDE ZÜBEYDE HANIM SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Optisyenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2149,8 +2231,8 @@
       "Kontenjan": [
         "35",
         "40",
-        "70",
-        "70"
+        "50",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -2159,18 +2241,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "639.378",
-        "780.132",
-        "875.832",
-        "770.832"
+        "611.004",
+        "686.556",
+        "746.836",
+        "806.017"
       ],
       "Taban Puan": [
-        "319.572",
-        "308.412",
-        "300.567",
-        "302.802"
+        "323.136",
+        "314.803",
+        "311.314",
+        "306.615"
       ],
-      "Şehir": "SİVAS",
+      "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105051125",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "ŞANLIURFA SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "35",
+        "45",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "615.445",
+        "638.600",
+        "757.122",
+        "599.258"
+      ],
+      "Taban Puan": [
+        "322.637",
+        "319.651",
+        "310.394",
+        "327.238"
+      ],
+      "Şehir": "ŞANLIURFA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2200,18 +2323,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "620.098",
         "654.093",
         "738.698",
-        "901.365",
-        "830.739"
+        "901.365"
       ],
       "Taban Puan": [
+        "322.108",
         "318.037",
         "312.038",
-        "298.423",
-        "297.241"
+        "298.423"
       ],
       "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100950627",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "SABUNCUOĞLU ŞEREFEDDİN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "643.708",
+        "689.505",
+        "866.359",
+        "984.118"
+      ],
+      "Taban Puan": [
+        "319.493",
+        "314.502",
+        "301.272",
+        "291.829"
+      ],
+      "Şehir": "AMASYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100690074",
+      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "647.148",
+        "732.906",
+        "856.597",
+        "964.524"
+      ],
+      "Taban Puan": [
+        "319.112",
+        "310.393",
+        "302.048",
+        "293.357"
+      ],
+      "Şehir": "KIRŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111490265",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "SİMAV SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "648.154",
+        "697.899",
+        "849.764",
+        "955.630"
+      ],
+      "Taban Puan": [
+        "319.000",
+        "313.696",
+        "302.612",
+        "294.055"
+      ],
+      "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2241,16 +2487,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "648.616",
         "678.820",
         "807.494",
-        "675.728",
-        "868.785"
+        "675.728"
       ],
       "Taban Puan": [
+        "318.951",
         "315.555",
         "306.086",
-        "319.006",
-        "293.906"
+        "319.006"
       ],
       "Şehir": "ADIYAMAN",
       "Ücret": "Ücretsiz"
@@ -2282,100 +2528,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "649.029",
         "679.401",
         "830.859",
-        "942.706",
-        "894.254"
+        "942.706"
       ],
       "Taban Puan": [
+        "318.909",
         "315.499",
         "304.144",
-        "295.091",
-        "291.722"
+        "295.091"
       ],
       "Şehir": "KARAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107390115",
-      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
-      "Fakülte": "GÖLHİSAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "40",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "686.466",
-        "787.144",
-        "939.090",
-        "874.982"
-      ],
-      "Taban Puan": [
-        "314.811",
-        "307.804",
-        "295.392",
-        "293.363"
-      ],
-      "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108190124",
-      "Üniversite": "NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ",
-      "Fakülte": "NİĞDE ZÜBEYDE HANIM SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
-        "50",
-        "50"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "686.556",
-        "746.836",
-        "806.017",
-        "802.499"
-      ],
-      "Taban Puan": [
-        "314.803",
-        "311.314",
-        "306.615",
-        "299.830"
-      ],
-      "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2405,24 +2569,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "651.082",
         "687.053",
         "864.450",
-        "1.000.581",
-        "950.068"
+        "1.000.581"
       ],
       "Taban Puan": [
+        "318.687",
         "314.753",
         "301.418",
-        "290.586",
-        "287.108"
+        "290.586"
       ],
       "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "110290212",
-      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
-      "Fakülte": "MURADİYE MESLEK YÜKSEKOKULU",
+      "Program Kodu": "107390115",
+      "Üniversite": "BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ",
+      "Fakülte": "GÖLHİSAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Optisyenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2436,88 +2600,6 @@
       "Kontenjan": [
         "35",
         "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "688.838",
-        "733.685",
-        "866.602",
-        "951.029"
-      ],
-      "Taban Puan": [
-        "314.569",
-        "312.497",
-        "301.344",
-        "287.033"
-      ],
-      "Şehir": "VAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100950627",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "SABUNCUOĞLU ŞEREFEDDİN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "689.505",
-        "866.359",
-        "984.118",
-        "943.451"
-      ],
-      "Taban Puan": [
-        "314.502",
-        "301.272",
-        "291.829",
-        "287.655"
-      ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111490265",
-      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-      "Fakülte": "SİMAV SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "40",
         "40",
         "40"
       ],
@@ -2528,18 +2610,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "697.899",
-        "849.764",
-        "955.630",
-        ""
+        "660.294",
+        "686.466",
+        "787.144",
+        "939.090"
       ],
       "Taban Puan": [
-        "313.696",
-        "302.612",
-        "294.055",
-        ""
+        "317.700",
+        "314.811",
+        "307.804",
+        "295.392"
       ],
-      "Şehir": "KÜTAHYA",
+      "Şehir": "BURDUR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2569,141 +2651,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "660.969",
         "708.068",
         "810.183",
-        "876.940",
-        "861.062"
+        "876.940"
       ],
       "Taban Puan": [
+        "317.631",
         "312.739",
         "305.859",
-        "300.468",
-        "294.562"
+        "300.468"
       ],
       "Şehir": "AKSARAY",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100690074",
-      "Üniversite": "KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "55",
-        "55"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "732.906",
-        "856.597",
-        "964.524",
-        "901.096"
-      ],
-      "Taban Puan": [
-        "310.393",
-        "302.048",
-        "293.357",
-        "291.153"
-      ],
-      "Şehir": "KIRŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101750389",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "734.117",
-        "823.069",
-        "931.688",
-        "887.989"
-      ],
-      "Taban Puan": [
-        "310.282",
-        "304.785",
-        "295.979",
-        "292.246"
-      ],
-      "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101650275",
-      "Üniversite": "BARTIN ÜNİVERSİTESİ",
-      "Fakülte": "BARTIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "70",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "738.927",
-        "961.473",
-        "1.061.979",
-        "1.009.732"
-      ],
-      "Taban Puan": [
-        "309.835",
-        "294.049",
-        "285.957",
-        "282.444"
-      ],
-      "Şehir": "BARTIN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2733,24 +2692,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "667.266",
         "759.742",
         "942.622",
-        "1.068.996",
-        "1.013.036"
+        "1.068.996"
       ],
       "Taban Puan": [
+        "316.948",
         "307.946",
         "295.448",
-        "285.437",
-        "282.187"
+        "285.437"
       ],
       "Şehir": "KIRKLARELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "112553197",
-      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
-      "Fakülte": "SENİRKENT MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101650275",
+      "Üniversite": "BARTIN ÜNİVERSİTESİ",
+      "Fakülte": "BARTIN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Optisyenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2762,10 +2721,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "45",
-        "40",
-        "80",
-        "80"
+        "55",
+        "50",
+        "70",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -2774,18 +2733,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "786.166",
-        "949.830",
-        "1.049.391",
-        "979.503"
+        "679.181",
+        "738.927",
+        "961.473",
+        "1.061.979"
       ],
       "Taban Puan": [
-        "305.577",
-        "294.907",
-        "286.884",
-        "284.779"
+        "315.705",
+        "309.835",
+        "294.049",
+        "285.957"
       ],
-      "Şehir": "ISPARTA",
+      "Şehir": "BARTIN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110290212",
+      "Üniversite": "VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ",
+      "Fakülte": "MURADİYE MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "703.061",
+        "688.838",
+        "733.685",
+        "866.602"
+      ],
+      "Taban Puan": [
+        "313.239",
+        "314.569",
+        "312.497",
+        "301.344"
+      ],
+      "Şehir": "VAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2815,18 +2815,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "712.142",
         "790.407",
         "975.135",
-        "986.164",
-        "937.493"
+        "986.164"
       ],
       "Taban Puan": [
+        "312.321",
         "305.210",
         "293.027",
-        "291.677",
-        "288.138"
+        "291.677"
       ],
       "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "112553197",
+      "Üniversite": "ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ",
+      "Fakülte": "SENİRKENT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "722.898",
+        "786.166",
+        "949.830",
+        "1.049.391"
+      ],
+      "Taban Puan": [
+        "311.248",
+        "305.577",
+        "294.907",
+        "286.884"
+      ],
+      "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2856,100 +2897,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "726.129",
         "797.910",
         "914.903",
-        "1.016.341",
-        "986.499"
+        "1.016.341"
       ],
       "Taban Puan": [
+        "310.928",
         "304.555",
         "297.521",
-        "289.376",
-        "284.231"
+        "289.376"
       ],
       "Şehir": "TOKAT",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103990158",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "KOVANCILAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "807.337",
-        "850.050",
-        "849.052",
-        "924.313"
-      ],
-      "Taban Puan": [
-        "303.733",
-        "302.590",
-        "302.837",
-        "289.217"
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106850249",
-      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "50",
-        "80",
-        "80"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "824.753",
-        "1.064.647",
-        "1.023.860",
-        "1.125.158"
-      ],
-      "Taban Puan": [
-        "302.245",
-        "286.653",
-        "288.804",
-        "273.989"
-      ],
-      "Şehir": "KİLİS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2979,18 +2938,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "727.120",
         "825.959",
         "947.601",
-        "1.116.549",
-        "1.066.858"
+        "1.116.549"
       ],
       "Taban Puan": [
+        "310.828",
         "302.140",
         "295.076",
-        "281.976",
-        "278.168"
+        "281.976"
       ],
       "Şehir": "BİNGÖL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101750389",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "70",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "732.348",
+        "734.117",
+        "823.069",
+        "931.688"
+      ],
+      "Taban Puan": [
+        "310.309",
+        "310.282",
+        "304.785",
+        "295.979"
+      ],
+      "Şehir": "BATMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3020,18 +3020,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "742.559",
         "833.972",
         "993.278",
-        "1.154.885",
-        "1.058.861"
+        "1.154.885"
       ],
       "Taban Puan": [
+        "309.301",
         "301.455",
         "291.710",
-        "279.267",
-        "278.753"
+        "279.267"
       ],
       "Şehir": "ÇANKIRI",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106850249",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "50",
+        "80",
+        "80"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "756.042",
+        "824.753",
+        "1.064.647",
+        "1.023.860"
+      ],
+      "Taban Puan": [
+        "307.999",
+        "302.245",
+        "286.653",
+        "288.804"
+      ],
+      "Şehir": "KİLİS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3061,60 +3102,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "756.071",
         "834.048",
         "1.015.367",
-        "1.038.005",
-        "1.038.243"
+        "1.038.005"
       ],
       "Taban Puan": [
+        "307.998",
         "301.449",
         "290.131",
-        "287.725",
-        "280.296"
+        "287.725"
       ],
       "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204090141",
-      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "18",
-        "18",
-        "12",
-        "10"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "844.899",
-        "852.336",
-        "859.651",
-        "722.822"
-      ],
-      "Taban Puan": [
-        "300.536",
-        "302.402",
-        "301.926",
-        "307.440"
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "101350472",
@@ -3143,16 +3143,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "769.494",
         "847.473",
         "1.084.723",
-        "1.208.215",
-        "1.107.702"
+        "1.208.215"
       ],
       "Taban Puan": [
+        "306.733",
         "300.321",
         "285.270",
-        "275.536",
-        "275.213"
+        "275.536"
       ],
       "Şehir": "ARTVİN",
       "Ücret": "Ücretsiz"
@@ -3184,65 +3184,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "789.465",
         "874.330",
         "1.123.122",
-        "1.194.428",
-        "1.062.227"
+        "1.194.428"
       ],
       "Taban Puan": [
+        "304.879",
         "298.091",
         "282.665",
-        "276.512",
-        "278.508"
+        "276.512"
       ],
       "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "302000136",
-      "Üniversite": "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "882.246",
-        "871.274",
-        "",
-        "1.088.171"
-      ],
-      "Taban Puan": [
-        "297.447",
-        "300.895",
-        "",
-        "276.620"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "102150798",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "103990158",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "KOVANCILAR MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Optisyenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3254,10 +3213,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "45",
-        "40",
-        "60",
-        "60"
+        "35",
+        "30",
+        "30",
+        "30"
       ],
       "Yerleşen": [
         "",
@@ -3266,18 +3225,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "886.123",
-        "1.104.533",
-        "1.255.497",
-        "1.139.640"
+        "796.817",
+        "807.337",
+        "850.050",
+        "849.052"
       ],
       "Taban Puan": [
-        "297.136",
-        "283.935",
-        "272.344",
-        "272.978"
+        "304.195",
+        "303.733",
+        "302.590",
+        "302.837"
       ],
-      "Şehir": "BİTLİS",
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3307,19 +3266,142 @@
         ""
       ],
       "Taban Sıralama": [
+        "806.382",
         "889.246",
         "1.069.796",
-        "1.208.839",
-        "1.094.622"
+        "1.208.839"
       ],
       "Taban Puan": [
+        "303.322",
         "296.881",
         "286.296",
-        "275.494",
-        "276.159"
+        "275.494"
       ],
       "Şehir": "YOZGAT",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102150798",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "815.355",
+        "886.123",
+        "1.104.533",
+        "1.255.497"
+      ],
+      "Taban Puan": [
+        "302.507",
+        "297.136",
+        "283.935",
+        "272.344"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "302000136",
+      "Üniversite": "KIBRIS AYDIN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "815.686",
+        "882.246",
+        "871.274",
+        ""
+      ],
+      "Taban Puan": [
+        "302.477",
+        "297.447",
+        "300.895",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200390172",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "16",
+        "12",
+        "38",
+        "34"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "846.301",
+        "1.004.068",
+        "1.917.059",
+        "1.979.404"
+      ],
+      "Taban Puan": [
+        "299.765",
+        "287.860",
+        "235.148",
+        "229.937"
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "104790073",
@@ -3348,59 +3430,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "857.630",
         "925.811",
         "1.151.853",
-        "1.232.852",
-        "1.150.413"
+        "1.232.852"
       ],
       "Taban Puan": [
+        "298.767",
         "293.953",
         "280.739",
-        "273.860",
-        "272.233"
+        "273.860"
       ],
       "Şehir": "GÜMÜŞHANE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101490299",
-      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
-      "Fakülte": "HINIS MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "60",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "951.142",
-        "1.113.148",
-        "1.244.948",
-        "1.196.965"
-      ],
-      "Taban Puan": [
-        "291.929",
-        "283.338",
-        "273.048",
-        "269.082"
-      ],
-      "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3430,19 +3471,142 @@
         ""
       ],
       "Taban Sıralama": [
+        "883.750",
         "956.369",
         "1.165.612",
-        "1.273.775",
-        "1.208.877"
+        "1.273.775"
       ],
       "Taban Puan": [
+        "296.503",
         "291.530",
         "279.815",
-        "271.117",
-        "268.289"
+        "271.117"
       ],
       "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101490299",
+      "Üniversite": "ATATÜRK ÜNİVERSİTESİ (ERZURUM)",
+      "Fakülte": "HINIS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "40",
+        "60",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "883.820",
+        "951.142",
+        "1.113.148",
+        "1.244.948"
+      ],
+      "Taban Puan": [
+        "296.496",
+        "291.929",
+        "283.338",
+        "273.048"
+      ],
+      "Şehir": "ERZURUM",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210500458",
+      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "21",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "928.444",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "292.724",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "204090141",
+      "Üniversite": "KTO KARATAY ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "18",
+        "18",
+        "12",
+        "10"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "931.562",
+        "844.899",
+        "852.336",
+        "859.651"
+      ],
+      "Taban Puan": [
+        "292.470",
+        "300.536",
+        "302.402",
+        "301.926"
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "109370170",
@@ -3471,60 +3635,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "954.871",
         "968.056",
         "1.074.336",
-        "1.254.775",
-        "1.292.953"
+        "1.254.775"
       ],
       "Taban Puan": [
+        "290.532",
         "290.618",
         "285.979",
-        "272.395",
-        "262.856"
+        "272.395"
       ],
       "Şehir": "ŞIRNAK",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200390172",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "16",
-        "12",
-        "38",
-        "34"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.004.068",
-        "1.917.059",
-        "1.979.404",
-        "1.893.117"
-      ],
-      "Taban Puan": [
-        "287.860",
-        "235.148",
-        "229.937",
-        "231.230"
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "105290093",
@@ -3553,16 +3676,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "964.313",
         "1.030.346",
         "1.191.617",
-        "1.357.021",
-        "1.282.737"
+        "1.357.021"
       ],
       "Taban Puan": [
+        "289.749",
         "285.876",
         "278.113",
-        "265.700",
-        "263.503"
+        "265.700"
       ],
       "Şehir": "IĞDIR",
       "Ücret": "Ücretsiz"
@@ -3594,26 +3717,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "970.242",
         "1.049.293",
         "1.129.727",
-        "1.286.448",
-        "1.119.165"
+        "1.286.448"
       ],
       "Taban Puan": [
+        "289.253",
         "284.471",
         "282.223",
-        "270.288",
-        "274.406"
+        "270.288"
       ],
       "Şehir": "ANTALYA",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "101290261",
-      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
-      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Optisyenlik",
+      "Program Kodu": "209200311",
+      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -3623,10 +3746,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "35",
-        "30",
-        "45",
-        "45"
+        "44",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -3635,19 +3758,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.078.768",
-        "1.311.667",
-        "1.413.977",
-        "1.355.548"
+        "981.204",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "282.277",
-        "270.426",
-        "262.073",
-        "259.024"
+        "288.347",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "ARDAHAN",
-      "Ücret": "Ücretsiz"
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "109590031",
@@ -3676,24 +3799,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "983.857",
         "1.090.126",
         "1.225.850",
-        "1.350.651",
-        "1.304.095"
+        "1.350.651"
       ],
       "Taban Puan": [
+        "288.130",
         "281.449",
         "275.894",
-        "266.110",
-        "262.168"
+        "266.110"
       ],
       "Şehir": "TUNCELİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "100590062",
-      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
-      "Fakülte": "PATNOS MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101290261",
+      "Üniversite": "ARDAHAN ÜNİVERSİTESİ",
+      "Fakülte": "TEKNİK BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Optisyenlik",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3705,10 +3828,10 @@
         "2023"
       ],
       "Kontenjan": [
+        "35",
+        "30",
         "45",
-        "40",
-        "50",
-        "50"
+        "45"
       ],
       "Yerleşen": [
         "",
@@ -3717,18 +3840,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.102.829",
-        "1.328.198",
-        "1.491.294",
-        "1.400.000"
+        "1.029.615",
+        "1.078.768",
+        "1.311.667",
+        "1.413.977"
       ],
       "Taban Puan": [
-        "280.542",
-        "269.403",
-        "257.315",
-        "256.385"
+        "284.479",
+        "282.277",
+        "270.426",
+        "262.073"
       ],
-      "Şehir": "AĞRI",
+      "Şehir": "ARDAHAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3758,16 +3881,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.046.557",
         "1.110.532",
         "1.239.968",
-        "1.418.117",
-        "1.377.604"
+        "1.418.117"
       ],
       "Taban Puan": [
+        "283.149",
         "279.976",
         "274.983",
-        "261.810",
-        "257.703"
+        "261.810"
       ],
       "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
@@ -3799,26 +3922,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.061.349",
         "1.138.510",
         "1.374.280",
-        "1.507.621",
-        "1.454.610"
+        "1.507.621"
       ],
       "Taban Puan": [
+        "281.974",
         "277.960",
         "266.536",
-        "256.314",
-        "253.238"
+        "256.314"
       ],
       "Şehir": "KARS",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207950160",
-      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Program Kodu": "100590062",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "PATNOS MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Optisyenlik",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -3830,8 +3953,8 @@
       "Kontenjan": [
         "45",
         "40",
-        "40",
-        "40"
+        "50",
+        "50"
       ],
       "Yerleşen": [
         "",
@@ -3840,19 +3963,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.143.709",
-        "1.291.863",
-        "1.421.159",
-        "1.552.505"
+        "1.068.804",
+        "1.102.829",
+        "1.328.198",
+        "1.491.294"
       ],
       "Taban Puan": [
-        "277.590",
-        "271.670",
-        "261.619",
-        "247.849"
+        "281.386",
+        "280.542",
+        "269.403",
+        "257.315"
       ],
-      "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "AĞRI",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "300350701",
@@ -3881,23 +4004,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.077.379",
         "1.147.575",
         "1.329.329",
-        "1.509.490",
-        "1.527.075"
+        "1.509.490"
       ],
       "Taban Puan": [
+        "280.711",
         "277.310",
         "269.334",
-        "256.202",
-        "249.215"
+        "256.202"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "210400374",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Program Kodu": "207950160",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "40",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.162.709",
+        "1.143.709",
+        "1.291.863",
+        "1.421.159"
+      ],
+      "Taban Puan": [
+        "274.203",
+        "277.590",
+        "271.670",
+        "261.619"
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "200351312",
+      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Ücretli)",
@@ -3910,10 +4074,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "1",
-        "1",
-        "1",
-        "1"
+        "22",
+        "26",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -3922,16 +4086,221 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.265.848",
-        "1.752.919",
-        "2.149.334",
-        "1.236.595"
+        "1.235.084",
+        "2.053.187",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "268.980",
-        "244.292",
-        "221.261",
-        "266.469"
+        "268.828",
+        "213.859",
+        "",
+        ""
+      ],
+      "Şehir": "TRABZON",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203551073",
+      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.299.977",
+        "1.418.938",
+        "1.491.937",
+        "1.245.174"
+      ],
+      "Taban Puan": [
+        "264.137",
+        "258.452",
+        "259.398",
+        "273.034"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "210200234",
+      "Üniversite": "ANTALYA BELEK ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "41",
+        "42",
+        "35",
+        "37"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.303.930",
+        "1.373.379",
+        "1.368.040",
+        "1.460.504"
+      ],
+      "Taban Puan": [
+        "263.850",
+        "261.562",
+        "266.931",
+        "259.197"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100458",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "47",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.348.033",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "260.676",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "209610039",
+      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "51",
+        "51",
+        "46",
+        "46"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.400.680",
+        "1.474.076",
+        "1.413.797",
+        "1.492.048"
+      ],
+      "Taban Puan": [
+        "256.935",
+        "254.689",
+        "264.109",
+        "257.269"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100647",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "48",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.462.753",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "252.543",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -3963,67 +4332,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.528.386",
         "1.314.275",
         "1.382.090",
-        "1.316.128",
-        "1.336.145"
+        "1.316.128"
       ],
       "Taban Puan": [
+        "247.950",
         "265.624",
         "266.064",
-        "268.342",
-        "260.201"
+        "268.342"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "200950432",
-      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "20",
-        "20",
-        "16"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.356.778",
-        "1.099.028",
-        "1.354.280",
-        "1.004.239"
-      ],
-      "Taban Puan": [
-        "262.693",
-        "284.300",
-        "265.878",
-        "282.872"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210200234",
-      "Üniversite": "ANTALYA BELEK ÜNİVERSİTESİ",
+      "Program Kodu": "201900227",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Program Adı": "Optisyenlik (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -4033,10 +4361,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "41",
-        "42",
-        "35",
-        "37"
+        "1",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -4045,64 +4373,23 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.373.379",
-        "1.368.040",
-        "1.460.504",
-        "1.476.946"
-      ],
-      "Taban Puan": [
-        "261.562",
-        "266.931",
-        "259.197",
-        "251.977"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "208810081",
-      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%25 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "42",
-        "42"
-      ],
-      "Yerleşen": [
-        "",
+        "1.616.465",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "1.395.543",
-        "1.480.969",
-        "1.592.278",
-        "1.584.478"
-      ],
       "Taban Puan": [
-        "260.048",
-        "260.052",
-        "251.307",
-        "246.168"
+        "241.775",
+        "",
+        "",
+        ""
       ],
-      "Şehir": "ANKARA",
-      "Ücret": "%25 İndirimli"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "203551073",
-      "Üniversite": "İZMİR EKONOMİ ÜNİVERSİTESİ",
+      "Program Kodu": "205590103",
+      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Ücretli)",
@@ -4115,10 +4402,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
-        "30"
+        "59",
+        "59",
+        "59",
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -4127,18 +4414,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.418.938",
-        "1.491.937",
-        "1.245.174",
-        "1.441.053"
+        "1.686.257",
+        "2.010.368",
+        "2.151.443",
+        "2.572.596"
       ],
       "Taban Puan": [
-        "258.452",
-        "259.398",
-        "273.034",
-        "254.006"
+        "236.907",
+        "217.218",
+        "222.458",
+        "200.191"
       ],
-      "Şehir": "İZMİR",
+      "Şehir": "MERSİN",
       "Ücret": "Ücretli"
     },
     {
@@ -4168,146 +4455,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.692.763",
         "1.463.383",
         "1.538.587",
-        "1.507.030",
-        "1.440.593"
+        "1.507.030"
       ],
       "Taban Puan": [
+        "236.443",
         "255.414",
         "256.649",
-        "256.349",
-        "254.033"
+        "256.349"
       ],
       "Şehir": "KONYA",
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "205090154",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "38",
-        "38"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.470.683",
-        "2.629.398",
-        "2.401.529",
-        "2.325.704"
-      ],
-      "Taban Puan": [
-        "254.917",
-        "193.136",
-        "208.846",
-        "213.329"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209610039",
-      "Üniversite": "İZMİR TINAZTEPE ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "51",
-        "51",
-        "46",
-        "46"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.474.076",
-        "1.413.797",
-        "1.492.048",
-        "1.523.267"
-      ],
-      "Taban Puan": [
-        "254.689",
-        "264.109",
-        "257.269",
-        "249.423"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "200150722",
-      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "41",
-        "41",
-        "38",
-        "38"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.493.147",
-        "1.774.224",
-        "1.997.680",
-        "1.794.033"
-      ],
-      "Taban Puan": [
-        "253.395",
-        "243.094",
-        "228.987",
-        "235.763"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "207650915",
-      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "202090334",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (%50 İndirimli)",
@@ -4320,10 +4484,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "51",
-        "51",
-        "34",
-        "34"
+        "41",
+        "37",
+        "27",
+        "27"
       ],
       "Yerleşen": [
         "",
@@ -4332,16 +4496,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.636.096",
-        "2.048.801",
-        "2.326.597",
-        "1.405.967"
+        "1.697.173",
+        "1.928.420",
+        "1.949.329",
+        "2.172.450"
       ],
       "Taban Puan": [
-        "243.648",
-        "228.001",
-        "212.529",
-        "256.042"
+        "236.133",
+        "223.308",
+        "233.389",
+        "220.106"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4373,26 +4537,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.722.717",
         "1.675.879",
         "1.540.065",
-        "2.148.721",
-        "2.098.105"
+        "2.148.721"
       ],
       "Taban Puan": [
+        "234.320",
         "240.931",
         "256.561",
-        "221.293",
-        "222.504"
+        "221.293"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206551019",
-      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "208810081",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Program Adı": "Optisyenlik (%25 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -4402,10 +4566,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "56",
-        "51",
-        "40",
-        "45"
+        "42",
+        "42",
+        "42",
+        "42"
       ],
       "Yerleşen": [
         "",
@@ -4414,60 +4578,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.693.894",
-        "1.514.293",
-        "1.706.368",
-        "1.458.874"
+        "1.735.329",
+        "1.395.543",
+        "1.480.969",
+        "1.592.278"
       ],
       "Taban Puan": [
-        "239.708",
-        "258.069",
-        "244.725",
-        "252.997"
+        "233.423",
+        "260.048",
+        "260.052",
+        "251.307"
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "206250933",
-      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "46",
-        "46",
-        "47",
-        "47"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.714.356",
-        "2.564.018",
-        "1.736.638",
-        "1.913.662"
-      ],
-      "Taban Puan": [
-        "238.312",
-        "198.288",
-        "243.026",
-        "230.320"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "ANKARA",
+      "Ücret": "%25 İndirimli"
     },
     {
       "Program Kodu": "300350719",
@@ -4496,23 +4619,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.742.318",
         "1.792.768",
         "2.142.567",
-        "2.091.753",
-        "2.703.646"
+        "2.091.753"
       ],
       "Taban Puan": [
+        "232.926",
         "232.930",
         "222.940",
-        "224.153",
-        "196.675"
+        "224.153"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "202090334",
-      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "207650915",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (%50 İndirimli)",
@@ -4525,10 +4648,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "41",
-        "37",
-        "27",
-        "27"
+        "51",
+        "51",
+        "34",
+        "34"
       ],
       "Yerleşen": [
         "",
@@ -4537,23 +4660,23 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.928.420",
-        "1.949.329",
-        "2.172.450",
-        "2.052.162"
+        "1.808.859",
+        "1.636.096",
+        "2.048.801",
+        "2.326.597"
       ],
       "Taban Puan": [
-        "223.308",
-        "233.389",
-        "220.106",
-        "224.410"
+        "228.101",
+        "243.648",
+        "228.001",
+        "212.529"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "205590103",
-      "Üniversite": "TOROS ÜNİVERSİTESİ (MERSİN)",
+      "Program Kodu": "210400374",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (Ücretli)",
@@ -4566,10 +4689,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "59",
-        "59",
-        "59",
-        "60"
+        "1",
+        "1",
+        "1",
+        "1"
       ],
       "Yerleşen": [
         "",
@@ -4578,18 +4701,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "2.010.368",
-        "2.151.443",
-        "2.572.596",
-        "1.537.690"
+        "1.841.617",
+        "1.265.848",
+        "1.752.919",
+        "2.149.334"
       ],
       "Taban Puan": [
-        "217.218",
-        "222.458",
-        "200.191",
-        "248.642"
+        "225.702",
+        "268.980",
+        "244.292",
+        "221.261"
       ],
-      "Şehir": "MERSİN",
+      "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
     },
     {
@@ -4619,14 +4742,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.859.959",
         "2.046.821",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "224.326",
         "214.362",
-        "",
         "",
         ""
       ],
@@ -4634,49 +4757,8 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "200351312",
-      "Üniversite": "AVRASYA ÜNİVERSİTESİ (TRABZON)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "22",
-        "26",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.053.187",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "213.859",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "TRABZON",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "209310030",
-      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
+      "Program Kodu": "201900234",
+      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (%50 İndirimli)",
@@ -4689,10 +4771,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "25",
-        "25",
-        "25",
-        "25"
+        "24",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -4701,57 +4783,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "2.084.938",
-        "2.254.533",
-        "2.230.638",
-        "1.991.337"
-      ],
-      "Taban Puan": [
-        "211.272",
-        "216.831",
-        "217.237",
-        "226.968"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "210400381",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "67",
-        "67",
-        "65",
-        "66"
-      ],
-      "Yerleşen": [
-        "",
+        "1.876.427",
         "",
         "",
         ""
       ],
-      "Taban Sıralama": [
-        "2.123.356",
-        "1.927.444",
-        "2.118.537",
-        "1.602.433"
-      ],
       "Taban Puan": [
-        "207.977",
-        "234.583",
-        "222.813",
-        "245.227"
+        "223.085",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4783,57 +4824,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.883.243",
         "2.123.869",
         "2.633.871",
-        "2.330.738",
-        "2.249.519"
+        "2.330.738"
       ],
       "Taban Puan": [
+        "222.566",
         "207.931",
         "192.750",
-        "212.323",
-        "216.371"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201790565",
-      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
-      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "34",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "2.136.671",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "206.793",
-        "",
-        "",
-        ""
+        "212.323"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4865,16 +4865,221 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.969.902",
         "2.205.524",
         "2.456.906",
-        "2.526.707",
-        "2.318.823"
+        "2.526.707"
       ],
       "Taban Puan": [
+        "215.649",
         "199.743",
         "205.285",
-        "202.585",
-        "213.602"
+        "202.585"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "201790565",
+      "Üniversite": "İSTANBUL GEDİK ÜNİVERSİTESİ",
+      "Fakülte": "GEDİK MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "34",
+        "34",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.005.177",
+        "2.136.671",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "212.612",
+        "206.793",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202352694",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.036.059",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "209.734",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "205090154",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "38",
+        "38"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.053.100",
+        "1.470.683",
+        "2.629.398",
+        "2.401.529"
+      ],
+      "Taban Puan": [
+        "208.026",
+        "254.917",
+        "193.136",
+        "208.846"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "202090332",
+      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "9",
+        "7",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.090.499",
+        "",
+        "2.628.911",
+        "2.351.890"
+      ],
+      "Taban Puan": [
+        "203.878",
+        "",
+        "193.175",
+        "211.278"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "207450497",
+      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
+      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "55",
+        "55",
+        "55"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.129.406",
+        "2.296.944",
+        "2.399.993",
+        "2.839.643"
+      ],
+      "Taban Puan": [
+        "198.463",
+        "181.758",
+        "208.670",
+        "180.724"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4906,24 +5111,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.151.127",
         "2.234.318",
         "2.186.520",
-        "",
-        "2.570.900"
+        ""
       ],
       "Taban Puan": [
+        "194.276",
         "196.098",
         "220.553",
-        "",
-        "203.170"
+        ""
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "207450497",
-      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
-      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+      "Program Kodu": "200950432",
+      "Üniversite": "BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -4935,10 +5140,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "55",
-        "55",
-        "55",
-        "55"
+        "25",
+        "20",
+        "20",
+        "16"
       ],
       "Yerleşen": [
         "",
@@ -4947,16 +5152,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "2.296.944",
-        "2.399.993",
-        "2.839.643",
-        "1.996.139"
+        "2.179.956",
+        "1.356.778",
+        "1.099.028",
+        "1.354.280"
       ],
       "Taban Puan": [
-        "181.758",
-        "208.670",
-        "180.724",
-        "226.767"
+        "183.059",
+        "262.693",
+        "284.300",
+        "265.878"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4990,17 +5195,58 @@
       "Taban Sıralama": [
         "",
         "",
-        "1.592.773",
-        ""
+        "",
+        "1.592.773"
       ],
       "Taban Puan": [
         "",
         "",
-        "251.278",
-        ""
+        "",
+        "251.278"
       ],
       "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "200150722",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "41",
+        "41",
+        "38",
+        "38"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.493.147",
+        "1.774.224",
+        "1.997.680"
+      ],
+      "Taban Puan": [
+        "",
+        "253.395",
+        "243.094",
+        "228.987"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "202950762",
@@ -5030,59 +5276,18 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "1.872.179",
-        "1.694.885",
-        "1.346.065"
+        "1.694.885"
       ],
       "Taban Puan": [
         "",
+        "",
         "237.626",
-        "245.381",
-        "259.598"
+        "245.381"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209200311",
-      "Üniversite": "ANKARA MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "44",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "200590151",
@@ -5112,104 +5317,22 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.219.345",
-        "2.266.561",
-        "1.783.792"
+        "2.266.561"
       ],
       "Taban Puan": [
+        "",
         "",
         "218.765",
-        "215.466",
-        "236.243"
+        "215.466"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "201900227",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "201900220",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "201900234",
-      "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "209310030",
+      "Üniversite": "İSTANBUL ATLAS ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (%50 İndirimli)",
@@ -5222,10 +5345,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "24",
-        "",
-        "",
-        ""
+        "25",
+        "25",
+        "25",
+        "25"
       ],
       "Yerleşen": [
         "",
@@ -5235,97 +5358,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "2.084.938",
+        "2.254.533",
+        "2.230.638"
       ],
       "Taban Puan": [
         "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "202090332",
-      "Üniversite": "IŞIK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "9",
-        "7",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "2.628.911",
-        "2.351.890",
-        "1.907.441"
-      ],
-      "Taban Puan": [
-        "",
-        "193.175",
-        "211.278",
-        "230.593"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "202352694",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
+        "211.272",
+        "216.831",
+        "217.237"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5358,15 +5399,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.155.920",
-        "1.867.222",
-        "1.320.120"
+        "1.867.222"
       ],
       "Taban Puan": [
         "",
+        "",
         "222.217",
-        "235.884",
-        "261.178"
+        "235.884"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5399,15 +5440,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.588.147",
-        "2.596.009",
-        "2.354.675"
+        "2.596.009"
       ],
       "Taban Puan": [
         "",
+        "",
         "196.490",
-        "198.954",
-        "212.172"
+        "198.954"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5440,15 +5481,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.654.027",
-        "2.705.115",
-        "2.020.055"
+        "2.705.115"
       ],
       "Taban Puan": [
         "",
+        "",
         "190.851",
-        "192.588",
-        "225.755"
+        "192.588"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5481,15 +5522,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.526.062",
-        "2.787.581",
-        "1.974.629"
+        "2.787.581"
       ],
       "Taban Puan": [
         "",
+        "",
         "200.891",
-        "186.444",
-        "227.680"
+        "186.444"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -5522,146 +5563,23 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.642.053",
-        "2.223.347",
-        "2.057.914"
+        "2.223.347"
       ],
       "Taban Puan": [
         "",
+        "",
         "192.000",
-        "217.597",
-        "224.168"
+        "217.597"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "203100458",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "47",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "203100647",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Program Kodu": "210400381",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "48",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "210500451",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Optisyenlik (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210500458",
-      "Üniversite": "İZMİR KONAK MESLEK YÜKSEKOKULU",
-      "Fakülte": "İZMİR KONAK MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Optisyenlik (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -5673,10 +5591,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "21",
-        "",
-        "",
-        ""
+        "67",
+        "67",
+        "65",
+        "66"
       ],
       "Yerleşen": [
         "",
@@ -5686,17 +5604,58 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
-        "",
-        ""
+        "2.123.356",
+        "1.927.444",
+        "2.118.537"
       ],
       "Taban Puan": [
         "",
+        "207.977",
+        "234.583",
+        "222.813"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206250933",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "46",
+        "46",
+        "47",
+        "47"
+      ],
+      "Yerleşen": [
+        "",
         "",
         "",
         ""
       ],
-      "Şehir": "İZMİR",
+      "Taban Sıralama": [
+        "",
+        "1.714.356",
+        "2.564.018",
+        "1.736.638"
+      ],
+      "Taban Puan": [
+        "",
+        "238.312",
+        "198.288",
+        "243.026"
+      ],
+      "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -5727,18 +5686,59 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.585.981",
-        "2.643.709",
-        ""
+        "2.643.709"
       ],
       "Taban Puan": [
         "",
+        "",
         "196.657",
-        "196.303",
-        ""
+        "196.303"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "206551019",
+      "Üniversite": "ÜSKÜDAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Optisyenlik (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "56",
+        "51",
+        "40",
+        "45"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.693.894",
+        "1.514.293",
+        "1.706.368"
+      ],
+      "Taban Puan": [
+        "",
+        "239.708",
+        "258.069",
+        "244.725"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     }
   ]
 }

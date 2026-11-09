@@ -27,14 +27,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "72.636",
         "69.050",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "440.733",
         "426.490",
-        "",
         "",
         ""
       ],
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "91.418",
         "87.033",
         "72.574",
-        "63.954",
-        "60.193"
+        "63.954"
       ],
       "Taban Puan": [
+        "422.421",
         "410.075",
         "409.851",
-        "443.739",
-        "445.975"
+        "443.739"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -109,15 +109,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "139.932",
         "107.137",
         "111.601",
-        "",
         ""
       ],
       "Taban Puan": [
+        "382.118",
         "393.324",
         "374.916",
-        "",
         ""
       ],
       "Şehir": "ESKİŞEHİR",
@@ -150,14 +150,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "198.037",
         "186.184",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "346.380",
         "344.005",
-        "",
         "",
         ""
       ],
@@ -165,11 +165,11 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "108290509",
-      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
-      "Fakülte": "FEN FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Program Kodu": "205000129",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (Burslu)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -179,9 +179,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
-        "30",
-        "30",
+        "5",
+        "",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -191,19 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "198.101",
-        "198.981",
+        "234.164",
+        "",
         "",
         ""
       ],
       "Taban Puan": [
-        "338.484",
-        "324.006",
+        "329.196",
+        "",
         "",
         ""
       ],
-      "Şehir": "SAMSUN",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "202391200",
@@ -232,19 +232,101 @@
         ""
       ],
       "Taban Sıralama": [
+        "242.567",
         "263.492",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "325.564",
         "313.426",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "108290509",
+      "Üniversite": "ONDOKUZ MAYIS ÜNİVERSİTESİ (SAMSUN)",
+      "Fakülte": "FEN FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "246.581",
+        "198.101",
+        "198.981",
+        ""
+      ],
+      "Taban Puan": [
+        "323.916",
+        "338.484",
+        "324.006",
+        ""
+      ],
+      "Şehir": "SAMSUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102700318",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "ÇANAKKALE UYGULAMALI BİLİMLER FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "251.948",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "321.696",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109490447",
@@ -273,14 +355,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "271.348",
         "268.154",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "314.071",
         "311.925",
-        "",
         "",
         ""
       ],
@@ -314,19 +396,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "294.891",
         "299.510",
         "308.908",
-        "",
         ""
       ],
       "Taban Puan": [
+        "305.560",
         "302.564",
         "287.832",
-        "",
         ""
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300100206",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "308.388",
+        "339.885",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "301.044",
+        "292.026",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "203852139",
@@ -355,59 +478,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "309.967",
         "310.214",
         "340.497",
-        "",
         ""
       ],
       "Taban Puan": [
+        "300.528",
         "299.594",
         "280.395",
-        "",
         ""
       ],
       "Şehir": "NEVŞEHİR",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "300100206",
-      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "339.885",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "292.026",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
       "Ücret": "Burslu"
     },
     {
@@ -437,60 +519,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "327.397",
         "347.166",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "295.044",
         "290.288",
-        "",
         "",
         ""
       ],
       "Şehir": "NİĞDE",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "200590334",
-      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "22",
-        "18",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "485.839",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "264.338",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300490482",
@@ -519,19 +560,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "452.561",
         "533.500",
         "416.982",
-        "379.519",
-        "466.785"
+        "379.519"
       ],
       "Taban Puan": [
+        "264.409",
         "257.630",
         "265.784",
-        "287.454",
-        "258.616"
+        "287.454"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "200590334",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "22",
+        "18",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "459.534",
+        "485.839",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "263.036",
+        "264.338",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "300390677",
@@ -560,14 +642,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "570.781",
         "573.527",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "244.469",
         "252.659",
-        "",
         "",
         ""
       ],
@@ -575,11 +657,11 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "300100213",
+      "Program Kodu": "300100220",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
       "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Ücretli)",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -589,8 +671,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "14",
-        "10",
+        "7",
+        "",
         "",
         ""
       ],
@@ -601,26 +683,26 @@
         ""
       ],
       "Taban Sıralama": [
-        "751.433",
+        "767.708",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "235.060",
+        "220.113",
         "",
         "",
         ""
       ],
       "Şehir": "KIBRIS",
-      "Ücret": "Ücretli"
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "102700318",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
-      "Fakülte": "ÇANAKKALE UYGULAMALI BİLİMLER FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi",
+      "Program Kodu": "205000136",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -630,7 +712,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "30",
+        "34",
         "",
         "",
         ""
@@ -642,19 +724,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "967.421",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "197.018",
         "",
         "",
         ""
       ],
-      "Şehir": "ÇANAKKALE",
-      "Ücret": "Ücretsiz"
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "200590327",
@@ -683,13 +765,13 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
+        "1.076.746",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "",
+        "180.488",
         "",
         "",
         ""
@@ -714,88 +796,6 @@
       "Kontenjan": [
         "37",
         "35",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "205000129",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "205000136",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "",
         "",
         ""
       ],
@@ -889,15 +889,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "682.777",
-        "404.248",
-        ""
+        "404.248"
       ],
       "Taban Puan": [
         "",
+        "",
         "235.203",
-        "282.182",
-        ""
+        "282.182"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretli"
@@ -930,25 +930,25 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "386.592",
-        "347.859",
-        "303.832"
+        "347.859"
       ],
       "Taban Puan": [
         "",
+        "",
         "271.030",
-        "294.841",
-        "296.741"
+        "294.841"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "300100220",
+      "Program Kodu": "300100213",
       "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
       "Fakülte": "BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (%50 İndirimli)",
+      "Program Adı": "Bilgi Güvenliği Teknolojisi (İngilizce) (Ücretli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "SAY",
       "Yıl": [
@@ -958,8 +958,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "7",
-        "10",
+        "14",
+        "",
         "",
         ""
       ],
@@ -971,18 +971,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
+        "751.433",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
+        "235.060",
         "",
         ""
       ],
       "Şehir": "KIBRIS",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "300390684",
@@ -1054,14 +1054,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "924.511",
-        ""
+        "",
+        "924.511"
       ],
       "Taban Puan": [
         "",
         "",
-        "220.739",
-        ""
+        "",
+        "220.739"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

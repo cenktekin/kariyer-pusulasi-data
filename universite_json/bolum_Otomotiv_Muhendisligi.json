@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "61.648",
         "65.240",
         "88.295",
-        "91.304",
-        "115.405"
+        "91.304"
       ],
       "Taban Puan": [
+        "452.195",
         "430.176",
         "394.693",
-        "416.530",
-        "391.948"
+        "416.530"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "85.355",
         "92.601",
         "100.913",
-        "108.904",
-        "122.402"
+        "108.904"
       ],
       "Taban Puan": [
+        "428.235",
         "405.207",
         "383.571",
-        "401.425",
-        "386.236"
+        "401.425"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "93.864",
         "103.306",
         "105.132",
-        "91.318",
-        "97.802"
+        "91.318"
       ],
       "Taban Puan": [
+        "420.191",
         "396.397",
         "380.136",
-        "416.515",
-        "407.545"
+        "416.515"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "99.548",
         "107.406",
         "117.005",
-        "117.290",
-        "136.175"
+        "117.290"
       ],
       "Taban Puan": [
+        "415.003",
         "393.105",
         "370.751",
-        "394.773",
-        "375.687"
+        "394.773"
       ],
       "Şehir": "BURSA",
       "Ücret": "Ücretsiz"
@@ -191,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "112.748",
         "118.331",
         "133.256",
-        "133.286",
-        "152.884"
+        "133.286"
       ],
       "Taban Puan": [
+        "403.418",
         "384.876",
         "359.260",
-        "383.006",
-        "364.097"
+        "383.006"
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "Ücretsiz"
@@ -232,16 +232,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "168.045",
         "182.680",
         "209.399",
-        "207.084",
-        "233.618"
+        "207.084"
       ],
       "Taban Puan": [
+        "363.378",
         "345.711",
         "319.645",
-        "341.270",
-        "322.040"
+        "341.270"
       ],
       "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
@@ -273,59 +273,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "178.735",
         "219.425",
         "259.404",
-        "258.011",
-        "296.510"
+        "258.011"
       ],
       "Taban Puan": [
+        "356.934",
         "329.321",
         "301.722",
-        "321.086",
-        "299.044"
+        "321.086"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "102911011",
-      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Otomotiv Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "55",
-        "65",
-        "65",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "226.184",
-        "249.410",
-        "237.918",
-        "261.546"
-      ],
-      "Taban Puan": [
-        "326.663",
-        "304.939",
-        "328.511",
-        "311.032"
-      ],
-      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -355,18 +314,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "204.508",
         "229.025",
         "260.907",
-        "287.336",
-        ""
+        "287.336"
       ],
       "Taban Puan": [
+        "343.073",
         "325.588",
         "301.270",
-        "311.446",
-        ""
+        "311.446"
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102911011",
+      "Üniversite": "ÇUKUROVA ÜNİVERSİTESİ (ADANA)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Otomotiv Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "55",
+        "65",
+        "65",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "206.484",
+        "226.184",
+        "249.410",
+        "237.918"
+      ],
+      "Taban Puan": [
+        "342.099",
+        "326.663",
+        "304.939",
+        "328.511"
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -396,16 +396,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "220.505",
         "242.487",
         "272.601",
-        "294.914",
-        ""
+        "294.914"
       ],
       "Taban Puan": [
+        "335.304",
         "320.641",
         "297.767",
-        "309.161",
-        ""
+        "309.161"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
@@ -437,59 +437,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "232.013",
         "266.313",
         "295.545",
-        "293.353",
-        "289.441"
+        "293.353"
       ],
       "Taban Puan": [
+        "330.116",
         "312.515",
         "291.282",
-        "309.611",
-        "301.350"
+        "309.611"
       ],
       "Şehir": "KOCAELİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103910567",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "TEKNOLOJİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Otomotiv Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "10",
-        "24",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "270.600",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "311.176",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -519,18 +478,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "236.371",
         "277.671",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "328.254",
+        "308.969",
+        "",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910567",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "TEKNOLOJİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Otomotiv Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "10",
+        "24",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "238.295",
+        "270.600",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "327.399",
+        "311.176",
+        "",
+        ""
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910576",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "TEKNOLOJİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Otomotiv Mühendisliği (M.T.O.K.)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "6",
+        "6",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "293.246",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "308.969",
+        "306.111",
         "",
         "",
         ""
       ],
-      "Şehir": "KARABÜK",
+      "Şehir": "ELAZIĞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -575,47 +616,6 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103910576",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "TEKNOLOJİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Otomotiv Mühendisliği (M.T.O.K.)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "6",
-        "6",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "200210828",
       "Üniversite": "ATILIM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
@@ -643,15 +643,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "214.420",
-        "250.153",
-        "259.899"
+        "250.153"
       ],
       "Taban Puan": [
         "",
+        "",
         "317.648",
-        "323.921",
-        "311.640"
+        "323.921"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"

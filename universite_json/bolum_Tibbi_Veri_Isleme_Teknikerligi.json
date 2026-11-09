@@ -27,23 +27,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "369.891",
         "370.308",
         "",
-        "413.799",
-        "539.256"
+        "413.799"
       ],
       "Taban Puan": [
+        "357.194",
         "354.448",
         "",
-        "351.674",
-        "328.281"
+        "351.674"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "200590306",
-      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "208810172",
+      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
@@ -56,8 +56,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "4",
+        "5",
+        "5",
         "",
         ""
       ],
@@ -68,18 +68,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "412.261",
-        "",
+        "377.502",
+        "436.240",
         "",
         ""
       ],
       "Taban Puan": [
-        "347.793",
-        "",
+        "355.853",
+        "344.223",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
+      "Şehir": "ANKARA",
       "Ücret": "Burslu"
     },
     {
@@ -109,14 +109,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "384.588",
         "433.201",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "354.619",
         "344.671",
-        "",
         "",
         ""
       ],
@@ -124,8 +124,8 @@
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "208810172",
-      "Üniversite": "LOKMAN HEKİM ÜNİVERSİTESİ (ANKARA)",
+      "Program Kodu": "200590306",
+      "Üniversite": "BAHÇEŞEHİR ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
@@ -138,8 +138,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "5",
-        "5",
+        "3",
+        "4",
         "",
         ""
       ],
@@ -150,18 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "436.240",
-        "",
+        "404.074",
+        "412.261",
         "",
         ""
       ],
       "Taban Puan": [
-        "344.223",
-        "",
+        "351.295",
+        "347.793",
         "",
         ""
       ],
-      "Şehir": "ANKARA",
+      "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
@@ -191,60 +191,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "430.319",
         "455.911",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "347.104",
         "341.479",
-        "",
         "",
         ""
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "104500262",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "470.178",
-        "561.841",
-        "644.140",
-        "750.997"
-      ],
-      "Taban Puan": [
-        "339.513",
-        "329.865",
-        "322.305",
-        "304.700"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109290592",
@@ -273,19 +232,224 @@
         ""
       ],
       "Taban Sıralama": [
+        "430.513",
         "475.357",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "347.073",
         "338.828",
-        "",
         "",
         ""
       ],
       "Şehir": "ISPARTA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209710241",
+      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "439.313",
+        "540.093",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "345.730",
+        "330.610",
+        "",
+        ""
+      ],
+      "Şehir": "KOCAELİ",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209500115",
+      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "449.770",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "344.157",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "203100696",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "475.477",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "340.377",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103390307",
+      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "489.833",
+        "573.234",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "338.364",
+        "326.743",
+        "",
+        ""
+      ],
+      "Şehir": "DÜZCE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209010275",
+      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "5",
+        "57",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "491.375",
+        "591.387",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "338.154",
+        "324.708",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108190415",
@@ -314,14 +478,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "494.392",
         "503.555",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "337.728",
         "335.125",
-        "",
         "",
         ""
       ],
@@ -344,7 +508,7 @@
       ],
       "Kontenjan": [
         "35",
-        "30",
+        "",
         "",
         ""
       ],
@@ -355,14 +519,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "496.844",
         "506.952",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "337.399",
         "334.683",
-        "",
         "",
         ""
       ],
@@ -396,26 +560,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "502.017",
         "529.064",
         "",
-        "656.096",
-        "769.337"
+        "656.096"
       ],
       "Taban Puan": [
+        "336.693",
         "331.939",
         "",
-        "321.037",
-        "302.941"
+        "321.037"
       ],
       "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "210302502",
-      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Program Kodu": "209900290",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu) (Bursa Yerleşkesi)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -425,10 +589,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "9",
-        "10",
-        "9",
-        "8"
+        "7",
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -437,59 +601,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "533.826",
-        "575.788",
-        "654.109",
-        "781.271"
+        "518.724",
+        "",
+        "",
+        ""
       ],
       "Taban Puan": [
-        "331.373",
-        "328.256",
-        "321.245",
-        "301.802"
+        "334.435",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209710241",
-      "Üniversite": "KOCAELİ SAĞLIK VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "AVRUPA MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "540.093",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "330.610",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KOCAELİ",
       "Ücret": "Burslu"
     },
     {
@@ -519,59 +642,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "523.050",
         "554.734",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "333.881",
         "328.883",
-        "",
         "",
         ""
       ],
       "Şehir": "BURDUR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110390335",
-      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
-      "Fakülte": "AHMET ERDOĞAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "562.278",
-        "",
-        "738.244",
-        "851.504"
-      ],
-      "Taban Puan": [
-        "328.001",
-        "",
-        "312.870",
-        "295.389"
-      ],
-      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -601,24 +683,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "530.387",
         "572.450",
         "",
-        "1.392.107",
-        "1.353.044"
+        "1.392.107"
       ],
       "Taban Puan": [
+        "332.920",
         "326.828",
         "",
-        "263.450",
-        "259.177"
+        "263.450"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103390307",
-      "Üniversite": "DÜZCE ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "110390335",
+      "Üniversite": "ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ",
+      "Fakülte": "AHMET ERDOĞAN SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -642,64 +724,23 @@
         ""
       ],
       "Taban Sıralama": [
-        "573.234",
+        "537.351",
+        "562.278",
         "",
-        "",
-        ""
+        "738.244"
       ],
       "Taban Puan": [
-        "326.743",
+        "332.034",
+        "328.001",
         "",
-        "",
-        ""
+        "312.870"
       ],
-      "Şehir": "DÜZCE",
+      "Şehir": "ZONGULDAK",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "202391074",
-      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "4",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "573.991",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "326.660",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209010275",
-      "Üniversite": "FENERBAHÇE ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "208750796",
+      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
@@ -712,9 +753,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
+        "3",
         "5",
-        "57",
+        "",
         ""
       ],
       "Yerleşen": [
@@ -724,16 +765,139 @@
         ""
       ],
       "Taban Sıralama": [
-        "591.387",
-        "",
+        "537.356",
+        "659.028",
         "",
         ""
       ],
       "Taban Puan": [
-        "324.708",
+        "332.033",
+        "317.535",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "209810290",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
         "",
         "",
         ""
+      ],
+      "Taban Sıralama": [
+        "540.746",
+        "646.531",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "331.593",
+        "318.821",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "104500262",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "550.240",
+        "470.178",
+        "561.841",
+        "644.140"
+      ],
+      "Taban Puan": [
+        "330.417",
+        "339.513",
+        "329.865",
+        "322.305"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "210302502",
+      "Üniversite": "İSTANBUL BEYKENT ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "9",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "553.342",
+        "533.826",
+        "575.788",
+        "654.109"
+      ],
+      "Taban Puan": [
+        "330.026",
+        "331.373",
+        "328.256",
+        "321.245"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -765,14 +929,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "554.985",
         "608.582",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "329.823",
         "322.841",
-        "",
         "",
         ""
       ],
@@ -806,146 +970,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "555.032",
         "617.903",
         "",
-        "545.128",
-        "788.260"
+        "545.128"
       ],
       "Taban Puan": [
+        "329.818",
         "321.838",
         "",
-        "333.639",
-        "301.168"
+        "333.639"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "111490356",
-      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-      "Fakülte": "TAVŞANLI SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "627.435",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "320.826",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111490321",
-      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
-      "Fakülte": "GEDİZ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "629.705",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "320.585",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KÜTAHYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "104590533",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
-      "Fakülte": "ŞEBİNKARAHİSAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "40",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "643.316",
-        "",
-        "1.972.903",
-        "2.363.911"
-      ],
-      "Taban Puan": [
-        "319.154",
-        "",
-        "230.278",
-        "211.811"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209810290",
-      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Program Kodu": "202391074",
+      "Üniversite": "İSTANBUL AREL ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
@@ -958,8 +999,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "5",
+        "4",
+        "4",
         "",
         ""
       ],
@@ -970,96 +1011,14 @@
         ""
       ],
       "Taban Sıralama": [
-        "646.531",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "318.821",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "210402852",
-      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "657.439",
-        "",
+        "556.933",
+        "573.991",
         "",
         ""
       ],
       "Taban Puan": [
-        "317.703",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "208750796",
-      "Üniversite": "İSTANBUL KENT ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "3",
-        "5",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "659.028",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "317.535",
-        "",
+        "329.582",
+        "326.660",
         "",
         ""
       ],
@@ -1093,19 +1052,224 @@
         ""
       ],
       "Taban Sıralama": [
+        "560.600",
         "660.795",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "329.130",
         "317.351",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "207400101",
+      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
+      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "564.199",
+        "700.413",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "328.698",
+        "313.457",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "210402852",
+      "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "571.354",
+        "657.439",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "327.813",
+        "317.703",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "107000367",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "EREĞLİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "578.939",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "326.887",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111490356",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "TAVŞANLI SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "579.873",
+        "627.435",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "326.769",
+        "320.826",
+        "",
+        ""
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111490321",
+      "Üniversite": "KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ",
+      "Fakülte": "GEDİZ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "599.300",
+        "629.705",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "324.488",
+        "320.585",
+        "",
+        ""
+      ],
+      "Şehir": "KÜTAHYA",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112690318",
@@ -1134,26 +1298,26 @@
         ""
       ],
       "Taban Sıralama": [
+        "603.609",
         "662.228",
         "",
-        "1.605.118",
-        "1.537.695"
+        "1.605.118"
       ],
       "Taban Puan": [
+        "323.984",
         "317.208",
         "",
-        "250.547",
-        "248.642"
+        "250.547"
       ],
       "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207400101",
-      "Üniversite": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU (İSTANBUL)",
-      "Fakülte": "ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
+      "Program Kodu": "104590533",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "ŞEBİNKARAHİSAR SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1163,8 +1327,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "4",
-        "5",
+        "45",
+        "40",
         "",
         ""
       ],
@@ -1175,60 +1339,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "700.413",
+        "636.882",
+        "643.316",
         "",
-        "",
-        ""
+        "1.972.903"
       ],
       "Taban Puan": [
-        "313.457",
+        "320.223",
+        "319.154",
         "",
-        "",
-        ""
+        "230.278"
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "200190158",
-      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "34",
-        "25",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.224.933",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "271.833",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "106300143",
@@ -1246,9 +1369,9 @@
       ],
       "Kontenjan": [
         "28",
-        "30",
-        "60",
-        "60"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1257,18 +1380,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "640.230",
         "1.328.491",
         "1.709.499",
-        "1.817.324",
-        "2.002.788"
+        "1.817.324"
       ],
       "Taban Puan": [
+        "319.867",
         "264.638",
         "246.753",
-        "238.587",
-        "226.486"
+        "238.587"
       ],
       "Şehir": "KARAMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102800101",
+      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
+      "Fakülte": "ÇERKEŞ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "715.453",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "311.989",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ÇANKIRI",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1298,60 +1462,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.241.083",
         "1.351.909",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "268.390",
         "263.027",
-        "",
         "",
         ""
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209810297",
-      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "1",
-        "1",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.419.975",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "258.381",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "208810179",
@@ -1380,14 +1503,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.444.992",
         "1.439.407",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "253.785",
         "257.041",
-        "",
         "",
         ""
       ],
@@ -1395,11 +1518,11 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "206290289",
-      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Program Kodu": "209900297",
+      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli) (Bursa Yerleşkesi)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -1409,8 +1532,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "34",
-        "34",
+        "42",
+        "",
         "",
         ""
       ],
@@ -1421,19 +1544,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.609.988",
+        "1.762.110",
         "",
-        "1.079.130",
-        "1.506.279"
+        "",
+        ""
       ],
       "Taban Puan": [
-        "245.425",
+        "231.507",
         "",
-        "284.695",
-        "250.357"
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "207950356",
+      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "8",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.988.264",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "214.095",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "210402859",
@@ -1462,14 +1626,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.096.940",
         "2.079.535",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "203.081",
         "211.719",
-        "",
         "",
         ""
       ],
@@ -1477,9 +1641,9 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "205090737",
-      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
-      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
+      "Program Kodu": "200190158",
+      "Üniversite": "ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
@@ -1491,8 +1655,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "42",
-        "42",
+        "34",
+        "25",
         "",
         ""
       ],
@@ -1503,142 +1667,19 @@
         ""
       ],
       "Taban Sıralama": [
-        "2.118.236",
         "",
+        "1.224.933",
         "",
         ""
       ],
       "Taban Puan": [
-        "208.412",
         "",
+        "271.833",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "102800101",
-      "Üniversite": "ÇANKIRI KARATEKİN ÜNİVERSİTESİ",
-      "Fakülte": "ÇERKEŞ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ÇANKIRI",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107000367",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "EREĞLİ SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KONYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "209500115",
-      "Üniversite": "ANKARA BİLİM ÜNİVERSİTESİ",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "209500122",
@@ -1697,7 +1738,7 @@
       ],
       "Kontenjan": [
         "31",
-        "34",
+        "",
         "",
         ""
       ],
@@ -1861,9 +1902,9 @@
       ],
       "Kontenjan": [
         "56",
-        "62",
-        "57",
-        "53"
+        "",
+        "",
+        ""
       ],
       "Yerleşen": [
         "",
@@ -1873,18 +1914,59 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "2.034.516",
-        "2.079.088",
-        "2.633.897"
+        "2.079.088"
       ],
       "Taban Puan": [
         "",
+        "",
         "228.774",
-        "224.796",
-        "200.245"
+        "224.796"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "209810297",
+      "Üniversite": "İSTANBUL GALATA ÜNİVERSİTESİ",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "1",
+        "1",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "1.419.975",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "258.381",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "209810304",
@@ -2051,47 +2133,6 @@
       "Ücret": "Ücretli"
     },
     {
-      "Program Kodu": "203100696",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
       "Program Kodu": "210402866",
       "Üniversite": "İSTANBUL NİŞANTAŞI ÜNİVERSİTESİ",
       "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
@@ -2133,11 +2174,11 @@
       "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209900297",
-      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "205090737",
+      "Üniversite": "İSTANBUL TOPKAPI ÜNİVERSİTESİ",
+      "Fakülte": "PLATO MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli) (Bursa Yerleşkesi)",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -2148,7 +2189,7 @@
       ],
       "Kontenjan": [
         "42",
-        "",
+        "42",
         "",
         ""
       ],
@@ -2160,25 +2201,25 @@
       ],
       "Taban Sıralama": [
         "",
-        "",
+        "2.118.236",
         "",
         ""
       ],
       "Taban Puan": [
         "",
-        "",
+        "208.412",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
+      "Ücret": "%50 İndirimli"
     },
     {
-      "Program Kodu": "209900290",
-      "Üniversite": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
-      "Fakülte": "İSTANBUL SAĞLIK VE SOSYAL BİLİMLER MESLEK YÜKSEKOKULU",
+      "Program Kodu": "206290289",
+      "Üniversite": "İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ",
+      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Burslu) (Bursa Yerleşkesi)",
+      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (%50 İndirimli)",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -2188,8 +2229,8 @@
         "2023"
       ],
       "Kontenjan": [
-        "7",
-        "",
+        "34",
+        "34",
         "",
         ""
       ],
@@ -2201,18 +2242,18 @@
       ],
       "Taban Sıralama": [
         "",
+        "1.609.988",
         "",
-        "",
-        ""
+        "1.079.130"
       ],
       "Taban Puan": [
         "",
+        "245.425",
         "",
-        "",
-        ""
+        "284.695"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "209710248",
@@ -2254,47 +2295,6 @@
       ],
       "Şehir": "KOCAELİ",
       "Ücret": "%25 İndirimli"
-    },
-    {
-      "Program Kodu": "207950356",
-      "Üniversite": "YÜKSEK İHTİSAS ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "SAĞLIK HİZMETLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Tıbbi Veri İşleme Teknikerliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "8",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Ücretli"
     }
   ]
 }

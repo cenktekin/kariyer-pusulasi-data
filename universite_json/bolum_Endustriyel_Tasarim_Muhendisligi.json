@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "100.281",
         "101.121",
         "109.841",
-        "120.192",
-        "148.947"
+        "120.192"
       ],
       "Taban Puan": [
+        "414.338",
         "398.224",
         "376.333",
-        "392.534",
-        "366.730"
+        "392.534"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,60 +68,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "192.630",
         "197.914",
         "215.611",
-        "242.431",
-        "279.649"
+        "242.431"
       ],
       "Taban Puan": [
+        "349.280",
         "338.566",
         "317.190",
-        "326.759",
-        "304.641"
+        "326.759"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103510914",
-      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Endüstriyel Tasarım Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "45",
-        "45",
-        "45",
-        "40"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "257.071",
-        "296.066",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "315.538",
-        "291.156",
-        "",
-        ""
-      ],
-      "Şehir": "KAYSERİ",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104111861",
@@ -150,18 +109,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "221.450",
         "257.326",
         "266.051",
-        "268.606",
-        "279.244"
+        "268.606"
       ],
       "Taban Puan": [
+        "334.847",
         "315.450",
         "299.685",
-        "317.483",
-        "304.786"
+        "317.483"
       ],
       "Şehir": "ANKARA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103510914",
+      "Üniversite": "ERCİYES ÜNİVERSİTESİ (KAYSERİ)",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Endüstriyel Tasarım Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "45",
+        "45",
+        "45",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "236.894",
+        "257.071",
+        "296.066",
+        ""
+      ],
+      "Taban Puan": [
+        "328.030",
+        "315.538",
+        "291.156",
+        ""
+      ],
+      "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {

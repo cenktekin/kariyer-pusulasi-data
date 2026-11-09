@@ -1,6 +1,88 @@
 {
   "yks": [
     {
+      "Program Kodu": "101050863",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kültürel Miras ve Turizm (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "150",
+        "300",
+        "300",
+        "300"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "962.839",
+        "1.168.332",
+        "1.476.766",
+        "1.419.421"
+      ],
+      "Taban Puan": [
+        "289.869",
+        "275.825",
+        "260.299",
+        "261.726"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105650906",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
+      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Kültürel Miras ve Turizm (Açıköğretim)",
+      "Öğretim Türü": "Açık Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "200",
+        "400",
+        "400",
+        "300"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.020.152",
+        "1.261.976",
+        "1.554.262",
+        "1.444.087"
+      ],
+      "Taban Puan": [
+        "285.235",
+        "269.244",
+        "255.730",
+        "260.198"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
       "Program Kodu": "103190567",
       "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "EFES MESLEK YÜKSEKOKULU (Selçuk)",
@@ -27,100 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.027.258",
         "1.115.086",
         "1.332.783",
-        "1.511.099",
-        "1.391.328"
+        "1.511.099"
       ],
       "Taban Puan": [
+        "284.672",
         "279.645",
         "269.120",
-        "256.102",
-        "256.889"
+        "256.102"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101050863",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
-      "Fakülte": "AÇIKÖĞRETİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kültürel Miras ve Turizm (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "150",
-        "300",
-        "300",
-        "300"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.168.332",
-        "1.476.766",
-        "1.419.421",
-        "1.299.201"
-      ],
-      "Taban Puan": [
-        "275.825",
-        "260.299",
-        "261.726",
-        "262.473"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105650906",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ",
-      "Fakülte": "AÇIK VE UZAKTAN EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Kültürel Miras ve Turizm (Açıköğretim)",
-      "Öğretim Türü": "UOLP",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "200",
-        "400",
-        "400",
-        "300"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.261.976",
-        "1.554.262",
-        "1.444.087",
-        "1.381.169"
-      ],
-      "Taban Puan": [
-        "269.244",
-        "255.730",
-        "260.198",
-        "257.492"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.255.243",
         "1.436.791",
         "1.747.230",
-        "1.881.788",
-        "2.053.256"
+        "1.881.788"
       ],
       "Taban Puan": [
+        "267.369",
         "257.223",
         "244.608",
-        "235.104",
-        "224.363"
+        "235.104"
       ],
       "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
@@ -191,15 +191,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.493.430",
         "1.687.667",
         "1.970.493",
-        "",
         ""
       ],
       "Taban Puan": [
+        "250.396",
         "240.134",
         "232.243",
-        "",
         ""
       ],
       "Şehir": "MARDİN",

@@ -1,47 +1,6 @@
 {
   "yks": [
     {
-      "Program Kodu": "112490475",
-      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
-      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bulut Bilişim Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "420.093",
-        "433.810",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "346.631",
-        "346.658",
-        "",
-        ""
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
       "Program Kodu": "201991161",
       "Üniversite": "HALİÇ ÜNİVERSİTESİ (İSTANBUL)",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -68,19 +27,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "427.886",
         "468.508",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "347.483",
         "339.735",
-        "",
         "",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "112490475",
+      "Üniversite": "ESKİŞEHİR TEKNİK ÜNİVERSİTESİ",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bulut Bilişim Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "466.814",
+        "420.093",
+        "433.810",
+        ""
+      ],
+      "Taban Puan": [
+        "341.619",
+        "346.631",
+        "346.658",
+        ""
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "204790738",
@@ -109,14 +109,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "484.070",
         "545.602",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "339.159",
         "329.957",
-        "",
         "",
         ""
       ],
@@ -150,59 +150,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "715.949",
         "681.634",
         "661.146",
-        "",
         ""
       ],
       "Taban Puan": [
+        "311.940",
         "315.279",
         "319.344",
-        "",
         ""
       ],
       "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110410286",
-      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
-      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Bulut Bilişim Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "776.384",
-        "810.238",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "306.450",
-        "305.856",
-        "",
-        ""
-      ],
-      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -232,18 +191,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "811.651",
         "847.748",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "302.843",
         "300.297",
-        "",
         "",
         ""
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "110410286",
+      "Üniversite": "ADANA ALPARSLAN TÜRKEŞ BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Bulut Bilişim Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "818.566",
+        "776.384",
+        "810.238",
+        ""
+      ],
+      "Taban Puan": [
+        "302.227",
+        "306.450",
+        "305.856",
+        ""
+      ],
+      "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,14 +273,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.028.807",
         "1.093.931",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "284.547",
         "281.173",
-        "",
         "",
         ""
       ],
@@ -314,14 +314,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.112.598",
         "1.159.555",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "277.990",
         "276.450",
-        "",
         "",
         ""
       ],
@@ -355,19 +355,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.199.087",
         "1.180.345",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "271.480",
         "274.962",
-        "",
         "",
         ""
       ],
       "Şehir": "KARABÜK",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "300100143",
+      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
+      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Bulut Bilişim Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.571.311",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "244.934",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110410356",
@@ -532,47 +573,6 @@
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "300100143",
-      "Üniversite": "DOĞU AKDENİZ ÜNİVERSİTESİ (KKTC-GAZİMAĞUSA)",
-      "Fakülte": "BİLİŞİM TEKNOLOJİLERİ MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Bulut Bilişim Operatörlüğü (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300100157",

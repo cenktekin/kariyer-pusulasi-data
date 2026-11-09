@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "209100143",
+      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İş Makineleri Operatörlüğü (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "556.848",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "329.592",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "Burslu"
+    },
+    {
       "Program Kodu": "204790843",
       "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
       "Fakülte": "MESLEK YÜKSEKOKULU",
@@ -27,14 +68,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "670.855",
         "711.658",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "316.567",
         "312.396",
-        "",
         "",
         ""
       ],
@@ -68,14 +109,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "908.992",
         "948.979",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "294.358",
         "292.104",
-        "",
         "",
         ""
       ],
@@ -109,16 +150,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "944.360",
         "951.127",
         "1.012.797",
-        "1.297.740",
-        "1.230.421"
+        "1.297.740"
       ],
       "Taban Puan": [
+        "291.400",
         "291.930",
         "290.318",
-        "269.534",
-        "266.876"
+        "269.534"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -150,16 +191,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.140.988",
         "1.161.350",
         "1.311.570",
-        "1.600.322",
-        "1.563.062"
+        "1.600.322"
       ],
       "Taban Puan": [
+        "275.844",
         "276.326",
         "270.431",
-        "250.829",
-        "247.281"
+        "250.829"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
@@ -191,59 +232,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.251.576",
         "1.173.449",
         "1.300.290",
-        "1.582.186",
-        "1.518.362"
+        "1.582.186"
       ],
       "Taban Puan": [
+        "267.632",
         "275.454",
         "271.143",
-        "251.892",
-        "249.693"
+        "251.892"
       ],
       "Şehir": "AFYONKARAHİSAR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111570320",
-      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
-      "Fakülte": "ARAPGİR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "İş Makineleri Operatörlüğü",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.398.149",
-        "1.622.600",
-        "1.800.180",
-        "1.786.417"
-      ],
-      "Taban Puan": [
-        "259.872",
-        "251.734",
-        "239.517",
-        "236.124"
-      ],
-      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,18 +273,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.274.668",
         "1.413.220",
         "",
-        "1.744.476",
-        "1.759.372"
+        "1.744.476"
       ],
       "Taban Puan": [
+        "265.959",
         "258.843",
         "",
-        "242.588",
-        "237.402"
+        "242.588"
       ],
       "Şehir": "ISPARTA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111570320",
+      "Üniversite": "MALATYA TURGUT ÖZAL ÜNİVERSİTESİ",
+      "Fakülte": "ARAPGİR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "İş Makineleri Operatörlüğü",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "1.361.021",
+        "1.398.149",
+        "1.622.600",
+        "1.800.180"
+      ],
+      "Taban Puan": [
+        "259.754",
+        "259.872",
+        "251.734",
+        "239.517"
+      ],
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.378.850",
         "1.419.617",
         "1.511.208",
-        "1.814.757",
-        "1.876.034"
+        "1.814.757"
       ],
       "Taban Puan": [
+        "258.484",
         "258.406",
         "258.258",
-        "238.723",
-        "231.995"
+        "238.723"
       ],
       "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
@@ -355,19 +396,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.445.350",
         "1.602.693",
         "1.753.601",
-        "1.921.198",
-        "2.048.299"
+        "1.921.198"
       ],
       "Taban Puan": [
+        "253.760",
         "245.920",
         "244.253",
-        "233.008",
-        "224.574"
+        "233.008"
       ],
       "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "209100150",
+      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "İş Makineleri Operatörlüğü (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "25",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "2.014.043",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "211.797",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "204790850",
@@ -408,88 +490,6 @@
         ""
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "209100143",
-      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İş Makineleri Operatörlüğü (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "209100150",
-      "Üniversite": "OSTİM TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "İş Makineleri Operatörlüğü (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "25",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
     }
   ]

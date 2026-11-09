@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.364",
         "1.395",
         "1.341",
-        "1.656",
-        "2.080"
+        "1.656"
       ],
       "Taban Puan": [
+        "452.485",
         "436.317",
         "469.256",
-        "454.394",
-        "455.015"
+        "454.394"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "2.117",
         "2.111",
         "1.896",
-        "2.259",
-        "3.321"
+        "2.259"
       ],
       "Taban Puan": [
+        "443.439",
         "428.306",
         "461.906",
-        "448.106",
-        "444.560"
+        "448.106"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -109,19 +109,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "3.558",
         "2.904",
         "4.007",
-        "4.358",
-        "8.531"
+        "4.358"
       ],
       "Taban Puan": [
+        "432.748",
         "421.124",
         "446.708",
-        "434.626",
-        "423.256"
+        "434.626"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110110367",
+      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "24",
+        "40",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "4.110",
+        "8.275",
+        "8.642",
+        "10.407"
+      ],
+      "Taban Puan": [
+        "429.692",
+        "399.415",
+        "430.725",
+        "416.609"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "104810308",
@@ -150,19 +191,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "4.274",
         "3.529",
         "3.506",
-        "3.364",
-        "5.634"
+        "3.364"
       ],
       "Taban Puan": [
+        "428.966",
         "417.094",
         "449.456",
-        "439.935",
-        "432.644"
+        "439.935"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "206190624",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "16",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "5.857",
+        "19.839",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "422.292",
+        "379.087",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "104111216",
@@ -191,16 +273,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "6.042",
         "7.015",
         "5.170",
-        "6.482",
-        "10.609"
+        "6.482"
       ],
       "Taban Puan": [
+        "421.607",
         "403.046",
         "441.483",
-        "426.458",
-        "418.388"
+        "426.458"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -232,59 +314,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "6.889",
         "7.974",
         "6.675",
-        "8.554",
-        "12.332"
+        "8.554"
       ],
       "Taban Puan": [
+        "418.763",
         "400.196",
         "436.183",
-        "420.712",
-        "414.934"
+        "420.712"
       ],
       "Şehir": "ANKARA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110110367",
-      "Üniversite": "YILDIZ TEKNİK ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "24",
-        "40",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "8.275",
-        "8.642",
-        "10.407",
-        "12.247"
-      ],
-      "Taban Puan": [
-        "399.415",
-        "430.725",
-        "416.609",
-        "415.088"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -314,16 +355,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "6.948",
         "8.886",
         "9.088",
-        "8.356",
-        "11.502"
+        "8.356"
       ],
       "Taban Puan": [
+        "418.564",
         "397.851",
         "429.675",
-        "421.229",
-        "416.505"
+        "421.229"
       ],
       "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
@@ -355,18 +396,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "7.482",
         "9.963",
         "10.188",
-        "10.399",
-        "11.237"
+        "10.399"
       ],
       "Taban Puan": [
+        "416.977",
         "395.255",
         "427.248",
-        "416.625",
-        "417.015"
+        "416.625"
       ],
       "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "101010167",
+      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "7.622",
+        "10.703",
+        "9.776",
+        "10.305"
+      ],
+      "Taban Puan": [
+        "416.500",
+        "393.656",
+        "428.080",
+        "416.793"
+      ],
+      "Şehir": "ESKİŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100710021",
+      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "42",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "7.970",
+        "11.407",
+        "12.166",
+        "14.557"
+      ],
+      "Taban Puan": [
+        "415.530",
+        "392.256",
+        "423.353",
+        "409.121"
+      ],
+      "Şehir": "ANTALYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "111611517",
+      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
+      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "8.475",
+        "12.939",
+        "13.616",
+        "15.183"
+      ],
+      "Taban Puan": [
+        "414.136",
+        "389.266",
+        "420.837",
+        "408.134"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103110133",
+      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
+      "Fakülte": "BUCA EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "8.852",
+        "11.810",
+        "11.490",
+        "12.663"
+      ],
+      "Taban Puan": [
+        "413.207",
+        "391.400",
+        "424.632",
+        "412.251"
+      ],
+      "Şehir": "İZMİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -396,23 +601,64 @@
         ""
       ],
       "Taban Sıralama": [
+        "9.033",
         "10.370",
         "12.844",
-        "14.612",
-        "15.412"
+        "14.612"
       ],
       "Taban Puan": [
+        "412.794",
         "394.363",
         "422.170",
-        "409.041",
-        "409.681"
+        "409.041"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "101010167",
-      "Üniversite": "ANADOLU ÜNİVERSİTESİ (ESKİŞEHİR)",
+      "Program Kodu": "203111209",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "5",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.115",
+        "14.443",
+        "13.375",
+        "17.707"
+      ],
+      "Taban Puan": [
+        "412.571",
+        "386.646",
+        "421.249",
+        "404.612"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "103810498",
+      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -426,7 +672,7 @@
       ],
       "Kontenjan": [
         "40",
-        "42",
+        "40",
         "50",
         "60"
       ],
@@ -437,16 +683,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "10.703",
-        "9.776",
-        "10.305",
-        "13.194"
+        "9.203",
+        "12.528",
+        "12.299",
+        "13.415"
       ],
       "Taban Puan": [
-        "393.656",
-        "428.080",
-        "416.793",
-        "413.333"
+        "412.387",
+        "389.987",
+        "423.117",
+        "410.978"
       ],
       "Şehir": "ESKİŞEHİR",
       "Ücret": "Ücretsiz"
@@ -478,101 +724,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "9.276",
         "10.969",
         "8.989",
-        "12.268",
-        "13.599"
+        "12.268"
       ],
       "Taban Puan": [
+        "412.197",
         "393.114",
         "429.917",
-        "412.926",
-        "412.582"
+        "412.926"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "100710021",
-      "Üniversite": "AKDENİZ ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "42",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "11.407",
-        "12.166",
-        "14.557",
-        "17.152"
-      ],
-      "Taban Puan": [
-        "392.256",
-        "423.353",
-        "409.121",
-        "407.068"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103110133",
-      "Üniversite": "DOKUZ EYLÜL ÜNİVERSİTESİ (İZMİR)",
-      "Fakülte": "BUCA EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "11.810",
-        "11.490",
-        "12.663",
-        "15.602"
-      ],
-      "Taban Puan": [
-        "391.400",
-        "424.632",
-        "412.251",
-        "409.417"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "109710075",
@@ -601,141 +765,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "9.402",
         "11.844",
         "11.511",
-        "12.996",
-        "16.405"
+        "12.996"
       ],
       "Taban Puan": [
+        "411.843",
         "391.327",
         "424.584",
-        "411.682",
-        "408.136"
+        "411.682"
       ],
       "Şehir": "BURSA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "103810498",
-      "Üniversite": "ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "40",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "12.528",
-        "12.299",
-        "13.415",
-        "17.004"
-      ],
-      "Taban Puan": [
-        "389.987",
-        "423.117",
-        "410.978",
-        "407.288"
-      ],
-      "Şehir": "ESKİŞEHİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111611517",
-      "Üniversite": "İSTANBUL ÜNİVERSİTESİ-CERRAHPAŞA",
-      "Fakülte": "HASAN ALİ YÜCEL EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "12.939",
-        "13.616",
-        "15.183",
-        "16.107"
-      ],
-      "Taban Puan": [
-        "389.266",
-        "420.837",
-        "408.134",
-        "408.597"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107410057",
-      "Üniversite": "MERSİN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "13.116",
-        "14.351",
-        "16.303",
-        "19.721"
-      ],
-      "Taban Puan": [
-        "388.949",
-        "419.648",
-        "406.488",
-        "403.550"
-      ],
-      "Şehir": "MERSİN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -765,19 +806,142 @@
         ""
       ],
       "Taban Sıralama": [
+        "9.594",
         "13.789",
         "12.826",
-        "14.587",
-        "18.320"
+        "14.587"
       ],
       "Taban Puan": [
+        "411.318",
         "387.721",
         "422.215",
-        "409.082",
-        "405.421"
+        "409.082"
       ],
       "Şehir": "SAMSUN",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107410057",
+      "Üniversite": "MERSİN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.772",
+        "13.116",
+        "14.351",
+        "16.303"
+      ],
+      "Taban Puan": [
+        "410.935",
+        "388.949",
+        "419.648",
+        "406.488"
+      ],
+      "Şehir": "MERSİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105490023",
+      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.784",
+        "14.860",
+        "14.844",
+        "17.066"
+      ],
+      "Taban Puan": [
+        "410.900",
+        "385.948",
+        "418.903",
+        "405.421"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201610796",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "4",
+        "7",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "9.854",
+        "15.383",
+        "11.634",
+        "10.939"
+      ],
+      "Taban Puan": [
+        "410.713",
+        "385.158",
+        "424.335",
+        "415.542"
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102910094",
@@ -806,60 +970,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "9.957",
         "13.822",
         "13.578",
-        "14.883",
-        "17.776"
+        "14.883"
       ],
       "Taban Puan": [
+        "410.502",
         "387.655",
         "420.905",
-        "408.597",
-        "406.184"
+        "408.597"
       ],
       "Şehir": "ADANA",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "203111209",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "5",
-        "7",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "14.443",
-        "13.375",
-        "17.707",
-        "19.309"
-      ],
-      "Taban Puan": [
-        "386.646",
-        "421.249",
-        "404.612",
-        "404.113"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "110210084",
@@ -888,16 +1011,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "10.021",
         "14.565",
         "15.046",
-        "15.814",
-        "19.602"
+        "15.814"
       ],
       "Taban Puan": [
+        "410.384",
         "386.431",
         "418.575",
-        "407.244",
-        "403.722"
+        "407.244"
       ],
       "Şehir": "VAN",
       "Ücret": "Ücretsiz"
@@ -929,59 +1052,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "10.402",
         "14.618",
         "13.785",
-        "14.515",
-        "13.664"
+        "14.515"
       ],
       "Taban Puan": [
+        "409.522",
         "386.346",
         "420.524",
-        "409.178",
-        "412.470"
+        "409.178"
       ],
       "Şehir": "DİYARBAKIR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "105490023",
-      "Üniversite": "İSTANBUL MEDENİYET ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "14.860",
-        "14.844",
-        "17.066",
-        "18.923"
-      ],
-      "Taban Puan": [
-        "385.948",
-        "418.903",
-        "405.421",
-        "404.611"
-      ],
-      "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1011,18 +1093,182 @@
         ""
       ],
       "Taban Sıralama": [
+        "10.493",
         "14.880",
         "13.435",
-        "16.856",
-        "21.023"
+        "16.856"
       ],
       "Taban Puan": [
+        "409.301",
         "385.920",
         "421.159",
-        "405.684",
-        "401.943"
+        "405.684"
       ],
       "Şehir": "KONYA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "201410611",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "8",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "10.768",
+        "17.380",
+        "18.561",
+        "20.324"
+      ],
+      "Taban Puan": [
+        "408.691",
+        "382.160",
+        "413.668",
+        "401.177"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "102710069",
+      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "10.824",
+        "15.174",
+        "14.651",
+        "17.787"
+      ],
+      "Taban Puan": [
+        "408.540",
+        "385.446",
+        "419.173",
+        "404.511"
+      ],
+      "Şehir": "ÇANAKKALE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "105090169",
+      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "25",
+        "40",
+        "40"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "11.132",
+        "17.693",
+        "18.467",
+        "18.546"
+      ],
+      "Taban Puan": [
+        "407.938",
+        "381.775",
+        "413.779",
+        "403.425"
+      ],
+      "Şehir": "ŞANLIURFA",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108610034",
+      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "11.233",
+        "15.404",
+        "15.220",
+        "17.826"
+      ],
+      "Taban Puan": [
+        "407.718",
+        "385.131",
+        "418.293",
+        "404.453"
+      ],
+      "Şehir": "DENİZLİ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1052,23 +1298,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "11.252",
         "15.155",
         "14.180",
-        "16.590",
-        "20.064"
+        "16.590"
       ],
       "Taban Puan": [
+        "407.664",
         "385.471",
         "419.906",
-        "406.049",
-        "403.106"
+        "406.049"
       ],
       "Şehir": "KAYSERİ",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102710069",
-      "Üniversite": "ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ",
+      "Program Kodu": "106910046",
+      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -1084,7 +1330,7 @@
         "42",
         "42",
         "50",
-        "70"
+        "62"
       ],
       "Yerleşen": [
         "",
@@ -1093,18 +1339,59 @@
         ""
       ],
       "Taban Sıralama": [
-        "15.174",
-        "14.651",
-        "17.787",
-        "21.402"
+        "11.733",
+        "16.217",
+        "16.102",
+        "18.210"
       ],
       "Taban Puan": [
-        "385.446",
-        "419.173",
-        "404.511",
-        "401.511"
+        "406.685",
+        "383.833",
+        "417.039",
+        "403.869"
       ],
-      "Şehir": "ÇANAKKALE",
+      "Şehir": "KOCAELİ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "107610046",
+      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "11.851",
+        "16.008",
+        "16.974",
+        "19.842"
+      ],
+      "Taban Puan": [
+        "406.455",
+        "384.168",
+        "415.808",
+        "401.722"
+      ],
+      "Şehir": "MUĞLA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1134,64 +1421,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "11.965",
         "15.272",
         "15.845",
-        "7.356",
-        "3.820"
+        "7.356"
       ],
       "Taban Puan": [
+        "406.218",
         "385.306",
         "417.418",
-        "423.897",
-        "441.404"
+        "423.897"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "201610796",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "4",
-        "7",
-        "7",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "15.383",
-        "11.634",
-        "10.939",
-        "11.462"
-      ],
-      "Taban Puan": [
-        "385.158",
-        "424.335",
-        "415.542",
-        "416.564"
-      ],
-      "Şehir": "GAZİANTEP",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108610034",
-      "Üniversite": "PAMUKKALE ÜNİVERSİTESİ (DENİZLİ)",
+      "Program Kodu": "110590018",
+      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -1204,89 +1450,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "42",
-        "42",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "15.404",
-        "15.220",
-        "17.826",
-        "21.719"
-      ],
-      "Taban Puan": [
-        "385.131",
-        "418.293",
-        "404.453",
-        "401.121"
-      ],
-      "Şehir": "DENİZLİ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "202410565",
-      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "7",
-        "7",
-        "7",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "15.791",
-        "15.660",
-        "17.210",
-        "17.788"
-      ],
-      "Taban Puan": [
-        "384.517",
-        "417.647",
-        "405.213",
-        "406.175"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "107610046",
-      "Üniversite": "MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
+        "20",
         "42",
         "50",
         "60"
@@ -1298,64 +1462,23 @@
         ""
       ],
       "Taban Sıralama": [
-        "16.008",
-        "16.974",
-        "19.842",
-        "23.430"
+        "12.097",
+        "18.756",
+        "18.871",
+        "21.475"
       ],
       "Taban Puan": [
-        "384.168",
-        "415.808",
-        "401.722",
-        "399.102"
+        "405.968",
+        "380.416",
+        "413.260",
+        "399.804"
       ],
-      "Şehir": "MUĞLA",
+      "Şehir": "ANTALYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "207650848",
-      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "8",
-        "8",
-        "7",
-        "8"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "16.155",
-        "17.377",
-        "19.212",
-        "20.004"
-      ],
-      "Taban Puan": [
-        "383.933",
-        "415.223",
-        "402.570",
-        "403.180"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "106910046",
-      "Üniversite": "KOCAELİ ÜNİVERSİTESİ",
+      "Program Kodu": "105310064",
+      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -1368,10 +1491,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "42",
+        "40",
         "42",
         "50",
-        "62"
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -1380,18 +1503,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "16.217",
-        "16.102",
-        "18.210",
-        "21.021"
+        "12.385",
+        "17.768",
+        "18.132",
+        "20.857"
       ],
       "Taban Puan": [
-        "383.833",
-        "417.039",
-        "403.869",
-        "401.945"
+        "405.397",
+        "381.671",
+        "414.227",
+        "400.532"
       ],
-      "Şehir": "KOCAELİ",
+      "Şehir": "MALATYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1421,16 +1544,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.387",
         "16.332",
         "17.134",
-        "20.490",
-        "23.642"
+        "20.490"
       ],
       "Taban Puan": [
+        "405.391",
         "383.658",
         "415.548",
-        "400.966",
-        "398.876"
+        "400.966"
       ],
       "Şehir": "ERZURUM",
       "Ücret": "Ücretsiz"
@@ -1462,23 +1585,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.397",
         "16.422",
         "16.668",
-        "19.409",
-        "22.897"
+        "19.409"
       ],
       "Taban Puan": [
+        "405.365",
         "383.504",
         "416.246",
-        "402.308",
-        "399.734"
+        "402.308"
       ],
       "Şehir": "AYDIN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201410611",
-      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Program Kodu": "202410565",
+      "Üniversite": "İSTANBUL AYDIN ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Vakıf",
       "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
@@ -1491,7 +1614,89 @@
         "2023"
       ],
       "Kontenjan": [
-        "6",
+        "7",
+        "7",
+        "7",
+        "8"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "12.649",
+        "15.791",
+        "15.660",
+        "17.210"
+      ],
+      "Taban Puan": [
+        "404.866",
+        "384.517",
+        "417.647",
+        "405.213"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "111110051",
+      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "12.690",
+        "17.821",
+        "17.787",
+        "19.558"
+      ],
+      "Taban Puan": [
+        "404.777",
+        "381.588",
+        "414.697",
+        "402.100"
+      ],
+      "Şehir": "İZMİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "207650848",
+      "Üniversite": "BİRUNİ ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "8",
         "8",
         "7",
         "8"
@@ -1503,16 +1708,16 @@
         ""
       ],
       "Taban Sıralama": [
-        "17.380",
-        "18.561",
-        "20.324",
-        "20.911"
+        "12.780",
+        "16.155",
+        "17.377",
+        "19.212"
       ],
       "Taban Puan": [
-        "382.160",
-        "413.668",
-        "401.177",
-        "402.072"
+        "404.625",
+        "383.933",
+        "415.223",
+        "402.570"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
@@ -1544,16 +1749,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "12.858",
         "17.512",
         "17.591",
-        "20.733",
-        "24.293"
+        "20.733"
       ],
       "Taban Puan": [
+        "404.467",
         "381.981",
         "414.940",
-        "400.694",
-        "398.158"
+        "400.694"
       ],
       "Şehir": "BALIKESİR",
       "Ücret": "Ücretsiz"
@@ -1585,23 +1790,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "13.328",
         "17.651",
         "17.343",
-        "20.904",
-        "23.023"
+        "20.904"
       ],
       "Taban Puan": [
+        "403.556",
         "381.823",
         "415.276",
-        "400.481",
-        "399.588"
+        "400.481"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
     },
     {
-      "Program Kodu": "105090169",
-      "Üniversite": "HARRAN ÜNİVERSİTESİ (ŞANLIURFA)",
+      "Program Kodu": "100110054",
+      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -1614,10 +1819,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "15",
-        "25",
-        "40",
-        "40"
+        "42",
+        "42",
+        "50",
+        "70"
       ],
       "Yerleşen": [
         "",
@@ -1626,18 +1831,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "17.693",
-        "18.467",
-        "18.546",
-        "20.164"
+        "13.452",
+        "17.920",
+        "18.705",
+        "21.652"
       ],
       "Taban Puan": [
-        "381.775",
-        "413.779",
-        "403.425",
-        "402.979"
+        "403.316",
+        "381.474",
+        "413.495",
+        "399.599"
       ],
-      "Şehir": "ŞANLIURFA",
+      "Şehir": "BOLU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -1667,183 +1872,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "13.733",
         "17.747",
         "19.210",
-        "20.175",
-        "21.119"
+        "20.175"
       ],
       "Taban Puan": [
+        "402.807",
         "381.699",
         "412.852",
-        "401.342",
-        "401.828"
+        "401.342"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "105310064",
-      "Üniversite": "İNÖNÜ ÜNİVERSİTESİ (MALATYA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "42",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "17.768",
-        "18.132",
-        "20.857",
-        "20.486"
-      ],
-      "Taban Puan": [
-        "381.671",
-        "414.227",
-        "400.532",
-        "402.604"
-      ],
-      "Şehir": "MALATYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "111110051",
-      "Üniversite": "İZMİR DEMOKRASİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "17.821",
-        "17.787",
-        "19.558",
-        "22.697"
-      ],
-      "Taban Puan": [
-        "381.588",
-        "414.697",
-        "402.100",
-        "399.959"
-      ],
-      "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100110054",
-      "Üniversite": "BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "17.920",
-        "18.705",
-        "21.652",
-        "24.796"
-      ],
-      "Taban Puan": [
-        "381.474",
-        "413.495",
-        "399.599",
-        "397.631"
-      ],
-      "Şehir": "BOLU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110590018",
-      "Üniversite": "ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ (ANTALYA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "20",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "18.756",
-        "18.871",
-        "21.475",
-        "24.853"
-      ],
-      "Taban Puan": [
-        "380.416",
-        "413.260",
-        "399.804",
-        "397.571"
-      ],
-      "Şehir": "ANTALYA",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "112110105",
@@ -1872,182 +1913,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "13.955",
         "19.243",
         "19.103",
-        "21.751",
-        "25.761"
+        "21.751"
       ],
       "Taban Puan": [
+        "402.418",
         "379.812",
         "412.995",
-        "399.498",
-        "396.618"
+        "399.498"
       ],
       "Şehir": "TRABZON",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "204712243",
-      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "6",
-        "5",
-        "7",
-        "6"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "19.568",
-        "19.256",
-        "23.153",
-        "22.577"
-      ],
-      "Taban Puan": [
-        "379.424",
-        "412.802",
-        "397.886",
-        "400.114"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "103910443",
-      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "19.614",
-        "18.732",
-        "19.400",
-        "21.727"
-      ],
-      "Taban Puan": [
-        "379.376",
-        "413.448",
-        "402.320",
-        "401.111"
-      ],
-      "Şehir": "ELAZIĞ",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "206190624",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "16",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "19.839",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "379.087",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "108010437",
-      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "19.912",
-        "19.633",
-        "22.290",
-        "25.361"
-      ],
-      "Taban Puan": [
-        "378.987",
-        "412.331",
-        "398.855",
-        "397.034"
-      ],
-      "Şehir": "NEVŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2077,59 +1954,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "14.000",
         "19.973",
         "19.355",
-        "22.129",
-        "25.003"
+        "22.129"
       ],
       "Taban Puan": [
+        "402.325",
         "378.914",
         "412.671",
-        "399.032",
-        "397.387"
+        "399.032"
       ],
       "Şehir": "SAKARYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108310267",
-      "Üniversite": "ORDU ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "20.036",
-        "20.483",
-        "23.478",
-        "27.151"
-      ],
-      "Taban Puan": [
-        "378.848",
-        "411.346",
-        "397.534",
-        "395.260"
-      ],
-      "Şehir": "ORDU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2159,59 +1995,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "14.047",
         "20.111",
         "19.886",
-        "21.795",
-        "23.358"
+        "21.795"
       ],
       "Taban Puan": [
+        "402.251",
         "378.748",
         "412.027",
-        "399.465",
-        "399.187"
+        "399.465"
       ],
       "Şehir": "ADIYAMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100410015",
-      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "20.917",
-        "20.899",
-        "24.336",
-        "27.708"
-      ],
-      "Taban Puan": [
-        "377.760",
-        "410.882",
-        "396.614",
-        "394.705"
-      ],
-      "Şehir": "AFYONKARAHİSAR",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2241,19 +2036,224 @@
         ""
       ],
       "Taban Sıralama": [
+        "14.091",
         "21.649",
         "22.512",
-        "24.261",
-        "22.385"
+        "24.261"
       ],
       "Taban Puan": [
+        "402.178",
         "376.887",
         "409.104",
-        "396.688",
-        "400.307"
+        "396.688"
       ],
       "Şehir": "KAHRAMANMARAŞ",
       "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108010437",
+      "Üniversite": "NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "14.411",
+        "19.912",
+        "19.633",
+        "22.290"
+      ],
+      "Taban Puan": [
+        "401.672",
+        "378.987",
+        "412.331",
+        "398.855"
+      ],
+      "Şehir": "NEVŞEHİR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100410015",
+      "Üniversite": "AFYON KOCATEPE ÜNİVERSİTESİ (AFYONKARAHİSAR)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "14.656",
+        "20.917",
+        "20.899",
+        "24.336"
+      ],
+      "Taban Puan": [
+        "401.300",
+        "377.760",
+        "410.882",
+        "396.614"
+      ],
+      "Şehir": "AFYONKARAHİSAR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108310267",
+      "Üniversite": "ORDU ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "14.756",
+        "20.036",
+        "20.483",
+        "23.478"
+      ],
+      "Taban Puan": [
+        "401.142",
+        "378.848",
+        "411.346",
+        "397.534"
+      ],
+      "Şehir": "ORDU",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103910443",
+      "Üniversite": "FIRAT ÜNİVERSİTESİ (ELAZIĞ)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "14.799",
+        "19.614",
+        "18.732",
+        "19.400"
+      ],
+      "Taban Puan": [
+        "401.075",
+        "379.376",
+        "413.448",
+        "402.320"
+      ],
+      "Şehir": "ELAZIĞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "204712243",
+      "Üniversite": "İSTANBUL OKAN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "6",
+        "5",
+        "7",
+        "6"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "15.124",
+        "19.568",
+        "19.256",
+        "23.153"
+      ],
+      "Taban Puan": [
+        "400.548",
+        "379.424",
+        "412.802",
+        "397.886"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "102610052",
@@ -2282,59 +2282,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.411",
         "22.206",
         "20.288",
-        "23.720",
-        "27.831"
+        "23.720"
       ],
       "Taban Puan": [
+        "400.085",
         "376.311",
         "411.544",
-        "397.260",
-        "394.572"
+        "397.260"
       ],
       "Şehir": "SİVAS",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109410042",
-      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "22.269",
-        "21.368",
-        "23.813",
-        "26.859"
-      ],
-      "Taban Puan": [
-        "376.259",
-        "410.398",
-        "397.167",
-        "395.542"
-      ],
-      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2364,16 +2323,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.687",
         "22.989",
         "22.869",
-        "26.275",
-        "29.440"
+        "26.275"
       ],
       "Taban Puan": [
+        "399.630",
         "375.465",
         "408.691",
-        "394.680",
-        "393.022"
+        "394.680"
       ],
       "Şehir": "DÜZCE",
       "Ücret": "Ücretsiz"
@@ -2405,23 +2364,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "15.977",
         "23.005",
         "21.659",
-        "24.637",
-        "26.926"
+        "24.637"
       ],
       "Taban Puan": [
+        "399.109",
         "375.447",
         "410.060",
-        "396.328",
-        "395.483"
+        "396.328"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "104510029",
-      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Program Kodu": "109410042",
+      "Üniversite": "TRAKYA ÜNİVERSİTESİ (EDİRNE)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -2437,47 +2396,6 @@
         "42",
         "42",
         "50",
-        "70"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "24.140",
-        "23.884",
-        "28.031",
-        "31.438"
-      ],
-      "Taban Puan": [
-        "374.207",
-        "407.531",
-        "392.960",
-        "391.170"
-      ],
-      "Şehir": "GİRESUN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106610437",
-      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
         "60"
       ],
       "Yerleşen": [
@@ -2487,141 +2405,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "24.258",
-        "22.483",
-        "25.171",
-        "27.971"
+        "16.370",
+        "22.269",
+        "21.368",
+        "23.813"
       ],
       "Taban Puan": [
-        "374.075",
-        "409.129",
-        "395.774",
-        "394.448"
+        "398.537",
+        "376.259",
+        "410.398",
+        "397.167"
       ],
-      "Şehir": "KIRIKKALE",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "109810426",
-      "Üniversite": "UŞAK ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "24.272",
-        "21.814",
-        "25.493",
-        "28.577"
-      ],
-      "Taban Puan": [
-        "374.059",
-        "409.882",
-        "395.456",
-        "393.866"
-      ],
-      "Şehir": "UŞAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100910037",
-      "Üniversite": "AMASYA ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "24.487",
-        "23.201",
-        "26.103",
-        "28.990"
-      ],
-      "Taban Puan": [
-        "373.869",
-        "408.308",
-        "394.837",
-        "393.441"
-      ],
-      "Şehir": "AMASYA",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107090276",
-      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
-      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "30",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "24.500",
-        "25.127",
-        "28.144",
-        "30.649"
-      ],
-      "Taban Puan": [
-        "373.856",
-        "406.286",
-        "392.843",
-        "391.908"
-      ],
-      "Şehir": "KONYA",
+      "Şehir": "EDİRNE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2651,18 +2446,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "16.485",
         "24.742",
         "23.272",
-        "25.453",
-        "27.654"
+        "25.453"
       ],
       "Taban Puan": [
+        "398.394",
         "373.592",
         "408.226",
-        "395.489",
-        "394.764"
+        "395.489"
       ],
       "Şehir": "NİĞDE",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109810426",
+      "Üniversite": "UŞAK ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "16.855",
+        "24.272",
+        "21.814",
+        "25.493"
+      ],
+      "Taban Puan": [
+        "397.787",
+        "374.059",
+        "409.882",
+        "395.456"
+      ],
+      "Şehir": "UŞAK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106610437",
+      "Üniversite": "KIRIKKALE ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "30",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "16.880",
+        "24.258",
+        "22.483",
+        "25.171"
+      ],
+      "Taban Puan": [
+        "397.750",
+        "374.075",
+        "409.129",
+        "395.774"
+      ],
+      "Şehir": "KIRIKKALE",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2692,18 +2569,100 @@
         ""
       ],
       "Taban Sıralama": [
+        "17.078",
         "25.126",
         "23.470",
-        "26.213",
-        "29.680"
+        "26.213"
       ],
       "Taban Puan": [
+        "397.473",
         "373.170",
         "408.012",
-        "394.739",
-        "392.799"
+        "394.739"
       ],
       "Şehir": "BURDUR",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "104510029",
+      "Üniversite": "GİRESUN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "17.145",
+        "24.140",
+        "23.884",
+        "28.031"
+      ],
+      "Taban Puan": [
+        "397.352",
+        "374.207",
+        "407.531",
+        "392.960"
+      ],
+      "Şehir": "GİRESUN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100910037",
+      "Üniversite": "AMASYA ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "17.323",
+        "24.487",
+        "23.201",
+        "26.103"
+      ],
+      "Taban Puan": [
+        "397.131",
+        "373.869",
+        "408.308",
+        "394.837"
+      ],
+      "Şehir": "AMASYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2733,59 +2692,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "17.602",
         "25.445",
         "24.872",
-        "28.354",
-        "31.899"
+        "28.354"
       ],
       "Taban Puan": [
+        "396.696",
         "372.795",
         "406.553",
-        "392.619",
-        "390.747"
+        "392.619"
       ],
       "Şehir": "SİNOP",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "107810017",
-      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "40",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "25.804",
-        "25.928",
-        "26.158",
-        "27.112"
-      ],
-      "Taban Puan": [
-        "372.413",
-        "405.520",
-        "394.785",
-        "395.303"
-      ],
-      "Şehir": "MUŞ",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2815,23 +2733,23 @@
         ""
       ],
       "Taban Sıralama": [
+        "17.769",
         "25.806",
         "24.036",
-        "27.042",
-        "29.683"
+        "27.042"
       ],
       "Taban Puan": [
+        "396.468",
         "372.409",
         "407.404",
-        "393.909",
-        "392.797"
+        "393.909"
       ],
       "Şehir": "AKSARAY",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "103610288",
-      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Program Kodu": "106390045",
+      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
@@ -2844,7 +2762,7 @@
         "2023"
       ],
       "Kontenjan": [
-        "40",
+        "30",
         "42",
         "50",
         "60"
@@ -2856,24 +2774,24 @@
         ""
       ],
       "Taban Sıralama": [
-        "26.171",
-        "25.330",
-        "27.170",
-        "30.312"
+        "17.809",
+        "27.842",
+        "25.716",
+        "28.660"
       ],
       "Taban Puan": [
-        "372.071",
-        "406.084",
-        "393.795",
-        "392.215"
+        "396.410",
+        "370.492",
+        "405.720",
+        "392.289"
       ],
-      "Şehir": "ERZİNCAN",
+      "Şehir": "KARAMAN",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106810126",
-      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
-      "Fakülte": "KİLİSLİ MUALLİM RIFAT EĞİTİM FAKÜLTESİ",
+      "Program Kodu": "107090276",
+      "Üniversite": "NECMETTİN ERBAKAN ÜNİVERSİTESİ (KONYA)",
+      "Fakülte": "EREĞLİ EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -2885,10 +2803,10 @@
         "2023"
       ],
       "Kontenjan": [
-        "42",
-        "42",
+        "30",
+        "30",
         "50",
-        "70"
+        "60"
       ],
       "Yerleşen": [
         "",
@@ -2897,18 +2815,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "26.615",
-        "26.847",
-        "28.262",
-        "30.967"
+        "18.021",
+        "24.500",
+        "25.127",
+        "28.144"
       ],
       "Taban Puan": [
-        "371.638",
-        "404.576",
-        "392.729",
-        "391.607"
+        "396.131",
+        "373.856",
+        "406.286",
+        "392.843"
       ],
-      "Şehir": "KİLİS",
+      "Şehir": "KONYA",
       "Ücret": "Ücretsiz"
     },
     {
@@ -2938,15 +2856,15 @@
         ""
       ],
       "Taban Sıralama": [
+        "18.042",
         "26.784",
         "26.461",
-        "",
         ""
       ],
       "Taban Puan": [
+        "396.100",
         "371.473",
         "404.945",
-        "",
         ""
       ],
       "Şehir": "BARTIN",
@@ -2979,59 +2897,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "18.492",
         "26.838",
         "25.001",
-        "28.226",
-        "30.721"
+        "28.226"
       ],
       "Taban Puan": [
+        "395.492",
         "371.436",
         "406.424",
-        "392.756",
-        "391.830"
+        "392.756"
       ],
       "Şehir": "ZONGULDAK",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "100510086",
-      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "42",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "27.027",
-        "26.846",
-        "26.785",
-        "29.232"
-      ],
-      "Taban Puan": [
-        "371.257",
-        "404.576",
-        "394.175",
-        "393.237"
-      ],
-      "Şehir": "AĞRI",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3061,24 +2938,106 @@
         ""
       ],
       "Taban Sıralama": [
+        "18.522",
         "27.317",
         "25.517",
-        "28.160",
-        "30.571"
+        "28.160"
       ],
       "Taban Puan": [
+        "395.455",
         "370.968",
         "405.902",
-        "392.824",
-        "391.978"
+        "392.824"
       ],
       "Şehir": "KIRŞEHİR",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "106410033",
-      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Program Kodu": "107810017",
+      "Üniversite": "MUŞ ALPARSLAN ÜNİVERSİTESİ",
       "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "18.752",
+        "25.804",
+        "25.928",
+        "26.158"
+      ],
+      "Taban Puan": [
+        "395.151",
+        "372.413",
+        "405.520",
+        "394.785"
+      ],
+      "Şehir": "MUŞ",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "103610288",
+      "Üniversite": "ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "40",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.138",
+        "26.171",
+        "25.330",
+        "27.170"
+      ],
+      "Taban Puan": [
+        "394.568",
+        "372.071",
+        "406.084",
+        "393.795"
+      ],
+      "Şehir": "ERZİNCAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106810126",
+      "Üniversite": "KİLİS 7 ARALIK ÜNİVERSİTESİ",
+      "Fakülte": "KİLİSLİ MUALLİM RIFAT EĞİTİM FAKÜLTESİ",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Okul Öncesi Öğretmenliği",
       "Öğretim Türü": "Örgün Öğretim",
@@ -3102,59 +3061,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "27.706",
-        "26.396",
-        "29.556",
-        "32.213"
+        "19.188",
+        "26.615",
+        "26.847",
+        "28.262"
       ],
       "Taban Puan": [
-        "370.626",
-        "404.998",
-        "391.454",
-        "390.466"
+        "394.499",
+        "371.638",
+        "404.576",
+        "392.729"
       ],
-      "Şehir": "KASTAMONU",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106390045",
-      "Üniversite": "KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ (KARAMAN)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Okul Öncesi Öğretmenliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "42",
-        "50",
-        "60"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "27.842",
-        "25.716",
-        "28.660",
-        "31.268"
-      ],
-      "Taban Puan": [
-        "370.492",
-        "405.720",
-        "392.289",
-        "391.323"
-      ],
-      "Şehir": "KARAMAN",
+      "Şehir": "KİLİS",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3184,18 +3102,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "19.211",
         "27.950",
         "25.522",
-        "28.664",
-        "31.534"
+        "28.664"
       ],
       "Taban Puan": [
+        "394.455",
         "370.372",
         "405.900",
-        "392.285",
-        "391.081"
+        "392.285"
       ],
       "Şehir": "TOKAT",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "106410033",
+      "Üniversite": "KASTAMONU ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "70"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "19.449",
+        "27.706",
+        "26.396",
+        "29.556"
+      ],
+      "Taban Puan": [
+        "394.114",
+        "370.626",
+        "404.998",
+        "391.454"
+      ],
+      "Şehir": "KASTAMONU",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3225,18 +3184,59 @@
         ""
       ],
       "Taban Sıralama": [
+        "20.181",
         "28.653",
         "27.077",
-        "30.307",
-        "32.446"
+        "30.307"
       ],
       "Taban Puan": [
+        "393.086",
         "369.707",
         "404.341",
-        "390.784",
-        "390.273"
+        "390.784"
       ],
       "Şehir": "ARTVİN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "100510086",
+      "Üniversite": "AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Okul Öncesi Öğretmenliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "42",
+        "42",
+        "50",
+        "60"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "20.287",
+        "27.027",
+        "26.846",
+        "26.785"
+      ],
+      "Taban Puan": [
+        "392.956",
+        "371.257",
+        "404.576",
+        "394.175"
+      ],
+      "Şehir": "AĞRI",
       "Ücret": "Ücretsiz"
     },
     {
@@ -3266,16 +3266,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "20.681",
         "29.406",
         "27.128",
-        "30.525",
-        "32.530"
+        "30.525"
       ],
       "Taban Puan": [
+        "392.468",
         "369.039",
         "404.296",
-        "390.615",
-        "390.200"
+        "390.615"
       ],
       "Şehir": "YOZGAT",
       "Ücret": "Ücretsiz"
@@ -3307,16 +3307,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "20.693",
         "29.414",
         "27.922",
-        "30.021",
-        "32.110"
+        "30.021"
       ],
       "Taban Puan": [
+        "392.457",
         "369.035",
         "403.560",
-        "391.027",
-        "390.561"
+        "391.027"
       ],
       "Şehir": "KARS",
       "Ücret": "Ücretsiz"
@@ -3348,16 +3348,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "21.410",
         "30.191",
         "28.186",
-        "30.934",
-        "33.221"
+        "30.934"
       ],
       "Taban Puan": [
+        "391.623",
         "368.367",
         "403.313",
-        "390.256",
-        "389.619"
+        "390.256"
       ],
       "Şehir": "BAYBURT",
       "Ücret": "Ücretsiz"
@@ -3389,16 +3389,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "31.757",
         "31.527",
         "31.797",
-        "35.575",
-        "37.044"
+        "35.575"
       ],
       "Taban Puan": [
+        "380.691",
         "367.138",
         "400.118",
-        "386.354",
-        "386.541"
+        "386.354"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -3430,16 +3430,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "35.391",
         "38.293",
         "34.805",
-        "37.731",
-        "38.108"
+        "37.731"
       ],
       "Taban Puan": [
+        "377.500",
         "361.879",
         "397.605",
-        "384.735",
-        "385.691"
+        "384.735"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -3471,16 +3471,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "45.072",
         "51.930",
         "47.674",
-        "49.834",
-        "47.338"
+        "49.834"
       ],
       "Taban Puan": [
+        "370.117",
         "353.223",
         "388.562",
-        "376.549",
-        "379.153"
+        "376.549"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
@@ -3512,142 +3512,19 @@
         ""
       ],
       "Taban Sıralama": [
+        "58.148",
         "59.703",
         "85.730",
-        "43.493",
-        "45.121"
+        "43.493"
       ],
       "Taban Puan": [
+        "361.940",
         "349.050",
         "369.100",
-        "380.612",
-        "380.628"
+        "380.612"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
-    },
-    {
-      "Program Kodu": "203090140",
-      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "10",
-        "1",
-        "4",
-        "5"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "113.855",
-        "",
-        "",
-        "165.529"
-      ],
-      "Taban Puan": [
-        "328.510",
-        "",
-        "",
-        "334.188"
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
-    },
-    {
-      "Program Kodu": "206710374",
-      "Üniversite": "TED ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "38",
-        "38",
-        "40",
-        "41"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "138.916",
-        "243.255",
-        "",
-        "130.276"
-      ],
-      "Taban Puan": [
-        "321.553",
-        "325.127",
-        "",
-        "343.781"
-      ],
-      "Şehir": "ANKARA",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203210194",
-      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "44",
-        "40",
-        "38",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "150.012",
-        "185.075",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "318.810",
-        "337.961",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "301310083",
@@ -3676,19 +3553,60 @@
         ""
       ],
       "Taban Sıralama": [
+        "65.974",
         "154.480",
         "63.834",
-        "57.404",
-        "45.481"
+        "57.404"
       ],
       "Taban Puan": [
+        "357.759",
         "317.763",
         "379.388",
-        "372.137",
-        "380.401"
+        "372.137"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "201610803",
+      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "135.904",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "331.346",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "GAZİANTEP",
+      "Ücret": "%50 İndirimli"
     },
     {
       "Program Kodu": "202210334",
@@ -3717,16 +3635,221 @@
         ""
       ],
       "Taban Sıralama": [
+        "140.453",
         "223.831",
         "66.431",
-        "95.028",
-        "51.145"
+        "95.028"
       ],
       "Taban Puan": [
+        "330.013",
         "303.687",
         "378.045",
-        "355.323",
-        "376.733"
+        "355.323"
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203100794",
+      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "37",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "168.042",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "322.620",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
+    },
+    {
+      "Program Kodu": "203210194",
+      "Üniversite": "İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "44",
+        "40",
+        "38",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "203.876",
+        "150.012",
+        "185.075",
+        ""
+      ],
+      "Taban Puan": [
+        "314.100",
+        "318.810",
+        "337.961",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "300210624",
+      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "31",
+        "31",
+        "13",
+        "16"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "208.124",
+        "",
+        "73.409",
+        "83.741"
+      ],
+      "Taban Puan": [
+        "313.180",
+        "",
+        "374.599",
+        "359.756"
+      ],
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "206710374",
+      "Üniversite": "TED ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "38",
+        "38",
+        "40",
+        "41"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "213.377",
+        "138.916",
+        "243.255",
+        ""
+      ],
+      "Taban Puan": [
+        "312.042",
+        "321.553",
+        "325.127",
+        ""
+      ],
+      "Şehir": "ANKARA",
+      "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "206190631",
+      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (İngilizce) (%50 İndirimli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "5",
+        "18",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "264.325",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "301.903",
+        "",
+        "",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3759,15 +3882,15 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "258.986",
-        "147.788",
-        "62.208"
+        "147.788"
       ],
       "Taban Puan": [
         "",
+        "",
         "322.083",
-        "338.615",
-        "370.398"
+        "338.615"
       ],
       "Şehir": "ANKARA",
       "Ücret": "%50 İndirimli"
@@ -3800,15 +3923,15 @@
       ],
       "Taban Sıralama": [
         "",
-        "232.560",
         "",
-        "105.814"
+        "232.560",
+        ""
       ],
       "Taban Puan": [
         "",
-        "327.286",
         "",
-        "351.747"
+        "327.286",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -3841,58 +3964,17 @@
       ],
       "Taban Sıralama": [
         "",
+        "",
         "201.671",
-        "236.787",
-        "93.857"
+        "236.787"
       ],
       "Taban Puan": [
+        "",
         "",
         "334.044",
-        "318.496",
-        "356.132"
+        "318.496"
       ],
       "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "201610803",
-      "Üniversite": "HASAN KALYONCU ÜNİVERSİTESİ (GAZİANTEP)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "GAZİANTEP",
       "Ücret": "%50 İndirimli"
     },
     {
@@ -3923,18 +4005,59 @@
       ],
       "Taban Sıralama": [
         "",
-        "144.518",
         "",
-        "56.524"
+        "144.518",
+        ""
       ],
       "Taban Puan": [
         "",
-        "348.664",
         "",
-        "373.557"
+        "348.664",
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
+    },
+    {
+      "Program Kodu": "203090140",
+      "Üniversite": "İSTANBUL KÜLTÜR ÜNİVERSİTESİ",
+      "Fakülte": "EĞİTİM FAKÜLTESİ",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Okul Öncesi Öğretmenliği (Ücretli)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SÖZ",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "10",
+        "1",
+        "4",
+        "5"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "",
+        "113.855",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "",
+        "328.510",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "203011088",
@@ -3965,58 +4088,17 @@
       "Taban Sıralama": [
         "",
         "",
-        "165.790",
-        "125.563"
+        "",
+        "165.790"
       ],
       "Taban Puan": [
         "",
         "",
-        "333.926",
-        "345.223"
+        "",
+        "333.926"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "203100794",
-      "Üniversite": "İSTANBUL MEDİPOL ÜNİVERSİTESİ",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Ücretli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "37",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Ücretli"
     },
     {
       "Program Kodu": "204712252",
@@ -4048,13 +4130,13 @@
         "",
         "",
         "",
-        "191.366"
+        ""
       ],
       "Taban Puan": [
         "",
         "",
         "",
-        "328.125"
+        ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "%50 İndirimli"
@@ -4087,55 +4169,14 @@
       ],
       "Taban Sıralama": [
         "",
-        "168.347",
         "",
+        "168.347",
         ""
       ],
       "Taban Puan": [
+        "",
         "",
         "342.133",
-        "",
-        ""
-      ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "206190631",
-      "Üniversite": "YEDİTEPE ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (İngilizce) (%50 İndirimli)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "5",
-        "18",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
         ""
       ],
       "Şehir": "İSTANBUL",
@@ -4170,14 +4211,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "128.940",
-        "89.242"
+        "",
+        "128.940"
       ],
       "Taban Puan": [
         "",
         "",
-        "344.006",
-        "357.925"
+        "",
+        "344.006"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -4211,58 +4252,17 @@
       "Taban Sıralama": [
         "",
         "",
-        "139.056",
-        "120.689"
+        "",
+        "139.056"
       ],
       "Taban Puan": [
         "",
         "",
-        "341.068",
-        "346.748"
+        "",
+        "341.068"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "300210624",
-      "Üniversite": "GİRNE AMERİKAN ÜNİVERSİTESİ (KKTC-GİRNE)",
-      "Fakülte": "EĞİTİM FAKÜLTESİ",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Okul Öncesi Öğretmenliği (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SÖZ",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "31",
-        "31",
-        "13",
-        "16"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "73.409",
-        "83.741",
-        "51.196"
-      ],
-      "Taban Puan": [
-        "",
-        "374.599",
-        "359.756",
-        "376.701"
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "300210633",
@@ -4293,14 +4293,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "173.618",
-        "178.888"
+        "",
+        "173.618"
       ],
       "Taban Puan": [
         "",
         "",
-        "332.001",
-        "330.968"
+        "",
+        "332.001"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -4334,14 +4334,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "78.271",
-        "87.079"
+        "",
+        "78.271"
       ],
       "Taban Puan": [
         "",
         "",
-        "362.061",
-        "358.772"
+        "",
+        "362.061"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -4375,14 +4375,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "209.511",
-        "181.241"
+        "",
+        "209.511"
       ],
       "Taban Puan": [
         "",
         "",
-        "323.962",
-        "330.421"
+        "",
+        "323.962"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "Ücretli"
@@ -4416,14 +4416,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "188.600",
-        "203.737"
+        "",
+        "188.600"
       ],
       "Taban Puan": [
         "",
         "",
-        "328.485",
-        "325.468"
+        "",
+        "328.485"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -4457,14 +4457,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "160.327",
-        "162.729"
+        "",
+        "160.327"
       ],
       "Taban Puan": [
         "",
         "",
-        "335.281",
-        "334.879"
+        "",
+        "335.281"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
@@ -4498,14 +4498,14 @@
       "Taban Sıralama": [
         "",
         "",
-        "240.142",
-        "147.438"
+        "",
+        "240.142"
       ],
       "Taban Puan": [
         "",
         "",
-        "317.863",
-        "338.939"
+        "",
+        "317.863"
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"

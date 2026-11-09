@@ -1,6 +1,47 @@
 {
   "yks": [
     {
+      "Program Kodu": "201400101",
+      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
+      "Fakülte": "MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Vakıf",
+      "Program Adı": "Eser Koruma (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "3",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "595.413",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "324.932",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "İSTANBUL",
+      "Ücret": "Burslu"
+    },
+    {
       "Program Kodu": "103451357",
       "Üniversite": "EGE ÜNİVERSİTESİ (İZMİR)",
       "Fakülte": "BERGAMA MESLEK YÜKSEKOKULU",
@@ -27,100 +68,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.247.946",
         "1.334.248",
         "1.534.802",
-        "1.585.285",
-        "1.558.714"
+        "1.585.285"
       ],
       "Taban Puan": [
+        "267.898",
         "264.243",
         "256.868",
-        "251.710",
-        "247.514"
+        "251.710"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "101790112",
-      "Üniversite": "BATMAN ÜNİVERSİTESİ",
-      "Fakülte": "SASON MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Eser Koruma",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        "30"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.703.217",
-        "1.864.084",
-        "1.918.618",
-        "2.089.913"
-      ],
-      "Taban Puan": [
-        "239.076",
-        "238.078",
-        "233.141",
-        "222.845"
-      ],
-      "Şehir": "BATMAN",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "106190194",
-      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
-      "Fakülte": "ESKİPAZAR MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Eser Koruma",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "TYT",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "35",
-        "30",
-        "30",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "1.710.967",
-        "2.068.402",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "238.543",
-        "226.943",
-        "",
-        ""
-      ],
-      "Şehir": "KARABÜK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -150,16 +109,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.509.152",
         "1.713.961",
         "1.926.334",
-        "2.072.294",
-        "2.086.225"
+        "2.072.294"
       ],
       "Taban Puan": [
+        "249.292",
         "238.339",
         "234.639",
-        "225.141",
-        "222.994"
+        "225.141"
       ],
       "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
@@ -191,24 +150,24 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.530.838",
         "1.724.341",
         "1.953.007",
-        "2.063.296",
-        "2.404.504"
+        "2.063.296"
       ],
       "Taban Puan": [
+        "247.777",
         "237.634",
         "233.189",
-        "225.601",
-        "210.167"
+        "225.601"
       ],
       "Şehir": "KÜTAHYA",
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "102190049",
-      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
-      "Fakülte": "AHLAT MESLEK YÜKSEKOKULU",
+      "Program Kodu": "101790112",
+      "Üniversite": "BATMAN ÜNİVERSİTESİ",
+      "Fakülte": "SASON MESLEK YÜKSEKOKULU",
       "Üniversite Türü": "Devlet",
       "Program Adı": "Eser Koruma",
       "Öğretim Türü": "Örgün Öğretim",
@@ -232,18 +191,18 @@
         ""
       ],
       "Taban Sıralama": [
-        "1.784.218",
-        "1.988.752",
-        "2.109.822",
-        "2.359.458"
+        "1.579.369",
+        "1.703.217",
+        "1.864.084",
+        "1.918.618"
       ],
       "Taban Puan": [
-        "233.521",
-        "231.247",
-        "223.242",
-        "211.988"
+        "244.379",
+        "239.076",
+        "238.078",
+        "233.141"
       ],
-      "Şehir": "BİTLİS",
+      "Şehir": "BATMAN",
       "Ücret": "Ücretsiz"
     },
     {
@@ -273,14 +232,14 @@
         ""
       ],
       "Taban Sıralama": [
+        "1.604.479",
         "1.859.737",
-        "",
         "",
         ""
       ],
       "Taban Puan": [
+        "242.616",
         "228.253",
-        "",
         "",
         ""
       ],
@@ -288,11 +247,11 @@
       "Ücret": "Ücretsiz"
     },
     {
-      "Program Kodu": "201400101",
-      "Üniversite": "FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ (İSTANBUL)",
-      "Fakülte": "MESLEK YÜKSEKOKULU",
-      "Üniversite Türü": "Vakıf",
-      "Program Adı": "Eser Koruma (Burslu)",
+      "Program Kodu": "106190194",
+      "Üniversite": "KARABÜK ÜNİVERSİTESİ",
+      "Fakülte": "ESKİPAZAR MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Eser Koruma",
       "Öğretim Türü": "Örgün Öğretim",
       "Puan Türü": "TYT",
       "Yıl": [
@@ -302,9 +261,9 @@
         "2023"
       ],
       "Kontenjan": [
-        "3",
-        "",
-        "",
+        "35",
+        "30",
+        "30",
         ""
       ],
       "Yerleşen": [
@@ -314,19 +273,60 @@
         ""
       ],
       "Taban Sıralama": [
-        "",
-        "",
-        "",
+        "1.644.031",
+        "1.710.967",
+        "2.068.402",
         ""
       ],
       "Taban Puan": [
+        "239.865",
+        "238.543",
+        "226.943",
+        ""
+      ],
+      "Şehir": "KARABÜK",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "102190049",
+      "Üniversite": "BİTLİS EREN ÜNİVERSİTESİ",
+      "Fakülte": "AHLAT MESLEK YÜKSEKOKULU",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Eser Koruma",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "TYT",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "35",
+        "30",
+        "30",
+        "30"
+      ],
+      "Yerleşen": [
         "",
         "",
         "",
         ""
       ],
-      "Şehir": "İSTANBUL",
-      "Ücret": "Burslu"
+      "Taban Sıralama": [
+        "1.651.730",
+        "1.784.218",
+        "1.988.752",
+        "2.109.822"
+      ],
+      "Taban Puan": [
+        "239.328",
+        "233.521",
+        "231.247",
+        "223.242"
+      ],
+      "Şehir": "BİTLİS",
+      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "201400108",

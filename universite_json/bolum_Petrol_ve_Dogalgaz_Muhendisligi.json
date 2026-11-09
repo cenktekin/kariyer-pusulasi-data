@@ -27,16 +27,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "18.987",
         "18.481",
         "28.565",
-        "40.577",
-        "51.958"
+        "40.577"
       ],
       "Taban Puan": [
+        "500.930",
         "486.057",
         "464.685",
-        "469.981",
-        "455.300"
+        "469.981"
       ],
       "Şehir": "ANKARA",
       "Ücret": "Ücretsiz"
@@ -68,16 +68,16 @@
         ""
       ],
       "Taban Sıralama": [
+        "29.296",
         "31.771",
         "42.146",
-        "57.169",
-        "76.573"
+        "57.169"
       ],
       "Taban Puan": [
+        "487.823",
         "466.870",
         "445.202",
-        "451.077",
-        "428.214"
+        "451.077"
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
@@ -109,59 +109,18 @@
         ""
       ],
       "Taban Sıralama": [
+        "147.596",
         "155.949",
         "185.311",
-        "194.902",
-        "244.427"
+        "194.902"
       ],
       "Taban Puan": [
+        "376.674",
         "359.987",
         "330.168",
-        "347.028",
-        "317.617"
+        "347.028"
       ],
       "Şehir": "İZMİR",
-      "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "110710061",
-      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
-      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Petrol ve Doğalgaz Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "15",
-        "15",
-        "15",
-        "20"
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "267.369",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "312.165",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "HATAY",
       "Ücret": "Ücretsiz"
     },
     {
@@ -191,18 +150,141 @@
         ""
       ],
       "Taban Sıralama": [
+        "221.710",
         "299.458",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "334.723",
+        "302.579",
+        "",
+        ""
+      ],
+      "Şehir": "BATMAN",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "108410654",
+      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
+      "Fakülte": "ODTÜ KUZEY KIBRIS KAMPUSU (KKTC-GÜZELYURT)",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Petrol ve Doğalgaz Mühendisliği (İngilizce) (Burslu)",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "30",
+        "",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "229.819",
         "",
         "",
         ""
       ],
       "Taban Puan": [
-        "302.579",
+        "331.086",
         "",
         "",
         ""
       ],
-      "Şehir": "BATMAN",
+      "Şehir": "KIBRIS",
+      "Ücret": "Burslu"
+    },
+    {
+      "Program Kodu": "110710061",
+      "Üniversite": "İSKENDERUN TEKNİK ÜNİVERSİTESİ (HATAY)",
+      "Fakülte": "MÜHENDİSLİK VE DOĞA BİLİMLERİ FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Petrol ve Doğalgaz Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "15",
+        "15",
+        "15",
+        "20"
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "244.273",
+        "267.369",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "324.878",
+        "312.165",
+        "",
+        ""
+      ],
+      "Şehir": "HATAY",
+      "Ücret": "Ücretsiz"
+    },
+    {
+      "Program Kodu": "109370223",
+      "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
+      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
+      "Üniversite Türü": "Devlet",
+      "Program Adı": "Petrol ve Doğalgaz Mühendisliği",
+      "Öğretim Türü": "Örgün Öğretim",
+      "Puan Türü": "SAY",
+      "Yıl": [
+        "2026",
+        "2025",
+        "2024",
+        "2023"
+      ],
+      "Kontenjan": [
+        "21",
+        "21",
+        "",
+        ""
+      ],
+      "Yerleşen": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "Taban Sıralama": [
+        "285.988",
+        "",
+        "",
+        ""
+      ],
+      "Taban Puan": [
+        "308.620",
+        "",
+        "",
+        ""
+      ],
+      "Şehir": "ŞIRNAK",
       "Ücret": "Ücretsiz"
     },
     {
@@ -274,59 +356,18 @@
       ],
       "Taban Sıralama": [
         "",
-        "255.530",
         "",
+        "255.530",
         ""
       ],
       "Taban Puan": [
         "",
-        "302.949",
         "",
+        "302.949",
         ""
       ],
       "Şehir": "İSTANBUL",
       "Ücret": "Ücretsiz"
-    },
-    {
-      "Program Kodu": "108410654",
-      "Üniversite": "ORTA DOĞU TEKNİK ÜNİVERSİTESİ (ANKARA)",
-      "Fakülte": "ODTÜ KUZEY KIBRIS KAMPUSU (KKTC-GÜZELYURT)",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Petrol ve Doğalgaz Mühendisliği (İngilizce) (Burslu)",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "30",
-        "",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "KIBRIS",
-      "Ücret": "Burslu"
     },
     {
       "Program Kodu": "108470059",
@@ -368,47 +409,6 @@
       ],
       "Şehir": "KIBRIS",
       "Ücret": "%50 İndirimli"
-    },
-    {
-      "Program Kodu": "109370223",
-      "Üniversite": "ŞIRNAK ÜNİVERSİTESİ",
-      "Fakülte": "MÜHENDİSLİK FAKÜLTESİ",
-      "Üniversite Türü": "Devlet",
-      "Program Adı": "Petrol ve Doğalgaz Mühendisliği",
-      "Öğretim Türü": "Örgün Öğretim",
-      "Puan Türü": "SAY",
-      "Yıl": [
-        "2026",
-        "2025",
-        "2024",
-        "2023"
-      ],
-      "Kontenjan": [
-        "21",
-        "21",
-        "",
-        ""
-      ],
-      "Yerleşen": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Sıralama": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Taban Puan": [
-        "",
-        "",
-        "",
-        ""
-      ],
-      "Şehir": "ŞIRNAK",
-      "Ücret": "Ücretsiz"
     },
     {
       "Program Kodu": "300490481",
